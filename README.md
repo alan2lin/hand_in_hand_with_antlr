@@ -1,10101 +1,1410 @@
-<html xmlns:v="urn:schemas-microsoft-com:vml"
-xmlns:o="urn:schemas-microsoft-com:office:office"
-xmlns:w="urn:schemas-microsoft-com:office:word"
-xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
-xmlns="http://www.w3.org/TR/REC-html40">
-
-<head>
-<meta http-equiv=Content-Type content="text/html; charset=gb2312">
-<meta name=ProgId content=Word.Document>
-<meta name=Generator content="Microsoft Word 12">
-<meta name=Originator content="Microsoft Word 12">
-<link rel=File-List href="hand%20in%20hand%20with%20antlr.files/filelist.xml">
-<link rel=Edit-Time-Data
-href="hand%20in%20hand%20with%20antlr.files/editdata.mso">
-<link rel=OLE-Object-Data
-href="hand%20in%20hand%20with%20antlr.files/oledata.mso">
-<!--[if !mso]>
-<style>
-v\:* {behavior:url(#default#VML);}
-o\:* {behavior:url(#default#VML);}
-w\:* {behavior:url(#default#VML);}
-.shape {behavior:url(#default#VML);}
-</style>
-<![endif]--><!--[if gte mso 9]><xml>
- <o:DocumentProperties>
-  <o:Author>workstation</o:Author>
-  <o:LastAuthor>workstation</o:LastAuthor>
-  <o:Revision>2</o:Revision>
-  <o:TotalTime>13376</o:TotalTime>
-  <o:Created>2013-07-17T16:48:00Z</o:Created>
-  <o:LastSaved>2013-07-17T16:48:00Z</o:LastSaved>
-  <o:Pages>52</o:Pages>
-  <o:Words>4041</o:Words>
-  <o:Characters>23040</o:Characters>
-  <o:Lines>192</o:Lines>
-  <o:Paragraphs>54</o:Paragraphs>
-  <o:CharactersWithSpaces>27027</o:CharactersWithSpaces>
-  <o:Version>12.00</o:Version>
- </o:DocumentProperties>
- <o:OfficeDocumentSettings>
-  <o:RelyOnVML/>
-  <o:AllowPNG/>
- </o:OfficeDocumentSettings>
-</xml><![endif]-->
-<link rel=dataStoreItem
-href="hand%20in%20hand%20with%20antlr.files/item0001.xml"
-target="hand%20in%20hand%20with%20antlr.files/props0002.xml">
-<link rel=themeData href="hand%20in%20hand%20with%20antlr.files/themedata.thmx">
-<link rel=colorSchemeMapping
-href="hand%20in%20hand%20with%20antlr.files/colorschememapping.xml">
-<!--[if gte mso 9]><xml>
- <w:WordDocument>
-  <w:SpellingState>Clean</w:SpellingState>
-  <w:TrackMoves>false</w:TrackMoves>
-  <w:TrackFormatting/>
-  <w:PunctuationKerning/>
-  <w:DrawingGridVerticalSpacing>7.8 °õ</w:DrawingGridVerticalSpacing>
-  <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery>
-  <w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery>
-  <w:ValidateAgainstSchemas/>
-  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
-  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
-  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
-  <w:DoNotPromoteQF/>
-  <w:LidThemeOther>EN-US</w:LidThemeOther>
-  <w:LidThemeAsian>ZH-CN</w:LidThemeAsian>
-  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
-  <w:Compatibility>
-   <w:SpaceForUL/>
-   <w:BalanceSingleByteDoubleByteWidth/>
-   <w:DoNotLeaveBackslashAlone/>
-   <w:ULTrailSpace/>
-   <w:DoNotExpandShiftReturn/>
-   <w:AdjustLineHeightInTable/>
-   <w:BreakWrappedTables/>
-   <w:SnapToGridInCell/>
-   <w:WrapTextWithPunct/>
-   <w:UseAsianBreakRules/>
-   <w:DontGrowAutofit/>
-   <w:SplitPgBreakAndParaMark/>
-   <w:DontVertAlignCellWithSp/>
-   <w:DontBreakConstrainedForcedTables/>
-   <w:DontVertAlignInTxbx/>
-   <w:Word11KerningPairs/>
-   <w:CachedColBalance/>
-   <w:UseFELayout/>
-  </w:Compatibility>
-  <m:mathPr>
-   <m:mathFont m:val="Cambria Math"/>
-   <m:brkBin m:val="before"/>
-   <m:brkBinSub m:val="&#45;-"/>
-   <m:smallFrac m:val="off"/>
-   <m:dispDef/>
-   <m:lMargin m:val="0"/>
-   <m:rMargin m:val="0"/>
-   <m:defJc m:val="centerGroup"/>
-   <m:wrapIndent m:val="1440"/>
-   <m:intLim m:val="subSup"/>
-   <m:naryLim m:val="undOvr"/>
-  </m:mathPr></w:WordDocument>
-</xml><![endif]--><!--[if gte mso 9]><xml>
- <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
-  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
-  LatentStyleCount="267">
-  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Normal"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/>
-  <w:LsdException Locked="false" Priority="39" Name="toc 1"/>
-  <w:LsdException Locked="false" Priority="39" Name="toc 2"/>
-  <w:LsdException Locked="false" Priority="39" Name="toc 3"/>
-  <w:LsdException Locked="false" Priority="39" Name="toc 4"/>
-  <w:LsdException Locked="false" Priority="39" Name="toc 5"/>
-  <w:LsdException Locked="false" Priority="39" Name="toc 6"/>
-  <w:LsdException Locked="false" Priority="39" Name="toc 7"/>
-  <w:LsdException Locked="false" Priority="39" Name="toc 8"/>
-  <w:LsdException Locked="false" Priority="39" Name="toc 9"/>
-  <w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/>
-  <w:LsdException Locked="false" Priority="10" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Title"/>
-  <w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/>
-  <w:LsdException Locked="false" Priority="11" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>
-  <w:LsdException Locked="false" Priority="22" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Strong"/>
-  <w:LsdException Locked="false" Priority="20" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/>
-  <w:LsdException Locked="false" Priority="59" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Table Grid"/>
-  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/>
-  <w:LsdException Locked="false" Priority="1" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/>
-  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Shading"/>
-  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light List"/>
-  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Grid"/>
-  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 1"/>
-  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 2"/>
-  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 1"/>
-  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 2"/>
-  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 1"/>
-  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 2"/>
-  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 3"/>
-  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Dark List"/>
-  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Shading"/>
-  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful List"/>
-  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Grid"/>
-  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Shading Accent 1"/>
-  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light List Accent 1"/>
-  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Grid Accent 1"/>
-  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>
-  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>
-  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/>
-  <w:LsdException Locked="false" Priority="34" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/>
-  <w:LsdException Locked="false" Priority="29" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Quote"/>
-  <w:LsdException Locked="false" Priority="30" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/>
-  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>
-  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>
-  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Dark List Accent 1"/>
-  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>
-  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful List Accent 1"/>
-  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>
-  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Shading Accent 2"/>
-  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light List Accent 2"/>
-  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Grid Accent 2"/>
-  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>
-  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>
-  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>
-  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>
-  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Dark List Accent 2"/>
-  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>
-  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful List Accent 2"/>
-  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>
-  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Shading Accent 3"/>
-  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light List Accent 3"/>
-  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Grid Accent 3"/>
-  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>
-  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>
-  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>
-  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>
-  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Dark List Accent 3"/>
-  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>
-  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful List Accent 3"/>
-  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>
-  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Shading Accent 4"/>
-  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light List Accent 4"/>
-  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Grid Accent 4"/>
-  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>
-  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>
-  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>
-  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>
-  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Dark List Accent 4"/>
-  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>
-  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful List Accent 4"/>
-  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>
-  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Shading Accent 5"/>
-  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light List Accent 5"/>
-  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Grid Accent 5"/>
-  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>
-  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>
-  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>
-  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>
-  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Dark List Accent 5"/>
-  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>
-  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful List Accent 5"/>
-  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>
-  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Shading Accent 6"/>
-  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light List Accent 6"/>
-  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Grid Accent 6"/>
-  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>
-  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/>
-  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/>
-  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/>
-  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Dark List Accent 6"/>
-  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/>
-  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful List Accent 6"/>
-  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>
-  <w:LsdException Locked="false" Priority="19" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>
-  <w:LsdException Locked="false" Priority="21" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>
-  <w:LsdException Locked="false" Priority="31" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>
-  <w:LsdException Locked="false" Priority="32" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>
-  <w:LsdException Locked="false" Priority="33" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>
-  <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
-  <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
- </w:LatentStyles>
-</xml><![endif]-->
-<style>
-<!--
- /* Font Definitions */
- @font-face
-	{font-family:Wingdings;
-	panose-1:5 0 0 0 0 0 0 0 0 0;
-	mso-font-charset:2;
-	mso-generic-font-family:auto;
-	mso-font-pitch:variable;
-	mso-font-signature:0 268435456 0 0 -2147483648 0;}
-@font-face
-	{font-family:ËÎÌå;
-	panose-1:2 1 6 0 3 1 1 1 1 1;
-	mso-font-alt:SimSun;
-	mso-font-charset:134;
-	mso-generic-font-family:auto;
-	mso-font-pitch:variable;
-	mso-font-signature:3 680460288 22 0 262145 0;}
-@font-face
-	{font-family:"Cambria Math";
-	panose-1:2 4 5 3 5 4 6 3 2 4;
-	mso-font-charset:1;
-	mso-generic-font-family:roman;
-	mso-font-format:other;
-	mso-font-pitch:variable;
-	mso-font-signature:0 0 0 0 0 0;}
-@font-face
-	{font-family:Cambria;
-	panose-1:2 4 5 3 5 4 6 3 2 4;
-	mso-font-charset:0;
-	mso-generic-font-family:roman;
-	mso-font-pitch:variable;
-	mso-font-signature:-536870145 1073743103 0 0 415 0;}
-@font-face
-	{font-family:Calibri;
-	panose-1:2 15 5 2 2 2 4 3 2 4;
-	mso-font-charset:0;
-	mso-generic-font-family:swiss;
-	mso-font-pitch:variable;
-	mso-font-signature:-536870145 1073786111 1 0 415 0;}
-@font-face
-	{font-family:Î¢ÈíÑÅºÚ;
-	panose-1:2 11 5 3 2 2 4 2 2 4;
-	mso-font-charset:134;
-	mso-generic-font-family:swiss;
-	mso-font-pitch:variable;
-	mso-font-signature:-2147483001 672087122 22 0 262175 0;}
-@font-face
-	{font-family:"\@ËÎÌå";
-	panose-1:2 1 6 0 3 1 1 1 1 1;
-	mso-font-charset:134;
-	mso-generic-font-family:auto;
-	mso-font-pitch:variable;
-	mso-font-signature:3 680460288 22 0 262145 0;}
-@font-face
-	{font-family:"\@Î¢ÈíÑÅºÚ";
-	panose-1:2 11 5 3 2 2 4 2 2 4;
-	mso-font-charset:134;
-	mso-generic-font-family:swiss;
-	mso-font-pitch:variable;
-	mso-font-signature:-2147483001 672087122 22 0 262175 0;}
- /* Style Definitions */
- p.MsoNormal, li.MsoNormal, div.MsoNormal
-	{mso-style-unhide:no;
-	mso-style-qformat:yes;
-	mso-style-parent:"";
-	margin-top:0cm;
-	margin-right:0cm;
-	margin-bottom:10.0pt;
-	margin-left:0cm;
-	line-height:115%;
-	mso-pagination:widow-orphan;
-	font-size:12.0pt;
-	mso-bidi-font-size:11.0pt;
-	font-family:"Calibri","sans-serif";
-	mso-ascii-font-family:Calibri;
-	mso-ascii-theme-font:minor-latin;
-	mso-fareast-font-family:ËÎÌå;
-	mso-fareast-theme-font:minor-fareast;
-	mso-hansi-font-family:Calibri;
-	mso-hansi-theme-font:minor-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:minor-bidi;
-	mso-fareast-language:EN-US;
-	mso-bidi-language:EN-US;}
-h1
-	{mso-style-priority:9;
-	mso-style-unhide:no;
-	mso-style-qformat:yes;
-	mso-style-link:"±êÌâ 1 Char";
-	mso-style-next:ÕýÎÄ;
-	margin-top:24.0pt;
-	margin-right:0cm;
-	margin-bottom:0cm;
-	margin-left:21.25pt;
-	margin-bottom:.0001pt;
-	text-indent:-21.25pt;
-	line-height:115%;
-	mso-pagination:widow-orphan lines-together;
-	page-break-after:avoid;
-	mso-outline-level:1;
-	mso-list:l1 level1 lfo2;
-	font-size:14.0pt;
-	font-family:"Cambria","serif";
-	mso-ascii-font-family:Cambria;
-	mso-ascii-theme-font:major-latin;
-	mso-fareast-font-family:ËÎÌå;
-	mso-fareast-theme-font:major-fareast;
-	mso-hansi-font-family:Cambria;
-	mso-hansi-theme-font:major-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:major-bidi;
-	color:#365F91;
-	mso-themecolor:accent1;
-	mso-themeshade:191;
-	mso-font-kerning:0pt;
-	mso-fareast-language:EN-US;
-	mso-bidi-language:EN-US;}
-h2
-	{mso-style-priority:9;
-	mso-style-qformat:yes;
-	mso-style-link:"±êÌâ 2 Char";
-	mso-style-next:ÕýÎÄ;
-	margin-top:10.0pt;
-	margin-right:0cm;
-	margin-bottom:0cm;
-	margin-left:49.6pt;
-	margin-bottom:.0001pt;
-	text-indent:-1.0cm;
-	line-height:115%;
-	mso-pagination:widow-orphan lines-together;
-	page-break-after:avoid;
-	mso-outline-level:2;
-	mso-list:l1 level2 lfo2;
-	font-size:13.0pt;
-	font-family:"Cambria","serif";
-	mso-ascii-font-family:Cambria;
-	mso-ascii-theme-font:major-latin;
-	mso-fareast-font-family:ËÎÌå;
-	mso-fareast-theme-font:major-fareast;
-	mso-hansi-font-family:Cambria;
-	mso-hansi-theme-font:major-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:major-bidi;
-	color:#4F81BD;
-	mso-themecolor:accent1;
-	mso-fareast-language:EN-US;
-	mso-bidi-language:EN-US;}
-h3
-	{mso-style-priority:9;
-	mso-style-qformat:yes;
-	mso-style-link:"±êÌâ 3 Char";
-	mso-style-next:ÕýÎÄ;
-	margin-top:10.0pt;
-	margin-right:0cm;
-	margin-bottom:0cm;
-	margin-left:70.9pt;
-	margin-bottom:.0001pt;
-	text-indent:-1.0cm;
-	line-height:115%;
-	mso-pagination:widow-orphan lines-together;
-	page-break-after:avoid;
-	mso-outline-level:3;
-	mso-list:l1 level3 lfo2;
-	font-size:12.0pt;
-	mso-bidi-font-size:11.0pt;
-	font-family:"Cambria","serif";
-	mso-ascii-font-family:Cambria;
-	mso-ascii-theme-font:major-latin;
-	mso-fareast-font-family:ËÎÌå;
-	mso-fareast-theme-font:major-fareast;
-	mso-hansi-font-family:Cambria;
-	mso-hansi-theme-font:major-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:major-bidi;
-	color:#4F81BD;
-	mso-themecolor:accent1;
-	mso-fareast-language:EN-US;
-	mso-bidi-language:EN-US;}
-h4
-	{mso-style-priority:9;
-	mso-style-qformat:yes;
-	mso-style-link:"±êÌâ 4 Char";
-	mso-style-next:ÕýÎÄ;
-	margin-top:10.0pt;
-	margin-right:0cm;
-	margin-bottom:0cm;
-	margin-left:99.2pt;
-	margin-bottom:.0001pt;
-	text-indent:-35.4pt;
-	line-height:115%;
-	mso-pagination:widow-orphan lines-together;
-	page-break-after:avoid;
-	mso-outline-level:4;
-	mso-list:l1 level4 lfo2;
-	font-size:12.0pt;
-	mso-bidi-font-size:11.0pt;
-	font-family:"Cambria","serif";
-	mso-ascii-font-family:Cambria;
-	mso-ascii-theme-font:major-latin;
-	mso-fareast-font-family:ËÎÌå;
-	mso-fareast-theme-font:major-fareast;
-	mso-hansi-font-family:Cambria;
-	mso-hansi-theme-font:major-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:major-bidi;
-	color:#4F81BD;
-	mso-themecolor:accent1;
-	mso-fareast-language:EN-US;
-	mso-bidi-language:EN-US;
-	font-style:italic;}
-h5
-	{mso-style-noshow:yes;
-	mso-style-priority:9;
-	mso-style-qformat:yes;
-	mso-style-link:"±êÌâ 5 Char";
-	mso-style-next:ÕýÎÄ;
-	margin-top:10.0pt;
-	margin-right:0cm;
-	margin-bottom:0cm;
-	margin-left:0cm;
-	margin-bottom:.0001pt;
-	line-height:115%;
-	mso-pagination:widow-orphan lines-together;
-	page-break-after:avoid;
-	mso-outline-level:5;
-	font-size:12.0pt;
-	mso-bidi-font-size:11.0pt;
-	font-family:"Cambria","serif";
-	mso-ascii-font-family:Cambria;
-	mso-ascii-theme-font:major-latin;
-	mso-fareast-font-family:ËÎÌå;
-	mso-fareast-theme-font:major-fareast;
-	mso-hansi-font-family:Cambria;
-	mso-hansi-theme-font:major-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:major-bidi;
-	color:#243F60;
-	mso-themecolor:accent1;
-	mso-themeshade:127;
-	mso-fareast-language:EN-US;
-	mso-bidi-language:EN-US;
-	font-weight:normal;}
-h6
-	{mso-style-noshow:yes;
-	mso-style-priority:9;
-	mso-style-qformat:yes;
-	mso-style-link:"±êÌâ 6 Char";
-	mso-style-next:ÕýÎÄ;
-	margin-top:10.0pt;
-	margin-right:0cm;
-	margin-bottom:0cm;
-	margin-left:0cm;
-	margin-bottom:.0001pt;
-	line-height:115%;
-	mso-pagination:widow-orphan lines-together;
-	page-break-after:avoid;
-	mso-outline-level:6;
-	font-size:12.0pt;
-	mso-bidi-font-size:11.0pt;
-	font-family:"Cambria","serif";
-	mso-ascii-font-family:Cambria;
-	mso-ascii-theme-font:major-latin;
-	mso-fareast-font-family:ËÎÌå;
-	mso-fareast-theme-font:major-fareast;
-	mso-hansi-font-family:Cambria;
-	mso-hansi-theme-font:major-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:major-bidi;
-	color:#243F60;
-	mso-themecolor:accent1;
-	mso-themeshade:127;
-	mso-fareast-language:EN-US;
-	mso-bidi-language:EN-US;
-	font-weight:normal;
-	font-style:italic;}
-p.MsoHeading7, li.MsoHeading7, div.MsoHeading7
-	{mso-style-noshow:yes;
-	mso-style-priority:9;
-	mso-style-qformat:yes;
-	mso-style-link:"±êÌâ 7 Char";
-	mso-style-next:ÕýÎÄ;
-	margin-top:10.0pt;
-	margin-right:0cm;
-	margin-bottom:0cm;
-	margin-left:0cm;
-	margin-bottom:.0001pt;
-	line-height:115%;
-	mso-pagination:widow-orphan lines-together;
-	page-break-after:avoid;
-	mso-outline-level:7;
-	font-size:12.0pt;
-	mso-bidi-font-size:11.0pt;
-	font-family:"Cambria","serif";
-	mso-ascii-font-family:Cambria;
-	mso-ascii-theme-font:major-latin;
-	mso-fareast-font-family:ËÎÌå;
-	mso-fareast-theme-font:major-fareast;
-	mso-hansi-font-family:Cambria;
-	mso-hansi-theme-font:major-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:major-bidi;
-	color:#404040;
-	mso-themecolor:text1;
-	mso-themetint:191;
-	mso-fareast-language:EN-US;
-	mso-bidi-language:EN-US;
-	font-style:italic;}
-p.MsoHeading8, li.MsoHeading8, div.MsoHeading8
-	{mso-style-noshow:yes;
-	mso-style-priority:9;
-	mso-style-qformat:yes;
-	mso-style-link:"±êÌâ 8 Char";
-	mso-style-next:ÕýÎÄ;
-	margin-top:10.0pt;
-	margin-right:0cm;
-	margin-bottom:0cm;
-	margin-left:0cm;
-	margin-bottom:.0001pt;
-	line-height:115%;
-	mso-pagination:widow-orphan lines-together;
-	page-break-after:avoid;
-	mso-outline-level:8;
-	font-size:10.0pt;
-	font-family:"Cambria","serif";
-	mso-ascii-font-family:Cambria;
-	mso-ascii-theme-font:major-latin;
-	mso-fareast-font-family:ËÎÌå;
-	mso-fareast-theme-font:major-fareast;
-	mso-hansi-font-family:Cambria;
-	mso-hansi-theme-font:major-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:major-bidi;
-	color:#4F81BD;
-	mso-themecolor:accent1;
-	mso-fareast-language:EN-US;
-	mso-bidi-language:EN-US;}
-p.MsoHeading9, li.MsoHeading9, div.MsoHeading9
-	{mso-style-noshow:yes;
-	mso-style-priority:9;
-	mso-style-qformat:yes;
-	mso-style-link:"±êÌâ 9 Char";
-	mso-style-next:ÕýÎÄ;
-	margin-top:10.0pt;
-	margin-right:0cm;
-	margin-bottom:0cm;
-	margin-left:0cm;
-	margin-bottom:.0001pt;
-	line-height:115%;
-	mso-pagination:widow-orphan lines-together;
-	page-break-after:avoid;
-	mso-outline-level:9;
-	font-size:10.0pt;
-	font-family:"Cambria","serif";
-	mso-ascii-font-family:Cambria;
-	mso-ascii-theme-font:major-latin;
-	mso-fareast-font-family:ËÎÌå;
-	mso-fareast-theme-font:major-fareast;
-	mso-hansi-font-family:Cambria;
-	mso-hansi-theme-font:major-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:major-bidi;
-	color:#404040;
-	mso-themecolor:text1;
-	mso-themetint:191;
-	mso-fareast-language:EN-US;
-	mso-bidi-language:EN-US;
-	font-style:italic;}
-p.MsoToc1, li.MsoToc1, div.MsoToc1
-	{mso-style-update:auto;
-	mso-style-priority:39;
-	mso-style-next:ÕýÎÄ;
-	margin-top:0cm;
-	margin-right:0cm;
-	margin-bottom:10.0pt;
-	margin-left:0cm;
-	line-height:115%;
-	mso-pagination:widow-orphan;
-	font-size:12.0pt;
-	mso-bidi-font-size:11.0pt;
-	font-family:"Calibri","sans-serif";
-	mso-ascii-font-family:Calibri;
-	mso-ascii-theme-font:minor-latin;
-	mso-fareast-font-family:ËÎÌå;
-	mso-fareast-theme-font:minor-fareast;
-	mso-hansi-font-family:Calibri;
-	mso-hansi-theme-font:minor-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:minor-bidi;
-	mso-fareast-language:EN-US;
-	mso-bidi-language:EN-US;}
-p.MsoToc2, li.MsoToc2, div.MsoToc2
-	{mso-style-update:auto;
-	mso-style-priority:39;
-	mso-style-next:ÕýÎÄ;
-	margin-top:0cm;
-	margin-right:0cm;
-	margin-bottom:10.0pt;
-	margin-left:21.0pt;
-	mso-para-margin-top:0cm;
-	mso-para-margin-right:0cm;
-	mso-para-margin-bottom:10.0pt;
-	mso-para-margin-left:2.0gd;
-	line-height:115%;
-	mso-pagination:widow-orphan;
-	font-size:12.0pt;
-	mso-bidi-font-size:11.0pt;
-	font-family:"Calibri","sans-serif";
-	mso-ascii-font-family:Calibri;
-	mso-ascii-theme-font:minor-latin;
-	mso-fareast-font-family:ËÎÌå;
-	mso-fareast-theme-font:minor-fareast;
-	mso-hansi-font-family:Calibri;
-	mso-hansi-theme-font:minor-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:minor-bidi;
-	mso-fareast-language:EN-US;
-	mso-bidi-language:EN-US;}
-p.MsoToc3, li.MsoToc3, div.MsoToc3
-	{mso-style-update:auto;
-	mso-style-priority:39;
-	mso-style-next:ÕýÎÄ;
-	margin-top:0cm;
-	margin-right:0cm;
-	margin-bottom:10.0pt;
-	margin-left:42.0pt;
-	mso-para-margin-top:0cm;
-	mso-para-margin-right:0cm;
-	mso-para-margin-bottom:10.0pt;
-	mso-para-margin-left:4.0gd;
-	line-height:115%;
-	mso-pagination:widow-orphan;
-	font-size:12.0pt;
-	mso-bidi-font-size:11.0pt;
-	font-family:"Calibri","sans-serif";
-	mso-ascii-font-family:Calibri;
-	mso-ascii-theme-font:minor-latin;
-	mso-fareast-font-family:ËÎÌå;
-	mso-fareast-theme-font:minor-fareast;
-	mso-hansi-font-family:Calibri;
-	mso-hansi-theme-font:minor-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:minor-bidi;
-	mso-fareast-language:EN-US;
-	mso-bidi-language:EN-US;}
-p.MsoHeader, li.MsoHeader, div.MsoHeader
-	{mso-style-noshow:yes;
-	mso-style-priority:99;
-	mso-style-link:"Ò³Ã¼ Char";
-	margin-top:0cm;
-	margin-right:0cm;
-	margin-bottom:10.0pt;
-	margin-left:0cm;
-	text-align:center;
-	line-height:115%;
-	mso-pagination:widow-orphan;
-	tab-stops:center 207.65pt right 415.3pt;
-	layout-grid-mode:char;
-	border:none;
-	mso-border-bottom-alt:solid windowtext .75pt;
-	padding:0cm;
-	mso-padding-alt:0cm 0cm 1.0pt 0cm;
-	font-size:9.0pt;
-	font-family:"Calibri","sans-serif";
-	mso-ascii-font-family:Calibri;
-	mso-ascii-theme-font:minor-latin;
-	mso-fareast-font-family:ËÎÌå;
-	mso-fareast-theme-font:minor-fareast;
-	mso-hansi-font-family:Calibri;
-	mso-hansi-theme-font:minor-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:minor-bidi;
-	mso-fareast-language:EN-US;
-	mso-bidi-language:EN-US;}
-p.MsoFooter, li.MsoFooter, div.MsoFooter
-	{mso-style-noshow:yes;
-	mso-style-priority:99;
-	mso-style-link:"Ò³½Å Char";
-	margin-top:0cm;
-	margin-right:0cm;
-	margin-bottom:10.0pt;
-	margin-left:0cm;
-	line-height:115%;
-	mso-pagination:widow-orphan;
-	tab-stops:center 207.65pt right 415.3pt;
-	layout-grid-mode:char;
-	font-size:9.0pt;
-	font-family:"Calibri","sans-serif";
-	mso-ascii-font-family:Calibri;
-	mso-ascii-theme-font:minor-latin;
-	mso-fareast-font-family:ËÎÌå;
-	mso-fareast-theme-font:minor-fareast;
-	mso-hansi-font-family:Calibri;
-	mso-hansi-theme-font:minor-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:minor-bidi;
-	mso-fareast-language:EN-US;
-	mso-bidi-language:EN-US;}
-p.MsoCaption, li.MsoCaption, div.MsoCaption
-	{mso-style-noshow:yes;
-	mso-style-priority:35;
-	mso-style-qformat:yes;
-	mso-style-next:ÕýÎÄ;
-	margin-top:0cm;
-	margin-right:0cm;
-	margin-bottom:10.0pt;
-	margin-left:0cm;
-	mso-pagination:widow-orphan;
-	font-size:9.0pt;
-	font-family:"Calibri","sans-serif";
-	mso-ascii-font-family:Calibri;
-	mso-ascii-theme-font:minor-latin;
-	mso-fareast-font-family:ËÎÌå;
-	mso-fareast-theme-font:minor-fareast;
-	mso-hansi-font-family:Calibri;
-	mso-hansi-theme-font:minor-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:minor-bidi;
-	color:#4F81BD;
-	mso-themecolor:accent1;
-	mso-fareast-language:EN-US;
-	mso-bidi-language:EN-US;
-	font-weight:bold;}
-p.MsoTitle, li.MsoTitle, div.MsoTitle
-	{mso-style-priority:10;
-	mso-style-unhide:no;
-	mso-style-qformat:yes;
-	mso-style-link:"±êÌâ Char";
-	mso-style-next:ÕýÎÄ;
-	margin-top:0cm;
-	margin-right:0cm;
-	margin-bottom:15.0pt;
-	margin-left:0cm;
-	mso-add-space:auto;
-	mso-pagination:widow-orphan;
-	border:none;
-	mso-border-bottom-alt:solid #4F81BD 1.0pt;
-	mso-border-bottom-themecolor:accent1;
-	padding:0cm;
-	mso-padding-alt:0cm 0cm 4.0pt 0cm;
-	font-size:26.0pt;
-	font-family:"Cambria","serif";
-	mso-ascii-font-family:Cambria;
-	mso-ascii-theme-font:major-latin;
-	mso-fareast-font-family:ËÎÌå;
-	mso-fareast-theme-font:major-fareast;
-	mso-hansi-font-family:Cambria;
-	mso-hansi-theme-font:major-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:major-bidi;
-	color:#17365D;
-	mso-themecolor:text2;
-	mso-themeshade:191;
-	letter-spacing:.25pt;
-	mso-font-kerning:14.0pt;
-	mso-fareast-language:EN-US;
-	mso-bidi-language:EN-US;}
-p.MsoTitleCxSpFirst, li.MsoTitleCxSpFirst, div.MsoTitleCxSpFirst
-	{mso-style-priority:10;
-	mso-style-unhide:no;
-	mso-style-qformat:yes;
-	mso-style-link:"±êÌâ Char";
-	mso-style-next:ÕýÎÄ;
-	mso-style-type:export-only;
-	margin:0cm;
-	margin-bottom:.0001pt;
-	mso-add-space:auto;
-	mso-pagination:widow-orphan;
-	border:none;
-	mso-border-bottom-alt:solid #4F81BD 1.0pt;
-	mso-border-bottom-themecolor:accent1;
-	padding:0cm;
-	mso-padding-alt:0cm 0cm 4.0pt 0cm;
-	font-size:26.0pt;
-	font-family:"Cambria","serif";
-	mso-ascii-font-family:Cambria;
-	mso-ascii-theme-font:major-latin;
-	mso-fareast-font-family:ËÎÌå;
-	mso-fareast-theme-font:major-fareast;
-	mso-hansi-font-family:Cambria;
-	mso-hansi-theme-font:major-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:major-bidi;
-	color:#17365D;
-	mso-themecolor:text2;
-	mso-themeshade:191;
-	letter-spacing:.25pt;
-	mso-font-kerning:14.0pt;
-	mso-fareast-language:EN-US;
-	mso-bidi-language:EN-US;}
-p.MsoTitleCxSpMiddle, li.MsoTitleCxSpMiddle, div.MsoTitleCxSpMiddle
-	{mso-style-priority:10;
-	mso-style-unhide:no;
-	mso-style-qformat:yes;
-	mso-style-link:"±êÌâ Char";
-	mso-style-next:ÕýÎÄ;
-	mso-style-type:export-only;
-	margin:0cm;
-	margin-bottom:.0001pt;
-	mso-add-space:auto;
-	mso-pagination:widow-orphan;
-	border:none;
-	mso-border-bottom-alt:solid #4F81BD 1.0pt;
-	mso-border-bottom-themecolor:accent1;
-	padding:0cm;
-	mso-padding-alt:0cm 0cm 4.0pt 0cm;
-	font-size:26.0pt;
-	font-family:"Cambria","serif";
-	mso-ascii-font-family:Cambria;
-	mso-ascii-theme-font:major-latin;
-	mso-fareast-font-family:ËÎÌå;
-	mso-fareast-theme-font:major-fareast;
-	mso-hansi-font-family:Cambria;
-	mso-hansi-theme-font:major-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:major-bidi;
-	color:#17365D;
-	mso-themecolor:text2;
-	mso-themeshade:191;
-	letter-spacing:.25pt;
-	mso-font-kerning:14.0pt;
-	mso-fareast-language:EN-US;
-	mso-bidi-language:EN-US;}
-p.MsoTitleCxSpLast, li.MsoTitleCxSpLast, div.MsoTitleCxSpLast
-	{mso-style-priority:10;
-	mso-style-unhide:no;
-	mso-style-qformat:yes;
-	mso-style-link:"±êÌâ Char";
-	mso-style-next:ÕýÎÄ;
-	mso-style-type:export-only;
-	margin-top:0cm;
-	margin-right:0cm;
-	margin-bottom:15.0pt;
-	margin-left:0cm;
-	mso-add-space:auto;
-	mso-pagination:widow-orphan;
-	border:none;
-	mso-border-bottom-alt:solid #4F81BD 1.0pt;
-	mso-border-bottom-themecolor:accent1;
-	padding:0cm;
-	mso-padding-alt:0cm 0cm 4.0pt 0cm;
-	font-size:26.0pt;
-	font-family:"Cambria","serif";
-	mso-ascii-font-family:Cambria;
-	mso-ascii-theme-font:major-latin;
-	mso-fareast-font-family:ËÎÌå;
-	mso-fareast-theme-font:major-fareast;
-	mso-hansi-font-family:Cambria;
-	mso-hansi-theme-font:major-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:major-bidi;
-	color:#17365D;
-	mso-themecolor:text2;
-	mso-themeshade:191;
-	letter-spacing:.25pt;
-	mso-font-kerning:14.0pt;
-	mso-fareast-language:EN-US;
-	mso-bidi-language:EN-US;}
-p.MsoSubtitle, li.MsoSubtitle, div.MsoSubtitle
-	{mso-style-priority:11;
-	mso-style-unhide:no;
-	mso-style-qformat:yes;
-	mso-style-link:"¸±±êÌâ Char";
-	mso-style-next:ÕýÎÄ;
-	margin-top:0cm;
-	margin-right:0cm;
-	margin-bottom:10.0pt;
-	margin-left:0cm;
-	line-height:115%;
-	mso-pagination:widow-orphan;
-	font-size:12.0pt;
-	font-family:"Cambria","serif";
-	mso-ascii-font-family:Cambria;
-	mso-ascii-theme-font:major-latin;
-	mso-fareast-font-family:ËÎÌå;
-	mso-fareast-theme-font:major-fareast;
-	mso-hansi-font-family:Cambria;
-	mso-hansi-theme-font:major-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:major-bidi;
-	color:#4F81BD;
-	mso-themecolor:accent1;
-	letter-spacing:.75pt;
-	mso-fareast-language:EN-US;
-	mso-bidi-language:EN-US;
-	font-style:italic;}
-a:link, span.MsoHyperlink
-	{mso-style-priority:99;
-	color:blue;
-	mso-themecolor:hyperlink;
-	text-decoration:underline;
-	text-underline:single;}
-a:visited, span.MsoHyperlinkFollowed
-	{mso-style-noshow:yes;
-	mso-style-priority:99;
-	color:purple;
-	mso-themecolor:followedhyperlink;
-	text-decoration:underline;
-	text-underline:single;}
-pre
-	{mso-style-noshow:yes;
-	mso-style-priority:99;
-	mso-style-link:"HTML Ô¤Éè¸ñÊ½ Char";
-	margin:0cm;
-	margin-bottom:.0001pt;
-	mso-pagination:widow-orphan;
-	font-size:12.0pt;
-	font-family:ËÎÌå;
-	mso-bidi-font-family:ËÎÌå;}
-p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
-	{mso-style-noshow:yes;
-	mso-style-priority:99;
-	mso-style-link:"Åú×¢¿òÎÄ±¾ Char";
-	margin:0cm;
-	margin-bottom:.0001pt;
-	mso-pagination:widow-orphan;
-	font-size:9.0pt;
-	font-family:"Calibri","sans-serif";
-	mso-ascii-font-family:Calibri;
-	mso-ascii-theme-font:minor-latin;
-	mso-fareast-font-family:ËÎÌå;
-	mso-fareast-theme-font:minor-fareast;
-	mso-hansi-font-family:Calibri;
-	mso-hansi-theme-font:minor-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:minor-bidi;
-	mso-fareast-language:EN-US;
-	mso-bidi-language:EN-US;}
-p.MsoNoSpacing, li.MsoNoSpacing, div.MsoNoSpacing
-	{mso-style-priority:1;
-	mso-style-unhide:no;
-	mso-style-qformat:yes;
-	mso-style-parent:"";
-	margin:0cm;
-	margin-bottom:.0001pt;
-	mso-pagination:widow-orphan;
-	font-size:11.0pt;
-	font-family:"Calibri","sans-serif";
-	mso-ascii-font-family:Calibri;
-	mso-ascii-theme-font:minor-latin;
-	mso-fareast-font-family:ËÎÌå;
-	mso-fareast-theme-font:minor-fareast;
-	mso-hansi-font-family:Calibri;
-	mso-hansi-theme-font:minor-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:minor-bidi;
-	mso-fareast-language:EN-US;
-	mso-bidi-language:EN-US;}
-p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
-	{mso-style-priority:34;
-	mso-style-unhide:no;
-	mso-style-qformat:yes;
-	margin-top:0cm;
-	margin-right:0cm;
-	margin-bottom:10.0pt;
-	margin-left:36.0pt;
-	mso-add-space:auto;
-	line-height:115%;
-	mso-pagination:widow-orphan;
-	font-size:12.0pt;
-	mso-bidi-font-size:11.0pt;
-	font-family:"Calibri","sans-serif";
-	mso-ascii-font-family:Calibri;
-	mso-ascii-theme-font:minor-latin;
-	mso-fareast-font-family:ËÎÌå;
-	mso-fareast-theme-font:minor-fareast;
-	mso-hansi-font-family:Calibri;
-	mso-hansi-theme-font:minor-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:minor-bidi;
-	mso-fareast-language:EN-US;
-	mso-bidi-language:EN-US;}
-p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst
-	{mso-style-priority:34;
-	mso-style-unhide:no;
-	mso-style-qformat:yes;
-	mso-style-type:export-only;
-	margin-top:0cm;
-	margin-right:0cm;
-	margin-bottom:0cm;
-	margin-left:36.0pt;
-	margin-bottom:.0001pt;
-	mso-add-space:auto;
-	line-height:115%;
-	mso-pagination:widow-orphan;
-	font-size:12.0pt;
-	mso-bidi-font-size:11.0pt;
-	font-family:"Calibri","sans-serif";
-	mso-ascii-font-family:Calibri;
-	mso-ascii-theme-font:minor-latin;
-	mso-fareast-font-family:ËÎÌå;
-	mso-fareast-theme-font:minor-fareast;
-	mso-hansi-font-family:Calibri;
-	mso-hansi-theme-font:minor-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:minor-bidi;
-	mso-fareast-language:EN-US;
-	mso-bidi-language:EN-US;}
-p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle
-	{mso-style-priority:34;
-	mso-style-unhide:no;
-	mso-style-qformat:yes;
-	mso-style-type:export-only;
-	margin-top:0cm;
-	margin-right:0cm;
-	margin-bottom:0cm;
-	margin-left:36.0pt;
-	margin-bottom:.0001pt;
-	mso-add-space:auto;
-	line-height:115%;
-	mso-pagination:widow-orphan;
-	font-size:12.0pt;
-	mso-bidi-font-size:11.0pt;
-	font-family:"Calibri","sans-serif";
-	mso-ascii-font-family:Calibri;
-	mso-ascii-theme-font:minor-latin;
-	mso-fareast-font-family:ËÎÌå;
-	mso-fareast-theme-font:minor-fareast;
-	mso-hansi-font-family:Calibri;
-	mso-hansi-theme-font:minor-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:minor-bidi;
-	mso-fareast-language:EN-US;
-	mso-bidi-language:EN-US;}
-p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast
-	{mso-style-priority:34;
-	mso-style-unhide:no;
-	mso-style-qformat:yes;
-	mso-style-type:export-only;
-	margin-top:0cm;
-	margin-right:0cm;
-	margin-bottom:10.0pt;
-	margin-left:36.0pt;
-	mso-add-space:auto;
-	line-height:115%;
-	mso-pagination:widow-orphan;
-	font-size:12.0pt;
-	mso-bidi-font-size:11.0pt;
-	font-family:"Calibri","sans-serif";
-	mso-ascii-font-family:Calibri;
-	mso-ascii-theme-font:minor-latin;
-	mso-fareast-font-family:ËÎÌå;
-	mso-fareast-theme-font:minor-fareast;
-	mso-hansi-font-family:Calibri;
-	mso-hansi-theme-font:minor-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:minor-bidi;
-	mso-fareast-language:EN-US;
-	mso-bidi-language:EN-US;}
-p.MsoQuote, li.MsoQuote, div.MsoQuote
-	{mso-style-priority:29;
-	mso-style-unhide:no;
-	mso-style-qformat:yes;
-	mso-style-link:"ÒýÓÃ Char";
-	mso-style-next:ÕýÎÄ;
-	margin-top:0cm;
-	margin-right:0cm;
-	margin-bottom:10.0pt;
-	margin-left:0cm;
-	line-height:115%;
-	mso-pagination:widow-orphan;
-	font-size:12.0pt;
-	mso-bidi-font-size:11.0pt;
-	font-family:"Calibri","sans-serif";
-	mso-ascii-font-family:Calibri;
-	mso-ascii-theme-font:minor-latin;
-	mso-fareast-font-family:ËÎÌå;
-	mso-fareast-theme-font:minor-fareast;
-	mso-hansi-font-family:Calibri;
-	mso-hansi-theme-font:minor-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:minor-bidi;
-	color:black;
-	mso-themecolor:text1;
-	mso-fareast-language:EN-US;
-	mso-bidi-language:EN-US;
-	font-style:italic;}
-p.MsoIntenseQuote, li.MsoIntenseQuote, div.MsoIntenseQuote
-	{mso-style-priority:30;
-	mso-style-unhide:no;
-	mso-style-qformat:yes;
-	mso-style-link:"Ã÷ÏÔÒýÓÃ Char";
-	mso-style-next:ÕýÎÄ;
-	margin-top:10.0pt;
-	margin-right:46.8pt;
-	margin-bottom:14.0pt;
-	margin-left:46.8pt;
-	line-height:115%;
-	mso-pagination:widow-orphan;
-	border:none;
-	mso-border-bottom-alt:solid #4F81BD .5pt;
-	mso-border-bottom-themecolor:accent1;
-	padding:0cm;
-	mso-padding-alt:0cm 0cm 4.0pt 0cm;
-	font-size:12.0pt;
-	mso-bidi-font-size:11.0pt;
-	font-family:"Calibri","sans-serif";
-	mso-ascii-font-family:Calibri;
-	mso-ascii-theme-font:minor-latin;
-	mso-fareast-font-family:ËÎÌå;
-	mso-fareast-theme-font:minor-fareast;
-	mso-hansi-font-family:Calibri;
-	mso-hansi-theme-font:minor-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:minor-bidi;
-	color:#4F81BD;
-	mso-themecolor:accent1;
-	mso-fareast-language:EN-US;
-	mso-bidi-language:EN-US;
-	font-weight:bold;
-	font-style:italic;}
-span.MsoSubtleEmphasis
-	{mso-style-priority:19;
-	mso-style-unhide:no;
-	mso-style-qformat:yes;
-	color:gray;
-	mso-themecolor:text1;
-	mso-themetint:127;
-	font-style:italic;}
-span.MsoIntenseEmphasis
-	{mso-style-priority:21;
-	mso-style-unhide:no;
-	mso-style-qformat:yes;
-	color:#4F81BD;
-	mso-themecolor:accent1;
-	font-weight:bold;
-	font-style:italic;}
-span.MsoSubtleReference
-	{mso-style-priority:31;
-	mso-style-unhide:no;
-	mso-style-qformat:yes;
-	font-variant:small-caps;
-	color:#C0504D;
-	mso-themecolor:accent2;
-	text-decoration:underline;
-	text-underline:single;}
-span.MsoIntenseReference
-	{mso-style-priority:32;
-	mso-style-unhide:no;
-	mso-style-qformat:yes;
-	font-variant:small-caps;
-	color:#C0504D;
-	mso-themecolor:accent2;
-	letter-spacing:.25pt;
-	font-weight:bold;
-	text-decoration:underline;
-	text-underline:single;}
-span.MsoBookTitle
-	{mso-style-priority:33;
-	mso-style-unhide:no;
-	mso-style-qformat:yes;
-	font-variant:small-caps;
-	letter-spacing:.25pt;
-	font-weight:bold;}
-p.MsoTocHeading, li.MsoTocHeading, div.MsoTocHeading
-	{mso-style-noshow:yes;
-	mso-style-priority:39;
-	mso-style-qformat:yes;
-	mso-style-parent:"±êÌâ 1";
-	mso-style-next:ÕýÎÄ;
-	margin-top:24.0pt;
-	margin-right:0cm;
-	margin-bottom:0cm;
-	margin-left:21.25pt;
-	margin-bottom:.0001pt;
-	text-indent:-21.25pt;
-	line-height:115%;
-	mso-pagination:widow-orphan lines-together;
-	page-break-after:avoid;
-	mso-list:l1 level1 lfo2;
-	font-size:14.0pt;
-	font-family:"Cambria","serif";
-	mso-ascii-font-family:Cambria;
-	mso-ascii-theme-font:major-latin;
-	mso-fareast-font-family:ËÎÌå;
-	mso-fareast-theme-font:major-fareast;
-	mso-hansi-font-family:Cambria;
-	mso-hansi-theme-font:major-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:major-bidi;
-	color:#365F91;
-	mso-themecolor:accent1;
-	mso-themeshade:191;
-	mso-fareast-language:EN-US;
-	mso-bidi-language:EN-US;
-	font-weight:bold;}
-span.Char
-	{mso-style-name:"Ò³Ã¼ Char";
-	mso-style-noshow:yes;
-	mso-style-priority:99;
-	mso-style-unhide:no;
-	mso-style-locked:yes;
-	mso-style-link:Ò³Ã¼;
-	mso-ansi-font-size:9.0pt;
-	mso-bidi-font-size:9.0pt;}
-span.Char0
-	{mso-style-name:"Ò³½Å Char";
-	mso-style-noshow:yes;
-	mso-style-priority:99;
-	mso-style-unhide:no;
-	mso-style-locked:yes;
-	mso-style-link:Ò³½Å;
-	mso-ansi-font-size:9.0pt;
-	mso-bidi-font-size:9.0pt;}
-span.1Char
-	{mso-style-name:"±êÌâ 1 Char";
-	mso-style-priority:9;
-	mso-style-unhide:no;
-	mso-style-locked:yes;
-	mso-style-link:"±êÌâ 1";
-	mso-ansi-font-size:14.0pt;
-	mso-bidi-font-size:14.0pt;
-	font-family:"Cambria","serif";
-	mso-ascii-font-family:Cambria;
-	mso-ascii-theme-font:major-latin;
-	mso-fareast-font-family:ËÎÌå;
-	mso-fareast-theme-font:major-fareast;
-	mso-hansi-font-family:Cambria;
-	mso-hansi-theme-font:major-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:major-bidi;
-	color:#365F91;
-	mso-themecolor:accent1;
-	mso-themeshade:191;
-	font-weight:bold;}
-span.2Char
-	{mso-style-name:"±êÌâ 2 Char";
-	mso-style-priority:9;
-	mso-style-unhide:no;
-	mso-style-locked:yes;
-	mso-style-link:"±êÌâ 2";
-	mso-ansi-font-size:13.0pt;
-	mso-bidi-font-size:13.0pt;
-	font-family:"Cambria","serif";
-	mso-ascii-font-family:Cambria;
-	mso-ascii-theme-font:major-latin;
-	mso-fareast-font-family:ËÎÌå;
-	mso-fareast-theme-font:major-fareast;
-	mso-hansi-font-family:Cambria;
-	mso-hansi-theme-font:major-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:major-bidi;
-	color:#4F81BD;
-	mso-themecolor:accent1;
-	font-weight:bold;}
-span.3Char
-	{mso-style-name:"±êÌâ 3 Char";
-	mso-style-priority:9;
-	mso-style-unhide:no;
-	mso-style-locked:yes;
-	mso-style-link:"±êÌâ 3";
-	mso-ansi-font-size:12.0pt;
-	font-family:"Cambria","serif";
-	mso-ascii-font-family:Cambria;
-	mso-ascii-theme-font:major-latin;
-	mso-fareast-font-family:ËÎÌå;
-	mso-fareast-theme-font:major-fareast;
-	mso-hansi-font-family:Cambria;
-	mso-hansi-theme-font:major-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:major-bidi;
-	color:#4F81BD;
-	mso-themecolor:accent1;
-	font-weight:bold;}
-span.4Char
-	{mso-style-name:"±êÌâ 4 Char";
-	mso-style-priority:9;
-	mso-style-unhide:no;
-	mso-style-locked:yes;
-	mso-style-link:"±êÌâ 4";
-	font-family:"Cambria","serif";
-	mso-ascii-font-family:Cambria;
-	mso-ascii-theme-font:major-latin;
-	mso-fareast-font-family:ËÎÌå;
-	mso-fareast-theme-font:major-fareast;
-	mso-hansi-font-family:Cambria;
-	mso-hansi-theme-font:major-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:major-bidi;
-	color:#4F81BD;
-	mso-themecolor:accent1;
-	font-weight:bold;
-	font-style:italic;}
-span.5Char
-	{mso-style-name:"±êÌâ 5 Char";
-	mso-style-priority:9;
-	mso-style-unhide:no;
-	mso-style-locked:yes;
-	mso-style-link:"±êÌâ 5";
-	font-family:"Cambria","serif";
-	mso-ascii-font-family:Cambria;
-	mso-ascii-theme-font:major-latin;
-	mso-fareast-font-family:ËÎÌå;
-	mso-fareast-theme-font:major-fareast;
-	mso-hansi-font-family:Cambria;
-	mso-hansi-theme-font:major-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:major-bidi;
-	color:#243F60;
-	mso-themecolor:accent1;
-	mso-themeshade:127;}
-span.6Char
-	{mso-style-name:"±êÌâ 6 Char";
-	mso-style-priority:9;
-	mso-style-unhide:no;
-	mso-style-locked:yes;
-	mso-style-link:"±êÌâ 6";
-	font-family:"Cambria","serif";
-	mso-ascii-font-family:Cambria;
-	mso-ascii-theme-font:major-latin;
-	mso-fareast-font-family:ËÎÌå;
-	mso-fareast-theme-font:major-fareast;
-	mso-hansi-font-family:Cambria;
-	mso-hansi-theme-font:major-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:major-bidi;
-	color:#243F60;
-	mso-themecolor:accent1;
-	mso-themeshade:127;
-	font-style:italic;}
-span.7Char
-	{mso-style-name:"±êÌâ 7 Char";
-	mso-style-priority:9;
-	mso-style-unhide:no;
-	mso-style-locked:yes;
-	mso-style-link:"±êÌâ 7";
-	font-family:"Cambria","serif";
-	mso-ascii-font-family:Cambria;
-	mso-ascii-theme-font:major-latin;
-	mso-fareast-font-family:ËÎÌå;
-	mso-fareast-theme-font:major-fareast;
-	mso-hansi-font-family:Cambria;
-	mso-hansi-theme-font:major-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:major-bidi;
-	color:#404040;
-	mso-themecolor:text1;
-	mso-themetint:191;
-	font-style:italic;}
-span.8Char
-	{mso-style-name:"±êÌâ 8 Char";
-	mso-style-priority:9;
-	mso-style-unhide:no;
-	mso-style-locked:yes;
-	mso-style-link:"±êÌâ 8";
-	mso-ansi-font-size:10.0pt;
-	mso-bidi-font-size:10.0pt;
-	font-family:"Cambria","serif";
-	mso-ascii-font-family:Cambria;
-	mso-ascii-theme-font:major-latin;
-	mso-fareast-font-family:ËÎÌå;
-	mso-fareast-theme-font:major-fareast;
-	mso-hansi-font-family:Cambria;
-	mso-hansi-theme-font:major-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:major-bidi;
-	color:#4F81BD;
-	mso-themecolor:accent1;}
-span.9Char
-	{mso-style-name:"±êÌâ 9 Char";
-	mso-style-priority:9;
-	mso-style-unhide:no;
-	mso-style-locked:yes;
-	mso-style-link:"±êÌâ 9";
-	mso-ansi-font-size:10.0pt;
-	mso-bidi-font-size:10.0pt;
-	font-family:"Cambria","serif";
-	mso-ascii-font-family:Cambria;
-	mso-ascii-theme-font:major-latin;
-	mso-fareast-font-family:ËÎÌå;
-	mso-fareast-theme-font:major-fareast;
-	mso-hansi-font-family:Cambria;
-	mso-hansi-theme-font:major-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:major-bidi;
-	color:#404040;
-	mso-themecolor:text1;
-	mso-themetint:191;
-	font-style:italic;}
-span.Char1
-	{mso-style-name:"±êÌâ Char";
-	mso-style-priority:10;
-	mso-style-unhide:no;
-	mso-style-locked:yes;
-	mso-style-link:±êÌâ;
-	mso-ansi-font-size:26.0pt;
-	mso-bidi-font-size:26.0pt;
-	font-family:"Cambria","serif";
-	mso-ascii-font-family:Cambria;
-	mso-ascii-theme-font:major-latin;
-	mso-fareast-font-family:ËÎÌå;
-	mso-fareast-theme-font:major-fareast;
-	mso-hansi-font-family:Cambria;
-	mso-hansi-theme-font:major-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:major-bidi;
-	color:#17365D;
-	mso-themecolor:text2;
-	mso-themeshade:191;
-	letter-spacing:.25pt;
-	mso-font-kerning:14.0pt;}
-span.Char2
-	{mso-style-name:"¸±±êÌâ Char";
-	mso-style-priority:11;
-	mso-style-unhide:no;
-	mso-style-locked:yes;
-	mso-style-link:¸±±êÌâ;
-	mso-ansi-font-size:12.0pt;
-	mso-bidi-font-size:12.0pt;
-	font-family:"Cambria","serif";
-	mso-ascii-font-family:Cambria;
-	mso-ascii-theme-font:major-latin;
-	mso-fareast-font-family:ËÎÌå;
-	mso-fareast-theme-font:major-fareast;
-	mso-hansi-font-family:Cambria;
-	mso-hansi-theme-font:major-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:major-bidi;
-	color:#4F81BD;
-	mso-themecolor:accent1;
-	letter-spacing:.75pt;
-	font-style:italic;}
-span.Char3
-	{mso-style-name:"ÒýÓÃ Char";
-	mso-style-priority:29;
-	mso-style-unhide:no;
-	mso-style-locked:yes;
-	mso-style-link:ÒýÓÃ;
-	color:black;
-	mso-themecolor:text1;
-	font-style:italic;}
-span.Char4
-	{mso-style-name:"Ã÷ÏÔÒýÓÃ Char";
-	mso-style-priority:30;
-	mso-style-unhide:no;
-	mso-style-locked:yes;
-	mso-style-link:Ã÷ÏÔÒýÓÃ;
-	color:#4F81BD;
-	mso-themecolor:accent1;
-	font-weight:bold;
-	font-style:italic;}
-span.Char5
-	{mso-style-name:"Åú×¢¿òÎÄ±¾ Char";
-	mso-style-noshow:yes;
-	mso-style-priority:99;
-	mso-style-unhide:no;
-	mso-style-locked:yes;
-	mso-style-link:Åú×¢¿òÎÄ±¾;
-	mso-ansi-font-size:9.0pt;
-	mso-bidi-font-size:9.0pt;}
-span.HTMLChar
-	{mso-style-name:"HTML Ô¤Éè¸ñÊ½ Char";
-	mso-style-noshow:yes;
-	mso-style-priority:99;
-	mso-style-unhide:no;
-	mso-style-locked:yes;
-	mso-style-link:"HTML Ô¤Éè¸ñÊ½";
-	mso-ansi-font-size:12.0pt;
-	mso-bidi-font-size:12.0pt;
-	font-family:ËÎÌå;
-	mso-ascii-font-family:ËÎÌå;
-	mso-fareast-font-family:ËÎÌå;
-	mso-hansi-font-family:ËÎÌå;
-	mso-bidi-font-family:ËÎÌå;
-	mso-fareast-language:ZH-CN;
-	mso-bidi-language:AR-SA;}
-span.apple-style-span
-	{mso-style-name:apple-style-span;
-	mso-style-unhide:no;}
-span.apple-converted-space
-	{mso-style-name:apple-converted-space;
-	mso-style-unhide:no;}
-span.langwithname
-	{mso-style-name:langwithname;
-	mso-style-unhide:no;}
-span.SpellE
-	{mso-style-name:"";
-	mso-spl-e:yes;}
-.MsoChpDefault
-	{mso-style-type:export-only;
-	mso-default-props:yes;
-	font-size:11.0pt;
-	mso-ansi-font-size:11.0pt;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:minor-bidi;
-	mso-font-kerning:0pt;
-	mso-fareast-language:EN-US;
-	mso-bidi-language:EN-US;}
-.MsoPapDefault
-	{mso-style-type:export-only;
-	margin-bottom:10.0pt;
-	line-height:115%;}
- /* Page Definitions */
- @page
-	{mso-page-border-surround-header:no;
-	mso-page-border-surround-footer:no;
-	mso-footnote-separator:url("hand%20in%20hand%20with%20antlr.files/header.htm") fs;
-	mso-footnote-continuation-separator:url("hand%20in%20hand%20with%20antlr.files/header.htm") fcs;
-	mso-endnote-separator:url("hand%20in%20hand%20with%20antlr.files/header.htm") es;
-	mso-endnote-continuation-separator:url("hand%20in%20hand%20with%20antlr.files/header.htm") ecs;}
-@page WordSection1
-	{size:595.3pt 841.9pt;
-	margin:72.0pt 90.0pt 72.0pt 90.0pt;
-	mso-header-margin:42.55pt;
-	mso-footer-margin:49.6pt;
-	mso-paper-source:0;
-	layout-grid:15.6pt;}
-div.WordSection1
-	{page:WordSection1;}
- /* List Definitions */
- @list l0
-	{mso-list-id:243877282;
-	mso-list-type:hybrid;
-	mso-list-template-ids:-502738366 67698699 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
-@list l0:level1
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0D8;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	margin-left:21.0pt;
-	text-indent:-21.0pt;
-	font-family:Wingdings;}
-@list l1
-	{mso-list-id:491408194;
-	mso-list-template-ids:1514573328;}
-@list l1:level1
-	{mso-level-number-format:chinese-counting-thousand;
-	mso-level-style-link:"±êÌâ 1";
-	mso-level-text:"µÚ%1ÕÂ ";
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	margin-left:21.25pt;
-	text-indent:-21.25pt;}
-@list l1:level2
-	{mso-level-number-format:chinese-counting-thousand;
-	mso-level-style-link:"±êÌâ 2";
-	mso-level-text:µÚ%2½Ú;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	margin-left:49.6pt;
-	text-indent:-1.0cm;}
-@list l1:level3
-	{mso-level-style-link:"±êÌâ 3";
-	mso-level-text:µÚ%3Ð¡½Ú;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	margin-left:70.9pt;
-	text-indent:-1.0cm;
-	mso-ansi-language:EN-US;}
-@list l1:level4
-	{mso-level-style-link:"±êÌâ 4";
-	mso-level-text:µÚ%4Ð¡Ð¡½Ú;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	margin-left:99.2pt;
-	text-indent:-35.4pt;}
-@list l1:level5
-	{mso-level-text:"%1\.%2\.%3\.%4\.%5";
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	margin-left:127.55pt;
-	text-indent:-42.5pt;}
-@list l1:level6
-	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6";
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	margin-left:163.0pt;
-	text-indent:-2.0cm;}
-@list l1:level7
-	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7";
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	margin-left:191.35pt;
-	text-indent:-63.8pt;}
-@list l1:level8
-	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.%8";
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	margin-left:219.7pt;
-	text-indent:-70.9pt;}
-@list l1:level9
-	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.%8\.%9";
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	margin-left:255.1pt;
-	text-indent:-85.0pt;}
-@list l2
-	{mso-list-id:587037591;
-	mso-list-type:hybrid;
-	mso-list-template-ids:-607193550 870060050 67698713 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}
-@list l2:level1
-	{mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	margin-left:23.25pt;
-	text-indent:-18.0pt;}
-@list l3
-	{mso-list-id:789931506;
-	mso-list-type:hybrid;
-	mso-list-template-ids:-1511114576 67698705 67698713 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}
-@list l3:level1
-	{mso-level-text:"%1\)";
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	margin-left:26.5pt;
-	text-indent:-21.0pt;}
-@list l4
-	{mso-list-id:807358532;
-	mso-list-type:hybrid;
-	mso-list-template-ids:751101032 67698705 67698713 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}
-@list l4:level1
-	{mso-level-text:"%1\)";
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	margin-left:32.5pt;
-	text-indent:-21.0pt;}
-@list l5
-	{mso-list-id:863910047;
-	mso-list-type:hybrid;
-	mso-list-template-ids:-1251958724 67698699 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
-@list l5:level1
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0D8;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	margin-left:63.55pt;
-	text-indent:-21.0pt;
-	font-family:Wingdings;}
-@list l6
-	{mso-list-id:877089778;
-	mso-list-type:hybrid;
-	mso-list-template-ids:1709850924 67698699 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
-@list l6:level1
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0D8;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	margin-left:21.0pt;
-	text-indent:-21.0pt;
-	font-family:Wingdings;}
-@list l7
-	{mso-list-id:915473433;
-	mso-list-type:hybrid;
-	mso-list-template-ids:-1046974270 67698699 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
-@list l7:level1
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0D8;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	margin-left:62.5pt;
-	text-indent:-21.0pt;
-	font-family:Wingdings;}
-@list l7:level2
-	{mso-level-number-format:bullet;
-	mso-level-text:\F06E;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	margin-left:83.5pt;
-	text-indent:-21.0pt;
-	font-family:Wingdings;}
-@list l8
-	{mso-list-id:1234318840;
-	mso-list-type:hybrid;
-	mso-list-template-ids:503194740 -1643487660 -1041874806 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}
-@list l8:level1
-	{mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	margin-left:45.0pt;
-	text-indent:-21.0pt;}
-@list l8:level2
-	{mso-level-number-format:alpha-lower;
-	mso-level-text:"%2\)";
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	margin-left:63.0pt;
-	text-indent:-18.0pt;}
-@list l9
-	{mso-list-id:1553924683;
-	mso-list-type:hybrid;
-	mso-list-template-ids:-1276322718 67698703 67698713 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}
-@list l9:level1
-	{mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	margin-left:21.0pt;
-	text-indent:-21.0pt;}
-@list l10
-	{mso-list-id:1588690800;
-	mso-list-type:hybrid;
-	mso-list-template-ids:475963812 -1643487660 67698713 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}
-@list l10:level1
-	{mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	margin-left:18.0pt;
-	text-indent:-18.0pt;}
-@list l11
-	{mso-list-id:1748532219;
-	mso-list-type:hybrid;
-	mso-list-template-ids:503194740 -1643487660 -1041874806 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}
-@list l11:level1
-	{mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	margin-left:45.0pt;
-	text-indent:-21.0pt;}
-@list l11:level2
-	{mso-level-number-format:alpha-lower;
-	mso-level-text:"%2\)";
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	margin-left:63.0pt;
-	text-indent:-18.0pt;}
-@list l12
-	{mso-list-id:2072727650;
-	mso-list-type:hybrid;
-	mso-list-template-ids:-2021902308 -355181498 67698713 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}
-@list l12:level1
-	{mso-level-text:%1¡¢;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;}
-ol
-	{margin-bottom:0cm;}
-ul
-	{margin-bottom:0cm;}
--->
-</style>
-<!--[if gte mso 10]>
-<style>
- /* Style Definitions */
- table.MsoNormalTable
-	{mso-style-name:ÆÕÍ¨±í¸ñ;
-	mso-tstyle-rowband-size:0;
-	mso-tstyle-colband-size:0;
-	mso-style-noshow:yes;
-	mso-style-priority:99;
-	mso-style-qformat:yes;
-	mso-style-parent:"";
-	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
-	mso-para-margin-top:0cm;
-	mso-para-margin-right:0cm;
-	mso-para-margin-bottom:10.0pt;
-	mso-para-margin-left:0cm;
-	line-height:115%;
-	mso-pagination:widow-orphan;
-	font-size:11.0pt;
-	font-family:"Calibri","sans-serif";
-	mso-ascii-font-family:Calibri;
-	mso-ascii-theme-font:minor-latin;
-	mso-hansi-font-family:Calibri;
-	mso-hansi-theme-font:minor-latin;
-	mso-fareast-language:EN-US;
-	mso-bidi-language:EN-US;}
-table.MsoTableGrid
-	{mso-style-name:Íø¸ñÐÍ;
-	mso-tstyle-rowband-size:0;
-	mso-tstyle-colband-size:0;
-	mso-style-priority:59;
-	mso-style-unhide:no;
-	border:solid black 1.0pt;
-	mso-border-themecolor:text1;
-	mso-border-alt:solid black .5pt;
-	mso-border-themecolor:text1;
-	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
-	mso-border-insideh:.5pt solid black;
-	mso-border-insideh-themecolor:text1;
-	mso-border-insidev:.5pt solid black;
-	mso-border-insidev-themecolor:text1;
-	mso-para-margin:0cm;
-	mso-para-margin-bottom:.0001pt;
-	mso-pagination:widow-orphan;
-	font-size:11.0pt;
-	font-family:"Calibri","sans-serif";
-	mso-ascii-font-family:Calibri;
-	mso-ascii-theme-font:minor-latin;
-	mso-hansi-font-family:Calibri;
-	mso-hansi-theme-font:minor-latin;
-	mso-fareast-language:EN-US;
-	mso-bidi-language:EN-US;}
-</style>
-<![endif]--><!--[if gte mso 9]><xml>
- <o:shapedefaults v:ext="edit" spidmax="93186"/>
-</xml><![endif]--><!--[if gte mso 9]><xml>
- <o:shapelayout v:ext="edit">
-  <o:idmap v:ext="edit" data="2"/>
- </o:shapelayout></xml><![endif]-->
-</head>
-
-<body lang=ZH-CN link=blue vlink=purple style='tab-interval:21.0pt;text-justify-trim:
-punctuation'>
-
-<div class=WordSection1 style='layout-grid:15.6pt'>
-
-<p class=MsoNormal align=center style='text-align:center'><span class=SpellE><span
-lang=EN-US style='font-size:18.0pt;line-height:115%;font-family:ËÎÌå;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>ÁÖÊÏÎïÓï</span></span><span
-lang=EN-US style='font-size:18.0pt;line-height:115%;mso-fareast-language:ZH-CN'>.</span><span
-style='font-size:18.0pt;line-height:115%;font-family:ËÎÌå;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>¼¼ÊõÂÒµ¯</span><span class=SpellE><span lang=EN-US
-style='font-size:18.0pt;line-height:115%;font-family:ËÎÌå;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>Ö®</span><span
-lang=EN-US style='font-size:18.0pt;line-height:115%;mso-fareast-language:ZH-CN'>hand</span></span><span
-lang=EN-US style='font-size:18.0pt;line-height:115%;mso-fareast-language:ZH-CN'>
-in hand </span><span lang=EN-US style='font-size:18.0pt;line-height:115%'>with </span><span
-class=SpellE><span lang=EN-US style='font-size:18.0pt;line-height:115%;
-mso-fareast-language:ZH-CN'>antlr</span></span><span lang=EN-US
-style='font-size:18.0pt;line-height:115%'><o:p></o:p></span></p>
-
-<p class=MsoNormal style='text-indent:21.0pt'><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>°æÈ¨ÉùÃ÷£º</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
-style='mso-fareast-language:ZH-CN'><span style='mso-spacerun:yes'>&nbsp;
-</span></span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>±¾ÎÄÓÉÁÖÊÏÔ­´´£¬×ñÑ­</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>GPL</span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>Ðí¿É£¬Äã¿ÉÒÔ×ÔÓÉµØ¶Ô±¾ÎÄ½øÐÐÈÎºÎÄ¿µÄµÄÐÞ¸Ä¡¢×ªÔØ¡¢ÒýÓÃºÍ·¢²¼£¬µ«»ùÓÚ´ËÎÄËù×÷µÄÈÎºÎÐÞ¸Ä¡¢×ªÔØ¡¢ÒýÓÃºÍ·¢²¼Æ·Ò²ÐèÒª×ñÑ­</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>GPL</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Ðí¿É£¬²¢ÒªÇóÔÚ¿ªÍ·±£Áô±¾ÉùÃ÷¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal style='text-indent:21.0pt'><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÁªÏµ×÷Õß£ºÈç¹ûÄúÓÐÊ²Ã´ÑùµÄÅúÆÀÓëÖ¸½Ì£¬»¶Ó­·¢</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>email</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>µ½</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'> workspace.public@gmail.com;<o:p></o:p></span></p>
-
-<p class=MsoNormal style='text-indent:21.0pt'><span class=SpellE><span
-lang=EN-US style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>ÈçÐè»ñÈ¡×îÐÂµÄ¸üÐÂ£¬ÇëÔÚ</span><span
-lang=EN-US>email</span><span lang=EN-US style='font-family:ËÎÌå;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>µÄ</span><span
-lang=EN-US>subject</span><span lang=EN-US style='font-family:ËÎÌå;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>ÌîÐ´</span><span
-lang=EN-US>get</span></span><span lang=EN-US> 010</span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'>4</span><span lang=EN-US>0</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>2</span><span lang=EN-US>00</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>1</span><span lang=EN-US
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin'>·¢ËÍÖÁ</span><span lang=EN-US><span
-style='mso-spacerun:yes'>&nbsp; </span>workspace.public@gmail.com;</span></p>
-
-<p class=MsoNormal style='text-indent:21.0pt'><span class=SpellE><span
-lang=EN-US style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>ÈçÐè»ñÈ¡ÁÖÊÏÎïÓïÏµÁÐÎÄÕÂµÄÁÐ±í£¬ÇëÔÚ</span><span
-lang=EN-US>email</span><span lang=EN-US style='font-family:ËÎÌå;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>µÄ</span><span
-lang=EN-US>subject</span><span lang=EN-US style='font-family:ËÎÌå;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>ÌîÐ´</span><span
-lang=EN-US>get</span></span><span lang=EN-US> list</span><span lang=EN-US
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin'>·¢ËÍÖÁ</span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'>:</span><span lang=EN-US>workspace.public@gmail.com;</span></p>
-
-<p class=MsoNormal style='text-indent:21.0pt'><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÈçÐè»ñÈ¡ÁÖÊÏÎïÓïÏµÁÐÎÄÕÂ£¬ÇëÔÚ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>email</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>µÄ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>subject</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÌîÐ´</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>get all</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>·¢ËÍÖÁ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>:workspace.public@gmail.com;<o:p></o:p></span></p>
-
-<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
-style='mso-fareast-language:ZH-CN'><span style='mso-spacerun:yes'>&nbsp;
-</span></span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ÓÉÓÚÃ»ÓÐ×Ô¼ºµÄÓÊ¼þ·þÎñÆ÷£¬Ã»ÓÐÕÒµ½´ø¸½¼þ×Ô¶¯»Ø¸´µÄÃâ·ÑÓÊ¼þ·þÎñÆ÷£¬²ÉÓÃ¿Í»§¶Ë´ø¸½¼þ×Ô¶¯»Ø¸´£¬ËùÒÔÊÇ·Ç¼´Ê±ÐÔ»Ø¸´£¬×î³Ù»Ø¸´Ê±¼ä¾¡Á¿²»³¬¹ýÒ»ÖÜ£¬ÇëÎð·¢ËÍ¶à´Î¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
-style='mso-fareast-language:ZH-CN'>l </span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>±¾ÎÄ±àºÅ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>:010402001<o:p></o:p></span></p>
-
-<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
-style='mso-fareast-language:ZH-CN'>l </span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ËùÊôÎÄ¼¯</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>:</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÁÖÊÏÎïÓï</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
-style='mso-fareast-language:ZH-CN'>l </span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ËùÊôÀà±ð</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>:</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¼¼ÊõÂÒµ¯</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
-style='mso-fareast-language:ZH-CN'>l </span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ËùÊôÏ¸Àà</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>:</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>±àÒëÔ­Àí</span><span
-style='mso-fareast-language:ZH-CN'> <span lang=EN-US><o:p></o:p></span></span></p>
-
-<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
-style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoToc1 style='tab-stops:52.5pt right dotted 414.8pt'><!--[if supportFields]><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><span style='mso-element:field-begin'></span><span
-style='mso-spacerun:yes'>&nbsp;</span>TOC \o &quot;1-3&quot; \h \z \u <span
-style='mso-element:field-separator'></span></span><![endif]--><span lang=EN-US><a
-href="#_Toc361871682"><span lang=EN-US style='font-family:ËÎÌå;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN;mso-no-proof:yes'><span lang=EN-US>µÚÒ»ÕÂ</span></span><span
-style='font-size:10.5pt;mso-bidi-font-size:11.0pt;line-height:115%;color:windowtext;
-mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA;
-mso-no-proof:yes;text-decoration:none;text-underline:none'><span
-style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
-lang=EN-US style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-ZH-CN;mso-no-proof:yes'><span lang=EN-US>Ç°ÑÔ</span></span><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'><span style='mso-tab-count:1 dotted'>... </span></span><!--[if supportFields]><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'><span style='mso-element:field-begin'></span>
-PAGEREF _Toc361871682 \h <span style='mso-element:field-separator'></span></span><![endif]--><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'>3<!--[if gte mso 9]><xml>
- <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003300360031003800370031003600380032000000</w:data>
-</xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
-display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:
-none'><span style='mso-element:field-end'></span></span><![endif]--></a></span><span
-lang=EN-US style='font-size:10.5pt;mso-bidi-font-size:11.0pt;line-height:115%;
-mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA;
-mso-no-proof:yes'><o:p></o:p></span></p>
-
-<p class=MsoToc1 style='tab-stops:52.5pt right dotted 414.8pt'><span
-lang=EN-US><a href="#_Toc361871683"><span lang=EN-US style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN;mso-no-proof:yes'><span
-lang=EN-US>µÚ¶þÕÂ</span></span><span style='font-size:10.5pt;mso-bidi-font-size:
-11.0pt;line-height:115%;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:
-ZH-CN;mso-bidi-language:AR-SA;mso-no-proof:yes;text-decoration:none;text-underline:
-none'><span style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
-lang=EN-US style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-ZH-CN;mso-no-proof:yes'><span lang=EN-US>°²×°Æª</span></span><span
-style='mso-fareast-language:ZH-CN;mso-no-proof:yes'>:</span><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'><span style='mso-tab-count:1 dotted'> </span></span><!--[if supportFields]><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'><span style='mso-element:field-begin'></span>
-PAGEREF _Toc361871683 \h <span style='mso-element:field-separator'></span></span><![endif]--><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'>4<!--[if gte mso 9]><xml>
- <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003300360031003800370031003600380033000000</w:data>
-</xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
-display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:
-none'><span style='mso-element:field-end'></span></span><![endif]--></a></span><span
-lang=EN-US style='font-size:10.5pt;mso-bidi-font-size:11.0pt;line-height:115%;
-mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA;
-mso-no-proof:yes'><o:p></o:p></span></p>
-
-<p class=MsoToc2 style='margin-left:24.0pt;tab-stops:73.5pt right dotted 414.8pt'><span
-lang=EN-US><a href="#_Toc361871684"><span lang=EN-US style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN;mso-no-proof:yes'><span
-lang=EN-US>µÚÒ»½Ú</span></span><span style='font-size:10.5pt;mso-bidi-font-size:
-11.0pt;line-height:115%;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:
-ZH-CN;mso-bidi-language:AR-SA;mso-no-proof:yes;text-decoration:none;text-underline:
-none'><span style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
-lang=EN-US style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-ZH-CN;mso-no-proof:yes'><span lang=EN-US>°²×°Ç°µÄ¼ì²é</span></span><span
-style='mso-fareast-language:ZH-CN;mso-no-proof:yes'>:</span><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'><span style='mso-tab-count:1 dotted'> </span></span><!--[if supportFields]><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'><span style='mso-element:field-begin'></span>
-PAGEREF _Toc361871684 \h <span style='mso-element:field-separator'></span></span><![endif]--><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'>4<!--[if gte mso 9]><xml>
- <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003300360031003800370031003600380034000000</w:data>
-</xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
-display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:
-none'><span style='mso-element:field-end'></span></span><![endif]--></a></span><span
-lang=EN-US style='font-size:10.5pt;mso-bidi-font-size:11.0pt;line-height:115%;
-mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA;
-mso-no-proof:yes'><o:p></o:p></span></p>
-
-<p class=MsoToc3 style='margin-left:48.0pt;tab-stops:100.6pt right dotted 414.8pt'><span
-lang=EN-US><a href="#_Toc361871685"><span lang=EN-US style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN;mso-no-proof:yes'><span
-lang=EN-US>µÚ</span></span><span style='mso-fareast-language:ZH-CN;mso-no-proof:
-yes'>1</span><span lang=EN-US style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN;mso-no-proof:yes'><span lang=EN-US>Ð¡½Ú</span></span><span
-style='font-size:10.5pt;mso-bidi-font-size:11.0pt;line-height:115%;color:windowtext;
-mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA;
-mso-no-proof:yes;text-decoration:none;text-underline:none'><span
-style='mso-tab-count:1'>&nbsp; </span></span><span lang=EN-US style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN;mso-no-proof:yes'><span
-lang=EN-US>ÊÇ·ñÒÑ¾­°²×°ÁË</span></span><span style='mso-fareast-language:ZH-CN;
-mso-no-proof:yes'>java 1.5 </span><span lang=EN-US style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN;mso-no-proof:yes'><span
-lang=EN-US>»ò<span lang=EN-US>Õß¸ü¸ßµÄ°æ±¾¡£</span></span></span><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'><span style='mso-tab-count:1 dotted'>... </span></span><!--[if supportFields]><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'><span style='mso-element:field-begin'></span>
-PAGEREF _Toc361871685 \h <span style='mso-element:field-separator'></span></span><![endif]--><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'>4<!--[if gte mso 9]><xml>
- <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003300360031003800370031003600380035000000</w:data>
-</xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
-display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:
-none'><span style='mso-element:field-end'></span></span><![endif]--></a></span><span
-lang=EN-US style='font-size:10.5pt;mso-bidi-font-size:11.0pt;line-height:115%;
-mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA;
-mso-no-proof:yes'><o:p></o:p></span></p>
-
-<p class=MsoToc3 style='margin-left:48.0pt;tab-stops:100.6pt right dotted 414.8pt'><span
-lang=EN-US><a href="#_Toc361871686"><span lang=EN-US style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN;mso-no-proof:yes'><span
-lang=EN-US>µÚ</span></span><span style='mso-fareast-language:ZH-CN;mso-no-proof:
-yes'>2</span><span lang=EN-US style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN;mso-no-proof:yes'><span lang=EN-US>Ð¡½Ú</span></span><span
-style='font-size:10.5pt;mso-bidi-font-size:11.0pt;line-height:115%;color:windowtext;
-mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA;
-mso-no-proof:yes;text-decoration:none;text-underline:none'><span
-style='mso-tab-count:1'>&nbsp; </span></span><span lang=EN-US style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN;mso-no-proof:yes'><span
-lang=EN-US>ÊÇ·ñÒÑ¾­ÏÂÔØÁË</span></span><span style='mso-fareast-language:ZH-CN;
-mso-no-proof:yes'>eclipse 3.x.</span><span style='color:windowtext;display:
-none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:none'><span
-style='mso-tab-count:1 dotted'> </span></span><!--[if supportFields]><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'><span style='mso-element:field-begin'></span>
-PAGEREF _Toc361871686 \h <span style='mso-element:field-separator'></span></span><![endif]--><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'>4<!--[if gte mso 9]><xml>
- <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003300360031003800370031003600380036000000</w:data>
-</xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
-display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:
-none'><span style='mso-element:field-end'></span></span><![endif]--></a></span><span
-lang=EN-US style='font-size:10.5pt;mso-bidi-font-size:11.0pt;line-height:115%;
-mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA;
-mso-no-proof:yes'><o:p></o:p></span></p>
-
-<p class=MsoToc3 style='margin-left:48.0pt;tab-stops:100.6pt right dotted 414.8pt'><span
-lang=EN-US><a href="#_Toc361871687"><span lang=EN-US style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN;mso-no-proof:yes'><span
-lang=EN-US>µÚ</span></span><span style='mso-fareast-language:ZH-CN;mso-no-proof:
-yes'>3</span><span lang=EN-US style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN;mso-no-proof:yes'><span lang=EN-US>Ð¡½Ú</span></span><span
-style='font-size:10.5pt;mso-bidi-font-size:11.0pt;line-height:115%;color:windowtext;
-mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA;
-mso-no-proof:yes;text-decoration:none;text-underline:none'><span
-style='mso-tab-count:1'>&nbsp; </span></span><span lang=EN-US style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN;mso-no-proof:yes'><span
-lang=EN-US>½¨Á¢±¾½Ì³ÌÑÝÊ¾Ä¿Â¼¡£</span></span><span style='color:windowtext;display:none;
-mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:none'><span
-style='mso-tab-count:1 dotted'>... </span></span><!--[if supportFields]><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'><span style='mso-element:field-begin'></span>
-PAGEREF _Toc361871687 \h <span style='mso-element:field-separator'></span></span><![endif]--><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'>5<!--[if gte mso 9]><xml>
- <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003300360031003800370031003600380037000000</w:data>
-</xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
-display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:
-none'><span style='mso-element:field-end'></span></span><![endif]--></a></span><span
-lang=EN-US style='font-size:10.5pt;mso-bidi-font-size:11.0pt;line-height:115%;
-mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA;
-mso-no-proof:yes'><o:p></o:p></span></p>
-
-<p class=MsoToc2 style='margin-left:24.0pt;tab-stops:73.5pt right dotted 414.8pt'><span
-lang=EN-US><a href="#_Toc361871688"><span lang=EN-US style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN;mso-no-proof:yes'><span
-lang=EN-US>µÚ¶þ½Ú</span></span><span style='font-size:10.5pt;mso-bidi-font-size:
-11.0pt;line-height:115%;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:
-ZH-CN;mso-bidi-language:AR-SA;mso-no-proof:yes;text-decoration:none;text-underline:
-none'><span style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
-lang=EN-US style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-ZH-CN;mso-no-proof:yes'><span lang=EN-US>°²×°¹ý³Ì</span></span><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'><span style='mso-tab-count:1 dotted'>... </span></span><!--[if supportFields]><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'><span style='mso-element:field-begin'></span>
-PAGEREF _Toc361871688 \h <span style='mso-element:field-separator'></span></span><![endif]--><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'>6<!--[if gte mso 9]><xml>
- <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003300360031003800370031003600380038000000</w:data>
-</xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
-display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:
-none'><span style='mso-element:field-end'></span></span><![endif]--></a></span><span
-lang=EN-US style='font-size:10.5pt;mso-bidi-font-size:11.0pt;line-height:115%;
-mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA;
-mso-no-proof:yes'><o:p></o:p></span></p>
-
-<p class=MsoToc3 style='margin-left:48.0pt;tab-stops:100.6pt right dotted 414.8pt'><span
-lang=EN-US><a href="#_Toc361871689"><span lang=EN-US style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN;mso-no-proof:yes'><span
-lang=EN-US>µÚ</span></span><span style='mso-fareast-language:ZH-CN;mso-no-proof:
-yes'>1</span><span lang=EN-US style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN;mso-no-proof:yes'><span lang=EN-US>Ð¡½Ú</span></span><span
-style='font-size:10.5pt;mso-bidi-font-size:11.0pt;line-height:115%;color:windowtext;
-mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA;
-mso-no-proof:yes;text-decoration:none;text-underline:none'><span
-style='mso-tab-count:1'>&nbsp; </span></span><span lang=EN-US style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN;mso-no-proof:yes'><span
-lang=EN-US>ÏÂÔØ</span></span><span style='mso-fareast-language:ZH-CN;mso-no-proof:
-yes'>antworks</span><span lang=EN-US style='font-family:ËÎÌå;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN;mso-no-proof:yes'><span lang=EN-US>£º</span></span><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'><span style='mso-tab-count:1 dotted'>... </span></span><!--[if supportFields]><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'><span style='mso-element:field-begin'></span>
-PAGEREF _Toc361871689 \h <span style='mso-element:field-separator'></span></span><![endif]--><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'>6<!--[if gte mso 9]><xml>
- <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003300360031003800370031003600380039000000</w:data>
-</xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
-display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:
-none'><span style='mso-element:field-end'></span></span><![endif]--></a></span><span
-lang=EN-US style='font-size:10.5pt;mso-bidi-font-size:11.0pt;line-height:115%;
-mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA;
-mso-no-proof:yes'><o:p></o:p></span></p>
-
-<p class=MsoToc3 style='margin-left:48.0pt;tab-stops:100.6pt right dotted 414.8pt'><span
-lang=EN-US><a href="#_Toc361871690"><span lang=EN-US style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN;mso-no-proof:yes'><span
-lang=EN-US>µÚ</span></span><span style='mso-fareast-language:ZH-CN;mso-no-proof:
-yes'>2</span><span lang=EN-US style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN;mso-no-proof:yes'><span lang=EN-US>Ð¡½Ú</span></span><span
-style='font-size:10.5pt;mso-bidi-font-size:11.0pt;line-height:115%;color:windowtext;
-mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA;
-mso-no-proof:yes;text-decoration:none;text-underline:none'><span
-style='mso-tab-count:1'>&nbsp; </span></span><span lang=EN-US style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN;mso-no-proof:yes'><span
-lang=EN-US>ÏÂÔØ</span></span><span style='mso-fareast-language:ZH-CN;mso-no-proof:
-yes'>antlr</span><span lang=EN-US style='font-family:ËÎÌå;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN;mso-no-proof:yes'><span lang=EN-US>µÄ</span></span><span
-style='mso-fareast-language:ZH-CN;mso-no-proof:yes'>jar</span><span lang=EN-US
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN;mso-no-proof:
-yes'><span lang=EN-US>°ü</span></span><span lang=EN-US style='mso-fareast-language:
-ZH-CN;mso-no-proof:yes'><span lang=EN-US> </span></span><span lang=EN-US
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN;mso-no-proof:
-yes'><span lang=EN-US>µ±Ç°µÄ°æ±¾ÊÇ</span></span><span style='mso-fareast-language:
-ZH-CN;mso-no-proof:yes'> v3.3</span><span style='color:windowtext;display:none;
-mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:none'><span
-style='mso-tab-count:1 dotted'>. </span></span><!--[if supportFields]><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'><span style='mso-element:field-begin'></span>
-PAGEREF _Toc361871690 \h <span style='mso-element:field-separator'></span></span><![endif]--><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'>7<!--[if gte mso 9]><xml>
- <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003300360031003800370031003600390030000000</w:data>
-</xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
-display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:
-none'><span style='mso-element:field-end'></span></span><![endif]--></a></span><span
-lang=EN-US style='font-size:10.5pt;mso-bidi-font-size:11.0pt;line-height:115%;
-mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA;
-mso-no-proof:yes'><o:p></o:p></span></p>
-
-<p class=MsoToc3 style='margin-left:48.0pt;tab-stops:100.6pt right dotted 414.8pt'><span
-lang=EN-US><a href="#_Toc361871691"><span lang=EN-US style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN;mso-no-proof:yes'><span
-lang=EN-US>µÚ</span></span><span style='mso-fareast-language:ZH-CN;mso-no-proof:
-yes'>3</span><span lang=EN-US style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN;mso-no-proof:yes'><span lang=EN-US>Ð¡½Ú</span></span><span
-style='font-size:10.5pt;mso-bidi-font-size:11.0pt;line-height:115%;color:windowtext;
-mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA;
-mso-no-proof:yes;text-decoration:none;text-underline:none'><span
-style='mso-tab-count:1'>&nbsp; </span></span><span lang=EN-US style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN;mso-no-proof:yes'><span
-lang=EN-US>°²×°</span></span><span style='mso-fareast-language:ZH-CN;mso-no-proof:
-yes'>eclipse</span><span lang=EN-US style='font-family:ËÎÌå;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN;mso-no-proof:yes'><span lang=EN-US>²å¼þ¡£</span></span><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'><span style='mso-tab-count:1 dotted'>... </span></span><!--[if supportFields]><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'><span style='mso-element:field-begin'></span>
-PAGEREF _Toc361871691 \h <span style='mso-element:field-separator'></span></span><![endif]--><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'>8<!--[if gte mso 9]><xml>
- <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003300360031003800370031003600390031000000</w:data>
-</xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
-display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:
-none'><span style='mso-element:field-end'></span></span><![endif]--></a></span><span
-lang=EN-US style='font-size:10.5pt;mso-bidi-font-size:11.0pt;line-height:115%;
-mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA;
-mso-no-proof:yes'><o:p></o:p></span></p>
-
-<p class=MsoToc3 style='margin-left:48.0pt;tab-stops:100.6pt right dotted 414.8pt'><span
-lang=EN-US><a href="#_Toc361871692"><span lang=EN-US style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN;mso-no-proof:yes'><span
-lang=EN-US>µÚ</span></span><span style='mso-fareast-language:ZH-CN;mso-no-proof:
-yes'>4</span><span lang=EN-US style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN;mso-no-proof:yes'><span lang=EN-US>Ð¡½Ú</span></span><span
-style='font-size:10.5pt;mso-bidi-font-size:11.0pt;line-height:115%;color:windowtext;
-mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA;
-mso-no-proof:yes;text-decoration:none;text-underline:none'><span
-style='mso-tab-count:1'>&nbsp; </span></span><span lang=EN-US style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN;mso-no-proof:yes'><span
-lang=EN-US>È·ÈÏÄãµÄ°²×°ÊÇ·ñÕýÈ·¡£</span></span><span style='color:windowtext;display:none;
-mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:none'><span
-style='mso-tab-count:1 dotted'>... </span></span><!--[if supportFields]><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'><span style='mso-element:field-begin'></span>
-PAGEREF _Toc361871692 \h <span style='mso-element:field-separator'></span></span><![endif]--><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'>11<!--[if gte mso 9]><xml>
- <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003300360031003800370031003600390032000000</w:data>
-</xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
-display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:
-none'><span style='mso-element:field-end'></span></span><![endif]--></a></span><span
-lang=EN-US style='font-size:10.5pt;mso-bidi-font-size:11.0pt;line-height:115%;
-mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA;
-mso-no-proof:yes'><o:p></o:p></span></p>
-
-<p class=MsoToc1 style='tab-stops:52.5pt right dotted 414.8pt'><span
-lang=EN-US><a href="#_Toc361871693"><span lang=EN-US style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN;mso-no-proof:yes'><span
-lang=EN-US>µÚÈýÕÂ</span></span><span style='font-size:10.5pt;mso-bidi-font-size:
-11.0pt;line-height:115%;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:
-ZH-CN;mso-bidi-language:AR-SA;mso-no-proof:yes;text-decoration:none;text-underline:
-none'><span style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
-lang=EN-US style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-ZH-CN;mso-no-proof:yes'><span lang=EN-US>¹¤¾ß»·¾³½éÉÜÆª£º</span></span><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'><span style='mso-tab-count:1 dotted'>... </span></span><!--[if supportFields]><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'><span style='mso-element:field-begin'></span>
-PAGEREF _Toc361871693 \h <span style='mso-element:field-separator'></span></span><![endif]--><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'>12<!--[if gte mso 9]><xml>
- <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003300360031003800370031003600390033000000</w:data>
-</xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
-display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:
-none'><span style='mso-element:field-end'></span></span><![endif]--></a></span><span
-lang=EN-US style='font-size:10.5pt;mso-bidi-font-size:11.0pt;line-height:115%;
-mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA;
-mso-no-proof:yes'><o:p></o:p></span></p>
-
-<p class=MsoToc2 style='margin-left:24.0pt;tab-stops:73.5pt right dotted 414.8pt'><span
-lang=EN-US><a href="#_Toc361871694"><span lang=EN-US style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN;mso-no-proof:yes'><span
-lang=EN-US>µÚÒ»½Ú</span></span><span style='font-size:10.5pt;mso-bidi-font-size:
-11.0pt;line-height:115%;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:
-ZH-CN;mso-bidi-language:AR-SA;mso-no-proof:yes;text-decoration:none;text-underline:
-none'><span style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
-lang=EN-US style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-ZH-CN;mso-no-proof:yes'><span lang=EN-US>ÏÈ´Ó</span></span><span
-style='mso-fareast-language:ZH-CN;mso-no-proof:yes'>antlrworks</span><span
-lang=EN-US style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-ZH-CN;mso-no-proof:yes'><span lang=EN-US>¿ªÊ¼ÌåÑé</span></span><span
-style='mso-fareast-language:ZH-CN;mso-no-proof:yes'>antlr.</span><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'><span style='mso-tab-count:1 dotted'> </span></span><!--[if supportFields]><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'><span style='mso-element:field-begin'></span>
-PAGEREF _Toc361871694 \h <span style='mso-element:field-separator'></span></span><![endif]--><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'>13<!--[if gte mso 9]><xml>
- <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003300360031003800370031003600390034000000</w:data>
-</xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
-display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:
-none'><span style='mso-element:field-end'></span></span><![endif]--></a></span><span
-lang=EN-US style='font-size:10.5pt;mso-bidi-font-size:11.0pt;line-height:115%;
-mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA;
-mso-no-proof:yes'><o:p></o:p></span></p>
-
-<p class=MsoToc3 style='margin-left:48.0pt;tab-stops:100.6pt right dotted 414.8pt'><span
-lang=EN-US><a href="#_Toc361871695"><span lang=EN-US style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN;mso-no-proof:yes'><span
-lang=EN-US>µÚ</span></span><span style='mso-fareast-language:ZH-CN;mso-no-proof:
-yes'>1</span><span lang=EN-US style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN;mso-no-proof:yes'><span lang=EN-US>Ð¡½Ú</span></span><span
-style='font-size:10.5pt;mso-bidi-font-size:11.0pt;line-height:115%;color:windowtext;
-mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA;
-mso-no-proof:yes;text-decoration:none;text-underline:none'><span
-style='mso-tab-count:1'>&nbsp; </span></span><span lang=EN-US style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN;mso-no-proof:yes'><span
-lang=EN-US>´´<span lang=EN-US>½¨Óï·¨ÎÄ¼þ</span></span></span><span style='color:windowtext;
-display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:
-none'><span style='mso-tab-count:1 dotted'>... </span></span><!--[if supportFields]><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'><span style='mso-element:field-begin'></span>
-PAGEREF _Toc361871695 \h <span style='mso-element:field-separator'></span></span><![endif]--><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'>13<!--[if gte mso 9]><xml>
- <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003300360031003800370031003600390035000000</w:data>
-</xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
-display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:
-none'><span style='mso-element:field-end'></span></span><![endif]--></a></span><span
-lang=EN-US style='font-size:10.5pt;mso-bidi-font-size:11.0pt;line-height:115%;
-mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA;
-mso-no-proof:yes'><o:p></o:p></span></p>
-
-<p class=MsoToc3 style='margin-left:48.0pt;tab-stops:100.6pt right dotted 414.8pt'><span
-lang=EN-US><a href="#_Toc361871696"><span lang=EN-US style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN;mso-no-proof:yes'><span
-lang=EN-US>µÚ</span></span><span style='mso-fareast-language:ZH-CN;mso-no-proof:
-yes'>2</span><span lang=EN-US style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN;mso-no-proof:yes'><span lang=EN-US>Ð¡½Ú</span></span><span
-style='font-size:10.5pt;mso-bidi-font-size:11.0pt;line-height:115%;color:windowtext;
-mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA;
-mso-no-proof:yes;text-decoration:none;text-underline:none'><span
-style='mso-tab-count:1'>&nbsp; </span></span><span lang=EN-US style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN;mso-no-proof:yes'><span
-lang=EN-US>ÔËÐÐµ÷ÊÔÓï·¨ÎÄ¼þ</span></span><span style='color:windowtext;display:none;
-mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:none'><span
-style='mso-tab-count:1 dotted'>... </span></span><!--[if supportFields]><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'><span style='mso-element:field-begin'></span>
-PAGEREF _Toc361871696 \h <span style='mso-element:field-separator'></span></span><![endif]--><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'>15<!--[if gte mso 9]><xml>
- <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003300360031003800370031003600390036000000</w:data>
-</xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
-display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:
-none'><span style='mso-element:field-end'></span></span><![endif]--></a></span><span
-lang=EN-US style='font-size:10.5pt;mso-bidi-font-size:11.0pt;line-height:115%;
-mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA;
-mso-no-proof:yes'><o:p></o:p></span></p>
-
-<p class=MsoToc2 style='margin-left:24.0pt;tab-stops:73.5pt right dotted 414.8pt'><span
-lang=EN-US><a href="#_Toc361871697"><span lang=EN-US style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN;mso-no-proof:yes'><span
-lang=EN-US>µÚ¶þ½Ú</span></span><span style='font-size:10.5pt;mso-bidi-font-size:
-11.0pt;line-height:115%;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:
-ZH-CN;mso-bidi-language:AR-SA;mso-no-proof:yes;text-decoration:none;text-underline:
-none'><span style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
-lang=EN-US style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-ZH-CN;mso-no-proof:yes'><span lang=EN-US>ÔÙ¿ªÊ¼Æ·³¢</span></span><span
-style='mso-fareast-language:ZH-CN;mso-no-proof:yes'>anltrv3ide</span><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'><span style='mso-tab-count:1 dotted'>. </span></span><!--[if supportFields]><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'><span style='mso-element:field-begin'></span>
-PAGEREF _Toc361871697 \h <span style='mso-element:field-separator'></span></span><![endif]--><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'>18<!--[if gte mso 9]><xml>
- <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003300360031003800370031003600390037000000</w:data>
-</xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
-display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:
-none'><span style='mso-element:field-end'></span></span><![endif]--></a></span><span
-lang=EN-US style='font-size:10.5pt;mso-bidi-font-size:11.0pt;line-height:115%;
-mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA;
-mso-no-proof:yes'><o:p></o:p></span></p>
-
-<p class=MsoToc3 style='margin-left:48.0pt;tab-stops:100.6pt right dotted 414.8pt'><span
-lang=EN-US><a href="#_Toc361871698"><span lang=EN-US style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN;mso-no-proof:yes'><span
-lang=EN-US>µÚ</span></span><span style='mso-fareast-language:ZH-CN;mso-no-proof:
-yes'>1</span><span lang=EN-US style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN;mso-no-proof:yes'><span lang=EN-US>Ð¡½Ú</span></span><span
-style='font-size:10.5pt;mso-bidi-font-size:11.0pt;line-height:115%;color:windowtext;
-mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA;
-mso-no-proof:yes;text-decoration:none;text-underline:none'><span
-style='mso-tab-count:1'>&nbsp; </span></span><span lang=EN-US style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN;mso-no-proof:yes'><span
-lang=EN-US>ÐÂ½¨Ò»¸ö</span></span><span style='mso-fareast-language:ZH-CN;
-mso-no-proof:yes'>antlr</span><span lang=EN-US style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN;mso-no-proof:yes'><span
-lang=EN-US>ÏîÄ¿</span></span><span style='mso-fareast-language:ZH-CN;mso-no-proof:
-yes'>.</span><span style='color:windowtext;display:none;mso-hide:screen;
-mso-no-proof:yes;text-decoration:none;text-underline:none'><span
-style='mso-tab-count:1 dotted'> </span></span><!--[if supportFields]><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'><span style='mso-element:field-begin'></span>
-PAGEREF _Toc361871698 \h <span style='mso-element:field-separator'></span></span><![endif]--><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'>18<!--[if gte mso 9]><xml>
- <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003300360031003800370031003600390038000000</w:data>
-</xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
-display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:
-none'><span style='mso-element:field-end'></span></span><![endif]--></a></span><span
-lang=EN-US style='font-size:10.5pt;mso-bidi-font-size:11.0pt;line-height:115%;
-mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA;
-mso-no-proof:yes'><o:p></o:p></span></p>
-
-<p class=MsoToc3 style='margin-left:48.0pt;tab-stops:100.6pt right dotted 414.8pt'><span
-lang=EN-US><a href="#_Toc361871699"><span lang=EN-US style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN;mso-no-proof:yes'><span
-lang=EN-US>µÚ</span></span><span style='mso-fareast-language:ZH-CN;mso-no-proof:
-yes'>2</span><span lang=EN-US style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN;mso-no-proof:yes'><span lang=EN-US>Ð¡½Ú</span></span><span
-style='font-size:10.5pt;mso-bidi-font-size:11.0pt;line-height:115%;color:windowtext;
-mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA;
-mso-no-proof:yes;text-decoration:none;text-underline:none'><span
-style='mso-tab-count:1'>&nbsp; </span></span><span lang=EN-US style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN;mso-no-proof:yes'><span
-lang=EN-US>´´½¨Óï·¨ÎÄ¼þ</span></span><span style='color:windowtext;display:none;
-mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:none'><span
-style='mso-tab-count:1 dotted'>... </span></span><!--[if supportFields]><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'><span style='mso-element:field-begin'></span>
-PAGEREF _Toc361871699 \h <span style='mso-element:field-separator'></span></span><![endif]--><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'>19<!--[if gte mso 9]><xml>
- <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003300360031003800370031003600390039000000</w:data>
-</xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
-display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:
-none'><span style='mso-element:field-end'></span></span><![endif]--></a></span><span
-lang=EN-US style='font-size:10.5pt;mso-bidi-font-size:11.0pt;line-height:115%;
-mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA;
-mso-no-proof:yes'><o:p></o:p></span></p>
-
-<p class=MsoToc3 style='margin-left:48.0pt;tab-stops:100.6pt right dotted 414.8pt'><span
-lang=EN-US><a href="#_Toc361871700"><span lang=EN-US style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN;mso-no-proof:yes'><span
-lang=EN-US>µÚ</span></span><span style='mso-fareast-language:ZH-CN;mso-no-proof:
-yes'>3</span><span lang=EN-US style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN;mso-no-proof:yes'><span lang=EN-US>Ð¡½Ú</span></span><span
-style='font-size:10.5pt;mso-bidi-font-size:11.0pt;line-height:115%;color:windowtext;
-mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA;
-mso-no-proof:yes;text-decoration:none;text-underline:none'><span
-style='mso-tab-count:1'>&nbsp; </span></span><span lang=EN-US style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN;mso-no-proof:yes'><span
-lang=EN-US>½øÐÐ»òÕß¼ì²é²å¼þµÄÉèÖÃ</span></span><span style='mso-fareast-language:ZH-CN;
-mso-no-proof:yes'>..</span><span style='color:windowtext;display:none;
-mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:none'><span
-style='mso-tab-count:1 dotted'> </span></span><!--[if supportFields]><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'><span style='mso-element:field-begin'></span>
-PAGEREF _Toc361871700 \h <span style='mso-element:field-separator'></span></span><![endif]--><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'>23<!--[if gte mso 9]><xml>
- <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003300360031003800370031003700300030000000</w:data>
-</xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
-display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:
-none'><span style='mso-element:field-end'></span></span><![endif]--></a></span><span
-lang=EN-US style='font-size:10.5pt;mso-bidi-font-size:11.0pt;line-height:115%;
-mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA;
-mso-no-proof:yes'><o:p></o:p></span></p>
-
-<p class=MsoToc3 style='margin-left:48.0pt;tab-stops:100.6pt right dotted 414.8pt'><span
-lang=EN-US><a href="#_Toc361871701"><span lang=EN-US style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN;mso-no-proof:yes'><span
-lang=EN-US>µÚ</span></span><span style='mso-fareast-language:ZH-CN;mso-no-proof:
-yes'>4</span><span lang=EN-US style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN;mso-no-proof:yes'><span lang=EN-US>Ð¡½Ú</span></span><span
-style='font-size:10.5pt;mso-bidi-font-size:11.0pt;line-height:115%;color:windowtext;
-mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA;
-mso-no-proof:yes;text-decoration:none;text-underline:none'><span
-style='mso-tab-count:1'>&nbsp; </span></span><span lang=EN-US style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN;mso-no-proof:yes'><span
-lang=EN-US>±àÐ´²âÊÔµÄ³ÌÐò</span></span><span style='color:windowtext;display:none;
-mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:none'><span
-style='mso-tab-count:1 dotted'>... </span></span><!--[if supportFields]><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'><span style='mso-element:field-begin'></span>
-PAGEREF _Toc361871701 \h <span style='mso-element:field-separator'></span></span><![endif]--><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'>26<!--[if gte mso 9]><xml>
- <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003300360031003800370031003700300031000000</w:data>
-</xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
-display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:
-none'><span style='mso-element:field-end'></span></span><![endif]--></a></span><span
-lang=EN-US style='font-size:10.5pt;mso-bidi-font-size:11.0pt;line-height:115%;
-mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA;
-mso-no-proof:yes'><o:p></o:p></span></p>
-
-<p class=MsoToc2 style='margin-left:24.0pt;tab-stops:73.5pt right dotted 414.8pt'><span
-lang=EN-US><a href="#_Toc361871702"><span lang=EN-US style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN;mso-no-proof:yes'><span
-lang=EN-US>µÚÈý½Ú</span></span><span style='font-size:10.5pt;mso-bidi-font-size:
-11.0pt;line-height:115%;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:
-ZH-CN;mso-bidi-language:AR-SA;mso-no-proof:yes;text-decoration:none;text-underline:
-none'><span style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
-style='mso-fareast-language:ZH-CN;mso-no-proof:yes'>Antlrworks</span><span
-lang=EN-US style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-ZH-CN;mso-no-proof:yes'><span lang=EN-US>¹¤¾ßµÄ¸÷²¿·ÖÊ¹ÓÃËµÃ÷</span></span><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'><span style='mso-tab-count:1 dotted'>... </span></span><!--[if supportFields]><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'><span style='mso-element:field-begin'></span>
-PAGEREF _Toc361871702 \h <span style='mso-element:field-separator'></span></span><![endif]--><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'>30<!--[if gte mso 9]><xml>
- <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003300360031003800370031003700300032000000</w:data>
-</xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
-display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:
-none'><span style='mso-element:field-end'></span></span><![endif]--></a></span><span
-lang=EN-US style='font-size:10.5pt;mso-bidi-font-size:11.0pt;line-height:115%;
-mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA;
-mso-no-proof:yes'><o:p></o:p></span></p>
-
-<p class=MsoToc2 style='margin-left:24.0pt;tab-stops:73.5pt right dotted 414.8pt'><span
-lang=EN-US><a href="#_Toc361871703"><span lang=EN-US style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN;mso-no-proof:yes'><span
-lang=EN-US>µÚËÄ½Ú</span></span><span style='font-size:10.5pt;mso-bidi-font-size:
-11.0pt;line-height:115%;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:
-ZH-CN;mso-bidi-language:AR-SA;mso-no-proof:yes;text-decoration:none;text-underline:
-none'><span style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
-style='mso-fareast-language:ZH-CN;mso-no-proof:yes'>Antlrv3ide</span><span
-lang=EN-US style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-ZH-CN;mso-no-proof:yes'><span lang=EN-US>²å¼þµÄ¸÷²¿·ÖÊ¹ÓÃËµÃ÷</span></span><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'><span style='mso-tab-count:1 dotted'>... </span></span><!--[if supportFields]><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'><span style='mso-element:field-begin'></span>
-PAGEREF _Toc361871703 \h <span style='mso-element:field-separator'></span></span><![endif]--><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'>31<!--[if gte mso 9]><xml>
- <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003300360031003800370031003700300033000000</w:data>
-</xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
-display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:
-none'><span style='mso-element:field-end'></span></span><![endif]--></a></span><span
-lang=EN-US style='font-size:10.5pt;mso-bidi-font-size:11.0pt;line-height:115%;
-mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA;
-mso-no-proof:yes'><o:p></o:p></span></p>
-
-<p class=MsoToc1 style='tab-stops:52.5pt right dotted 414.8pt'><span
-lang=EN-US><a href="#_Toc361871704"><span lang=EN-US style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN;mso-no-proof:yes'><span
-lang=EN-US>µÚËÄÕÂ</span></span><span style='font-size:10.5pt;mso-bidi-font-size:
-11.0pt;line-height:115%;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:
-ZH-CN;mso-bidi-language:AR-SA;mso-no-proof:yes;text-decoration:none;text-underline:
-none'><span style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
-lang=EN-US style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-ZH-CN;mso-no-proof:yes'><span lang=EN-US>Ê¹ÓÃÆª</span></span><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'><span style='mso-tab-count:1 dotted'>... </span></span><!--[if supportFields]><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'><span style='mso-element:field-begin'></span>
-PAGEREF _Toc361871704 \h <span style='mso-element:field-separator'></span></span><![endif]--><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'>33<!--[if gte mso 9]><xml>
- <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003300360031003800370031003700300034000000</w:data>
-</xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
-display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:
-none'><span style='mso-element:field-end'></span></span><![endif]--></a></span><span
-lang=EN-US style='font-size:10.5pt;mso-bidi-font-size:11.0pt;line-height:115%;
-mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA;
-mso-no-proof:yes'><o:p></o:p></span></p>
-
-<p class=MsoToc2 style='margin-left:24.0pt;tab-stops:73.5pt right dotted 414.8pt'><span
-lang=EN-US><a href="#_Toc361871705"><span lang=EN-US style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN;mso-no-proof:yes'><span
-lang=EN-US>µÚÒ»½Ú</span></span><span style='font-size:10.5pt;mso-bidi-font-size:
-11.0pt;line-height:115%;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:
-ZH-CN;mso-bidi-language:AR-SA;mso-no-proof:yes;text-decoration:none;text-underline:
-none'><span style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
-lang=EN-US style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-ZH-CN;mso-no-proof:yes'><span lang=EN-US>ÎÞÔðÈÎÂÒµ¯</span></span><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'><span style='mso-tab-count:1 dotted'>... </span></span><!--[if supportFields]><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'><span style='mso-element:field-begin'></span>
-PAGEREF _Toc361871705 \h <span style='mso-element:field-separator'></span></span><![endif]--><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'>33<!--[if gte mso 9]><xml>
- <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003300360031003800370031003700300035000000</w:data>
-</xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
-display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:
-none'><span style='mso-element:field-end'></span></span><![endif]--></a></span><span
-lang=EN-US style='font-size:10.5pt;mso-bidi-font-size:11.0pt;line-height:115%;
-mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA;
-mso-no-proof:yes'><o:p></o:p></span></p>
-
-<p class=MsoToc2 style='margin-left:24.0pt;tab-stops:73.5pt right dotted 414.8pt'><span
-lang=EN-US><a href="#_Toc361871706"><span lang=EN-US style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN;mso-no-proof:yes'><span
-lang=EN-US>µÚ¶þ½Ú</span></span><span style='font-size:10.5pt;mso-bidi-font-size:
-11.0pt;line-height:115%;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:
-ZH-CN;mso-bidi-language:AR-SA;mso-no-proof:yes;text-decoration:none;text-underline:
-none'><span style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
-lang=EN-US style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-ZH-CN;mso-no-proof:yes'><span lang=EN-US>¹ØÓÚÓï·¨½âÎöµÄÒ»Ð©»ù±¾¸ÅÄî</span></span><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'><span style='mso-tab-count:1 dotted'>... </span></span><!--[if supportFields]><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'><span style='mso-element:field-begin'></span>
-PAGEREF _Toc361871706 \h <span style='mso-element:field-separator'></span></span><![endif]--><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'>35<!--[if gte mso 9]><xml>
- <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003300360031003800370031003700300036000000</w:data>
-</xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
-display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:
-none'><span style='mso-element:field-end'></span></span><![endif]--></a></span><span
-lang=EN-US style='font-size:10.5pt;mso-bidi-font-size:11.0pt;line-height:115%;
-mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA;
-mso-no-proof:yes'><o:p></o:p></span></p>
-
-<p class=MsoToc3 style='margin-left:48.0pt;tab-stops:100.6pt right dotted 414.8pt'><span
-lang=EN-US><a href="#_Toc361871707"><span lang=EN-US style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN;mso-no-proof:yes'><span
-lang=EN-US>µÚ</span></span><span style='mso-fareast-language:ZH-CN;mso-no-proof:
-yes'>1</span><span lang=EN-US style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN;mso-no-proof:yes'><span lang=EN-US>Ð¡½Ú</span></span><span
-style='font-size:10.5pt;mso-bidi-font-size:11.0pt;line-height:115%;color:windowtext;
-mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA;
-mso-no-proof:yes;text-decoration:none;text-underline:none'><span
-style='mso-tab-count:1'>&nbsp; </span></span><span lang=EN-US style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN;mso-no-proof:yes'><span
-lang=EN-US>Ê²Ã´ÊÇ´Ê·¨·ÖÎö£¬Ê²Ã´ÊÇÓï·¨·ÖÎö£¬ÕâÁ½ÕßÓÐÊ²Ã´²»Í¬£¿</span></span><span style='color:windowtext;
-display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:
-none'><span style='mso-tab-count:1 dotted'>... </span></span><!--[if supportFields]><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'><span style='mso-element:field-begin'></span>
-PAGEREF _Toc361871707 \h <span style='mso-element:field-separator'></span></span><![endif]--><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'>36<!--[if gte mso 9]><xml>
- <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003300360031003800370031003700300037000000</w:data>
-</xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
-display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:
-none'><span style='mso-element:field-end'></span></span><![endif]--></a></span><span
-lang=EN-US style='font-size:10.5pt;mso-bidi-font-size:11.0pt;line-height:115%;
-mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA;
-mso-no-proof:yes'><o:p></o:p></span></p>
-
-<p class=MsoToc3 style='margin-left:48.0pt;tab-stops:100.6pt right dotted 414.8pt'><span
-lang=EN-US><a href="#_Toc361871708"><span lang=EN-US style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN;mso-no-proof:yes'><span
-lang=EN-US>µÚ</span></span><span style='mso-fareast-language:ZH-CN;mso-no-proof:
-yes'>2</span><span lang=EN-US style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN;mso-no-proof:yes'><span lang=EN-US>Ð¡½Ú</span></span><span
-style='font-size:10.5pt;mso-bidi-font-size:11.0pt;line-height:115%;color:windowtext;
-mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA;
-mso-no-proof:yes;text-decoration:none;text-underline:none'><span
-style='mso-tab-count:1'>&nbsp; </span></span><span lang=EN-US style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN;mso-no-proof:yes'><span
-lang=EN-US>°Í¿ËË¹</span></span><span style='mso-fareast-language:ZH-CN;mso-no-proof:
-yes'>-</span><span lang=EN-US style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN;mso-no-proof:yes'><span lang=EN-US>Åµ¶û·¶Ê½</span></span><span
-style='mso-fareast-language:ZH-CN;mso-no-proof:yes'>,</span><span lang=EN-US
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN;mso-no-proof:
-yes'><span lang=EN-US>²úÉúÊ½</span></span><span style='mso-fareast-language:ZH-CN;
-mso-no-proof:yes'>,</span><span lang=EN-US style='font-family:ËÎÌå;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN;mso-no-proof:yes'><span lang=EN-US>×î×óÍÆµ¼</span></span><span
-style='mso-fareast-language:ZH-CN;mso-no-proof:yes'>,</span><span lang=EN-US
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN;mso-no-proof:
-yes'><span lang=EN-US>×îÓÒÍÆµ¼</span></span><span style='mso-fareast-language:ZH-CN;
-mso-no-proof:yes'>,</span><span lang=EN-US style='font-family:ËÎÌå;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN;mso-no-proof:yes'><span lang=EN-US>×óµÝ¹é</span></span><span
-style='mso-fareast-language:ZH-CN;mso-no-proof:yes'>,</span><span lang=EN-US
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN;mso-no-proof:
-yes'><span lang=EN-US>ÓÒµÝ¹é</span></span><span style='color:windowtext;
-display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:
-none'><span style='mso-tab-count:1 dotted'>... </span></span><!--[if supportFields]><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'><span style='mso-element:field-begin'></span>
-PAGEREF _Toc361871708 \h <span style='mso-element:field-separator'></span></span><![endif]--><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'>38<!--[if gte mso 9]><xml>
- <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003300360031003800370031003700300038000000</w:data>
-</xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
-display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:
-none'><span style='mso-element:field-end'></span></span><![endif]--></a></span><span
-lang=EN-US style='font-size:10.5pt;mso-bidi-font-size:11.0pt;line-height:115%;
-mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA;
-mso-no-proof:yes'><o:p></o:p></span></p>
-
-<p class=MsoToc3 style='margin-left:48.0pt;tab-stops:100.6pt right dotted 414.8pt'><span
-lang=EN-US><a href="#_Toc361871709"><span lang=EN-US style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN;mso-no-proof:yes'><span
-lang=EN-US>µÚ</span></span><span style='mso-fareast-language:ZH-CN;mso-no-proof:
-yes'>3</span><span lang=EN-US style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN;mso-no-proof:yes'><span lang=EN-US>Ð¡½Ú</span></span><span
-style='font-size:10.5pt;mso-bidi-font-size:11.0pt;line-height:115%;color:windowtext;
-mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA;
-mso-no-proof:yes;text-decoration:none;text-underline:none'><span
-style='mso-tab-count:1'>&nbsp; </span></span><span lang=EN-US style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN;mso-no-proof:yes'><span
-lang=EN-US>Óï·¨½âÎöµÄ×Ô¶¥ÏòÏÂºÍ×Ôµ×ÏòÉÏµÄ²ßÂÔ</span></span><span style='color:windowtext;
-display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:
-none'><span style='mso-tab-count:1 dotted'>... </span></span><!--[if supportFields]><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'><span style='mso-element:field-begin'></span>
-PAGEREF _Toc361871709 \h <span style='mso-element:field-separator'></span></span><![endif]--><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'>39<!--[if gte mso 9]><xml>
- <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003300360031003800370031003700300039000000</w:data>
-</xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
-display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:
-none'><span style='mso-element:field-end'></span></span><![endif]--></a></span><span
-lang=EN-US style='font-size:10.5pt;mso-bidi-font-size:11.0pt;line-height:115%;
-mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA;
-mso-no-proof:yes'><o:p></o:p></span></p>
-
-<p class=MsoToc2 style='margin-left:24.0pt;tab-stops:73.5pt right dotted 414.8pt'><span
-lang=EN-US><a href="#_Toc361871710"><span lang=EN-US style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN;mso-no-proof:yes'><span
-lang=EN-US>µÚÈý½Ú</span></span><span style='font-size:10.5pt;mso-bidi-font-size:
-11.0pt;line-height:115%;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:
-ZH-CN;mso-bidi-language:AR-SA;mso-no-proof:yes;text-decoration:none;text-underline:
-none'><span style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
-lang=EN-US style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-ZH-CN;mso-no-proof:yes'><span lang=EN-US>¾­µäµÄ±í´ïÊ½<span lang=EN-US>½Ì³Ì½âÎö</span></span></span><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'><span style='mso-tab-count:1 dotted'>... </span></span><!--[if supportFields]><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'><span style='mso-element:field-begin'></span>
-PAGEREF _Toc361871710 \h <span style='mso-element:field-separator'></span></span><![endif]--><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'>44<!--[if gte mso 9]><xml>
- <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003300360031003800370031003700310030000000</w:data>
-</xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
-display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:
-none'><span style='mso-element:field-end'></span></span><![endif]--></a></span><span
-lang=EN-US style='font-size:10.5pt;mso-bidi-font-size:11.0pt;line-height:115%;
-mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA;
-mso-no-proof:yes'><o:p></o:p></span></p>
-
-<p class=MsoToc3 style='margin-left:48.0pt;tab-stops:100.6pt right dotted 414.8pt'><span
-lang=EN-US><a href="#_Toc361871711"><span lang=EN-US style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN;mso-no-proof:yes'><span
-lang=EN-US>µÚ</span></span><span style='mso-fareast-language:ZH-CN;mso-no-proof:
-yes'>1</span><span lang=EN-US style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN;mso-no-proof:yes'><span lang=EN-US>Ð¡½Ú</span></span><span
-style='font-size:10.5pt;mso-bidi-font-size:11.0pt;line-height:115%;color:windowtext;
-mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA;
-mso-no-proof:yes;text-decoration:none;text-underline:none'><span
-style='mso-tab-count:1'>&nbsp; </span></span><span lang=EN-US style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN;mso-no-proof:yes'><span
-lang=EN-US>½ç¶¨ÐèÇó</span></span><span style='color:windowtext;display:none;
-mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:none'><span
-style='mso-tab-count:1 dotted'>... </span></span><!--[if supportFields]><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'><span style='mso-element:field-begin'></span>
-PAGEREF _Toc361871711 \h <span style='mso-element:field-separator'></span></span><![endif]--><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'>44<!--[if gte mso 9]><xml>
- <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003300360031003800370031003700310031000000</w:data>
-</xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
-display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:
-none'><span style='mso-element:field-end'></span></span><![endif]--></a></span><span
-lang=EN-US style='font-size:10.5pt;mso-bidi-font-size:11.0pt;line-height:115%;
-mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA;
-mso-no-proof:yes'><o:p></o:p></span></p>
-
-<p class=MsoToc3 style='margin-left:48.0pt;tab-stops:100.6pt right dotted 414.8pt'><span
-lang=EN-US><a href="#_Toc361871712"><span lang=EN-US style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN;mso-no-proof:yes'><span
-lang=EN-US>µÚ</span></span><span style='mso-fareast-language:ZH-CN;mso-no-proof:
-yes'>2</span><span lang=EN-US style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN;mso-no-proof:yes'><span lang=EN-US>Ð¡½Ú</span></span><span
-style='font-size:10.5pt;mso-bidi-font-size:11.0pt;line-height:115%;color:windowtext;
-mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA;
-mso-no-proof:yes;text-decoration:none;text-underline:none'><span
-style='mso-tab-count:1'>&nbsp; </span></span><span lang=EN-US style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN;mso-no-proof:yes'><span
-lang=EN-US>Éè¼ÆÓï·¨</span></span><span style='color:windowtext;display:none;
-mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:none'><span
-style='mso-tab-count:1 dotted'>... </span></span><!--[if supportFields]><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'><span style='mso-element:field-begin'></span>
-PAGEREF _Toc361871712 \h <span style='mso-element:field-separator'></span></span><![endif]--><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'>45<!--[if gte mso 9]><xml>
- <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003300360031003800370031003700310032000000</w:data>
-</xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
-display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:
-none'><span style='mso-element:field-end'></span></span><![endif]--></a></span><span
-lang=EN-US style='font-size:10.5pt;mso-bidi-font-size:11.0pt;line-height:115%;
-mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA;
-mso-no-proof:yes'><o:p></o:p></span></p>
-
-<p class=MsoToc3 style='margin-left:48.0pt;tab-stops:100.6pt right dotted 414.8pt'><span
-lang=EN-US><a href="#_Toc361871713"><span lang=EN-US style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN;mso-no-proof:yes'><span
-lang=EN-US>µÚ</span></span><span style='mso-fareast-language:ZH-CN;mso-no-proof:
-yes'>3</span><span lang=EN-US style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN;mso-no-proof:yes'><span lang=EN-US>Ð¡½Ú</span></span><span
-style='font-size:10.5pt;mso-bidi-font-size:11.0pt;line-height:115%;color:windowtext;
-mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA;
-mso-no-proof:yes;text-decoration:none;text-underline:none'><span
-style='mso-tab-count:1'>&nbsp; </span></span><span lang=EN-US style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN;mso-no-proof:yes'><span
-lang=EN-US>ÊµÏÖÓïÒå</span></span><span style='color:windowtext;display:none;
-mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:none'><span
-style='mso-tab-count:1 dotted'>... </span></span><!--[if supportFields]><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'><span style='mso-element:field-begin'></span>
-PAGEREF _Toc361871713 \h <span style='mso-element:field-separator'></span></span><![endif]--><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'>51<!--[if gte mso 9]><xml>
- <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003300360031003800370031003700310033000000</w:data>
-</xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
-display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:
-none'><span style='mso-element:field-end'></span></span><![endif]--></a></span><span
-lang=EN-US style='font-size:10.5pt;mso-bidi-font-size:11.0pt;line-height:115%;
-mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA;
-mso-no-proof:yes'><o:p></o:p></span></p>
-
-<p class=MsoToc2 style='margin-left:24.0pt;tab-stops:73.5pt right dotted 414.8pt'><span
-lang=EN-US><a href="#_Toc361871714"><span lang=EN-US style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN;mso-no-proof:yes'><span
-lang=EN-US>µÚËÄ½Ú</span></span><span style='font-size:10.5pt;mso-bidi-font-size:
-11.0pt;line-height:115%;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:
-ZH-CN;mso-bidi-language:AR-SA;mso-no-proof:yes;text-decoration:none;text-underline:
-none'><span style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
-lang=EN-US style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-ZH-CN;mso-no-proof:yes'><span lang=EN-US>×´Ì¬»ú´úÂëÉú³É¿ò¼ÜÊµÀý·ÖÎö</span></span><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'><span style='mso-tab-count:1 dotted'>... </span></span><!--[if supportFields]><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'><span style='mso-element:field-begin'></span>
-PAGEREF _Toc361871714 \h <span style='mso-element:field-separator'></span></span><![endif]--><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'>52<!--[if gte mso 9]><xml>
- <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003300360031003800370031003700310034000000</w:data>
-</xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
-display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:
-none'><span style='mso-element:field-end'></span></span><![endif]--></a></span><span
-lang=EN-US style='font-size:10.5pt;mso-bidi-font-size:11.0pt;line-height:115%;
-mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA;
-mso-no-proof:yes'><o:p></o:p></span></p>
-
-<p class=MsoToc1 style='tab-stops:52.5pt right dotted 414.8pt'><span
-lang=EN-US><a href="#_Toc361871715"><span lang=EN-US style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN;mso-no-proof:yes'><span
-lang=EN-US>µÚÎåÕÂ</span></span><span style='font-size:10.5pt;mso-bidi-font-size:
-11.0pt;line-height:115%;color:windowtext;mso-font-kerning:1.0pt;mso-fareast-language:
-ZH-CN;mso-bidi-language:AR-SA;mso-no-proof:yes;text-decoration:none;text-underline:
-none'><span style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
-lang=EN-US style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-ZH-CN;mso-no-proof:yes'><span lang=EN-US>ÒýÓÃ</span></span><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'><span style='mso-tab-count:1 dotted'>... </span></span><!--[if supportFields]><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'><span style='mso-element:field-begin'></span>
-PAGEREF _Toc361871715 \h <span style='mso-element:field-separator'></span></span><![endif]--><span
-style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
-text-decoration:none;text-underline:none'>52<!--[if gte mso 9]><xml>
- <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003300360031003800370031003700310035000000</w:data>
-</xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
-display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:
-none'><span style='mso-element:field-end'></span></span><![endif]--></a></span><span
-lang=EN-US style='font-size:10.5pt;mso-bidi-font-size:11.0pt;line-height:115%;
-mso-font-kerning:1.0pt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA;
-mso-no-proof:yes'><o:p></o:p></span></p>
-
-<p class=MsoNormal style='text-indent:21.0pt'><!--[if supportFields]><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><span style='mso-element:field-end'></span></span><![endif]--><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<h1><a name="_Toc361871682"><![if !supportLists]><span lang=EN-US
-style='mso-bidi-font-family:ËÎÌå;mso-bidi-theme-font:major-fareast;mso-fareast-language:
-ZH-CN'><span style='mso-list:Ignore'>µÚÒ»ÕÂ <span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Cambria;mso-ascii-theme-font:major-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-major-fareast;mso-hansi-font-family:Cambria;mso-hansi-theme-font:major-latin;
-mso-fareast-language:ZH-CN'>Ç°ÑÔ</span></a><span style='mso-bookmark:_Toc361871682'></span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></h1>
-
-<p class=MsoNormal style='margin-left:21.25pt'><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÌÖÂÛ×éµØÖ·</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>: <span
-style='mso-spacerun:yes'>&nbsp;</span></span><span lang=EN-US><a
-href="http://groups.google.com/group/antlr_chinese/"><span style='mso-fareast-language:
-ZH-CN'>http://groups.google.com/group/antlr_chinese/</span></a></span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-left:21.25pt'><span lang=EN-US
-style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal style='text-indent:21.0pt'><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>×ÐÏ¸ÊýÆðÀ´</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>,coding</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÉúÑÄÒ²ÓÐ²»ÉÙÄêÍ·ÁË</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>,</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>´Ó</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>99</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Äêµ½ÏÖÔÚ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>,</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ËäÈ»ÖÐÍ¾Àë¿ª¹ý¼¸Äê</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>,</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>µ«Ê¼ÖÕÃ»ÓÐÍ£Áô¹ý¹Ø×¢</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>.<o:p></o:p></span></p>
-
-<p class=MsoNormal style='text-indent:21.0pt'><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÔÚÕâ²»³¤²»¶ÌµÄËêÔÂÀï</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>,</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÔÚÖ¸¼âÁ÷¹ýµÄÓïÑÔÒ²ÓÐ²»ÉÙÁË</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>,</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>´ÓÑ§ÉúÄê´úµÄ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>c/<span class=SpellE>cpp,object</span>
-<span class=SpellE>pascal,asm,sql</span></span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>µÈµ½¹¤×÷ÖÐÓÃ¹ýµÄ</span><span
-class=SpellE><span lang=EN-US style='mso-fareast-language:ZH-CN'>vbs</span></span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>/<span class=SpellE>js,java,html,xml</span>,
-<span class=SpellE>schema,R,erlang</span></span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ºÍÒ»Ð©¼´ÐËÑ§µÄ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>shell script</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>µÈ£¬ÄêÇáÊ±Æ«Ö´ÓÚÓïÑÔµÄ±í²ã£¬ÂÔÏÔÇá¿ñ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>,</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>²¢ÒÔÖ®Îª°Á¡£ºóÀ´ÐÞÏ°Í¼Áé»ú£¬</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>lambda</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Ëã×Ó</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>,</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>×éºÏ×ÓÖ®ÀàµÄ¼ÆËãÄ£ÐÍ£¬³¢ÊÔ×Å¶ÔÓïÑÔµÄ±¾ÖÊ×öÁËÒ»Ð©ÉîÈëµÄË¼¿¼</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>,</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>²Å·¢¾õÆäÊµ×Ô¼ºÒ»Ö±¶¼ÊÇ¾®µ×Ö®ÍÜ¡£ÔÚ½Ó´¥ÁË¹ÅÀÏµÄ</span><span
-class=SpellE><span lang=EN-US style='mso-fareast-language:ZH-CN'>lex</span></span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'> +<span class=SpellE>yacc</span></span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ºó</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>,</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÎªÆä¸ß¶È³éÏóµÄ¼ò½àÓëÓÅÃÀËùÕÛ·þ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>.</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Ëì²»ÄÜ×Ô°Î¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal style='text-indent:21.0pt'><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Ò»Ö±¶¼±È½ÏÏ²»¶ÀàËÆ</span><span
-class=SpellE><span lang=EN-US style='mso-fareast-language:ZH-CN'>lex+yacc</span></span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Ö®Àà²úÉúÊ½¹¤¾ß£¬ÓÉÓÚ¹¤×÷Ö÷ÒªÊÇ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>java</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Ïà¹ØµÄ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>,</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Ò²½Ó´¥ÁË</span><span
-class=SpellE><span lang=EN-US style='mso-fareast-language:ZH-CN'>antlr</span></span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>.</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>²¢¶ÔÆä±£³Ö±È½ÏÅ¨ºñµÄÐËÈ¤</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>,</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Ê±¸ô¼¸ÄêºóÖØ»Ø</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>it</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Ê±</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>,</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÒòÎªÒ»¸öÐ¡²úÆ·µÄ¿ª·¢ÐèÒª£¬¶Ô´Ê·¨Óï·¨½âÎö¹¤¾ßÑ¡ÐÍ£¬Ñ¡ÁË¼¸¸ö¹¤¾ß£¬</span><span
-class=SpellE><span lang=EN-US style='mso-fareast-language:ZH-CN'>javacc</span></span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'> </span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>£¬</span><span
-class=SpellE><span lang=EN-US style='mso-fareast-language:ZH-CN'>antlr</span></span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'> </span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>£¬</span><span
-class=SpellE><span lang=EN-US style='mso-fareast-language:ZH-CN'>jflex+CUP</span></span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>£¬×îÖÕ»¹ÊÇÑ¡ÔñÁË</span><span
-class=SpellE><span lang=EN-US style='mso-fareast-language:ZH-CN'>antlr</span></span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal style='text-indent:21.0pt'><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¹ØÓÚ¹¤¾ßµÄÑ¡Ôñ·½Ãæ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>. </span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Ò»Ö±ÈÏÎª</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>,</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¹¤ÓûÉÆÆäÊÂ£¬±ØÏÈÀûÆäÆ÷£¬µ«ºÎÎªÀûÆ÷£¬ÈçºÎÆÀ¼Û£¬Ò»Ö±Ã»ÓÐÇåÎúµÄ¶¨Òå£¬ÓÐÐ©¶«Î÷£¬Ã÷Ã÷ºÜºÃºÜÇ¿´ó£¬µ«ÊÇ¾ÍÊÇÎÞ·¨ÍÆ¹ã£¬±ÈÈç»ùÓÚÇ¿´ó</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>lambda</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Ëã×ÓµÄº¯ÊýÊ½ÓïÑÔ¼°ÆäÆ½Ì¨Èç</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>lisp </span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>£¬</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>schema </span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>µÈ¡£ºÜ¶àÄêºó£¬²ÅÃ÷°×£¬ÆÀ¼ÛÒ»¸öÒ»¸ö¶«Î÷£¬²»½ö½ö¿´µãÉÏµÄ±íÏÖ£¬»¹ÐèÒª¿´ÃæÉÏµÄ±íÏÖ£¬±ÈÈçÖÜ±ßµÄ»·¾³Ö§³ÅµÈ</span><span
-style='mso-fareast-language:ZH-CN'> </span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>£¬ÄÄÅÂµãÉÏµÄ±íÏÖÉÔÑ·Ò»³ï£¬Ö»ÒªÃæÉÏµÄ±íÏÖÓÅÒì£¬Ò²ÄÜÃÖ²¹ÆäÈ±ÏÝ¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal style='text-indent:21.0pt'><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Ò»¸ö¹¤¾ß£¬±»Ñ¡ÔñµÄÊ×µ±Æä³åµÄ±ê×¼µ±ÊôÓÚÆäÉú²úÄÜÁ¦£¬ÆÀ¼ÛÑ¡ÔñÒ»¸ö¹¤¾ßµÄÉú²úÄÜÁ¦£¬³ýÁËÒª¿´ËüµÄÖ÷Òª¹¦ÄÜÍâ£¬»¹Òª¿´Ëü¶ÔÄãµÄÉú²úÁ÷³ÌµÄ¸²¸Ç³Ì¶È¡£¸²¸ÇµÄÔ½È«£¬Ò²¾ÍÈÏÎªÆä²ú³öÐ§ÂÊÔ½¸ß¡£Æ¾½è</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>eclipse</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Õâ¸öÇ¿´óµÄ¹¤¾ßÆ½Ì¨¡£</span><span
-class=SpellE><span lang=EN-US style='mso-fareast-language:ZH-CN'>Antlr</span></span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'> </span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>×öµ½ÁË´ÓÇ°¶ËÓï·¨Éè¼Æµ½µ÷ÊÔµ½¼¯³É²âÊÔµÄÎÞ·ì¸²¸Ç£¬ÕâÈ·ÊµÊÇÎÒÑ¡ÔñÆäµÄÒ»¸ö¹Ø¼ü¾ö¶¨ÒòËØ¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal style='text-indent:21.0pt'><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Ã³È»µÄÊ¹ÓÃÒ»¸ö²»³ÉÊìµÄ¹¤¾ß£¬»òÕßÃ»ÓÐÊµ¼ù¹ýµÄÐÂ½â¾ö·½°¸£¬²»¹ÜËüÔÚ±ðÈËÄÇÀïÊÇÈçºÎ³É¹¦µÄ£¬Äã¶¼ÐèÒªÖ§¸¶Ò»¶¨·çÏÕµÄ¡£ÀûÆ÷´ÓÀ´¶¼ÊÇË«ÈÐµÄ£¬ÉËÈËÒàÄÜÉË¼º£¬ÓÃµÄºÃ£¬Ç¿Â²»Ò·ÉÑÌÃð£¬ÓÃµÄ²»ºÃ£¬ÉËºÛÀÛÀÛ£¬Óû°Õ²»ÄÜ¡£³ÏÈ»£¬ÐÎÊ½»¯µÄ²úÉúÊ½±à³Ì·½Ê½Èç</span><span
-style='mso-fareast-language:ZH-CN'> <span class=SpellE><span lang=EN-US>antlr</span></span></span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>µÄÈ·ÓÐÆäÇ¿´óÇÒ¼ò½àÓÅÑÅµÄÒ»Ãæ£¬µ«·²ÊÂÓÐÀû±ØÓÐ±×£¬Ò»µ©Óöµ½ÎÊÌâ£¬Æä±³ºóÒþ²ØµÄ³éÏóµÄ¸´ÔÓ¶È×ã¹»ÈÃÒ»¸öÏîÄ¿»ò²úÆ·ÔÔµ¹ÔÚÊ±¼äÑ¹Á¦ÃæÇ°¡£ÕâÒ²ÊÇÕâ¸ö¹¤¾ßÏÊ±»²ÉÓÃµÄÔ­Òò¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal style='text-indent:21.0pt'><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¿ª·¢½áÊøºó</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>,</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¶ÔÊ¹ÓÃÕâ¸ö¹¤¾ßËùÓöµ½µÄÎÊÌâÒÔ¼°Ò»Ð©½â¾ö·½·¨£¬×÷ÁËÒ»Ð©×Ü½áºÍÕûÀí¡£Ç°³µÖ®¼ø£¬ºóÊÂÖ®Ê¦£¬²»¹ÜÊÇÎªÈË»¹ÊÇÎª¼º¡£ÓÚÊÇÃÈÉúÁËÐ´¸öÎÄµµµÄÏë·¨£¬ËµÊÇÐ´£¬Êµ¼ÊÉÏÊÇ²»¹ýÊÇ½«ËùÕÒµÄÁãËé×ÊÁÏÆ´×°¶øÒÑ¡£ÔÚÕÒ×ÊÁÏµÄ¹ý³ÌÖÐ·¢ÏÖ£¬ÏÊÓÐÖÐÎÄ½Ì³Ì£¬Ö»ÓÐÒ»±¾</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>v2.75</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>µÄÖÐÎÄ°æ¹æ·¶¡£</span><span
-style='mso-fareast-language:ZH-CN'> </span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ËäÈ»¹Ù·½µÄÓ¢ÎÄÎÄµµ²»ËãÉÙ£¬µ«¶ÔÓÚÔÚ·ÇÓ¢ÓïÄ¸ÓïµÄÎÒÃÇÀ´Ëµ£¬¶ÔÓ¢ÎÄÐÅÏ¢µÄÃô¸Ð¶È½ÏµÍ£¬´ÓÄÇ¶ÑÐÅÏ¢Àï£¬Ñ°ÕÒÒ»ÌõºÏÊÊµÄÑ§Ï°Â·¾¶ÂÔÏÔ¼èÄÑ¡£ÓÚÊÇ¾ÍÑ§Ï°ÎáÓÑ³ÂÃñµÄ×ö·¨£¬¾¡Á¦Ð´Ò»Ð©½Ì³ÌÏñËûÒÔÇ°°ïÖúÎÒÒ»Ñù°ïÖúÆäËûÈË¡£ÁíÍâÔÚÕâÀïÒ²ÌØ±ð¸ÐÐ»¸Ê²ÝÍ¬Ö¾</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>(healer.kx.yu@gmail.com)</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>£¬¼ÓÈëÕâ¸öÕóÓª</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>¡­<o:p></o:p></span></p>
-
-<p class=MsoNormal style='text-indent:21.0pt'><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÕâÆª½Ì³Ì¶¨Î»Îª°ïÖúÁã»ù´¡µÄ³õÑ§ÕßÈëÃÅµ½ÕÆÎÕ±àÒëÇ°¶Ë£¬ÎªÊìÏ¤</span><span
-class=SpellE><span lang=EN-US style='mso-fareast-language:ZH-CN'>antlr</span></span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>µÄÈË£¬Ìá¹©Ò»Ð©ÎÊÌâ±¸ÍüÂ¼£¬ÒÔ¼°¹²ÏíÒ»Ð©¶Ô</span><span
-class=SpellE><span lang=EN-US style='mso-fareast-language:ZH-CN'>antlr</span></span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>±¾ÉíÉè¼ÆµÄ¿´·¨¡£Ï£ÍûÄÜ¶ÔÄúÓÐËù°ïÖú¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<h1><a name="_Toc361871683"><![if !supportLists]><span lang=EN-US
-style='mso-bidi-font-family:ËÎÌå;mso-bidi-theme-font:major-fareast;mso-fareast-language:
-ZH-CN'><span style='mso-list:Ignore'>µÚ¶þÕÂ <span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Cambria;mso-ascii-theme-font:major-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-major-fareast;mso-hansi-font-family:Cambria;mso-hansi-theme-font:major-latin;
-mso-fareast-language:ZH-CN'>°²×°Æª</span></a><span style='mso-bookmark:_Toc361871683'><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>:</span></span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'><o:p></o:p></span></h1>
-
-<p class=MsoNormal style='text-indent:21.0pt'><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Ñ¡Ôñ</span><span
-class=SpellE><span lang=EN-US style='mso-fareast-language:ZH-CN'>antlr</span></span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>È·ÊµÓÐºÜ´óµÄÓÅÊÆ¡£</span><span
-style='mso-fareast-language:ZH-CN'> </span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÓÐ¹Ù·½×Ô´øµÄ</span><span
-class=SpellE><span lang=EN-US style='mso-fareast-language:ZH-CN'>antlrworks</span></span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'> </span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>£¬ÓÐ</span><span
-style='mso-fareast-language:ZH-CN'> </span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Ãñ¼äµÄ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>antlrv3ide </span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>£¬ºÍ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'> <span class=SpellE>netbeans</span></span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Ê²Ã´µÄ²å¼þµÈµÈ¡£»¹ÓÐÒ»Ð©ÊÕ·ÑµÄ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>eclipse</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>²å¼þµÈ£¬¾ßÌå¾Í²»È¥Ï¸ÁÐÁË£¬Õâ¸ö½Ì³ÌÖ÷Òª¼¯ÖÐÔÚ</span><span
-class=SpellE><span lang=EN-US style='mso-fareast-language:ZH-CN'>antlrworks</span></span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'> </span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ºÍ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'> antlrv3ide+eclipse</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>µÈÁ½¸ö</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'> <span class=SpellE>ide</span> </span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÉÏÃæ¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal style='text-indent:21.0pt'><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Í¨¹ý±¾ÆªµÄÑ§Ï°£¬ÄãÓ¦¸ÃÄÜ´î½¨ºÃÒ»¸ö¿ÉÒÔÊµÕ½µÄÆ½Ì¨¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<h2><a name="_Toc361871684"><![if !supportLists]><span lang=EN-US
-style='mso-bidi-font-family:ËÎÌå;mso-bidi-theme-font:major-fareast;mso-fareast-language:
-ZH-CN'><span style='mso-list:Ignore'>µÚÒ»½Ú<span style='font:7.0pt "Times New Roman"'>
-</span></span></span><![endif]><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Cambria;mso-ascii-theme-font:major-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-major-fareast;mso-hansi-font-family:Cambria;mso-hansi-theme-font:major-latin;
-mso-fareast-language:ZH-CN'>°²×°Ç°µÄ¼ì²é</span></a><span style='mso-bookmark:_Toc361871684'><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>:</span></span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'> <o:p></o:p></span></h2>
-
-<h3><a name="_Toc361871685"><![if !supportLists]><span lang=EN-US
-style='mso-bidi-font-family:ËÎÌå;mso-bidi-theme-font:major-fareast;mso-fareast-language:
-ZH-CN'><span style='mso-list:Ignore'>µÚ1Ð¡½Ú<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Cambria;mso-ascii-theme-font:major-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-major-fareast;mso-hansi-font-family:Cambria;mso-hansi-theme-font:major-latin;
-mso-fareast-language:ZH-CN'>ÊÇ·ñÒÑ¾­°²×°ÁË</span></a><span style='mso-bookmark:_Toc361871685'><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>java 1.5 </span></span><span
-style='mso-bookmark:_Toc361871685'><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Cambria;mso-ascii-theme-font:major-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-major-fareast;mso-hansi-font-family:Cambria;mso-hansi-theme-font:major-latin;
-mso-fareast-language:ZH-CN'>»òÕß¸ü¸ßµÄ°æ±¾¡£</span></span><span style='mso-bookmark:
-_Toc361871685'></span><span style='mso-fareast-language:ZH-CN'> <span
-lang=EN-US><o:p></o:p></span></span></h3>
-
-<p class=MsoListParagraph><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>È·ÈÏ·½·¨</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'> java ¨Cversion </span><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ºÍ</span><span class=SpellE><span lang=EN-US
-style='mso-fareast-language:ZH-CN'>javac</span></span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'> ¨Cversion</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>£¬Èç¹û²»ÄÜ¹¤×÷£¬»òÕß°æ±¾²»¶Ô£¬Çë¼ì²é»·¾³±äÁ¿µÄ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>JAVA_HOME<o:p></o:p></span></p>
-
-<h3><a name="_Toc361871686"><![if !supportLists]><span lang=EN-US
-style='mso-bidi-font-family:ËÎÌå;mso-bidi-theme-font:major-fareast;mso-fareast-language:
-ZH-CN'><span style='mso-list:Ignore'>µÚ2Ð¡½Ú<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Cambria;mso-ascii-theme-font:major-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-major-fareast;mso-hansi-font-family:Cambria;mso-hansi-theme-font:major-latin;
-mso-fareast-language:ZH-CN'>ÊÇ·ñÒÑ¾­ÏÂÔØÁË</span></a><span style='mso-bookmark:_Toc361871686'><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>eclipse 3.x.</span></span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></h3>
-
-<p class=MsoListParagraphCxSpFirst><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>½Ì³ÌÊ¹ÓÃµÄÊÇ</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'> eclipse 3.6.2(<span class=SpellE>helios</span>)<span
-style='mso-spacerun:yes'>&nbsp; </span></span><span lang=EN-US
-style='font-size:9.0pt;line-height:115%;font-family:"Î¢ÈíÑÅºÚ","sans-serif";
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
-Î¢ÈíÑÅºÚ;mso-bidi-language:AR-SA'>Eclipse Modeling Tools</span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'> </span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÄÇ¸ö°æ±¾£¬×îºÃ±£³ÖºÍ½Ì³ÌÒ»ÖÂµÄ¡£²»ÄÜÈ·¶¨</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>antlrv3ide</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÊÇ·ñÊÊÓÃÁË</span><span
-class=SpellE><span lang=EN-US style='mso-fareast-language:ZH-CN'>gef</span></span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'> </span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>»òÕß</span><span
-class=SpellE><span lang=EN-US style='mso-fareast-language:ZH-CN'>gmf</span></span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><span
-style='mso-spacerun:yes'>&nbsp; </span></span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>µ«½¨ÒéÈç¹ûÄãÊ¹ÓÃÆäËüµÄÀàÐÍµÄ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>eclipse </span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>£¬½«</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>modeling </span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Ä£¿éÉý¼¶µ½×îÐÂ°æ±¾¡£Í¬Ê±»¹ÐèÒª°²×°Ò»¸ö</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>dynamic languages toolkit core
-frameworks.</span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>Õâ¸öÊÇ</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>antlrv3ide</span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ÒÀÀµµÄ²å¼þ</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>.</span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>±¾½Ì³ÌËùÓÃµÄ²å¼þÈçÏÂ</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>:</span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>£¨»­È¦È¦µÄÊÇÃ»ÓÐ°²×°²å¼þÇ°¾ÍÒª´æÔÚµÄ¡£Èç¹ûÃ»ÓÐ£¬ÄãÐèÒªÔÚ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'> help-&gt;install new software </span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÖÐÑ¡Ôñ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'> <span class=SpellE>helios</span></span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Õâ¸ö¸üÐÂÔ´½øÐÐ¸üÐÂ£©</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:18.0pt;mso-add-space:
-auto'><span lang=EN-US style='mso-fareast-language:ZH-CN;mso-bidi-language:
-AR-SA;mso-no-proof:yes'><v:shapetype id="_x0000_t75" coordsize="21600,21600"
- o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe" filled="f"
- stroked="f">
- <v:stroke joinstyle="miter"/>
- <v:formulas>
-  <v:f eqn="if lineDrawn pixelLineWidth 0"/>
-  <v:f eqn="sum @0 1 0"/>
-  <v:f eqn="sum 0 0 @1"/>
-  <v:f eqn="prod @2 1 2"/>
-  <v:f eqn="prod @3 21600 pixelWidth"/>
-  <v:f eqn="prod @3 21600 pixelHeight"/>
-  <v:f eqn="sum @0 0 1"/>
-  <v:f eqn="prod @6 1 2"/>
-  <v:f eqn="prod @7 21600 pixelWidth"/>
-  <v:f eqn="sum @8 21600 0"/>
-  <v:f eqn="prod @7 21600 pixelHeight"/>
-  <v:f eqn="sum @10 21600 0"/>
- </v:formulas>
- <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
- <o:lock v:ext="edit" aspectratio="t"/>
-</v:shapetype><v:shape id="_x0000_i1066" type="#_x0000_t75" style='width:414.75pt;
- height:272.25pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="hand%20in%20hand%20with%20antlr.files/image001.png" o:title=""/>
-</v:shape></span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpLast style='margin-left:18.0pt;mso-add-space:auto'><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<h3><a name="_Toc361871687"><![if !supportLists]><span lang=EN-US
-style='mso-bidi-font-family:ËÎÌå;mso-bidi-theme-font:major-fareast;mso-fareast-language:
-ZH-CN'><span style='mso-list:Ignore'>µÚ3Ð¡½Ú<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Cambria;mso-ascii-theme-font:major-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-major-fareast;mso-hansi-font-family:Cambria;mso-hansi-theme-font:major-latin;
-mso-fareast-language:ZH-CN'>½¨Á¢±¾½Ì³ÌÑÝÊ¾Ä¿Â¼¡£</span></a><span style='mso-bookmark:
-_Toc361871687'></span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></h3>
-
-<p class=MsoListParagraphCxSpFirst><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>½¨Á¢Ò»¸öÄ¿Â¼</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>(d:\antlrdemo),</span><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ÓÃ×÷±¾½Ì³ÌµÄÑÝÊ¾Ä¿Â¼£¬Õâ¸öÄ¿Â¼¿ÉÒÔ¸ü»»µ½ÆäËûµÄµØ·½£¬<span style='color:red'>µ«ÊÇÇë×¢Òâ£¬Çë²»Òª´øÓÐÖÐÎÄ»òÕßÆäËû·ÇÓ¢ÎÄ×ÖÄ¸</span>¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ÔÚ</span><span class=SpellE><span lang=EN-US
-style='mso-fareast-language:ZH-CN'>anltrdemo</span></span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÏÂÃæ½¨Á¢Ò»¸ö</span><span
-class=SpellE><span lang=EN-US style='mso-fareast-language:ZH-CN'>antlrworks_data</span></span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Ä¿Â¼¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>½«</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>eclipse</span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>¿½±´ÖÁ</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'> <span class=SpellE>antlrdemo</span></span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Ä¿Â¼ÏÂ¡£</span><span
-style='mso-fareast-language:ZH-CN'> <span lang=EN-US><o:p></o:p></span></span></p>
-
-<p class=MsoListParagraphCxSpLast><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>²¢ÔÚ</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>eclipse</span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>Ä¿Â¼ÏÂ½¨Á¢</span><span style='mso-fareast-language:ZH-CN'>
-</span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-ZH-CN'>Ò»¸ö</span><span lang=EN-US style='mso-fareast-language:ZH-CN'>workspace</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>µÄÄ¿Â¼£¬²¢ÔÚÆô¶¯</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>eclipse</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>µÄÊ±ºò£¬½«¹¤×÷¿Õ¼äÉèÖÃÎªÕâ¸öÄ¿Â¼µÄ¹¤×÷¿Õ¼ä¡£ÕâÑù×öµÄÄ¿µÄ±ãÓÚ¹ÜÀí×ÊÁÏ¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN;
-mso-bidi-language:AR-SA;mso-no-proof:yes'><v:shape id="_x0000_i1065" type="#_x0000_t75"
- style='width:203.25pt;height:228.75pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="hand%20in%20hand%20with%20antlr.files/image002.png" o:title=""/>
-</v:shape></span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpFirst style='margin-left:18.0pt;mso-add-space:
-auto'><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoListParagraphCxSpLast style='margin-left:18.0pt;mso-add-space:auto'><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>¾ÍÐ÷Ö®ºó£¬À´¿ªÊ¼ÎÒÃÇµÄ°²×°¹ý³Ì¡£¡£¡£</span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<h2><a name="_Toc361871688"><![if !supportLists]><span lang=EN-US
-style='mso-bidi-font-family:ËÎÌå;mso-bidi-theme-font:major-fareast;mso-fareast-language:
-ZH-CN'><span style='mso-list:Ignore'>µÚ¶þ½Ú<span style='font:7.0pt "Times New Roman"'>
-</span></span></span><![endif]><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Cambria;mso-ascii-theme-font:major-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-major-fareast;mso-hansi-font-family:Cambria;mso-hansi-theme-font:major-latin;
-mso-fareast-language:ZH-CN'>°²×°¹ý³Ì</span></a><span style='mso-bookmark:_Toc361871688'></span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></h2>
-
-<h3><a name="_Toc361871689"><![if !supportLists]><span lang=EN-US
-style='mso-bidi-font-family:ËÎÌå;mso-bidi-theme-font:major-fareast;mso-fareast-language:
-ZH-CN'><span style='mso-list:Ignore'>µÚ1Ð¡½Ú<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Cambria;mso-ascii-theme-font:major-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-major-fareast;mso-hansi-font-family:Cambria;mso-hansi-theme-font:major-latin;
-mso-fareast-language:ZH-CN'>ÏÂÔØ</span></a><span style='mso-bookmark:_Toc361871689'><span
-class=SpellE><span lang=EN-US style='mso-fareast-language:ZH-CN'>antworks</span></span></span><span
-style='mso-bookmark:_Toc361871689'><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Cambria;mso-ascii-theme-font:major-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-major-fareast;mso-hansi-font-family:Cambria;mso-hansi-theme-font:major-latin;
-mso-fareast-language:ZH-CN'>£º</span></span><span style='mso-bookmark:_Toc361871689'></span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></h3>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ÏÂÔØ</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'> <span class=SpellE>antlrworks</span> </span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Õâ¸ö¼¯³Éµ÷ÊÔ¹¤¾ß£¬</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ÔÚ¹Ù·½µÄÍøÖ·</span><span style='mso-fareast-language:
-ZH-CN'> </span><span lang=EN-US><a href="http://www.antlr.org/download.html">http://www.antlr.org/download.html</a></span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'> </span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÉÏÃæ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN;
-mso-bidi-language:AR-SA;mso-no-proof:yes'><v:shape id="_x0000_i1064" type="#_x0000_t75"
- style='width:415.5pt;height:317.25pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="hand%20in%20hand%20with%20antlr.files/image003.png" o:title=""/>
-</v:shape></span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>¾ßÌåµÄ°üµØÖ·</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>: </span><span lang=EN-US><span style='mso-spacerun:yes'>&nbsp;</span></span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>http://www.antlr.org/download/antlrworks-1.4.2.jar<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ÏÂÔØÖ®ºóÈÓµ½</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'> <span class=SpellE>antlrdemo</span></span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Ä¿Â¼ÏÂ¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<h3><a name="_Toc361871690"><![if !supportLists]><span lang=EN-US
-style='mso-bidi-font-family:ËÎÌå;mso-bidi-theme-font:major-fareast;mso-fareast-language:
-ZH-CN'><span style='mso-list:Ignore'>µÚ2Ð¡½Ú<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Cambria;mso-ascii-theme-font:major-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-major-fareast;mso-hansi-font-family:Cambria;mso-hansi-theme-font:major-latin;
-mso-fareast-language:ZH-CN'>ÏÂÔØ</span></a><span style='mso-bookmark:_Toc361871690'><span
-class=SpellE><span lang=EN-US style='mso-fareast-language:ZH-CN'>antlr</span></span></span><span
-style='mso-bookmark:_Toc361871690'><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Cambria;mso-ascii-theme-font:major-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-major-fareast;mso-hansi-font-family:Cambria;mso-hansi-theme-font:major-latin;
-mso-fareast-language:ZH-CN'>µÄ</span></span><span style='mso-bookmark:_Toc361871690'><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>jar</span></span><span
-style='mso-bookmark:_Toc361871690'><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Cambria;mso-ascii-theme-font:major-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-major-fareast;mso-hansi-font-family:Cambria;mso-hansi-theme-font:major-latin;
-mso-fareast-language:ZH-CN'>°ü</span></span><span style='mso-bookmark:_Toc361871690'><span
-style='mso-fareast-language:ZH-CN'> </span></span><span style='mso-bookmark:
-_Toc361871690'><span style='font-family:ËÎÌå;mso-ascii-font-family:Cambria;
-mso-ascii-theme-font:major-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-major-fareast;mso-hansi-font-family:Cambria;mso-hansi-theme-font:major-latin;
-mso-fareast-language:ZH-CN'>µ±Ç°µÄ°æ±¾ÊÇ</span></span><span style='mso-bookmark:_Toc361871690'><span
-lang=EN-US style='mso-fareast-language:ZH-CN'> v3.3</span></span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></h3>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ÔÚ¹Ù·½µÄÍøÖ·</span><span style='mso-fareast-language:
-ZH-CN'> </span><span lang=EN-US><a href="http://www.antlr.org/download.html">http://www.antlr.org/download.html</a></span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'> </span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÉÏÃæ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN;
-mso-bidi-language:AR-SA;mso-no-proof:yes'><v:shape id="_x0000_i1063" type="#_x0000_t75"
- style='width:415.5pt;height:260.25pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="hand%20in%20hand%20with%20antlr.files/image004.png" o:title=""/>
-</v:shape></span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>¾ßÌåµÄ</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>jar</span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>°üÎ»ÖÃ</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>:http://www.antlr.org/download/antlr-3.3-complete.jar<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ÏÂÔØÖ®ºóÈÓµ½</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'> <span class=SpellE>antlrdemo</span></span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Ä¿Â¼ÏÂ¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<h3><a name="_Toc361871691"><![if !supportLists]><span lang=EN-US
-style='mso-bidi-font-family:ËÎÌå;mso-bidi-theme-font:major-fareast;mso-fareast-language:
-ZH-CN'><span style='mso-list:Ignore'>µÚ3Ð¡½Ú<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Cambria;mso-ascii-theme-font:major-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-major-fareast;mso-hansi-font-family:Cambria;mso-hansi-theme-font:major-latin;
-mso-fareast-language:ZH-CN'>°²×°</span></a><span style='mso-bookmark:_Toc361871691'><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>eclipse</span></span><span
-style='mso-bookmark:_Toc361871691'><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Cambria;mso-ascii-theme-font:major-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-major-fareast;mso-hansi-font-family:Cambria;mso-hansi-theme-font:major-latin;
-mso-fareast-language:ZH-CN'>²å¼þ¡£</span></span><span style='mso-bookmark:_Toc361871691'></span><span
-style='mso-fareast-language:ZH-CN'> <span lang=EN-US><o:p></o:p></span></span></h3>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ÔËÐÐ</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>eclipse 3.6.2 </span><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>£¬Èç¹ûÊÇµÚÒ»´Î£¬ÇëÉèÖÃ</span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'> workspace</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>µÄÎ»ÖÃÎª</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'> <span class=SpellE>antlrdemo</span></span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÏÂÃæµÄ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>eclipse</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>µÄ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>workspace<o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN;
-mso-bidi-language:AR-SA;mso-no-proof:yes'><v:shape id="_x0000_i1062" type="#_x0000_t75"
- style='width:415.5pt;height:211.5pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="hand%20in%20hand%20with%20antlr.files/image005.png" o:title=""/>
-</v:shape></span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN;
-mso-bidi-language:AR-SA;mso-no-proof:yes'><v:shape id="_x0000_i1061" type="#_x0000_t75"
- style='width:414.75pt;height:305.25pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="hand%20in%20hand%20with%20antlr.files/image006.png" o:title=""/>
-</v:shape></span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN;
-mso-bidi-language:AR-SA;mso-no-proof:yes'><v:shape id="_x0000_i1060" type="#_x0000_t75"
- style='width:415.5pt;height:403.5pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="hand%20in%20hand%20with%20antlr.files/image007.png" o:title=""/>
-</v:shape></span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN'>Ps:
-antlrv3ide </span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>µÄ²å¼þ</span><span class=SpellE><span lang=EN-US
-style='mso-fareast-language:ZH-CN'>updaesuite</span></span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'> </span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>µÄµØÖ·</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>: </span><span lang=EN-US><a
-href="http://antlrv3ide.sourceforge.net/updates"><span style='mso-fareast-language:
-ZH-CN'>http://antlrv3ide.sourceforge.net/updates</span></a></span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN;
-mso-bidi-language:AR-SA;mso-no-proof:yes'><v:shape id="_x0000_i1059" type="#_x0000_t75"
- style='width:414.75pt;height:404.25pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="hand%20in%20hand%20with%20antlr.files/image008.png" o:title=""/>
-</v:shape></span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ºÁÎÞÐüÄîµØÈ«Ñ¡£¬Í¬ÒâÊ²Ã´µÄ£¬¾Í°²×°ÍêÁË¡£</span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<h3><a name="_Toc361871692"><![if !supportLists]><span lang=EN-US
-style='mso-bidi-font-family:ËÎÌå;mso-bidi-theme-font:major-fareast;mso-fareast-language:
-ZH-CN'><span style='mso-list:Ignore'>µÚ4Ð¡½Ú<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Cambria;mso-ascii-theme-font:major-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-major-fareast;mso-hansi-font-family:Cambria;mso-hansi-theme-font:major-latin;
-mso-fareast-language:ZH-CN'>È·ÈÏÄãµÄ°²×°ÊÇ·ñÕýÈ·¡£</span></a><span style='mso-bookmark:
-_Toc361871692'></span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></h3>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>È·ÈÏ</span><span class=SpellE><span lang=EN-US
-style='mso-fareast-language:ZH-CN'>antlrworks</span></span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'> :</span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Ë«»÷</span><span
-class=SpellE><span lang=EN-US style='mso-fareast-language:ZH-CN'>antlrworks</span></span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><span
-style='mso-spacerun:yes'>&nbsp; </span></span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>£¬Èç¹û¿´µ½¿ÉÊÓ½çÃæ£¬¾Í</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>ok</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÁË¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>È·ÈÏ</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>antlrv3ide:</span><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>´ò¿ª</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>eclipse </span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>£¬°²×°²å¼þ³É¹¦ºó£¬</span><span style='mso-fareast-language:
-ZH-CN'> </span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>´ò¿ª</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>window</span><span lang=EN-US style='font-family:Wingdings;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN;mso-char-type:symbol;
-mso-symbol-font-family:Wingdings'><span style='mso-char-type:symbol;mso-symbol-font-family:
-Wingdings'>¨¤</span></span><span class=SpellE><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>perfermance</span></span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'> </span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>¿ÉÒÔ¿´µ½</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN;
-mso-bidi-language:AR-SA;mso-no-proof:yes'><v:shape id="Í¼Æ¬_x0020_25" o:spid="_x0000_i1058"
- type="#_x0000_t75" style='width:415.5pt;height:232.5pt;visibility:visible;
- mso-wrap-style:square'>
- <v:imagedata src="hand%20in%20hand%20with%20antlr.files/image009.png" o:title=""/>
-</v:shape></span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>¿´µ½Õâ¸ö£¬²î²»¶à¾Í°²×°ÕýÈ·ÁË</span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'>. </span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>µ½Ä¿Ç°ÎªÖ¹£¬</span><span
-class=SpellE><span lang=EN-US style='mso-fareast-language:ZH-CN'>antlrdemo</span></span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Ä¿Â¼ÓÐÁ½¸öÄ¿Â¼£º</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>eclipse </span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ºÍ</span><span
-class=SpellE><span lang=EN-US style='mso-fareast-language:ZH-CN'>antlrworks_data</span></span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ºÍÁ½¸ö</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>jar</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÎÄ¼þ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>: antlrworks-1.4.2.jar </span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ºÍ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>antlr-3.3-complete.jar;<o:p></o:p></span></p>
-
-<h1><a name="_Toc361871693"><![if !supportLists]><span lang=EN-US
-style='mso-bidi-font-family:ËÎÌå;mso-bidi-theme-font:major-fareast;mso-fareast-language:
-ZH-CN'><span style='mso-list:Ignore'>µÚÈýÕÂ <span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Cambria;mso-ascii-theme-font:major-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-major-fareast;mso-hansi-font-family:Cambria;mso-hansi-theme-font:major-latin;
-mso-fareast-language:ZH-CN'>¹¤¾ß»·¾³½éÉÜÆª£º</span></a><span style='mso-bookmark:_Toc361871693'></span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></h1>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ËäÈ»Ò»°ãµÄ¿ª·¢ÀïÃæÓÃ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>antlrv3ide</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¾Í×ã¹»ÁË£¬µ«ÊÇ£¬¸öÈË¾õµÃ</span><span
-class=SpellE><span lang=EN-US style='mso-fareast-language:ZH-CN'>antlrworks</span></span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÔÚµ÷ÊÔÓï·¨µÄÊ±ºò±È½ÏÇåË¬¡£¶øÇÒ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>antlrv3ide</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>²»ÄÜÏÔÊ¾³éÏóÓï·¨Ê÷£¬µ«</span><span
-class=SpellE><span lang=EN-US style='mso-fareast-language:ZH-CN'>antlrworks</span></span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'> </span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¿ÉÒÔ£¬ËùÒÔ£¬Ò»°ã¶¼ÊÇË«¹ÜÆëÏÂ¡£Ç°ÆÚµÄÓï·¨¹æÔò·ÖÎöºÍµ÷ÊÔÖ®ÀàµÄ£¬¾ÍÓÃ</span><span
-class=SpellE><span lang=EN-US style='mso-fareast-language:ZH-CN'>antlrworks</span></span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'> </span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>£¬Éæ¼°µ½ÓïÒå¶¯×÷Ïà¹Ø£¬ÐèÒªÇ¶Èë´úÂëµÄÊ±ºò£¬¾ÍÇÐÈë</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>antlrv3ide </span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>±È½ÏÁÐ±í</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'><o:p></o:p></span></p>
-
-<table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
- style='border-collapse:collapse;border:none;mso-border-alt:solid black .5pt;
- mso-border-themecolor:text1;mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt'>
- <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
-  <td width=189 valign=top style='width:142.0pt;border:solid black 1.0pt;
-  mso-border-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
-  text1;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-  minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-  ZH-CN'>²îÒìµã</span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-  </td>
-  <td width=189 valign=top style='width:142.05pt;border:solid black 1.0pt;
-  mso-border-themecolor:text1;border-left:none;mso-border-left-alt:solid black .5pt;
-  mso-border-left-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
-  text1;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span class=SpellE><span lang=EN-US style='mso-fareast-language:ZH-CN'>Antlrworks</span></span><span
-  lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-  </td>
-  <td width=189 valign=top style='width:142.05pt;border:solid black 1.0pt;
-  mso-border-themecolor:text1;border-left:none;mso-border-left-alt:solid black .5pt;
-  mso-border-left-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
-  text1;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span lang=EN-US style='mso-fareast-language:ZH-CN'>Antlrv3ide<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:1'>
-  <td width=189 valign=top style='width:142.0pt;border:solid black 1.0pt;
-  mso-border-themecolor:text1;border-top:none;mso-border-top-alt:solid black .5pt;
-  mso-border-top-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
-  text1;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-  minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-  ZH-CN'>ÔËÐÐÐÎÊ½</span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-  </td>
-  <td width=189 valign=top style='width:142.05pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
-  border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
-  solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
-  mso-border-left-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
-  text1;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-  minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-  ZH-CN'>¶ÀÁ¢ÔËÐÐµÄ</span><span lang=EN-US style='mso-fareast-language:ZH-CN'>java</span><span
-  style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-  minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-  ZH-CN'>³ÌÐò</span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-  </td>
-  <td width=189 valign=top style='width:142.05pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
-  border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
-  solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
-  mso-border-left-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
-  text1;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-  minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-  ZH-CN'>ÐèÒªÒÀÀµ</span><span lang=EN-US style='mso-fareast-language:ZH-CN'>eclipse<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:2'>
-  <td width=189 valign=top style='width:142.0pt;border:solid black 1.0pt;
-  mso-border-themecolor:text1;border-top:none;mso-border-top-alt:solid black .5pt;
-  mso-border-top-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
-  text1;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-  minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-  ZH-CN'>Ê¹ÓÃÅäÖÃ¸´ÔÓÐÔ</span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-  </td>
-  <td width=189 valign=top style='width:142.05pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
-  border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
-  solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
-  mso-border-left-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
-  text1;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-  minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-  ZH-CN'>Éµ¹ÏÊ½£¬ÔÚ½çÃæÄÚÈ«²¿Õ¹ÏÖ³öÀ´</span><span lang=EN-US style='mso-fareast-language:
-  ZH-CN'><o:p></o:p></span></p>
-  </td>
-  <td width=189 valign=top style='width:142.05pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
-  border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
-  solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
-  mso-border-left-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
-  text1;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-  minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-  ZH-CN'>·ÖÉ¢Òþ±Î£¬¶Ô²»ÊìÏ¤µÄÈËÑ°ÕÒÓÐÒ»¶¨µÄÄÑ¶È¡£</span><span lang=EN-US style='mso-fareast-language:
-  ZH-CN'><o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:3'>
-  <td width=189 valign=top style='width:142.0pt;border:solid black 1.0pt;
-  mso-border-themecolor:text1;border-top:none;mso-border-top-alt:solid black .5pt;
-  mso-border-top-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
-  text1;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-  minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-  ZH-CN'>Í¼ÐÎ»¯½çÃæÖ§³Ö</span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-  </td>
-  <td width=189 valign=top style='width:142.05pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
-  border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
-  solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
-  mso-border-left-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
-  text1;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-  minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-  ZH-CN'>È«Í¼ÐÎ»¯</span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-  </td>
-  <td width=189 valign=top style='width:142.05pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
-  border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
-  solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
-  mso-border-left-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
-  text1;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-  minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-  ZH-CN'>»ù±¾Í¼ÐÎ»¯£¬µ«¶Ô³éÏóÓï·¨Ê÷Ö§³Ö²»ºÃ</span><span lang=EN-US style='mso-fareast-language:
-  ZH-CN'>.<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:4;mso-yfti-lastrow:yes'>
-  <td width=189 valign=top style='width:142.0pt;border:solid black 1.0pt;
-  mso-border-themecolor:text1;border-top:none;mso-border-top-alt:solid black .5pt;
-  mso-border-top-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
-  text1;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-  minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-  ZH-CN'>»·¾³Ö§³Ö</span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-  </td>
-  <td width=189 valign=top style='width:142.05pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
-  border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
-  solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
-  mso-border-left-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
-  text1;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-  minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-  ZH-CN'>¼¸ºõ²»ÄÜÈÚÈëÆäËü»·¾³£¬ÀíÂÛÉÏ¿ÉÒÔÍ¨¹ýÉèÖÃ</span><span class=SpellE><span lang=EN-US
-  style='mso-fareast-language:ZH-CN'>classpath</span></span><span
-  style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-  minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-  ZH-CN'>µÈÀ´ÉèÖÃÒýÓÃµÄ</span><span lang=EN-US style='mso-fareast-language:ZH-CN'>jar</span><span
-  style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-  minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-  ZH-CN'>»òÕß</span><span lang=EN-US style='mso-fareast-language:ZH-CN'>class</span><span
-  style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-  minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-  ZH-CN'>µÈ£¬µ«ºÜÄÑÓÃ£¬¿¿Ê¹ÓÃÕß¸öÈËÊÖ¹¤±àÒë</span><span lang=EN-US style='mso-fareast-language:
-  ZH-CN'>java</span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-  mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-  minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-  mso-fareast-language:ZH-CN'>µÄÄÜÁ¦À´±£Ö¤¡£</span><span lang=EN-US style='mso-fareast-language:
-  ZH-CN'><o:p></o:p></span></p>
-  </td>
-  <td width=189 valign=top style='width:142.05pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
-  border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
-  solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
-  mso-border-left-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
-  text1;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-  minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-  ZH-CN'>¿ÉÒÔºÍÔÚ</span><span lang=EN-US style='mso-fareast-language:ZH-CN'>eclipse</span><span
-  style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-  minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-  ZH-CN'>ÉÏÃæ¿ª·¢µÄÏîÄ¿ÎÞ·ì¼¯³ÉÔÚÒ»Æð¡£</span><span lang=EN-US style='mso-fareast-language:
-  ZH-CN'><o:p></o:p></span></p>
-  </td>
- </tr>
-</table>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>×÷Îª³õ¼¶½×¶Î£¬ÕâÀïµÄÊ¹ÓÃÆª¾ÍÒÔ¾­µäµÄ±í´ïÊ½½âÎöÀ´Õ¹ÏÖ¡£</span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>¾ÍÐ÷ºó£¬¾Í¿ªÊ¼ÎÒÃÇµÄÊ¹ÓÃÖ®ÂÃ°É</span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'>¡­<o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Í¨¹ý±¾ÆªµÄÑ§Ï°£¬ÄãÓ¦¸Ã¿ÉÒÔÔËÐÐÊ¾ÀýµÄ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>demo</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÎÄ¼þ£¬²¢ÁË½â¹¤¾ßµÄ¸÷²¿·ÖµÄ¹¹³É¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<h2><a name="_Toc361871694"><![if !supportLists]><span lang=EN-US
-style='mso-bidi-font-family:ËÎÌå;mso-bidi-theme-font:major-fareast;mso-fareast-language:
-ZH-CN'><span style='mso-list:Ignore'>µÚÒ»½Ú<span style='font:7.0pt "Times New Roman"'>
-</span></span></span><![endif]><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Cambria;mso-ascii-theme-font:major-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-major-fareast;mso-hansi-font-family:Cambria;mso-hansi-theme-font:major-latin;
-mso-fareast-language:ZH-CN'>ÏÈ´Ó</span></a><span style='mso-bookmark:_Toc361871694'><span
-class=SpellE><span lang=EN-US style='mso-fareast-language:ZH-CN'>antlrworks</span></span></span><span
-style='mso-bookmark:_Toc361871694'><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Cambria;mso-ascii-theme-font:major-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-major-fareast;mso-hansi-font-family:Cambria;mso-hansi-theme-font:major-latin;
-mso-fareast-language:ZH-CN'>¿ªÊ¼ÌåÑé</span></span><span style='mso-bookmark:_Toc361871694'><span
-class=SpellE><span lang=EN-US style='mso-fareast-language:ZH-CN'>antlr</span></span></span><span
-style='mso-bookmark:_Toc361871694'><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>.</span></span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></h2>
-
-<h3><a name="_Toc361871695"><![if !supportLists]><span lang=EN-US
-style='mso-bidi-font-family:ËÎÌå;mso-bidi-theme-font:major-fareast;mso-fareast-language:
-ZH-CN'><span style='mso-list:Ignore'>µÚ1Ð¡½Ú<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Cambria;mso-ascii-theme-font:major-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-major-fareast;mso-hansi-font-family:Cambria;mso-hansi-theme-font:major-latin;
-mso-fareast-language:ZH-CN'>´´½¨Óï·¨ÎÄ¼þ</span></a><span style='mso-bookmark:_Toc361871695'></span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></h3>
-
-<h4><![if !supportLists]><span lang=EN-US style='mso-bidi-font-family:ËÎÌå;
-mso-bidi-theme-font:major-fareast;mso-fareast-language:ZH-CN'><span
-style='mso-list:Ignore'>µÚ1Ð¡Ð¡½Ú<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Cambria;mso-ascii-theme-font:major-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-major-fareast;mso-hansi-font-family:Cambria;mso-hansi-theme-font:major-latin;
-mso-fareast-language:ZH-CN'>¿ÉÑ¡Ò»</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>:</span><span style='font-family:ËÎÌå;mso-ascii-font-family:Cambria;
-mso-ascii-theme-font:major-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-major-fareast;mso-hansi-font-family:Cambria;mso-hansi-theme-font:major-latin;
-mso-fareast-language:ZH-CN'>ÏÂÔØÓï·¨ÎÄ¼þ</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>.<o:p></o:p></span></h4>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ÏÂÔØ</span><span style='mso-fareast-language:ZH-CN'> <span
-lang=EN-US>( </span></span><span lang=EN-US><a
-href="http://www.antlr.org/works/help/tutorial/content/Expr.g"><span
-style='mso-fareast-language:ZH-CN'>http://www.antlr.org/works/help/tutorial/content/Expr.g</span></a></span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'> )</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>µ½</span><span
-class=SpellE><span lang=EN-US style='mso-fareast-language:ZH-CN'>antlrworks_data</span></span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'> <o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN'>(</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;color:red;mso-fareast-language:ZH-CN'>×¢Òâ</span><span
-lang=EN-US style='color:red;mso-fareast-language:ZH-CN'>:</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;color:red;mso-fareast-language:ZH-CN'>ÎÄ¼þÃû²»Òª¸Ä±ä£¬ÈÔÈ»Îª</span><span
-class=SpellE><span lang=EN-US style='color:red;mso-fareast-language:ZH-CN'>Expr.g</span></span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>)<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>È»ºóÓÃ</span><span class=SpellE><span lang=EN-US
-style='mso-fareast-language:ZH-CN'>antlrworks</span></span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'> </span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>´ò¿ªÕâ¸ö</span><span
-class=SpellE><span lang=EN-US style='mso-fareast-language:ZH-CN'>Expr.g</span></span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÎÄ¼þ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>: file -&gt; open ,</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Ñ¡Ôñ</span><span
-class=SpellE><span lang=EN-US style='mso-fareast-language:ZH-CN'>antlrworks_data</span></span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Ä¿Â¼µÄ</span><span
-class=SpellE><span lang=EN-US style='mso-fareast-language:ZH-CN'>Expr.g</span></span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<h4><![if !supportLists]><span lang=EN-US style='mso-bidi-font-family:ËÎÌå;
-mso-bidi-theme-font:major-fareast;mso-fareast-language:ZH-CN'><span
-style='mso-list:Ignore'>µÚ2Ð¡Ð¡½Ú<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Cambria;mso-ascii-theme-font:major-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-major-fareast;mso-hansi-font-family:Cambria;mso-hansi-theme-font:major-latin;
-mso-fareast-language:ZH-CN'>¿ÉÑ¡¶þ</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>:</span><span style='font-family:ËÎÌå;mso-ascii-font-family:Cambria;
-mso-ascii-theme-font:major-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-major-fareast;mso-hansi-font-family:Cambria;mso-hansi-theme-font:major-latin;
-mso-fareast-language:ZH-CN'>ÊÖ¹¤ÊäÈëÓï·¨ÎÄ¼þ¡£</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'><o:p></o:p></span></h4>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN;
-mso-bidi-language:AR-SA;mso-no-proof:yes'><v:shape id="_x0000_i1057" type="#_x0000_t75"
- style='width:303.75pt;height:195pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="hand%20in%20hand%20with%20antlr.files/image010.png" o:title=""/>
-</v:shape></span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>´ò¿ª</span><span class=SpellE><span lang=EN-US
-style='mso-fareast-language:ZH-CN'>antlrworks</span></span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>£¬</span><span
-style='mso-fareast-language:ZH-CN'> </span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÐÂ½¨Ò»¸ö</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'> antlr_3 <span class=SpellE>Grammer</span><span
-style='mso-spacerun:yes'>&nbsp; </span>*.g </span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÎÄ¼þ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN;
-mso-bidi-language:AR-SA;mso-no-proof:yes'><v:shape id="_x0000_i1056" type="#_x0000_t75"
- style='width:415.5pt;height:261.75pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="hand%20in%20hand%20with%20antlr.files/image011.png" o:title=""/>
-</v:shape></span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>Óï·¨Ãû×Ö½Ð</span><span class=SpellE><span lang=EN-US
-style='mso-fareast-language:ZH-CN'>Expr</span></span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'> <o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ÀàÐÍÃû×Ö½Ð</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>combined grammar<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>±£´æÔÚ</span><span style='mso-fareast-language:ZH-CN'>
-<span class=SpellE><span lang=EN-US>antlrworks_data</span></span></span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Ä¿Â¼ÏÂ¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ÔÚ½«ÏÂÃæÄÚÈÝ¿½±´µ½±à¼­Æ÷¡£</span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN'>//</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¿½±´¿ªÊ¼</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'>grammar <span
-class=SpellE>Expr</span>;<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'>@header {<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'>package
-test;<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'>import <span
-class=SpellE>java.util.HashMap</span>;<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'>}<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'>@<span
-class=SpellE>lexer</span>::header {package test;}<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'>@members {<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'>/** Map
-variable name to Integer object holding value */<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-class=SpellE><span lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:
-ËÎÌå;mso-bidi-font-family:ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:
-AR-SA'>HashMap</span></span><span lang=EN-US style='mso-bidi-font-size:12.0pt;
-font-family:ËÎÌå;mso-bidi-font-family:ËÎÌå;color:black;mso-fareast-language:ZH-CN;
-mso-bidi-language:AR-SA'> memory = new <span class=SpellE>HashMap</span>();<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'>}<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-class=SpellE><span lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:
-ËÎÌå;mso-bidi-font-family:ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:
-AR-SA'>prog</span></span><span lang=EN-US style='mso-bidi-font-size:12.0pt;
-font-family:ËÎÌå;mso-bidi-font-family:ËÎÌå;color:black;mso-fareast-language:ZH-CN;
-mso-bidi-language:AR-SA'>:<span style='mso-spacerun:yes'>&nbsp;&nbsp;
-</span>stat+ ;<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span><o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'>stat:<span
-style='mso-spacerun:yes'>&nbsp;&nbsp; </span><span class=SpellE>expr</span>
-NEWLINE {<span class=SpellE>System.out.println</span>($<span class=SpellE>expr.value</span>);}<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>|<span
-style='mso-spacerun:yes'>&nbsp;&nbsp; </span>ID '=' <span class=SpellE>expr</span>
-NEWLINE<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>{<span
-class=SpellE>memory.put</span>($<span class=SpellE>ID.text</span>, new
-Integer($<span class=SpellE>expr.value</span>));}<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>|<span
-style='mso-spacerun:yes'>&nbsp;&nbsp; </span>NEWLINE<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>;<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-class=SpellE><span lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:
-ËÎÌå;mso-bidi-font-family:ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:
-AR-SA'>expr</span></span><span lang=EN-US style='mso-bidi-font-size:12.0pt;
-font-family:ËÎÌå;mso-bidi-font-family:ËÎÌå;color:black;mso-fareast-language:ZH-CN;
-mso-bidi-language:AR-SA'> returns [<span class=SpellE>int</span> value]<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>:<span
-style='mso-spacerun:yes'>&nbsp;&nbsp; </span>e=<span class=SpellE>multExpr</span>
-{$value = $<span class=SpellE>e.value</span>;}<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span>(<span style='mso-spacerun:yes'>&nbsp;&nbsp; </span>'+' e=<span
-class=SpellE>multExpr</span> {$value += $<span class=SpellE>e.value</span>;}<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span>|<span style='mso-spacerun:yes'>&nbsp;&nbsp; </span>'-' e=<span
-class=SpellE>multExpr</span> {$value -= $<span class=SpellE>e.value</span>;}<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>)*<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>;<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-class=SpellE><span lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:
-ËÎÌå;mso-bidi-font-family:ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:
-AR-SA'>multExpr</span></span><span lang=EN-US style='mso-bidi-font-size:12.0pt;
-font-family:ËÎÌå;mso-bidi-font-family:ËÎÌå;color:black;mso-fareast-language:ZH-CN;
-mso-bidi-language:AR-SA'> returns [<span class=SpellE>int</span> value]<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>:<span
-style='mso-spacerun:yes'>&nbsp;&nbsp; </span>e=atom {$value = $<span
-class=SpellE>e.value</span>;} ('*' e=atom {$value *= $<span class=SpellE>e.value</span>;})*<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>; <o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'>atom returns
-[<span class=SpellE>int</span> value]<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>:<span
-style='mso-spacerun:yes'>&nbsp;&nbsp; </span>INT {$value = <span class=SpellE>Integer.parseInt</span>($<span
-class=SpellE>INT.text</span>);}<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>|<span
-style='mso-spacerun:yes'>&nbsp;&nbsp; </span>ID<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>{<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span>Integer v = (Integer)<span class=SpellE>memory.get</span>($<span
-class=SpellE>ID.text</span>);<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>if (
-v!=null ) $value = <span class=SpellE>v.intValue</span>();<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>else
-<span class=SpellE>System.err.println</span>(&quot;undefined variable &quot;+$<span
-class=SpellE>ID.text</span>);<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>}<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>|<span
-style='mso-spacerun:yes'>&nbsp;&nbsp; </span>'(' e=<span class=SpellE>expr</span>
-')' {$value = $<span class=SpellE>e.value</span>;}<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>;<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'>ID<span
-style='mso-spacerun:yes'>&nbsp; </span>:<span
-style='mso-spacerun:yes'>&nbsp;&nbsp; </span>('<span class=SpellE>a'..'z'|'A</span>'..'Z')+
-;<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'>INT :<span
-style='mso-spacerun:yes'>&nbsp;&nbsp; </span>'0'..'9'+ ;<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'>NEWLINE:'\r'?
-'\n' ;<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'>WS<span
-style='mso-spacerun:yes'>&nbsp; </span>:<span
-style='mso-spacerun:yes'>&nbsp;&nbsp; </span>(' '|'\t')+ {skip();} ;<o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN'>//</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¿½±´½áÊø</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<h3><a name="_Toc361871696"><![if !supportLists]><span lang=EN-US
-style='mso-bidi-font-family:ËÎÌå;mso-bidi-theme-font:major-fareast;mso-fareast-language:
-ZH-CN'><span style='mso-list:Ignore'>µÚ2Ð¡½Ú<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Cambria;mso-ascii-theme-font:major-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-major-fareast;mso-hansi-font-family:Cambria;mso-hansi-theme-font:major-latin;
-mso-fareast-language:ZH-CN'>ÔËÐÐµ÷ÊÔÓï·¨ÎÄ¼þ</span></a><span style='mso-bookmark:_Toc361871696'></span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></h3>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>µã»÷</span><span style='mso-fareast-language:ZH-CN'> </span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Í¼±êÖÐµÄÐ¡¼×³æ¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN;
-mso-bidi-language:AR-SA;mso-no-proof:yes'><v:shape id="Í¼Æ¬_x0020_37" o:spid="_x0000_i1055"
- type="#_x0000_t75" style='width:415.5pt;height:203.25pt;visibility:visible;
- mso-wrap-style:square'>
- <v:imagedata src="hand%20in%20hand%20with%20antlr.files/image012.png" o:title=""/>
-</v:shape></span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ÔÚµ¯³öÀ´µÄµ÷ÊÔ½çÃæÖÐ£¬Ñ¡Ôñ</span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'> text <o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ÊäÈë</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'> 1+2+3*5 </span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>Ö®ºó£¬»¹ÐèÒªÊäÈë<span style='color:red'>Ò»¸ö»Ø³µ»»ÐÐ¡£</span></span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN;
-mso-bidi-language:AR-SA;mso-no-proof:yes'><v:shape id="_x0000_i1054" type="#_x0000_t75"
- style='width:415.5pt;height:281.25pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="hand%20in%20hand%20with%20antlr.files/image013.png" o:title=""/>
-</v:shape></span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ÔÚ¾ÍÐ÷µÄ½çÃæÖÐµã»÷</span><span style='mso-fareast-language:
-ZH-CN'> <span lang=EN-US>¡°</span></span><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>Ö´ÐÐµ½µ×</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>¡±</span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>µÄÄÇ¸ö°´Å¥£¬Ó¢ÎÄÌáÊ¾</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>:¡±go to end¡±<o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN;
-mso-bidi-language:AR-SA;mso-no-proof:yes'><v:shape id="Í¼Æ¬_x0020_43" o:spid="_x0000_i1053"
- type="#_x0000_t75" style='width:415.5pt;height:472.5pt;visibility:visible;
- mso-wrap-style:square'>
- <v:imagedata src="hand%20in%20hand%20with%20antlr.files/image014.png" o:title=""/>
-</v:shape></span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>Ö®ºó½«»áÔÚ</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>output</span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>´°¿Ú¿´µ½±»Ê¶±ð³öÀ´µÄ</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>token</span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>Á÷£¬ºÍ¾ßÌåÓï·¨·ÖÎöÊ÷µÄ½á¹û¡£</span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN;
-mso-bidi-language:AR-SA;mso-no-proof:yes'><v:shape id="_x0000_i1052" type="#_x0000_t75"
- style='width:415.5pt;height:339pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="hand%20in%20hand%20with%20antlr.files/image015.png" o:title=""/>
-</v:shape></span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>µ½´Ë£¬¾ÍÊÇ¼òµ¥Ê¹ÓÃ</span><span class=SpellE><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>anltrworks</span></span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÓÃÓï·¨ÎÄ¼þÀ´½âÎöÊäÈëÊý¾ÝµÄ¹ý³ÌÁË¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ÏÖÔÚµ½</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>antlrv3ide </span><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>µÇ³¡ÁË£¬Õâ¸ö»áÉÔÎ¢ÓÐµã¶ùÂé·³¡£</span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<h2><a name="_Toc361871697"><![if !supportLists]><span lang=EN-US
-style='mso-bidi-font-family:ËÎÌå;mso-bidi-theme-font:major-fareast;mso-fareast-language:
-ZH-CN'><span style='mso-list:Ignore'>µÚ¶þ½Ú<span style='font:7.0pt "Times New Roman"'>
-</span></span></span><![endif]><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Cambria;mso-ascii-theme-font:major-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-major-fareast;mso-hansi-font-family:Cambria;mso-hansi-theme-font:major-latin;
-mso-fareast-language:ZH-CN'>ÔÙ¿ªÊ¼Æ·³¢</span></a><span style='mso-bookmark:_Toc361871697'><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>anltrv3ide</span></span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></h2>
-
-<h3><a name="_Toc361871698"><![if !supportLists]><span lang=EN-US
-style='mso-bidi-font-family:ËÎÌå;mso-bidi-theme-font:major-fareast;mso-fareast-language:
-ZH-CN'><span style='mso-list:Ignore'>µÚ1Ð¡½Ú<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Cambria;mso-ascii-theme-font:major-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-major-fareast;mso-hansi-font-family:Cambria;mso-hansi-theme-font:major-latin;
-mso-fareast-language:ZH-CN'>ÐÂ½¨Ò»¸ö</span></a><span style='mso-bookmark:_Toc361871698'><span
-class=SpellE><span lang=EN-US style='mso-fareast-language:ZH-CN'>antlr</span></span></span><span
-style='mso-bookmark:_Toc361871698'><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Cambria;mso-ascii-theme-font:major-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-major-fareast;mso-hansi-font-family:Cambria;mso-hansi-theme-font:major-latin;
-mso-fareast-language:ZH-CN'>ÏîÄ¿</span></span><span style='mso-bookmark:_Toc361871698'><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>.</span></span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'><o:p></o:p></span></h3>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ÐÂ½¨Ò»¸öÃû½Ð</span><span class=SpellE><span lang=EN-US
-style='mso-fareast-language:ZH-CN'>antlrdemo</span></span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>µÄ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>java</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÏîÄ¿</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>,</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Ôö¼ÓÁ½¸öÄ¿Â¼½Ð</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>grammar </span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ºÍ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>lib</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>£¬²¢½«</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>antlr.3.3-complete.jar</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¿½±´µ½</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>lib</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>£¬ÔÚ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>jar</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>°üÉÏÓÒ¼ü£¬</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>build Path-&gt; add to build path<o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN;
-mso-bidi-language:AR-SA;mso-no-proof:yes'><v:shape id="_x0000_i1051" type="#_x0000_t75"
- style='width:415.5pt;height:358.5pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="hand%20in%20hand%20with%20antlr.files/image016.png" o:title=""/>
-</v:shape></span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN;
-mso-bidi-language:AR-SA;mso-no-proof:yes'><v:shape id="Í¼Æ¬_x0020_13" o:spid="_x0000_i1050"
- type="#_x0000_t75" style='width:276pt;height:207pt;visibility:visible;
- mso-wrap-style:square'>
- <v:imagedata src="hand%20in%20hand%20with%20antlr.files/image017.png" o:title=""/>
-</v:shape></span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<h3><a name="_Toc361871699"><![if !supportLists]><span lang=EN-US
-style='mso-bidi-font-family:ËÎÌå;mso-bidi-theme-font:major-fareast;mso-fareast-language:
-ZH-CN'><span style='mso-list:Ignore'>µÚ2Ð¡½Ú<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Cambria;mso-ascii-theme-font:major-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-major-fareast;mso-hansi-font-family:Cambria;mso-hansi-theme-font:major-latin;
-mso-fareast-language:ZH-CN'>´´½¨Óï·¨ÎÄ¼þ</span></a><span style='mso-bookmark:_Toc361871699'></span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></h3>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<h4><![if !supportLists]><span lang=EN-US style='mso-bidi-font-family:ËÎÌå;
-mso-bidi-theme-font:major-fareast;mso-fareast-language:ZH-CN'><span
-style='mso-list:Ignore'>µÚ1Ð¡Ð¡½Ú<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Cambria;mso-ascii-theme-font:major-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-major-fareast;mso-hansi-font-family:Cambria;mso-hansi-theme-font:major-latin;
-mso-fareast-language:ZH-CN'>Ñ¡ÔñÒ»</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>:</span><span style='font-family:ËÎÌå;mso-ascii-font-family:Cambria;
-mso-ascii-theme-font:major-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-major-fareast;mso-hansi-font-family:Cambria;mso-hansi-theme-font:major-latin;
-mso-fareast-language:ZH-CN'>ºÍ</span><span class=SpellE><span lang=EN-US
-style='mso-fareast-language:ZH-CN'>antlrworks</span></span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Cambria;mso-ascii-theme-font:major-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:major-fareast;mso-hansi-font-family:
-Cambria;mso-hansi-theme-font:major-latin;mso-fareast-language:ZH-CN'>ÖÐµÄÏÂÔØÒ»Ñù</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>.<o:p></o:p></span></h4>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>Èç·¨ÅÚÖÆ£¬½«¸Õ²ÅÔÚ</span><span class=SpellE><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>antlrworks</span></span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÖÐµÄ</span><span
-class=SpellE><span lang=EN-US style='mso-fareast-language:ZH-CN'>Expr.g</span></span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÎÄ¼þ¿½±´µ½</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>grammar</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÎÄ¼þ¼ÐÖÐ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>.<o:p></o:p></span></p>
-
-<h4><![if !supportLists]><span lang=EN-US style='mso-bidi-font-family:ËÎÌå;
-mso-bidi-theme-font:major-fareast;mso-fareast-language:ZH-CN'><span
-style='mso-list:Ignore'>µÚ2Ð¡Ð¡½Ú<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Cambria;mso-ascii-theme-font:major-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-major-fareast;mso-hansi-font-family:Cambria;mso-hansi-theme-font:major-latin;
-mso-fareast-language:ZH-CN'>Ñ¡Ôñ¶þ</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>:</span><span style='font-family:ËÎÌå;mso-ascii-font-family:Cambria;
-mso-ascii-theme-font:major-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-major-fareast;mso-hansi-font-family:Cambria;mso-hansi-theme-font:major-latin;
-mso-fareast-language:ZH-CN'>ÊÖ¹¤´´½¨</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'><o:p></o:p></span></h4>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ÔÚ</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>grammar</span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ÉÏÃæÓÒ¼ü</span><span style='mso-fareast-language:ZH-CN'>
-</span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-ZH-CN'>£¬</span><span lang=EN-US style='mso-fareast-language:ZH-CN'> new -&gt;
-other,</span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>Ñ¡Ôñ</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'> <span class=SpellE>antlr</span></span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÖÐµÄ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'> combined grammar<o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN;
-mso-bidi-language:AR-SA;mso-no-proof:yes'><v:shape id="Í¼Æ¬_x0020_16" o:spid="_x0000_i1049"
- type="#_x0000_t75" style='width:415.5pt;height:345pt;visibility:visible;
- mso-wrap-style:square'>
- <v:imagedata src="hand%20in%20hand%20with%20antlr.files/image018.png" o:title=""/>
-</v:shape></span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ÊäÈë</span><span style='mso-fareast-language:ZH-CN'> </span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Óï·¨ÎÄ¼þÃû</span><span
-class=SpellE><span lang=EN-US style='mso-fareast-language:ZH-CN'>Expr</span></span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN;
-mso-bidi-language:AR-SA;mso-no-proof:yes'><v:shape id="Í¼Æ¬_x0020_19" o:spid="_x0000_i1048"
- type="#_x0000_t75" style='width:387.75pt;height:363pt;visibility:visible;
- mso-wrap-style:square'>
- <v:imagedata src="hand%20in%20hand%20with%20antlr.files/image019.png" o:title=""/>
-</v:shape></span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>È·¶¨ºó»áÓÐÒ»¸öÌáÊ¾¿ò</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN;
-mso-bidi-language:AR-SA;mso-no-proof:yes'><v:shape id="Í¼Æ¬_x0020_22" o:spid="_x0000_i1047"
- type="#_x0000_t75" style='width:411.75pt;height:130.5pt;visibility:visible;
- mso-wrap-style:square'>
- <v:imagedata src="hand%20in%20hand%20with%20antlr.files/image020.png" o:title=""/>
-</v:shape></span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>Ñ¡Ôñ</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>yes<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-color:red;mso-fareast-language:ZH-CN'>´Ë¾ÙÊÇÅäÖÃ</span><span class=SpellE><span
-lang=EN-US style='color:red;mso-fareast-language:ZH-CN'>antlr</span></span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;color:red;mso-fareast-language:ZH-CN'>µÄ</span><span
-lang=EN-US style='color:red;mso-fareast-language:ZH-CN'>jar</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;color:red;mso-fareast-language:ZH-CN'>°üÎ»ÖÃµÄ£¬±Ø×ö¡£</span><span
-lang=EN-US style='color:red;mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN;
-mso-bidi-language:AR-SA;mso-no-proof:yes'><v:shape id="Í¼Æ¬_x0020_28" o:spid="_x0000_i1046"
- type="#_x0000_t75" style='width:414.75pt;height:198.75pt;visibility:visible;
- mso-wrap-style:square'>
- <v:imagedata src="hand%20in%20hand%20with%20antlr.files/image021.png" o:title=""/>
-</v:shape></span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN;
-mso-bidi-language:AR-SA;mso-no-proof:yes'><v:shape id="Í¼Æ¬_x0020_31" o:spid="_x0000_i1045"
- type="#_x0000_t75" style='width:373.5pt;height:304.5pt;visibility:visible;
- mso-wrap-style:square'>
- <v:imagedata src="hand%20in%20hand%20with%20antlr.files/image022.png" o:title=""/>
-</v:shape></span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN;
-mso-bidi-language:AR-SA;mso-no-proof:yes'><v:shape id="Í¼Æ¬_x0020_34" o:spid="_x0000_i1044"
- type="#_x0000_t75" style='width:415.5pt;height:400.5pt;visibility:visible;
- mso-wrap-style:square'>
- <v:imagedata src="hand%20in%20hand%20with%20antlr.files/image023.png" o:title=""/>
-</v:shape></span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ÉèÖÃºÃºó£¬½«Àý×ÓÖÐµÄ</span><span class=SpellE><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>Expr.g</span></span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÎÄ¼þµÄÄÚÈÝ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>(</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>²ÎÕÕ</span><span
-class=SpellE><span lang=EN-US style='mso-fareast-language:ZH-CN'>antlrworks</span></span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÖÐ¹ØÓÚ</span><span
-class=SpellE><span lang=EN-US style='mso-fareast-language:ZH-CN'>Expr.g</span></span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÄÚÈÝ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>)</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÊäÈëµ½ÎÄ¼þÖÐ¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<h3><a name="_Toc361871700"><![if !supportLists]><span lang=EN-US
-style='mso-bidi-font-family:ËÎÌå;mso-bidi-theme-font:major-fareast;mso-fareast-language:
-ZH-CN'><span style='mso-list:Ignore'>µÚ3Ð¡½Ú<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Cambria;mso-ascii-theme-font:major-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-major-fareast;mso-hansi-font-family:Cambria;mso-hansi-theme-font:major-latin;
-mso-fareast-language:ZH-CN'>½øÐÐ»òÕß¼ì²é²å¼þµÄÉèÖÃ</span></a><span style='mso-bookmark:
-_Toc361871700'><span lang=EN-US style='mso-fareast-language:ZH-CN'>..</span></span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></h3>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ÔÚ</span><span class=SpellE><span lang=EN-US
-style='mso-fareast-language:ZH-CN'>antlrdemo</span></span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÉÏÓÒ¼ü£¬Ñ¡Ôñ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>properties </span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>£¬ÔÚµ¯³öÀ´µÄ¶Ô»°¿òÖÐ£¬×ó±ßÑ¡Ôñ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'> <span class=SpellE>antlr</span></span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>£¬ÔÚÓÒ±ß¹³ÉÏ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>enable xxx</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>£¬</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN;
-mso-bidi-language:AR-SA;mso-no-proof:yes'><v:shape id="Í¼Æ¬_x0020_40" o:spid="_x0000_i1043"
- type="#_x0000_t75" style='width:414.75pt;height:360.75pt;visibility:visible;
- mso-wrap-style:square'>
- <v:imagedata src="hand%20in%20hand%20with%20antlr.files/image024.png" o:title=""/>
-</v:shape></span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>×Ó½ÚµãµÄ¸÷¸öÑ¡Ïî¶¼¹³ÉÏ£¬</span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'>enable<o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN;
-mso-bidi-language:AR-SA;mso-no-proof:yes'><v:shape id="_x0000_i1042" type="#_x0000_t75"
- style='width:415.5pt;height:324.75pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="hand%20in%20hand%20with%20antlr.files/image025.png" o:title=""/>
-</v:shape></span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN;
-mso-bidi-language:AR-SA;mso-no-proof:yes'><v:shape id="Í¼Æ¬_x0020_46" o:spid="_x0000_i1041"
- type="#_x0000_t75" style='width:415.5pt;height:316.5pt;visibility:visible;
- mso-wrap-style:square'>
- <v:imagedata src="hand%20in%20hand%20with%20antlr.files/image026.png" o:title=""/>
-</v:shape></span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-color:red;mso-fareast-language:ZH-CN'>Çë×¢Òâ£¬´ËÊ±²»ÒªÑ¡Ôñ</span><span lang=EN-US
-style='color:red;mso-fareast-language:ZH-CN'> debug</span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'>,(</span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Ô­ÒòÄØ£¬ÒÔºóÔÙ¸æËßÄã</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>¡­)</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN;
-mso-bidi-language:AR-SA;mso-no-proof:yes'><v:shape id="Í¼Æ¬_x0020_49" o:spid="_x0000_i1040"
- type="#_x0000_t75" style='width:415.5pt;height:316.5pt;visibility:visible;
- mso-wrap-style:square'>
- <v:imagedata src="hand%20in%20hand%20with%20antlr.files/image027.png" o:title=""/>
-</v:shape></span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<h3><a name="_Toc361871701"><![if !supportLists]><span lang=EN-US
-style='mso-bidi-font-family:ËÎÌå;mso-bidi-theme-font:major-fareast;mso-fareast-language:
-ZH-CN'><span style='mso-list:Ignore'>µÚ4Ð¡½Ú<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Cambria;mso-ascii-theme-font:major-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-major-fareast;mso-hansi-font-family:Cambria;mso-hansi-theme-font:major-latin;
-mso-fareast-language:ZH-CN'>±àÐ´²âÊÔµÄ³ÌÐò</span></a><span style='mso-bookmark:_Toc361871701'></span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></h3>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>Èç¹ûÉèÖÃÕýÈ·</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>, </span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>Ôò»áÔÚ</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>test</span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>Ä¿Â¼ÏÂË³ÀûÉú³ÉÁ½¸ö</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>java</span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>µÄÔ´ÂëÎÄ¼þ</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'> ExprLexer.java </span><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ºÍ</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'> ExprParser.java</span><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>¡£</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'><span style='mso-spacerun:yes'>&nbsp; </span><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN;
-mso-bidi-language:AR-SA;mso-no-proof:yes'><v:shape id="_x0000_i1039" type="#_x0000_t75"
- style='width:332.25pt;height:303.75pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="hand%20in%20hand%20with%20antlr.files/image028.png" o:title=""/>
-</v:shape></span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>Èç¹û¿´²»µ½ÕâÁ½¸öÎÄ¼þ£¬ÄÇÃ´Ëæ±ã¸Ä¶¯Ò»ÏÂ</span><span class=SpellE><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>Expr.g</span></span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÎÄ¼þ</span><span
-style='mso-fareast-language:ZH-CN'> </span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>£¬Èç¹ûÅäÖÃÈ«¶¼ÕýÈ·µÄ»°£¬±£´æ¼´¿É×Ô¶¯Éú³ÉÕâÁ½¸öÔ´´úÂëÎÄ¼þ£¬Èç¹ûÅäÖÃ²»ÕýÈ·£¬ÄÇÇë</span><span
-class=SpellE><span lang=EN-US style='mso-fareast-language:ZH-CN'>google</span></span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Ö®¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>½¨Á¢Ò»¸ö</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>TestRun.java</span><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>µÄ²âÊÔ³ÌÐò</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>,(</span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>¿ÉÒÔ±È¶ÔÒ»ÏÂÕâ¸öÎÄ¼þºÍ</span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'>D:\antlrdemo\antlrworks_data\output\</span><span
-lang=EN-US> </span><span lang=EN-US style='mso-fareast-language:ZH-CN'>__<span
-class=SpellE>Test__.java</span></span><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>µÄÒìÍ¬£¬ÕâÒÔÈÃÄãÒ»¿ú</span><span class=SpellE><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>antlr</span></span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>µÄµ÷ÊÔ¹¦ÄÜµÄÊµÏÖ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>)</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN;
-mso-bidi-language:AR-SA;mso-no-proof:yes'><v:shape id="_x0000_i1038" type="#_x0000_t75"
- style='width:415.5pt;height:494.25pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="hand%20in%20hand%20with%20antlr.files/image029.png" o:title=""/>
-</v:shape></span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<div style='mso-element:para-border-div;border:none;border-bottom:double windowtext 2.25pt;
-padding:0cm 0cm 1.0pt 0cm'>
-
-<p class=MsoNormal style='border:none;mso-border-bottom-alt:double windowtext 2.25pt;
-padding:0cm;mso-padding-alt:0cm 0cm 1.0pt 0cm'><span lang=EN-US
-style='mso-fareast-language:ZH-CN'>TestRun.java</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>µÄÎÄ¼þÄÚÈÝ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>:<o:p></o:p></span></p>
-
-</div>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;mso-pagination:none;mso-layout-grid-align:none;text-autospace:none'><b><span
-lang=EN-US style='font-size:10.0pt;font-family:"Courier New";color:#7F0055;
-mso-bidi-language:AR-SA'>package</span></b><span lang=EN-US style='font-size:
-10.0pt;font-family:"Courier New";color:black;mso-bidi-language:AR-SA'> test;</span><span
-lang=EN-US style='font-size:10.0pt;font-family:"Courier New";mso-bidi-language:
-AR-SA'><o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;mso-pagination:none;mso-layout-grid-align:none;text-autospace:none'><span
-lang=EN-US style='font-size:10.0pt;font-family:"Courier New";mso-bidi-language:
-AR-SA'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;mso-pagination:none;mso-layout-grid-align:none;text-autospace:none'><b><span
-lang=EN-US style='font-size:10.0pt;font-family:"Courier New";color:#7F0055;
-mso-bidi-language:AR-SA'>import</span></b><span lang=EN-US style='font-size:
-10.0pt;font-family:"Courier New";color:black;mso-bidi-language:AR-SA'> <u>java.io</u>.*;</span><span
-lang=EN-US style='font-size:10.0pt;font-family:"Courier New";mso-bidi-language:
-AR-SA'><o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;mso-pagination:none;mso-layout-grid-align:none;text-autospace:none'><b><span
-lang=EN-US style='font-size:10.0pt;font-family:"Courier New";color:#7F0055;
-mso-bidi-language:AR-SA'>import</span></b><span lang=EN-US style='font-size:
-10.0pt;font-family:"Courier New";color:black;mso-bidi-language:AR-SA'> <span
-class=SpellE>org.antlr.runtime</span>.*;</span><span lang=EN-US
-style='font-size:10.0pt;font-family:"Courier New";mso-bidi-language:AR-SA'><o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;mso-pagination:none;mso-layout-grid-align:none;text-autospace:none'><span
-lang=EN-US style='font-size:10.0pt;font-family:"Courier New";mso-bidi-language:
-AR-SA'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;mso-pagination:none;mso-layout-grid-align:none;text-autospace:none'><b><span
-lang=EN-US style='font-size:10.0pt;font-family:"Courier New";color:#7F0055;
-mso-bidi-language:AR-SA'>public</span></b><span lang=EN-US style='font-size:
-10.0pt;font-family:"Courier New";color:black;mso-bidi-language:AR-SA'> </span><b><span
-lang=EN-US style='font-size:10.0pt;font-family:"Courier New";color:#7F0055;
-mso-bidi-language:AR-SA'>class</span></b><span lang=EN-US style='font-size:
-10.0pt;font-family:"Courier New";color:black;mso-bidi-language:AR-SA'> <span
-class=SpellE>TestRun</span> {</span><span lang=EN-US style='font-size:10.0pt;
-font-family:"Courier New";mso-bidi-language:AR-SA'><o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;mso-pagination:none;mso-layout-grid-align:none;text-autospace:none'><span
-lang=EN-US style='font-size:10.0pt;font-family:"Courier New";mso-bidi-language:
-AR-SA'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;mso-pagination:none;mso-layout-grid-align:none;text-autospace:none'><span
-lang=EN-US style='font-size:10.0pt;font-family:"Courier New";color:black;
-mso-bidi-language:AR-SA'><span style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp; </span></span><b><span
-lang=EN-US style='font-size:10.0pt;font-family:"Courier New";color:#7F0055;
-mso-bidi-language:AR-SA'>public</span></b><span lang=EN-US style='font-size:
-10.0pt;font-family:"Courier New";color:black;mso-bidi-language:AR-SA'> </span><b><span
-lang=EN-US style='font-size:10.0pt;font-family:"Courier New";color:#7F0055;
-mso-bidi-language:AR-SA'>static</span></b><span lang=EN-US style='font-size:
-10.0pt;font-family:"Courier New";color:black;mso-bidi-language:AR-SA'> </span><b><span
-lang=EN-US style='font-size:10.0pt;font-family:"Courier New";color:#7F0055;
-mso-bidi-language:AR-SA'>void</span></b><span lang=EN-US style='font-size:10.0pt;
-font-family:"Courier New";color:black;mso-bidi-language:AR-SA'> main(String[] <span
-class=SpellE>args</span>) {</span><span lang=EN-US style='font-size:10.0pt;
-font-family:"Courier New";mso-bidi-language:AR-SA'><o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;mso-pagination:none;mso-layout-grid-align:none;text-autospace:none'><span
-lang=EN-US style='font-size:10.0pt;font-family:"Courier New";color:black;
-mso-bidi-language:AR-SA'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
-class=SpellE>ExprLexer</span> <span class=SpellE>lex</span> = </span><b><span
-lang=EN-US style='font-size:10.0pt;font-family:"Courier New";color:#7F0055;
-mso-bidi-language:AR-SA'>new</span></b><span lang=EN-US style='font-size:10.0pt;
-font-family:"Courier New";color:black;mso-bidi-language:AR-SA'> <span
-class=SpellE>ExprLexer</span>(</span><b><span lang=EN-US style='font-size:10.0pt;
-font-family:"Courier New";color:#7F0055;mso-bidi-language:AR-SA'>new</span></b><span
-lang=EN-US style='font-size:10.0pt;font-family:"Courier New";color:black;
-mso-bidi-language:AR-SA'> <span class=SpellE>ANTLRStringStream</span>(</span><span
-lang=EN-US style='font-size:10.0pt;font-family:"Courier New";color:#2A00FF;
-mso-bidi-language:AR-SA'>&quot;1+2+3\n&quot;</span><span lang=EN-US
-style='font-size:10.0pt;font-family:"Courier New";color:black;mso-bidi-language:
-AR-SA'>));</span><span lang=EN-US style='font-size:10.0pt;font-family:"Courier New";
-mso-bidi-language:AR-SA'><o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;mso-pagination:none;mso-layout-grid-align:none;text-autospace:none'><span
-lang=EN-US style='font-size:10.0pt;font-family:"Courier New";color:black;
-mso-bidi-language:AR-SA'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
-class=SpellE>CommonTokenStream</span> tokens = </span><b><span lang=EN-US
-style='font-size:10.0pt;font-family:"Courier New";color:#7F0055;mso-bidi-language:
-AR-SA'>new</span></b><span lang=EN-US style='font-size:10.0pt;font-family:"Courier New";
-color:black;mso-bidi-language:AR-SA'> <span class=SpellE>CommonTokenStream</span>(<span
-class=SpellE>lex</span>);</span><span lang=EN-US style='font-size:10.0pt;
-font-family:"Courier New";mso-bidi-language:AR-SA'><o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;mso-pagination:none;mso-layout-grid-align:none;text-autospace:none'><span
-lang=EN-US style='font-size:10.0pt;font-family:"Courier New";mso-bidi-language:
-AR-SA'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;mso-pagination:none;mso-layout-grid-align:none;text-autospace:none'><span
-lang=EN-US style='font-size:10.0pt;font-family:"Courier New";color:black;
-mso-bidi-language:AR-SA'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
-class=SpellE>ExprParser</span> g = </span><b><span lang=EN-US style='font-size:
-10.0pt;font-family:"Courier New";color:#7F0055;mso-bidi-language:AR-SA'>new</span></b><span
-lang=EN-US style='font-size:10.0pt;font-family:"Courier New";color:black;
-mso-bidi-language:AR-SA'> <span class=SpellE>ExprParser</span>(tokens);</span><span
-lang=EN-US style='font-size:10.0pt;font-family:"Courier New";mso-bidi-language:
-AR-SA'><o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;mso-pagination:none;mso-layout-grid-align:none;text-autospace:none'><span
-lang=EN-US style='font-size:10.0pt;font-family:"Courier New";color:black;
-mso-bidi-language:AR-SA'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><b><span
-lang=EN-US style='font-size:10.0pt;font-family:"Courier New";color:#7F0055;
-mso-bidi-language:AR-SA'>try</span></b><span lang=EN-US style='font-size:10.0pt;
-font-family:"Courier New";color:black;mso-bidi-language:AR-SA'> {</span><span
-lang=EN-US style='font-size:10.0pt;font-family:"Courier New";mso-bidi-language:
-AR-SA'><o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;mso-pagination:none;mso-layout-grid-align:none;text-autospace:none'><span
-lang=EN-US style='font-size:10.0pt;font-family:"Courier New";color:black;
-mso-bidi-language:AR-SA'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span><span class=SpellE>g.prog</span>();</span><span lang=EN-US
-style='font-size:10.0pt;font-family:"Courier New";mso-bidi-language:AR-SA'><o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;mso-pagination:none;mso-layout-grid-align:none;text-autospace:none'><span
-lang=EN-US style='font-size:10.0pt;font-family:"Courier New";color:black;
-mso-bidi-language:AR-SA'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>} </span><b><span
-lang=EN-US style='font-size:10.0pt;font-family:"Courier New";color:#7F0055;
-mso-bidi-language:AR-SA'>catch</span></b><span lang=EN-US style='font-size:
-10.0pt;font-family:"Courier New";color:black;mso-bidi-language:AR-SA'>
-(Exception e) {</span><span lang=EN-US style='font-size:10.0pt;font-family:
-"Courier New";mso-bidi-language:AR-SA'><o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;mso-pagination:none;mso-layout-grid-align:none;text-autospace:none'><span
-lang=EN-US style='font-size:10.0pt;font-family:"Courier New";color:black;
-mso-bidi-language:AR-SA'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span><span class=SpellE>e.printStackTrace</span>();</span><span lang=EN-US
-style='font-size:10.0pt;font-family:"Courier New";mso-bidi-language:AR-SA'><o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;mso-pagination:none;mso-layout-grid-align:none;text-autospace:none'><span
-lang=EN-US style='font-size:10.0pt;font-family:"Courier New";color:black;
-mso-bidi-language:AR-SA'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>}</span><span
-lang=EN-US style='font-size:10.0pt;font-family:"Courier New";mso-bidi-language:
-AR-SA'><o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;mso-pagination:none;mso-layout-grid-align:none;text-autospace:none'><span
-lang=EN-US style='font-size:10.0pt;font-family:"Courier New";color:black;
-mso-bidi-language:AR-SA'><span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;
-</span>}</span><span lang=EN-US style='font-size:10.0pt;font-family:"Courier New";
-mso-bidi-language:AR-SA'><o:p></o:p></span></p>
-
-<div style='mso-element:para-border-div;border:none;border-bottom:double windowtext 2.25pt;
-padding:0cm 0cm 1.0pt 0cm'>
-
-<p class=MsoNormal style='border:none;mso-border-bottom-alt:double windowtext 2.25pt;
-padding:0cm;mso-padding-alt:0cm 0cm 1.0pt 0cm'><span lang=EN-US
-style='font-size:10.0pt;line-height:115%;font-family:"Courier New";color:black;
-mso-bidi-language:AR-SA'>}</span><span lang=EN-US style='font-size:10.0pt;
-line-height:115%;font-family:"Courier New";color:black;mso-fareast-language:
-ZH-CN;mso-bidi-language:AR-SA'><o:p></o:p></span></p>
-
-</div>
-
-<p class=MsoNormal><span style='font-size:10.0pt;line-height:115%;font-family:
-ËÎÌå;mso-ascii-font-family:"Courier New";mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:"Courier New";mso-bidi-font-family:"Courier New";
-color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'>±£´æ£¬ºóÔËÐÐ£¬»áÊä³öÒÔÏÂÈÕÖ¾</span><span
-lang=EN-US style='font-size:10.0pt;line-height:115%;font-family:"Courier New";
-color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'><o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;mso-pagination:none;mso-layout-grid-align:none;text-autospace:none'><span
-lang=EN-US style='font-size:10.0pt;font-family:"Courier New";color:black;
-mso-bidi-language:AR-SA'>enter INT 1 line=1:0</span><span lang=EN-US
-style='font-size:10.0pt;font-family:"Courier New";mso-bidi-language:AR-SA'><o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;mso-pagination:none;mso-layout-grid-align:none;text-autospace:none'><span
-lang=EN-US style='font-size:10.0pt;font-family:"Courier New";color:black;
-mso-bidi-language:AR-SA'>exit INT + line=1:1</span><span lang=EN-US
-style='font-size:10.0pt;font-family:"Courier New";mso-bidi-language:AR-SA'><o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;mso-pagination:none;mso-layout-grid-align:none;text-autospace:none'><span
-lang=EN-US style='font-size:10.0pt;font-family:"Courier New";color:black;
-mso-bidi-language:AR-SA'>enter <span class=SpellE>prog</span>
-[@0,0:0='1',&lt;6&gt;,1:0]</span><span lang=EN-US style='font-size:10.0pt;
-font-family:"Courier New";mso-bidi-language:AR-SA'><o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;mso-pagination:none;mso-layout-grid-align:none;text-autospace:none'><span
-lang=EN-US style='font-size:10.0pt;font-family:"Courier New";color:black;
-mso-bidi-language:AR-SA'>enter stat [@0,0:0='1',&lt;6&gt;,1:0]</span><span
-lang=EN-US style='font-size:10.0pt;font-family:"Courier New";mso-bidi-language:
-AR-SA'><o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;mso-pagination:none;mso-layout-grid-align:none;text-autospace:none'><span
-lang=EN-US style='font-size:10.0pt;font-family:"Courier New";color:black;
-mso-bidi-language:AR-SA'>enter <span class=SpellE>expr</span>
-[@0,0:0='1',&lt;6&gt;,1:0]</span><span lang=EN-US style='font-size:10.0pt;
-font-family:"Courier New";mso-bidi-language:AR-SA'><o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;mso-pagination:none;mso-layout-grid-align:none;text-autospace:none'><span
-lang=EN-US style='font-size:10.0pt;font-family:"Courier New";color:black;
-mso-bidi-language:AR-SA'>enter <span class=SpellE>multExpr</span>
-[@0,0:0='1',&lt;6&gt;,1:0]</span><span lang=EN-US style='font-size:10.0pt;
-font-family:"Courier New";mso-bidi-language:AR-SA'><o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;mso-pagination:none;mso-layout-grid-align:none;text-autospace:none'><span
-lang=EN-US style='font-size:10.0pt;font-family:"Courier New";color:black;
-mso-bidi-language:AR-SA'>enter atom [@0,0:0='1',&lt;6&gt;,1:0]</span><span
-lang=EN-US style='font-size:10.0pt;font-family:"Courier New";mso-bidi-language:
-AR-SA'><o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;mso-pagination:none;mso-layout-grid-align:none;text-autospace:none'><span
-lang=EN-US style='font-size:10.0pt;font-family:"Courier New";color:black;
-mso-bidi-language:AR-SA'>enter T__9 + line=1:1</span><span lang=EN-US
-style='font-size:10.0pt;font-family:"Courier New";mso-bidi-language:AR-SA'><o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;mso-pagination:none;mso-layout-grid-align:none;text-autospace:none'><span
-lang=EN-US style='font-size:10.0pt;font-family:"Courier New";color:black;
-mso-bidi-language:AR-SA'>exit T__9 2 line=1:2</span><span lang=EN-US
-style='font-size:10.0pt;font-family:"Courier New";mso-bidi-language:AR-SA'><o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;mso-pagination:none;mso-layout-grid-align:none;text-autospace:none'><span
-lang=EN-US style='font-size:10.0pt;font-family:"Courier New";color:black;
-mso-bidi-language:AR-SA'>exit atom [@1,1:1='+',&lt;9&gt;,1:1]</span><span
-lang=EN-US style='font-size:10.0pt;font-family:"Courier New";mso-bidi-language:
-AR-SA'><o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;mso-pagination:none;mso-layout-grid-align:none;text-autospace:none'><span
-lang=EN-US style='font-size:10.0pt;font-family:"Courier New";color:black;
-mso-bidi-language:AR-SA'>exit <span class=SpellE>multExpr</span>
-[@1,1:1='+',&lt;9&gt;,1:1]</span><span lang=EN-US style='font-size:10.0pt;
-font-family:"Courier New";mso-bidi-language:AR-SA'><o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;mso-pagination:none;mso-layout-grid-align:none;text-autospace:none'><span
-lang=EN-US style='font-size:10.0pt;font-family:"Courier New";color:black;
-mso-bidi-language:AR-SA'>enter INT 2 line=1:2</span><span lang=EN-US
-style='font-size:10.0pt;font-family:"Courier New";mso-bidi-language:AR-SA'><o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;mso-pagination:none;mso-layout-grid-align:none;text-autospace:none'><span
-lang=EN-US style='font-size:10.0pt;font-family:"Courier New";color:black;
-mso-bidi-language:AR-SA'>exit INT </span><span lang=EN-US style='font-size:
-10.0pt;font-family:"Courier New";mso-bidi-language:AR-SA'><o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;mso-pagination:none;mso-layout-grid-align:none;text-autospace:none'><span
-lang=EN-US style='font-size:10.0pt;font-family:"Courier New";color:black;
-mso-bidi-language:AR-SA'><span style='mso-spacerun:yes'>&nbsp;</span>line=1:3</span><span
-lang=EN-US style='font-size:10.0pt;font-family:"Courier New";mso-bidi-language:
-AR-SA'><o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;mso-pagination:none;mso-layout-grid-align:none;text-autospace:none'><span
-lang=EN-US style='font-size:10.0pt;font-family:"Courier New";color:black;
-mso-bidi-language:AR-SA'>enter <span class=SpellE>multExpr</span>
-[@2,2:2='2',&lt;6&gt;,1:2]</span><span lang=EN-US style='font-size:10.0pt;
-font-family:"Courier New";mso-bidi-language:AR-SA'><o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;mso-pagination:none;mso-layout-grid-align:none;text-autospace:none'><span
-lang=EN-US style='font-size:10.0pt;font-family:"Courier New";color:black;
-mso-bidi-language:AR-SA'>enter atom [@2,2:2='2',&lt;6&gt;,1:2]</span><span
-lang=EN-US style='font-size:10.0pt;font-family:"Courier New";mso-bidi-language:
-AR-SA'><o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;mso-pagination:none;mso-layout-grid-align:none;text-autospace:none'><span
-lang=EN-US style='font-size:10.0pt;font-family:"Courier New";color:black;
-mso-bidi-language:AR-SA'>enter NEWLINE </span><span lang=EN-US
-style='font-size:10.0pt;font-family:"Courier New";mso-bidi-language:AR-SA'><o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;mso-pagination:none;mso-layout-grid-align:none;text-autospace:none'><span
-lang=EN-US style='font-size:10.0pt;font-family:"Courier New";color:black;
-mso-bidi-language:AR-SA'><span style='mso-spacerun:yes'>&nbsp;</span>line=1:3</span><span
-lang=EN-US style='font-size:10.0pt;font-family:"Courier New";mso-bidi-language:
-AR-SA'><o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;mso-pagination:none;mso-layout-grid-align:none;text-autospace:none'><span
-lang=EN-US style='font-size:10.0pt;font-family:"Courier New";color:black;
-mso-bidi-language:AR-SA'>exit NEWLINE ? line=2:0</span><span lang=EN-US
-style='font-size:10.0pt;font-family:"Courier New";mso-bidi-language:AR-SA'><o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;mso-pagination:none;mso-layout-grid-align:none;text-autospace:none'><span
-lang=EN-US style='font-size:10.0pt;font-family:"Courier New";color:black;
-mso-bidi-language:AR-SA'>exit atom [@3,3:3='\n',&lt;4&gt;,1:3]</span><span
-lang=EN-US style='font-size:10.0pt;font-family:"Courier New";mso-bidi-language:
-AR-SA'><o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;mso-pagination:none;mso-layout-grid-align:none;text-autospace:none'><span
-lang=EN-US style='font-size:10.0pt;font-family:"Courier New";color:black;
-mso-bidi-language:AR-SA'>exit <span class=SpellE>multExpr</span>
-[@3,3:3='\n',&lt;4&gt;,1:3]</span><span lang=EN-US style='font-size:10.0pt;
-font-family:"Courier New";mso-bidi-language:AR-SA'><o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;mso-pagination:none;mso-layout-grid-align:none;text-autospace:none'><span
-lang=EN-US style='font-size:10.0pt;font-family:"Courier New";color:black;
-mso-bidi-language:AR-SA'>exit <span class=SpellE>expr</span>
-[@3,3:3='\n',&lt;4&gt;,1:3]</span><span lang=EN-US style='font-size:10.0pt;
-font-family:"Courier New";mso-bidi-language:AR-SA'><o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;mso-pagination:none;mso-layout-grid-align:none;text-autospace:none'><span
-lang=EN-US style='font-size:10.0pt;font-family:"Courier New";color:black;
-mso-bidi-language:AR-SA'>3</span><span lang=EN-US style='font-size:10.0pt;
-font-family:"Courier New";mso-bidi-language:AR-SA'><o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;mso-pagination:none;mso-layout-grid-align:none;text-autospace:none'><span
-lang=EN-US style='font-size:10.0pt;font-family:"Courier New";color:black;
-mso-bidi-language:AR-SA'>exit stat [@4,4:4='&lt;EOF&gt;',&lt;-1&gt;,2:0]</span><span
-lang=EN-US style='font-size:10.0pt;font-family:"Courier New";mso-bidi-language:
-AR-SA'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='font-size:10.0pt;line-height:115%;
-font-family:"Courier New";color:black;mso-bidi-language:AR-SA'>exit <span
-class=SpellE>prog</span> [@4,4:4='&lt;EOF&gt;',&lt;-1&gt;,2:0]</span><span
-lang=EN-US style='font-size:10.0pt;line-height:115%;font-family:"Courier New";
-color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:10.0pt;line-height:115%;font-family:
-ËÎÌå;mso-ascii-font-family:"Courier New";mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:"Courier New";mso-bidi-font-family:"Courier New";
-color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'>ÕâÐ©ÈÕÖ¾ÐÅÏ¢´ú±íµÄº¬Òå½«»áÔÚÊ¹ÓÃ½ø½×ÀïÃæ½âÊÍ£¬ÐèÒª¹Ø×¢µÄÊÇµ¹ÊýµÚÈýÐÐ</span><span
-style='font-size:10.0pt;line-height:115%;font-family:"Courier New";color:black;
-mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'> </span><span
-style='font-size:10.0pt;line-height:115%;font-family:ËÎÌå;mso-ascii-font-family:
-"Courier New";mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:"Courier New";mso-bidi-font-family:"Courier New";
-color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'>Êý×Ö</span><span
-lang=EN-US style='font-size:10.0pt;line-height:115%;font-family:"Courier New";
-color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'>3</span><span
-style='font-size:10.0pt;line-height:115%;font-family:ËÎÌå;mso-ascii-font-family:
-"Courier New";mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:"Courier New";mso-bidi-font-family:"Courier New";
-color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'>£¬Õâ¸öÊÇÊä³öµÄ½á¹¹£¬Äã¿ÉÒÔÍ¨¹ýÅäÖÃÑ¡Ïî¹Ø±ÕÆäËûÐÅÏ¢µÄÊä³ö£¬Ö»±£Áô½á¹ûµÄÊä³ö£¬ÕâÐ©½«»áÔÚ</span><span
-class=SpellE><span lang=EN-US style='font-size:10.0pt;line-height:115%;
-font-family:"Courier New";color:black;mso-fareast-language:ZH-CN;mso-bidi-language:
-AR-SA'>antlr</span></span><span style='font-size:10.0pt;line-height:115%;
-font-family:ËÎÌå;mso-ascii-font-family:"Courier New";mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:"Courier New";
-mso-bidi-font-family:"Courier New";color:black;mso-fareast-language:ZH-CN;
-mso-bidi-language:AR-SA'>µÄÅäÖÃÏîÖÐ¸øÒÔ½âÊÍ¡£</span><span lang=EN-US style='font-size:
-10.0pt;line-height:115%;font-family:"Courier New";color:black;mso-fareast-language:
-ZH-CN;mso-bidi-language:AR-SA'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<h2><a name="_Toc361871702"><![if !supportLists]><span lang=EN-US
-style='mso-bidi-font-family:ËÎÌå;mso-bidi-theme-font:major-fareast;mso-fareast-language:
-ZH-CN'><span style='mso-list:Ignore'>µÚÈý½Ú<span style='font:7.0pt "Times New Roman"'>
-</span></span></span><![endif]></a><span class=SpellE><span style='mso-bookmark:
-_Toc361871702'><span lang=EN-US style='mso-fareast-language:ZH-CN'>Antlrworks</span></span></span><span
-style='mso-bookmark:_Toc361871702'><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Cambria;mso-ascii-theme-font:major-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-major-fareast;mso-hansi-font-family:Cambria;mso-hansi-theme-font:major-latin;
-mso-fareast-language:ZH-CN'>¹¤¾ßµÄ¸÷²¿·ÖÊ¹ÓÃËµÃ÷</span></span><span style='mso-bookmark:
-_Toc361871702'></span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></h2>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN;
-mso-bidi-language:AR-SA;mso-no-proof:yes'><v:shape id="Í¼Æ¬_x0020_52" o:spid="_x0000_i1037"
- type="#_x0000_t75" style='width:415.5pt;height:250.5pt;visibility:visible;
- mso-wrap-style:square'>
- <v:imagedata src="hand%20in%20hand%20with%20antlr.files/image030.png" o:title=""/>
-</v:shape></span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Óï·¨ÔªËØ´ó¸ÙÍ¼</span></b><b
-style='mso-bidi-font-weight:normal'><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>:</span></b><span lang=EN-US style='mso-fareast-language:ZH-CN'> </span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>½«Óï·¨ÎÄ¼þµÄÓï·¨ÔªËØÒÔ´ó¸ÙµÄ·½Ê½ÁÐÔÚ×ó±ß¡£ÉÏÃæ»¹ÓÐÒ»¸ö×óÓÒ¼ýÍ·°´Å¥£¬ÓÃÀ´ÔÚÓï·¨ÔªËØ¼äÇÐ»»µÄ¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Óï·¨ÎÄ¼þ±à¼­Æ÷£º</span></b><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>±à¼­Óï·¨ÎÄ¼þ£¬ÓëÆÕÍ¨µÄ±à¼­Æ÷ÎÞÒì£¬¶àÁËÒ»¸öÊäÈëÊ±£¬»á×Ô¶¯¶ÔÆëµÄ¹¦ÄÜ¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Óï·¨¸ßÁÁ°´Å¥£º</span></b><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¿ØÖÆÓï·¨±à¼­Æ÷ÊÇ·ñ¸ßÁÁÏÔÊ¾Óï·¨¹Ø¼ü×Ö¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>µ÷ÊÔ¿ìËÙ°´Å¥</span></b><b
-style='mso-bidi-font-weight:normal'><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>:</span></b><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>Õâ¸ö¿ÉÒÔÔÚ²Ëµ¥ÖÐÕÒµ½£¬µ«¾­³£ÓÃ£¬¾ÍÁÐÔÚÁË½çÃæÉÏ¡£</span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>µ÷ÊÔ°´Å¥</span></b><b
-style='mso-bidi-font-weight:normal'><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>:</span></b><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>µ÷ÊÔÊ±ºò£¬½øÐÐµ¥²½Ç°½ø£¬µ¥²½ºóÍË£¬»Øµ½×î¿ªÊ¼Î»ÖÃ£¬»òÕßÖ´ÐÐµ½×îºóÎ»ÖÃ¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÖÐ¶ÏÊÂ¼þ¼¤·¢µã£º</span></b><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÉèÖÃÊ²Ã´Ê±ºò½øÐÐ·¢³öµ÷ÊÔÖÐ¶ÏÏÝÚåÐÅºÅ¸øµ÷ÊÔÆ÷¡£Ä¬ÈÏÉèÖÃÎª</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>token</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÏûºÄÊ±£¬Ò²¾ÍÊÇµ±Ò»¸ö´Ê·¨±»Ê¶±ð³öÀ´µÄÊ±ºò£¬ÐÎ³ÉÒ»¸ö</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>token</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>±»Óï·¨µ÷ÓÃÏûºÄÊ±£¬´¥·¢µ÷ÊÔÖÐ¶ÏÏÝÚå¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÊäÈë</span></b><b
-style='mso-bidi-font-weight:normal'><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>/</span></b><b style='mso-bidi-font-weight:normal'><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Êä³ö´°¿Ú</span></b><b
-style='mso-bidi-font-weight:normal'><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>:</span></b><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ÊäÈëÊä³ö´°¿Ú¹²ÓÃÒ»¿éÏÔÊ¾ÇøÓò£¬²»ÄÜÍ¬Ê±ÏÔÊ¾£¬ÈÎÒâÒ»¸öÊ±¼ä£¬×î¶àÖ»ÄÜÏÔÊ¾ÆäÖÐµÄÒ»¸ö¡£ÊäÈëÊä³ö´°¿ÚµÄ×÷ÓÃÖ÷ÒªÊÇ¹ØÓÚÊäÈëÁ÷µÄÏÔÊ¾ºÍ±»±æÈÏ³öÀ´µÄ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>token</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Á÷µÄÊä³ö£¬ÓÉÓÚÊÇ</span><span
-class=SpellE><span lang=EN-US style='mso-fareast-language:ZH-CN'>ll</span></span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>(k)</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Ëã·¨</span><span
-style='mso-fareast-language:ZH-CN'> <span lang=EN-US>( <span class=SpellE>ll</span>(k)
-</span></span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>µÄÒâË¼ÊÇ</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>&nbsp;scans input from left-to-right, produces a leftmost derivation top-down,
-k symbols of <span class=SpellE>lookahead</span> .</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¶ø</span><span
-class=SpellE><span lang=EN-US style='mso-fareast-language:ZH-CN'>lr</span></span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>(k)</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>µÄÒâË¼ÊÇ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>a grammar in which purser scans
-the input from left to right and generate the reverse rightmost derivation, and
-it can take a decision about reduction by looking next k symbol only. That is
-why; it is called LR (k) grammar.),</span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ËùÒÔÕâÁ½Õß¼¸ºõ¶¼ÊÇÍ¬²½µÄ£¬µ«ÓÉÓÚ¿ÉÄÜ»á´æÔÚÒ»Ð©</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>token</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>±»</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>skip</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>»òÕß</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>hide</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÁË£¬ËùÒÔ£¬</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>output</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>µÄ´°¿ÚÄÚÈÝ»áÉÙÓÚ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>input</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>´°¿ÚÄÚÈÝ¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>·ÖÎöÊ÷ºÍ³éÏóÓï·¨Ê÷´°¿Ú</span></b><b
-style='mso-bidi-font-weight:normal'><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>:</span></b><span lang=EN-US style='mso-fareast-language:ZH-CN'> </span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÒÔÊ÷×´µÄÐÎÊ½À´Õ¹ÏÖ½âÎöµÄ½á¹û£¬·ÖÎöÊ÷Ìù½üÔ´Óï·¨£¬ÊÇÔ´Óï·¨µÄÒ»¸öÖ±½ÓÓ³Éä£¬³éÏóÓï·¨Óï·¨Ê÷ÊÇ¶ÔÔ´Óï·¨½øÐÐ³éÏóºóµÄÒ»¸öÌåÏÖ¡£±ÈÈç£¬Ò»°ãÕûÊýºÍÊµÊý£¬ÔÚ·ÖÎöÊ÷ÖÐ»á¶ÔÓ¦²»Í¬µÄÀàÐÍ£¬µ«ÊÇÔÚ³éÏóÓï·¨Ê÷ÖÐ£¬¿ÉÄÜ»á±»³éÏó³É²Ù×÷ÊýÕâÑùµÄÍ³Ò»ÀàÐÍ¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¶ÑÕ»ºÍÊÂ¼þ´°¿Ú</span></b><b
-style='mso-bidi-font-weight:normal'><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>:</span></b><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>¶ÑÕ»´°¿ÚÕ¹ÏÖÓï·¨¹æÔò±»·ÃÎÊµÄÉî¶È¹ØÏµ¡£¾ÍÏñº¯ÊýµÄµ÷ÓÃ¶ÑÕ»Ò»Ñù¡£ÊÂ¼þ´°¿ÚÕ¹ÏÖÃ¿Ò»²½·¢ÉúµÄÊÂ¼þ£¬±ÈÈç½øÈëÄÇÒ»¸ö¹æÔò£¬ÏûºÄÄÇÒ»Ð©</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>token</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>µÈ¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>Óï·¨Í¼´°¿Ú</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>:</span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>Ä¬ÈÏÒÔ</span><span class=SpellE><span lang=EN-US
-style='mso-fareast-language:ZH-CN'>bnf</span></span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Í¼·½Ê½Õ¹Ê¾Óï·¨¹æÔò¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>Show <span class=SpellE>nfa</span></span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¿ÉÒÔÑ¡ÔñÊÇ·ñÏÔÊ¾·ÇÈ·¶¨ÐÍ×´Ì¬»ú¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN;
-mso-bidi-language:AR-SA;mso-no-proof:yes'><v:shape id="Í¼Æ¬_x0020_1" o:spid="_x0000_i1036"
- type="#_x0000_t75" style='width:414.75pt;height:105pt;visibility:visible;
- mso-wrap-style:square'>
- <v:imagedata src="hand%20in%20hand%20with%20antlr.files/image031.png" o:title=""/>
-</v:shape></span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>½âÊÍÆ÷´°¿Ú</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>:</span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>¿ÉÒÔµ¥¶Àµ÷ÊÔÄ³Ò»Ìõ¹æÔò¡£</span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<h2><a name="_Toc361871703"><![if !supportLists]><span lang=EN-US
-style='mso-bidi-font-family:ËÎÌå;mso-bidi-theme-font:major-fareast;mso-fareast-language:
-ZH-CN'><span style='mso-list:Ignore'>µÚËÄ½Ú<span style='font:7.0pt "Times New Roman"'>
-</span></span></span><![endif]><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>Antlrv3ide</span></a><span style='mso-bookmark:_Toc361871703'><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Cambria;mso-ascii-theme-font:major-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:major-fareast;mso-hansi-font-family:
-Cambria;mso-hansi-theme-font:major-latin;mso-fareast-language:ZH-CN'>²å¼þµÄ¸÷²¿·ÖÊ¹ÓÃËµÃ÷</span></span><span
-style='mso-bookmark:_Toc361871703'></span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'><o:p></o:p></span></h2>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>Ë«»÷</span><span class=SpellE><span lang=EN-US
-style='mso-fareast-language:ZH-CN'>Expr.g</span></span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÎÄ¼þ£¬¼´¿É½øÈë</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>antlrv3ide</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>µÄ²å¼þ¹ØÁªµÄÊÓÍ¼¡£ÏÂÃæÊÇ¸÷×é³É²¿·ÖµÄËµÃ÷¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>Óï·¨±à¼­Æ÷Çø£ºÕâ²¿·ÖÖ»ÊÇ¸¨Öú±à¼­</span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'>.g</span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>µÄÓï·¨ÎÄ¼þ¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN;
-mso-bidi-language:AR-SA;mso-no-proof:yes'><v:shape id="Í¼Æ¬_x0020_4" o:spid="_x0000_i1035"
- type="#_x0000_t75" style='width:415.5pt;height:265.5pt;visibility:visible;
- mso-wrap-style:square'>
- <v:imagedata src="hand%20in%20hand%20with%20antlr.files/image032.png" o:title=""/>
-</v:shape></span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>½âÊÍµ÷ÊÔÇø</span></b><b
-style='mso-bidi-font-weight:normal'><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>: </span></b><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>Õâ²¿·Ö¿ÉÒÔ½âÊÍµ÷ÊÔ¸÷ÖÖ¹æÔò¡£Ñ¡ÔñÐèÒªµ÷ÊÔµÄµÄ¹æÔò£¬ÔÚÊäÈëÇøÊäÈë´ýµ÷ÊÔµÄ×Ö·û´®£¬</span><span
-style='mso-fareast-language:ZH-CN'> </span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>µã»÷ÔËÐÐ°´Å¥£¬¾Í¿ÉÒÔÔÚÊä³öÇø¿´µ½¾ßÌåÓï·¨Ê÷»òÕßÎÊÌâÁË¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>Èç¹ûÓÐÐèÒª£¬»¹¿ÉÒÔÒÔÐÂ½¨ÓÃÀýµÄ·½Ê½½«¸Ã´Î²âÊÔ±£´æÎª</span><span class=SpellE><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>gunit</span></span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>²âÊÔÓÃÀý¡£ÒÔ¹©¶à´Î²âÊÔÓÃ¡£</span><span
-class=SpellE><span lang=EN-US style='mso-fareast-language:ZH-CN'>Gunit</span></span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÓÃÀý¿ÉÒÔ×ª»¯³É</span><span
-class=SpellE><span lang=EN-US style='mso-fareast-language:ZH-CN'>junit</span></span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÓÃÀý</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>¡­.<o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN;
-mso-bidi-language:AR-SA;mso-no-proof:yes'><v:shape id="Í¼Æ¬_x0020_7" o:spid="_x0000_i1034"
- type="#_x0000_t75" style='width:415.5pt;height:219pt;visibility:visible;
- mso-wrap-style:square'>
- <v:imagedata src="hand%20in%20hand%20with%20antlr.files/image033.png" o:title=""/>
-</v:shape></span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN;
-mso-bidi-language:AR-SA;mso-no-proof:yes'><v:shape id="Í¼Æ¬_x0020_10" o:spid="_x0000_i1033"
- type="#_x0000_t75" style='width:415.5pt;height:270pt;visibility:visible;
- mso-wrap-style:square'>
- <v:imagedata src="hand%20in%20hand%20with%20antlr.files/image034.png" o:title=""/>
-</v:shape></span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<h1><a name="_Toc361871704"><![if !supportLists]><span lang=EN-US
-style='mso-bidi-font-family:ËÎÌå;mso-bidi-theme-font:major-fareast;mso-fareast-language:
-ZH-CN'><span style='mso-list:Ignore'>µÚËÄÕÂ <span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Cambria;mso-ascii-theme-font:major-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-major-fareast;mso-hansi-font-family:Cambria;mso-hansi-theme-font:major-latin;
-mso-fareast-language:ZH-CN'>Ê¹ÓÃÆª</span></a><span style='mso-bookmark:_Toc361871704'></span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></h1>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ÔÚ°²×°Íê³Éºó£¬²¢Í¨¹ý¼òµ¥µÄÊ¹ÓÃ£¬ÊìÏ¤ÁË</span><span class=SpellE><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>antlr</span></span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¹¤¾ß</span><span
-class=SpellE><span lang=EN-US style='mso-fareast-language:ZH-CN'>antlrworks</span></span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÒÔ¼°²å¼þ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>antlrv3ide</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>µÄ¸÷²¿·Ö£¬ÒÑÀûÆäÆ÷ÁË£¬Ê£ÏÂµÄ¾ÍÊÇÈçºÎÓûÉÆÆäÊÂÁË¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>±¾ÆªµÄ°²ÅÅÄâÕâÑù</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>: </span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ÏÈ´µ´µË®£¬ÁË½âÒ»ÏÂÒ»Ð©ÀúÊ·µä¹Ê£¬È»ºó¶ÔÒ»Ð©»ù±¾¸ÅÄî×÷Ò»¸ö´óÌå½éÉÜ£¬¶Ô¾­µäµÄ±í´ïÊ½½øÐÐÆÊÎö£¬ÔÙ°²ÅÅÒ»¸ö¾ßÌåµÄ³¡¾°¡¶×´Ì¬»ú´úÂëÉú³É¿ò¼Ü¡·£¬ÖÐ¼ä»á´©²åÒ»Ð©±àÒëÔ­ÀíÖªÊ¶¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>Í¨¹ý±¾ÆªµÄÑ§Ï°ºó£¬ÄãÓ¦¸ÃÄÜ¹»Ê¹ÓÃ</span><span class=SpellE><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>antlr</span></span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>°Ñ¹¤×÷ÖÐÐèÇó×ª»¯³ÉÉè¼Æ£¬Èç¹û²»ÄÜ£¬¾Í¸øÎÒÀ´</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>email</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>°É£¬ÎÒÃÇÒ»ÆðÌ½ÌÖÒ»ÏÂÈçºÎ¸Ä½øÕâ¸ö½Ì³Ì¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<h2><a name="_Toc361871705"><![if !supportLists]><span lang=EN-US
-style='mso-bidi-font-family:ËÎÌå;mso-bidi-theme-font:major-fareast;mso-fareast-language:
-ZH-CN'><span style='mso-list:Ignore'>µÚÒ»½Ú<span style='font:7.0pt "Times New Roman"'>
-</span></span></span><![endif]><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Cambria;mso-ascii-theme-font:major-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-major-fareast;mso-hansi-font-family:Cambria;mso-hansi-theme-font:major-latin;
-mso-fareast-language:ZH-CN'>ÎÞÔðÈÎÂÒµ¯</span></a><span style='mso-bookmark:_Toc361871705'></span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></h2>
-
-<p class=MsoNormal style='text-indent:24.0pt'><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Ò»°ã¹Å´ú³öÕ÷Ê±×Ü»á¼À°ÝÏÈ×æ»òÕßÊ²Ã´´óÉñÖ®ÀàµÄ£¬ÇóÆò±Ó»¤¡£ÕâÀïÎÒÃÇÒ²ÉÕ¼¸ÖùÏãÀ´°Ý¼ÀÒ»ÏÂÏà¹ØµÄÏÈ×æÃÇ¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal style='text-indent:24.0pt'><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÉÏÒ»¸öÊÀ¼ÍÊÇÒ»¸öÎ°ÈË¾®ÅçµÄÊÀ¼Í</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>.<o:p></o:p></span></p>
-
-<p class=MsoNormal style='text-indent:24.0pt'><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Ï£¶û²®ÌØÌá³öÁËÖøÃûµÄ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>23</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¸öÖøÃûµÄÎÊÌâ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>,</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÔÚµÚ¶þ¸öÎÊÌâÖÐ£¬²¢ÆóÍ¼½¨Á¢Ò»Ì×Íê±¸µÄ¶ÀÁ¢µÄÏàÈÝµÄ¹«ÀíÌåÏµ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>,</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Ê¹µÃÒ»ÆðµÄÊýÑ§ÃüÌâÔÚÕâÌ×¹«ÀíÌåÏµÄÚ¾­¹ýÓÐÏÞ²½ÖèµØÍÆµ¼¶¼ÄÜµÃµ½ÕæÎ±µÄÅÐ¶Ï£¬Õâ¸öÊÀ½ç´óÍ¬Ê½µÃÃÎÏëÈÃµ±Ê±ËùÓÐµÄÊýÑ§¼Ò¶¼Õñ·Ü²»ÒÑ¡£µ«ÔÚ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>1931</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Äê£¬¸çµÂ¶û²»Íê±¸¶¨ÀíµÄ³öÏÖ£¬ÈÃÕâÒ»¹²²úÖ÷ÒåÊ½µÄÃÎÏëÆÆÃð¡£¸çµÂ¶ûÁîÈËÐÅ·þµÄÖ¤Ã÷ÁË£ºÈÎºÎÏàÈÝ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>(</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÎÞÃ¬¶Ü</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>)</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>µÄ¹«ÀíÏµÍ³£¬Ö»Òª°üº¬³õµÈËãÊõµÄ³ÂÊö£¬±Ø¶¨´æÔÚÒ»¸ö²»¿ÉÅÐ¶¨µÄÎÊÌâ£¬ÓÃÕâ×é¹«Àí²»ÄÜÅÐ¶ÏÆäÕæ¼Ù¡£Ò²¾ÍÊÇËµ£¬¡°ÏàÈÝ¡±ºÍ¡°Íê±¸¡±ÓÌÈçÓãºÍÐÜÕÆ£¬²»¿ÉµÃ¶ø¼æÖ®¡£´µ¿ªÃÔÎíºó²Å·¢ÏÖÀíÏëµÄ¹«ÀíÏµÍ³¾ÍÏñÒ»¼þ×½½ó¼ûÖâµÄ»ªÀöÍâÒÂ¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal style='text-indent:24.0pt'><span lang=EN-US
-style='mso-fareast-language:ZH-CN'>1936</span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Äê£¬Í¼ÁéºÍÇñÆæÎªÁËµÚ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>10</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¸öÎÊÌâ£¬·Ö±ð¹¹ÔìÁËÁ½ÖÖÊâÍ¾Í¬¹éµÄ¼ÆËãÄ£ÐÍ£¬Í¼Áé»úºÍ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>lambda</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Ëã×Ó</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>(</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Ã²ËÆ»¹ÓÐÒ»¸öÊýÑ§¼ÒÌá³öÁËµÝ¹éº¯Êý</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>)</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¡£Í¼Áé»úÒÔ¸ÐÐÔÖ±¹ÛµÄ·½Ê½Õ¹ÏÖÁËÂß¼­µÄ»úÐµÐÔÖÊ£¬¶ø</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>lambda</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Ëã×ÓÔòÒÔÀíÐÔµÄ·½Ê½½ÒÊ¾ÁËÂß¼­µÄ³éÏó±ä»»±¾ÖÊ¡£Í¼ÁéÍ£»úÎÊÌâºÍ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>lambda</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Ëã×ÓÖÐµÄ²»¶¯µãËã×Ó</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>(Y <span class=SpellE>combinator</span>)</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Îª¸çµÂ¶ûµÂ²»Íê±¸¶¨ÀíÌá¹©ÁËÓÐÁ¦µÄ×ôÖ¤¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>(</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Í¼Áé»úºÍ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>lambda</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Ëã×ÓÖ®ÓÚ¼ÆËãÀíÂÛÓë²¨Á£¶þÏóÐÔÖ®ÓÚÎïÀí±È½ÏÏñ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>,</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÔÚ»ù±¾Á£×ÓÉíÉÏÍ¬Ê±ÌåÏÖ³öÁËÁ½ÖÖÌØÐÔ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>)</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal style='text-indent:24.0pt'><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Í¼ÁéµÄ¼ÆËãÄ£ÐÍ½«Ë¼Î¬µÄÔË¶¯×ª»¯³ÉÁË»úÐµµÄÔË¶¯·½Ê½£¬Îª¼ÆËã»úµÄÖÆÔìÌá¹©ÁË¿ÉÄÜ¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>1944 </span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>£¬·ëÅµÒÀÂüÒª¼ÆËãÔ­×Óµ¯µÄ·´Ó¦´«²¥¹ÍÓ¶ÁË</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>100</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¶àÃûÅ®¼ÆËãÔ±£¬ÈÕÒÔ¼ÌÒ¹µÄ¼ÆËãÈÔÈ»²»ÄÜÂú×ã¼ÆËãÐèÇó£¬Å¼È»»ú»áËûÁË½âµ½ÁË</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>ENIAC</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¼ÆËã»úµÄÑÐÖÆ¼Æ»®£¬ºÜ¸ÐÐËÈ¤£¬¸ÄÔìÁËÒ»ÏÂ£¬ÓÃÂß¼­µÈ¼ÛµÄÎÈ¶¨¿É¿¿µÄ»ùÓÚ¶þ½øÖÆÉè¼ÆµÄµçÂ·</span><span
-style='mso-fareast-language:ZH-CN'> </span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>´úÌæÁË¸´ÔÓµÄ¶à½øÖÆÂß¼­µçÂ·£¬³ÉÁË£¬È»ºóÔÙ¸øÄÇÌ¨»úÆ÷¼ÓÁË¸öÄÚ´æÌõ£¬¾Í±ä³ÉÁË´«ËµÖÐµÄ·ëÅµÒÀÂü»ú£¨Ð¦Ù©£¬Äªµ±Õæ£¬·ëÅµÒÀÂü»úÊÇÖ¸Ò»ÖÖ½á¹¹£©¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal style='text-indent:24.0pt'><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÓÐÁË¼ÆËã»ú£¬×ÔÈ»¾Í´ßÉúÁË³ÌÐòÉè¼ÆÓïÑÔ£¬ÉõÖÁÔÚ»¹Ã»ÓÐ¼ÆËã»úÖ®Ç°£¬¾ÍÒÑ¾­ÓÐÁË³ÌÐòÔ±£¬µÚÒ»¸ö³ÌÐòÔ±ÊÇÒ»¸ö·Ç³£ÓÐ²Å»ªµÄÃÀÅ®</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>:<span class=SpellE>Ada</span></span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>£¬°ÝÂ×µÄÅ®¶ù¡£ÕâÊÀ½çÉÏ£¬´ÏÃ÷µÄÅ®ÈË±¾À´¾ÍºÜÉÙ£¬ÃÀÀöµÄ´ÏÃ÷Å®ÈË¸üÊÇÉÙÖ®ÓÖÉÙ¡£¿ÉÏ§Ó¢ÄêÔçÊÅ£¬ÈýÊ®ÁùËê¾Í</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>down</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>µôÁË£¬Ã¿Ã¿ÏëÆð´ËÊÂ£¬Î´Ãâ÷öÈ»Ì¾Ï¢£¬Ìì¶ÊºìÑÕ°¢¡£µ«ËýÌì²ÅµÄÔ¤¼ûÁô´æÀ´ÏÂÀ´£¬²¢ÔÚÖ®ºóµÄÒ»°Ù¶àÄêºóÒ»Ò»µÃµ½ÑéÖ¤¡£Ã¿´Î¶Áµ½Õâ¸ö</span><span
-class=SpellE><span lang=EN-US style='mso-fareast-language:ZH-CN'>ada</span></span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Õâ¸öµ¥´Ê¾Í</span><span
-style='mso-fareast-language:ZH-CN'> </span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>·Â·ð¿´µ½ÔÚð¨½àµÄÔÂ¹âÏÂ£¬ÓÐÒ»ÃûÍñÔ¼µÄÅ®×Ó£¬Õ¾ÔÚÊÀ½çÖ®áÛÕ°Íû£¬Ëý»ðÈÈÑÛ¾¦ÀïÃæÓ³ÕÕ×Åµ¥µ÷µÄ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>01</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÊÀ½ç¾«²ÊµÄÎ´À´£¬ÔÚÄÇÀï²»½öÓÐ×Ó³ÌÐò£¬Á÷³ÌÍ¼£¬»¹ÓÐÒôÀÖ£¬Í¼»­</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>¡­.<o:p></o:p></span></p>
-
-<p class=MsoNormal style='text-indent:24.0pt'><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÔÚÃèÊö³ÌÐòÉè¼ÆÓïÑÔµÄ±¾ÉíµÄÊ±ºò£¬²»¿É±ÜÃâµØÉæ¼°µ½°Í¿ËË¹</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>-</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Åµ¶û·¶Ê½</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>.<o:p></o:p></span></p>
-
-<p class=MsoNormal style='text-indent:24.0pt'><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>°ëÂ·³ö¼ÒÃ²ËÆÊÇºÜ¶à´óÄÃµÄÂ·×Ó¡£»òÐíÊÇÒòÎªËûÃÇµÄ´ÏÃ÷²ÅÖÇÊÇÌØµØÎª¼ÆËã»ú¶øÉúµÄ£¬Ö®Ç°£¬¶¼ÊÇÔÚÎªÓö¼ûµÄÄÇÒ»¿Ì×¼±¸¡£°Í¿ËË¹ºÍÅµ¶û¾ÍÊÇÕâÑùµÄÈÊÐÖ¡£</span><span
-style='mso-fareast-language:ZH-CN'> <span lang=EN-US><o:p></o:p></span></span></p>
-
-<p class=MsoNormal style='text-indent:24.0pt'><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¾ÝËµ°Í¿ËË¹ÄêÉÙÊ±²»°®¶ÁÊé£¬»ìÁË¸öÖÐÑ§±ÏÒµ¡£ÔÚ´óÑ§Ê±ÓÉÓÚÎÞÖªÑ¡ÔñÁË»¯Ñ§£¬µ«Ò²Ã»ÔõÃ´Ñ§ºÃ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>...(</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¸ÐÐ»µ±ÄêÍ¬Ñ§µÄ²»É±Ö®¶÷ÄÄ¡£Òª²»±à³ÌÓïÑÔÀúÊ·µÃµ¹ÍË¶àÉÙÄê°¢</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>)</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>£¬²»¹ýÈ´ÄêÉÙ·½¸Õ±È½ÏÈÈÑª£¬¶þÕ½Ê±Í·ÄÔÒ»ÈÈÅÜÈ¥µ±Â½¾üÒ½ÁÆ±øÁË£¬ÔÚÕâÖÐ¼ä¼ì²é³öÁËÄÔÁö£¬½ÓÊÜÁËÊÖÊõ¡£±øÊÇµ±²»³ÉÁË£¬¹í×ÓÒ²ÊÇ´ò²»ÁËÁË£¬µ«¹â»î×ÅÒ²²»ÊÇ°ì·¨£¬ÓÚÊÇËûÏë×ªÖ°×ö¸öÎÞÏßµç¹¤ÁË´Ë²ÐÉúËãÁË¡£ÔÚÉÏ¸ÚÇ°µÄÅàÑµÖÐ£¬ºöÈ»×ÅÁËÄ§°ãµÄ¶ÔÊýÑ§¸ÐÐËÈ¤ÁË£¬</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>(</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¹íÖªµÀÊÇ²»ÊÇÄÇ¸öÄÔÁöÓ°ÏìÁËËû´óÄÔµÄ½á¹¹</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>)</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>£¬ºóÀ´»ØÂ¯¿¼ÑÐÖØÔì£¬Ñ§³ÉºóÅÜÈ¥</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>IBM</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>£¬ºóÀ´µÄÊÂ£¬´ó¼Ò¶¼ÖªµÀÁË</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>....</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¾ÍÕâÑùÒ»´úÌì²ÅÖÕÓÚÕÒµ½ÁË×Ô¼ºµÄÌì¸³ºÍÊ¹Ãü£¬ÕÒµ½ÁËÉÏµÛ½»¸øËûµÄÈÎÎñ£¬¿ª·¢ÁËµÚÒ»¸ö¸ß¼¶±à³ÌÓïÑÔ£¬²¢³éÏó³öÁËÒ»¸öÃèÊö¸ß¼¶³ÌÐòÉè¼ÆÓïÑÔµÄ¹æ·¶</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>:</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>°Í¿ËË¹·¶Ê½¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal style='text-indent:24.0pt'><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Åµ¶û¸üÊÇÒ»¸öÒâÍâµÄ¿Í´®</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>.</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Ñ¾µ±Ê±¸ù±¾¾ÍÃ»Ïë¹ýÒªÔÚ¼ÆËã»ú½ç´³³ö¸öÃûÌÃÀ´£¬¶ø×íÐÄÓÚÒ¹¹ÛÌìÏó¡£Ëû±¾Ö°Ò²ÊÇÒ»¸öÌìÎÄÑ§¼Ò£¬ÓÉÓÚÐèÒª´¦Àí´óÁ¿µÄÌìÎÄÊý¾Ý£¬Ò²¾Í±»±Æ³ÉÁË¼ÆËã»ú×¨¼Ò¡£ÔÚ°ÍÀèµÄÖøÃûµÄ</span><span
-class=SpellE><span lang=EN-US style='mso-fareast-language:ZH-CN'>algol</span></span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>´ó»áÉÏ£¬Åµ¶û´ó·ù¶ÈµÄ¼ò»¯ÁË°ÍË¹¿Ë·¶Ê½£¬²¢×÷Îª´ó»á×Ü½áÈËÓÃËüÓÅÑÅ¼ò½àµÄÃèÊöÁË</span><span
-class=SpellE><span lang=EN-US style='mso-fareast-language:ZH-CN'>algol</span></span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>µÄÌØÐÔ£¬ÓÚÊÇ¾Í²úÉúÁËÄÇ·ÝÔÚ±à³ÌÓïÑÔÊ·ÉÏÓÐ»®Ê±´úÒâÒåµÄ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>&lt;</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Ëã·¨ÓïÑÔ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>algol60</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>±¨¸æ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>&gt;</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>£¬Õâ¸ö±¨¸æÕ¹Ê¾ÁË´Ó½Ó½üÈËÀàÓïÑÔµÄÊÓ½ÇÈ¥ºÍ»úÆ÷¹µÍ¨£¬¶ø²»ÊÇÓÃ»úÆ÷ÓïÑÔµÄÊÓ½ÇÈ¥ºÍ»úÆ÷¹µÍ¨µÄ·½Ê½¡£»»¾ä»°Ëµ£¬ËûÃÇ³É¹¦µÄÈÃËùÓÐµÄ¿ª·¢»î¶¯´ÓÒÔ»úÆ÷ÎªÖÐÐÄ×ªÒÆµ½ÁËÒÔÈËµÄÂß¼­Ë¼Î¬ÎªÖÐÐÄ£¬´Ó´Ë½â·ÅÁË»úÆ÷ÌØÐÔ¶ÔÈËµÄË¼Î¬Âß¼­µÄÊø¸¿£¬ÕâÊÇ¸öÁË²»ÆðµÄÖÊµÄ·ÉÔ¾£¬¾ÍÏñ´Ó»î×ÅÊÇÎªÁË³Ô·¹Ô¾Ç¨µ½³Ô·¹ÊÇÎªÁË»î×ÅµÄ¾³½ç¡£</span><span
-style='mso-fareast-language:ZH-CN'> <span lang=EN-US><o:p></o:p></span></span></p>
-
-<p class=MsoNormal style='text-indent:24.0pt'><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Åµ¶û»¹ÊÇÒ»¸ö²Å»ªºáÒçµÄÈË£¬×ã¼£Éæ¼°ÁËÌìÎÄÑ§£¬ÐÄÀíÑ§£¬ÉúÎïÑ§£¬¹ÅµäÒôÀÖµÈ£¬µ«ÔÚÆäËûÁìÓò¶¼²»ÈçËûÔÚ¼ÆËã»úÉÏµÄÃûÉù´ó£¬ºóÀ´Ò²¾ÍÂýÂýµÄ×¨Òµ¸ã¼ÆËã»úÁË¡£»¹ÓÐÒ»µãÓÐÒâË¼µÄÊÇ£¬Åµ¶ûËäÈ»µÃÁËÍ¼Áé½±£¬µ«È´Ê¼ÖÕ²»³ÐÈÏÍ¼Áé¹ØÓÚÈË¹¤ÖÇÄÜµÄÏë·¨¡£ÊÀ½çÉÏµÄÊÂÍùÍù¶¼ÊÇÕâÃ´¸ÏÇÉ£¬ÎÞÐÄ²åÁøµÄ£¬È´ÒñÁËÒ»´óÆ¬¡£ËÞÃü°¢¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal style='text-indent:24.0pt;tab-stops:125.0pt'><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>½Ó×Å¸Ãµ½ÇÇÄ·Ë¹»ù³ö³¡ÁË¡£ÎÒÑÛÖÐµÄÇÇ´óÊå¿°±È½ðÓ¹±ÊÏÂµÄ·çÇåÑï¡£ËûËäÈ»²»ÊÇ¼ÆËã»ú¿ÆÑ§¼Ò£¬Ö»ÊÇÕÜÑ§¼ÒºÍÓïÑÔÑ§¼Ò£¬µ«Ëû³É¹¦µØ°ÑÓï·¨½á¹¹Í³Ò»µ½ÁË×´Ì¬»úµÄ¼ÆËãÄ£ÐÍÉÏÀ´£¬ÏòÊÀÈË½ÒÊ¾ÁËÓï·¨µÄÊýÑ§±¾ÖÊ¡£ÔÚÃ»ÓÐ¿´µ½ÇÇÄ·Ë¹»ùµÄÐÎÊ½ÎÄ·¨Ç°£¬ÎÒ´ÓÎ´ÒâÊ¶µ½¸ÐÐÔµÄÓïÑÔ»¹ÓÐÕâÃ´ÀíÐÔµÄÄÚº­¡£µ±È»ÕâÖÐ¼ä¿ÉÄÜºÜ¶à¶¼ÊÇÀ´×ÔÓÚËûµÄÀÏÊ¦¹þÀïË¹¹ØÓÚÓïÑÔ½á¹¹</span><span
-lang=EN-US><a
-href="http://zh.wikipedia.org/wiki/%E7%BA%BF%E6%80%A7%E7%AE%97%E5%AD%90"
-title=ÏßÐÔËã×Ó><span lang=EN-US style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-color:windowtext;mso-fareast-language:ZH-CN;text-decoration:none;text-underline:
-none'><span lang=EN-US>ÏßÐÔËã×Ó</span></span></a></span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>·½ÃæµÄ·¢ÏÖ¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal style='text-indent:24.0pt'><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ºÃÁË£¬¼Àìë´óµä½áÊø</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>...</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>½ÓÏÂÀ´ÎÒÃÇ¸Ã·ÖÖíÈâÁË¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<h2><a name="_Toc361871706"><![if !supportLists]><span lang=EN-US
-style='mso-bidi-font-family:ËÎÌå;mso-bidi-theme-font:major-fareast;mso-fareast-language:
-ZH-CN'><span style='mso-list:Ignore'>µÚ¶þ½Ú<span style='font:7.0pt "Times New Roman"'>
-</span></span></span><![endif]><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Cambria;mso-ascii-theme-font:major-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-major-fareast;mso-hansi-font-family:Cambria;mso-hansi-theme-font:major-latin;
-mso-fareast-language:ZH-CN'>¹ØÓÚÓï·¨½âÎöµÄÒ»Ð©»ù±¾¸ÅÄî</span></a><span style='mso-bookmark:
-_Toc361871706'></span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></h2>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ËäÈ»ÏÖ´úÓïÎÄµ½´¦¶¼ÊÇÖ÷Î½±öÊ²Ã´µÄ£¬µ«ÊÇºÜÆæ¹Ö£¬ÔÚ¹Å´úÈ´ÏÊÓÐ·ÖÎöÓï·¨µÄ£¬ËµÎÄ½â×ÖµÄºÜ¶à£¬Ä±Æª²¼¾ÖµÄÒ²ºÜ¶à£¬¿ÉÊÇÑÐ¾¿Óï·¨µÄÈ´ºÜÉÙ£¬Ã²ËÆÕâÊÇÒ»¸öºÜ×ÔÈ»µÄÊÂÇé£¬Õâ¼þÊÂÈ·ÊµºÃÍæ£¬¹ÅÈËµÄÎÄÕÂ¶¼ÊÇÃ»ÓÐ±êµãµÄ£¬È«¿¿ÓïÒå¶Ï¾ä£¬ºÍÏÖ´úµÄÏÈÅÐ¶ÏÓï·¨ÔÙÅÐ¶ÏÓïÒå¼¸ºõÊÇÎ¥±³µÄ¡£ºóÀ´Âí½¨ÖÒÕÕ×ÅÎ÷·½µÄÓï·¨ÑÐ¾¿ÌåÏµ¿ò¼Ü£¬¶ÔÖÐÎÄ×öÁËÒ»¸öÈ«ÃæµÄÉóÊÓ£¬ºá¿Õ³öÁËÒ»±¾</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>&lt;</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÂíÊÏÎÄÍ¨</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>&gt;</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>£¬µì¶¨ÁËÏÖ´úººÓïÑÐ¾¿µÄ»ù´¡¡£µ«ÊÇÕâÖÖ´Ê±¾Î»µÄÑÐ¾¿·½·¨£¬ÖÕ¾¿²»ÊÇÌ«ºÏÊÊ£¬ÒÔÖÁÓÚµ½ÁËÏÖÔÚ£¬¶¼»¹Ã»ÓÐÒ»ÖÖ¿¿Æ×µÄ·Ö´Ê·½·¨£¬ÄÇÐ©ºÅ³Æ×¼È·µ½</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>95%</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÒÔÉÏµÄ¶àÊý¶¼ÊÇ»ùÓÚÍ³¼ÆµÄ·½·¨£¬Ò²¾ÍÊÇËµ£¬ËüÃÇµÄ±¾ÖÊ»ù±¾¶¼ÊÇ»ùÓÚÏÖÓÐÊ¹ÓÃÆµÂÊ¶ø¶¨£¬²»¾ß±¸ÍÆµ¼ÐÔ¡£ÎÒÒþÒþÔ¼Ô¼µÄ¸Ð¾õµ½</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>(<span class=SpellE>ps</span>:</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Ö»ÊÇÒþÒþÔ¼Ô¼µÄ¸Ð¾õµ½</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>)</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>£¬ÖÐÎÄÌåÏµµÄ»úÖÆÓÐµãÀàËÆ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>lambda</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Ëã×Ó£¬Ó¢ÎÄÌåÏµµÄ»úÖÆÓÐµãÏóÍ¼Áé»úÌåÏµ¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp; </span>:) </span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>³¶ÁËÄÇÃ´¶à£¬ÊÇÏë¸æËßÄã</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>... </span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>±¾½Ì³Ì²»´òËãÑÐ¾¿ÖÐÎÄ£¬¹þ¹þ¡£Èç¹ûÄã´òËã×öÖÐÎÄÓï·¨½âÎö£¬ÏÂÃæµÄÄÚÈÝ£¬Äã¿ÉÒÔ²»ÓÃ¿´ÁË¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp; </span></span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>±¾Æª²¢²»´òËãÒÔÑÏ¸ñµÄÐÎÊ½½éÉÜ±àÒëÔ­ÀíµÄÇ°¶ËµÄÄÚÈÝ£¬ÒòÎª£¬ÑÏ¸ñµÄ»°Ò²ÊÇ³­Áú»¢¾¨ÊéµÈ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>,</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¶øÇÒ£¬Ô¸Òâ¿ÐÄÄ¼¸±¾ÊéµÄ£¬»ù±¾Ò²ÓÃ²»×Å±¾½Ì³ÌÁË¡£Ò²¾Í´ÓÐèÇóµÄ½Ç¶ÈÐÅÊÖ¼´ÂÒµ¯ÁË¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp; </span></span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Í¨³££¬ÎÒÃÇÒª±í´ïÒ»¸öÏµÍ³µÄ¹Ûµã£¬¶¼»áÓÃÎÄÕÂÀ´±í´ï£¬Ò»ÆªÎÄÕÂ£¬ÊÇÓÉÈô¸É¸ö¶ÎÂä×é³É£¬</span><span
-style='mso-fareast-language:ZH-CN'> </span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¶ÎÂäÊÇÓÐÈô¸ÉÓÐÂß¼­ÁªÏµµÄ¾ä×Ó×é³É¡£¾ä×ÓÊÇÓÐÈô¸É´ÊÓï¹¹³ÉµÄ£¬¾ÍÏñÒ»²ãÒ»²ãµÄÑó´Ð¡£</span><span
-style='mso-fareast-language:ZH-CN'> </span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>´ÊÓï»òÕß½Ðµ¥´Ê¾ÍÊÇÄÇÐ©ÎÞ·¨ÔÙ²ð·ÖµÄ×îÐ¡µÄ¾ßÓÐ¸ÅÄîÒâÒåµÄµ¥Î»¡£´ÊÓïÊÇÓÉ×ÖÄ¸ÓÐÐò×é³ÉµÄ£¬µ«×ÖÄ¸²»¾ß±¸¸ÅÄîÒâÒå¡£µ½ÁËÕâÀï£¬¾ÍÓÐÁËÒ»ÌõÑÏ¸ñµÄ·ÖË®ÏßÁË</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>.... </span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÒÔµ¥´ÊÎª·Ö½çÏß£¬µ¥´ÊÖ®ÉÏµÄ£¬×é³É½á¹¹µÄÔªËØ¶¼ÊÇ¾ßÓÐ¸ÅÄîÒâÒåµÄ¡£µ¥´ÊÒÔÏÂ£¬×é³É½á¹¹µÄÔªËØ¶¼ÊÇÃ»ÓÐ¸ÅÄîÒâÒåµÄ¡££¨ÇëÔÙÒ»´Î×¢Òâ£¬ÎÒËµµÄÊÇÓ¢ÎÄÌåÏµµÄ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>...</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>²»ÊÇÖÐÎÄÌåÏµ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>) </span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÓÚÊÇÕâÀï¾ÍÒý³öÁËÁ½¸ö¸ÅÄî£¬´Ê·¨·ÖÎöºÍÓï·¨·ÖÎö¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<h3><a name="_Toc361871707"><![if !supportLists]><span lang=EN-US
-style='mso-bidi-font-family:ËÎÌå;mso-bidi-theme-font:major-fareast;mso-fareast-language:
-ZH-CN'><span style='mso-list:Ignore'>µÚ1Ð¡½Ú<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Cambria;mso-ascii-theme-font:major-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-major-fareast;mso-hansi-font-family:Cambria;mso-hansi-theme-font:major-latin;
-mso-fareast-language:ZH-CN'>Ê²Ã´ÊÇ´Ê·¨·ÖÎö£¬Ê²Ã´ÊÇÓï·¨·ÖÎö£¬ÕâÁ½ÕßÓÐÊ²Ã´²»Í¬£¿</span></a><span
-style='mso-bookmark:_Toc361871707'></span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'><o:p></o:p></span></h3>
-
-<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>´Ê·¨·ÖÎö</span></b><b
-style='mso-bidi-font-weight:normal'><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>:</span></b><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>Ò»ÃÅÑÐ¾¿ÎÞÒâÒåµÄ×ÖÄ¸ÈçºÎ×é³ÉÓÐÒâÒåµÄµ¥´ÊµÄ¼¼Êõ¡£</span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Óï·¨·ÖÎö</span></b><b
-style='mso-bidi-font-weight:normal'><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>:</span></b><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>Ò»ÃÅÑÐ¾¿ÓÐÒâÒåµÄµ¥´ÊÈçºÎ×é³É¸ü¸´ÔÓÒâÒåµÄ¾ä×Ó£¬ÎÄÕÂµÄ¼¼Êõ¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>Àý×Ó</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>: <o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><span class=SpellE>hello,my</span>
-name is <span class=SpellE>alan</span>, <span class=SpellE>i</span> come from
-china.<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ÒÔÉÏÊÇÒ»¸ö×ÔÎÒ½éÉÜµÄÆ¬¶Î¡£</span><span style='mso-fareast-language:
-ZH-CN'> <span lang=EN-US><o:p></o:p></span></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>´Ê·¨·ÖÎöÊÇÊ¶±ð³öÒ»¸öÒ»¸öµÄµ¥´Ê</span><span style='mso-fareast-language:
-ZH-CN'> </span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>±ÈÈç</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>hello</span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>£¬</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'> my</span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>µÈ¡£</span><span style='mso-fareast-language:ZH-CN'> </span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>µ¥¸öµÄ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'> h</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>£¬</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>e ,<span class=SpellE>l,l,o</span>
-</span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-ZH-CN'>ÊÇ²»¾ß±¸¸ÅÄîÒâÒåµÄ£¬</span><span style='mso-fareast-language:ZH-CN'> </span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Ö»ÓÐÓÐÐò×é³É</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>hello</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>µÄÊ±ºò²Å¾ß±¸Ò»¸ö¸ÅÄîÒâÒå¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ÄÇÓï·¨·ÖÎöÓÖÊÇÊ²Ã´ÄØ£¿</span><span style='mso-fareast-language:
-ZH-CN'> </span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ÎÒÃÇ¼Ù¶¨ÕâÊÇÒ»¸ö±ê×¼µÄ×ÔÎÒ½éÉÜµÄÎÄÕÂ¡£Õâ¸öÎÄÕÂÓÉÈý¶Î×é³É£ºÎÊºòÓï£¬Ãû×Ö½éÉÜ£¬¹éÊôµØ½éÉÜ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'> :) . <o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ÎÊºòÓï²ÉÓÃ</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'> hello </span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>»òÕß</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'> hello xxx </span><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>µÄÐÎÊ½¡£</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>Ãû×Ö½éÉÜ²ÉÓÃ</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'><span style='mso-spacerun:yes'>&nbsp; </span>my name is xxx </span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>µÄÐÎÊ½¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>¹éÊôµØ½éÉÜ²ÉÓÃ</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'> <span class=SpellE>i</span> come from xxx</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>µÄÐÎÊ½¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ÄÇÎÒÃÇ¹æ¶¨µÄÕâÖÖ±ê×¼½éÉÜµÄ¸ñÊ½£¬¾ÍÊÇËùÎ½µÄÓï·¨£¬Ã¿Ò»Ìõ½ÐÓï·¨¹æÔò¡£</span><span
-style='mso-fareast-language:ZH-CN'> </span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÎÒÃÇÍ¨³£ÒâÒåÉÏµÄÓ¢ÎÄÓï·¨£¬±¾ÖÊÉÏÒ²ÊÇÕâÑùµÄ£¬µ«ËûÃÇµÄÓï·¨½á¹¹²ã´Î¶àµã£¬¸÷×é³É²¿·ÖµÄ»®·Ö¶àÐ©ºÍ±ê×¼Ð©¡£ÎÒÃÇ³£ËµµÄÓ¢Óï¾äÊ½£¬¾ÍÊÇËùÎ½µÄÓï·¨£¬µ«ÊÇÓï·¨²»½ö½ö°üÀ¨¾äÊ½£¬»¹°üÀ¨ÆªÕÂ¶ÎÂä½á¹¹µÈ¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp; </span></span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>±ÈÈçÒ»¸ö×î¼òµ¥µÄÓ¢Óï¾äÊ½</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>:</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Ö÷ÓïÎ½Óï±öÓï¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN'><span
-style='mso-spacerun:yes'>&nbsp; </span></span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Ö÷ÓïÓÉÃû´Ê»òÕß´ú´Ê×é³É¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN'><span
-style='mso-spacerun:yes'>&nbsp; </span></span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Î½ÓïÓÉ¶¯´Ê×é³É¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN'><span
-style='mso-spacerun:yes'>&nbsp; </span></span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>±öÓïÓÉÃû´Ê»òÕß´ú´Ê×é³É¡£</span><span
-style='mso-fareast-language:ZH-CN'> <span lang=EN-US><o:p></o:p></span></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ÒÔÏÂÎª¼òµ¥Æð¼û¾Í¼ÙÉè¸÷¸ö½á¹¹×é³É³É·Ö×î¶àÖ»ÓÐÁ½¸ö°É¡£</span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Ãû´Ê£º</span></b><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>×¨ÓÐÃû´Ê»òÕßÆÕÍ¨Ãû´Ê¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>(</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>²Î¼û</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>http://baike.baidu.com/view/26580.htm)<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>×¨ÓÐÃû´Ê£º³£¼ûµÄÈËÃû»òÕßµØÃû</span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'>:</span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Ò²¼û×ÖµäµÄ×¨ÓÐÃû´ÊÁÐ±í¡£Èç</span><b><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>China</span></b><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>£¨</span><span
-lang=EN-US><a href="http://baike.baidu.com/view/61891.htm" target="_blank"><span
-lang=EN-US style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-ZH-CN'><span lang=EN-US>ÖÐ¹ú</span></span></a></span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>£©¡¢</span><b><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>Asia</span></b><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>£¨</span><span
-lang=EN-US><a href="http://baike.baidu.com/view/2918.htm" target="_blank"><span
-lang=EN-US style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-ZH-CN'><span lang=EN-US>ÑÇÖÞ</span></span></a></span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>£©</span><b><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>Beijing</span></b><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>£¨</span><span
-lang=EN-US><a href="http://baike.baidu.com/view/2621.htm" target="_blank"><span
-lang=EN-US style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-ZH-CN'><span lang=EN-US>±±¾©</span></span></a></span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>£©</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÆÕÍ¨Ãû´Ê</span></b><b
-style='mso-bidi-font-weight:normal'><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>:</span></b><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>¸öÌåÃû´Ê»òÕßÎïÖÊÃû´Ê¡£</span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¸öÌåÃû´Ê</span></b><b
-style='mso-bidi-font-weight:normal'><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>: </span></b><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>µ¥¸öÈË»òÕßÎïµÄÃû´Ê£¬Èç</span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'>car </span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Æû³µ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'> room </span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>·¿¼ä</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'> fan </span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>·çÉÈ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>photo </span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÕÕÆ¬µÈ¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÎïÖÊÃû´Ê</span></b><b
-style='mso-bidi-font-weight:normal'><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>: </span></b><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>±íÊ¾ÎïÖÊ»ò²»¾ß±¸È·¶¨ÐÎ×´ºÍ´óÐ¡µÄ¸öÌåµÄÎïÖÊ¡£</span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'>fire </span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>»ð</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'> steel </span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¸Ö</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'> air </span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¿ÕÆø</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'> water </span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Ë®</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'> milk</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Å£ÄÌ¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¶¯´Ê</span></b><b
-style='mso-bidi-font-weight:normal'><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>:</span></b><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>±íÊ¾¶¯×÷µÄ´ÊÓï¡£</span><span style='mso-fareast-language:
-ZH-CN'> </span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>Ò»°ã¼û×ÖµäµÄ¶¯´Ê±í£¬±ÈÈç</span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'>is </span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>£¬</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>do</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>£¬</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'> make </span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>µÈµÈ¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>´ú´Ê</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>: it</span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>£¬</span><span class=SpellE><span lang=EN-US
-style='mso-fareast-language:ZH-CN'>i</span></span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>£¬</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'> she</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>£¬</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>he</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>µÈ´ÊÓï¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>Ò²¾ÍÊÇËµ£¬Õâ¸ö¾­¹ýÑË¸îµÄ¼òµ¥µÄÖ÷Î½±öµÄ¾äÊ½£¬Óï·¨½á¹¹ÊÇÕâÑùµÄ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>:<o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US><v:shape id="_x0000_i1025" type="#_x0000_t75"
- style='width:371.25pt;height:155.25pt' o:ole="">
- <v:imagedata src="hand%20in%20hand%20with%20antlr.files/image035.emz" o:title=""/>
-</v:shape><!--[if gte mso 9]><xml>
- <o:OLEObject Type="Embed" ProgID="Visio.Drawing.11" ShapeID="_x0000_i1025"
-  DrawAspect="Content" ObjectID="_1435613669">
- </o:OLEObject>
-</xml><![endif]--></span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ÍÖÔ²¿òÄÚµÄÊÇ×ÖÄ¸ÐòÁÐ£¬ÊÇ¾ßÌåµÄµ¥´ÊÀý×Ó¡£</span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>·½¿òÊÇ×÷ÎªÓï·¨·ÖÎöµÄ»ù±¾µ¥Î»£¬ÊÇ´Ê·¨·ÖÎö³öÀ´µÄ×îºóÖÕ½á¹û¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>Ô²½Ç¿òÊÇ·ûºÏµÄÓï·¨½á¹¹¡£</span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>Ïñ</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'> it is tree </span><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>£¬¾ÍÊÇÕâÑùµÄ½á¹¹¡£</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US><v:shape id="_x0000_i1026" type="#_x0000_t75"
- style='width:176.25pt;height:155.25pt' o:ole="">
- <v:imagedata src="hand%20in%20hand%20with%20antlr.files/image036.emz" o:title=""/>
-</v:shape><!--[if gte mso 9]><xml>
- <o:OLEObject Type="Embed" ProgID="Visio.Drawing.11" ShapeID="_x0000_i1026"
-  DrawAspect="Content" ObjectID="_1435613670">
- </o:OLEObject>
-</xml><![endif]--></span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ÄÇÈçºÎÀ´ÃèÊö´Ê·¨Óï·¨¹æÔòÄØ£¿</span><span style='mso-fareast-language:
-ZH-CN'> </span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>Õâ¾ÍÉæ¼°µ½ÁË¶¦¶¦ÓÐÃûµÄ°Í¿ËË¹</span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'>-</span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Åµ¶û·¶Ê½¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<h3><a name="_Toc361871708"><![if !supportLists]><span lang=EN-US
-style='mso-bidi-font-family:ËÎÌå;mso-bidi-theme-font:major-fareast;mso-fareast-language:
-ZH-CN'><span style='mso-list:Ignore'>µÚ2Ð¡½Ú<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Cambria;mso-ascii-theme-font:major-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-major-fareast;mso-hansi-font-family:Cambria;mso-hansi-theme-font:major-latin;
-mso-fareast-language:ZH-CN'>°Í¿ËË¹</span></a><span style='mso-bookmark:_Toc361871708'><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>-</span></span><span
-style='mso-bookmark:_Toc361871708'><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Cambria;mso-ascii-theme-font:major-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-major-fareast;mso-hansi-font-family:Cambria;mso-hansi-theme-font:major-latin;
-mso-fareast-language:ZH-CN'>Åµ¶û·¶Ê½</span></span><span style='mso-bookmark:_Toc361871708'><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>,</span></span><span
-style='mso-bookmark:_Toc361871708'><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Cambria;mso-ascii-theme-font:major-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-major-fareast;mso-hansi-font-family:Cambria;mso-hansi-theme-font:major-latin;
-mso-fareast-language:ZH-CN'>²úÉúÊ½</span></span><span style='mso-bookmark:_Toc361871708'><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>,</span></span><span
-style='mso-bookmark:_Toc361871708'><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Cambria;mso-ascii-theme-font:major-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-major-fareast;mso-hansi-font-family:Cambria;mso-hansi-theme-font:major-latin;
-mso-fareast-language:ZH-CN'>×î×óÍÆµ¼</span></span><span style='mso-bookmark:_Toc361871708'><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>,</span></span><span
-style='mso-bookmark:_Toc361871708'><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Cambria;mso-ascii-theme-font:major-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-major-fareast;mso-hansi-font-family:Cambria;mso-hansi-theme-font:major-latin;
-mso-fareast-language:ZH-CN'>×îÓÒÍÆµ¼</span></span><span style='mso-bookmark:_Toc361871708'><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>,</span></span><span
-style='mso-bookmark:_Toc361871708'><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Cambria;mso-ascii-theme-font:major-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-major-fareast;mso-hansi-font-family:Cambria;mso-hansi-theme-font:major-latin;
-mso-fareast-language:ZH-CN'>×óµÝ¹é</span></span><span style='mso-bookmark:_Toc361871708'><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>,</span></span><span
-style='mso-bookmark:_Toc361871708'><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Cambria;mso-ascii-theme-font:major-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-major-fareast;mso-hansi-font-family:Cambria;mso-hansi-theme-font:major-latin;
-mso-fareast-language:ZH-CN'>ÓÒµÝ¹é</span></span><span style='mso-bookmark:_Toc361871708'></span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></h3>
-
-<p class=MsoListParagraphCxSpFirst style='margin-left:21.0pt;mso-add-space:
-auto'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-ZH-CN'>°Í¿ËË¹·¢Ã÷ÁËÒ»ÖÖ½Ð°Í¿ËË¹·¶Ê½</span><span lang=EN-US style='mso-fareast-language:ZH-CN'>(<span
-class=langwithname>Backus Normal Form</span>)</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>µÄ¸ñÊ½À´±êÊ¾Óï·¨´Ê·¨£¬Óï·¨´Ê·¨±¾ÖÊÉÏÆäÊµÊÇÒ»ÑùµÄ£¬²»¹ýÊÇ×é³Éµ¥Î»ÊÇ·ñÓÐÂß¼­¸ÅÄîÒâÒå¶øÒÑ¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-ZH-CN'>°Í¿ËË¹·¶Ê½ºó¾­Åµ¶û¸Ä½ø£¬ºóÈË±ãºÏ³É°Í¿ËË¹</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>-</span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>Åµ¶û·¶Ê½</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'><span style='mso-tab-count:1'> </span>(</span><span class=langwithname><span
-lang=EN-US>Backus-Naur Form</span></span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>)</span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>¼ò³Æ¶¼ÊÇ½Ð</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>BNF</span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>¡£</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-ZH-CN'>Õâ¸ö·¶Ê½ºÜ¼òµ¥</span><span lang=EN-US style='mso-fareast-language:ZH-CN'>(</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¼û</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>http://zh.wikipedia.org/zh-cn/%E5%B7%B4%E7%A7%91%E6%96%AF%E8%8C%83%E5%BC%8F)</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>£¬</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-ZH-CN'>¹æ¶¨ÁËÒ»¸öÓï·¨½á¹¹µÄÃèÊöÊÇÓÉÒ»¶ÑÓï·¨¹æÔò×é³É£¬</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-ZH-CN'>Ã¿Ò»¸ö¹æÔò·ûºÏÕâÑùµÄ¸ñÊ½</span><span lang=EN-US style='mso-fareast-language:ZH-CN'>:<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span lang=EN-US style='mso-fareast-language:ZH-CN'>&lt;</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>·ûºÅ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>&gt; ::= &lt;</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Ê¹ÓÃ·ûºÅµÄ±í´ïÊ½</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>&gt;<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-ZH-CN'>ÕâÀïµÄ</span><span lang=EN-US style='mso-fareast-language:ZH-CN'> &lt;</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>·ûºÅ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>&gt; </span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÊÇ·ÇÖÕ½á·û£¬¶ø±í´ïÊ½ÓÉÒ»¸ö·ûºÅÐòÁÐ£¬»òÓÃÖ¸Ê¾Ñ¡ÔñµÄÊú¸Ü</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'> '|' </span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>·Ö¸ôµÄ¶à¸ö·ûºÅÐòÁÐ¹¹³É£¬<span
-style='color:red'>Ã¿¸ö·ûºÅÐòÁÐÕûÌå¶¼ÊÇ×ó¶ËµÄ·ûºÅµÄÒ»ÖÖ¿ÉÄÜµÄÌæ´ú</span>¡£<span style='color:red'>´ÓÎ´ÔÚ×ó¶Ë³öÏÖµÄ·ûºÅ½Ð×öÖÕ½á·û</span>¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-ZH-CN'>¾ßÌå¿ÉÒÔ½â¶Á³É</span><span lang=EN-US style='mso-fareast-language:ZH-CN'>:<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span lang=EN-US style='mso-fareast-language:ZH-CN'>&lt;</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>·ÇÖÕ½á·û</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>&gt; ::= &lt;</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¿ÉÄÜÑ¡Ôñ±í´ïÊ½</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>1&gt; | &lt;</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¿ÉÄÜÑ¡Ôñ±í´ïÊ½</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>2&gt;...<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span lang=EN-US style='mso-fareast-language:ZH-CN'>BNF</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÔÚÃèÊöÉÏÊÇ´æÔÚ×ÅÒ»Ð©È±ÏÝµÄ£¬</span><span
-style='mso-fareast-language:ZH-CN'> </span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ËüÎÞÁ¦ÃèÊöËüËùÕ¼ÓÃµÄ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>&lt;&gt; ::= | </span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>µÈ×Ö·û£¬ÓÃÏÖÔÚµÄ»°ËµÊÇÃ»ÓÐ×ªÒå¹¦ÄÜ¡£ÁíÍâ£¬Ëü¶Ô¿ÉÑ¡½á¹¹</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>(</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¿ÉÓÐ¿ÉÎÞµÄÑ¡Ïî</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>)</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÒÔ¼°ÖØ¸´ÏîµÄÃèÊöºÜÂÞàÂ¡£ÓÚÊÇ¾ÍÓÐÁË</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>EBNF(</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>À©Õ¹°Í¿ËË¹·¶Ê½</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>)</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>µÄ³öÏÖ¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-ZH-CN'>¾ßÌå¿´</span><span lang=EN-US style='mso-fareast-language:ZH-CN'>(http://zh.wikipedia.org/wiki/%E6%89%A9%E5%B1%95%E5%B7%B4%E7%A7%91%E6%96%AF%E8%8C%83%E5%BC%8F).<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-ZH-CN'>ÏÖÔÚ³£ÓÃµÄ£¬»ù±¾¶¼</span><span lang=EN-US style='mso-fareast-language:ZH-CN'>EBNF</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>µÄ¸ñÊ½£¬µ«</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>BNF</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ºÍ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>EBNF </span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Á½ÕßÄÜÁ¦µÈ¼Û¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span lang=EN-US style='mso-fareast-language:ZH-CN'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Ò»°ã²ÉÓÃ²úÉúÊ½À´×öÓï·¨ÍÆµ¼£¬¿ÉÒÔÈÏÎª²úÉúÊ½ÆäÊµ¾ÍÊÇ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>BNF</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>µÄÒ»Ìõ¹æÔòµÄÁíÒ»ÖÖ±í´ï·½Ê½¡£²úÉúÊ½²ÉÓÃ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><span
-style='mso-spacerun:yes'>&nbsp; </span></span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Ç°ÌáÌõ¼þ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>-&gt;</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>½áÂÛ¶¯×÷</span><span
-style='mso-fareast-language:ZH-CN'> </span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÕâÑùµÄ±í´ï·½Ê½¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span lang=EN-US style='mso-fareast-language:ZH-CN'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>²ÉÓÃÕâÖÖ²úÉúÊ½µÄ¹æÔò£¬¿ÉÒÔºÜºÃµÄÚ¹ÊÍÓï·¨µÄÍÆµ¼¹ý³Ì¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-ZH-CN'>±ÈÈçÓÐÒ»¸öÕâÑùµÄ¹æÔò¼¯ºÏ</span><span lang=EN-US style='mso-fareast-language:ZH-CN'>:<span
-style='mso-spacerun:yes'>&nbsp; </span>{S-&gt;AB,A-&gt;a, B-&gt;b } </span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Òª·ÖÎöµÄ×Ö·û´®</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'> SB<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span lang=EN-US style='mso-fareast-language:ZH-CN'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>×î×óÍÆµ¼ÊÇ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>:<span
-style='mso-spacerun:yes'>&nbsp; </span>SB-&gt;ABB-&gt;<span class=SpellE>aBB</span>-&gt;<span
-class=SpellE>abB</span>-&gt;<span class=SpellE>abb</span>;<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span lang=EN-US style='mso-fareast-language:ZH-CN'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>×îÓÒÍÆµ¼ÊÇ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>:<span
-style='mso-spacerun:yes'>&nbsp; </span>SB-&gt;<span class=SpellE>Sb</span>-&gt;<span
-class=SpellE>ABb</span>-&gt;<span class=SpellE>Abb</span>-&gt;<span
-class=SpellE>abb</span>;<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-ZH-CN'>ËûÃÇµÄÇø±ðÊÇºÜ¼òµ¥µÄ</span><span style='mso-fareast-language:ZH-CN'> </span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>´Ó×ó±ß»¹ÊÇ´ÓÓÒ±ß¿ªÊ¼°´ÕÕ¹æÔòÌæ»»¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span lang=EN-US style='mso-fareast-language:ZH-CN'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÔÚÌæ»»µÄ¹ý³ÌÖÐ£¬¿ÉÄÜ»áÔâÓö×óµÝ¹é»òÕßÓÒµÝ¹éµÄÇé¿ö£¬×óµÝ¹éÊÇÏà¶Ô×î×óÍÆµ¼¶ø²úÉúµÄ£¬ÓÒµÝ¹éÊÇÏà¶Ô×îÓÒÍÆµ¼¶ø²úÉúµÄ¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span lang=EN-US style='mso-fareast-language:ZH-CN'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¾ÙÀýËµÃ÷</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>,{A-&gt;<span class=SpellE>Aa,A</span>-&gt;b}<span
-style='mso-spacerun:yes'>&nbsp; </span></span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>µ±Ê¹ÓÃ×î×óÍÆµ¼Ê±£¬</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>A-&gt;<span class=SpellE>Aa</span>,</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¾Í»áÏÝÈëÎÞÏÞµÄ·ÖÁÑÖÐ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'> A-&gt;AAA...a</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¡£¾­µäµÄ´¦Àí·½·¨ÊÇ½«ÕâÁ½¸ö²úÉúÊ½×ª»»³É</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>3</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¸öµÈ¼ÛµÄ²úÉúÊ½</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>{A-&gt;<span class=SpellE>bR,R</span>-&gt;<span
-class=SpellE>aR,R</span>-&gt;</span><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>¿Õ</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>}; </span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>¾ßÌå¿ÉÒÔ×ÔÐÐÑéÖ¤Ò»ÏÂ£¬±àÒëÔ­ÀíµÄÊéÒ²ÓÐÏêÏ¸ÐðÊö¡£</span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpLast style='margin-left:21.0pt;mso-add-space:auto'><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÓÒµÝ¹éÒ²ÀàËÆÕâÑù¡£²»¹ýÊÇÐÎÈç</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>(A-&gt;<span class=SpellE>aA,A</span>-&gt;b)</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>µÄ²úÉúÊ½¹æÔò</span><span
-style='mso-fareast-language:ZH-CN'> </span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÔÚÔËÓÃ×îÓÒÍÆµ¼µÄÊ±ºò²Å»á²úÉú£¬½â¾ö·½·¨Ò²À×Í¬¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<h3><a name="_Toc361871709"><![if !supportLists]><span lang=EN-US
-style='mso-bidi-font-family:ËÎÌå;mso-bidi-theme-font:major-fareast;mso-fareast-language:
-ZH-CN'><span style='mso-list:Ignore'>µÚ3Ð¡½Ú<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Cambria;mso-ascii-theme-font:major-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-major-fareast;mso-hansi-font-family:Cambria;mso-hansi-theme-font:major-latin;
-mso-fareast-language:ZH-CN;font-weight:normal;mso-bidi-font-weight:bold'>Óï·¨½âÎöµÄ</span></a><span
-style='mso-bookmark:_Toc361871709'><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Cambria;mso-ascii-theme-font:major-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-major-fareast;mso-hansi-font-family:Cambria;mso-hansi-theme-font:major-latin;
-mso-fareast-language:ZH-CN'>×Ô¶¥ÏòÏÂºÍ×Ôµ×ÏòÉÏµÄ²ßÂÔ</span></span><span style='mso-bookmark:
-_Toc361871709'></span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></h3>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp; </span></span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Óï·¨½âÎöµÄ¹ý³Ì£¬¾ÍËãÊÇÄÃÕâ¸öÖ½´øËÆµÄ×Ö·û´®ÐòÁÐ°´ÕÕÒ»¶¨¹æÔòÅ¤³ÉÄ¿±êµÄÓï·¨½á¹¹£¬Èç¹ûÄÜÅ¤³É£¬¾ÍËµÃ÷Õâ¸öÊÇ×Ö·û´®ÐòÁÐÊÇ·ûºÏÕâ¸öÓï·¨µÄ£¬·ñÔò¾ÍÊÇ²»·ûºÏÕâ¸öÓï·¨µÄ¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ÄÇÏÖÔÚÎÒÃÇ¹Ø×¢Ò»ÏÂÕâ¸öÅ¤µÄ¹ý³Ì¡£Ò»°ã¶øÑÔ£¬ÓÐÒÔÏÂÁ½ÖÖ²ßÂÔ¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>×Ô¶¥ÏòÏÂµÄ²ßÂÔ£ºÔÚ¹¹ÔìÓï·¨Ê÷</span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'>(</span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¾ÍÊÇÄÇ¸öÏñÒ»¿Åµ¹×ÅµÄÊ÷µÄÓï·¨½á¹¹</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>)</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>µÄÊ±ºò£¬´ÓÓï·¨Ê÷µÄ¸ù½Úµã¿ªÊ¼£¬°´ÕÕÏÈ¸ùË³Ðò¹¹Ôì¸÷¸ö½Úµã£¬Ò²¾ÍÊÇËµ£¬Ò¶½áµã×ÜÊÇºóÓÚ¸ù½Úµã´´½¨£¬</span><span
-style='mso-fareast-language:ZH-CN'> </span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¹ý³Ì¾ÍÏñ´ÓÉÏÃæ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>(</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¸ù½Úµã</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>)</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>µ½ÏÂÃæ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>(</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Ò¶½áµã</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>)</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>½¨Ôì£¬Òò´ËµÃÃû¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>×Ôµ×ÏòÉÏ£¬¸ÕºÃÏà·´¡£</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ÈçºÎÀí½âÕâÁ½ÕßµÄÇø±ðÄØ£¿</span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>Ò»¸öÈË£¬×óÊÖÄÃ×ÅÒ»¸öÓï·¨½á¹¹£¬ÓÒÊÖ´ÓÒ»¸ö¹ÜµÀÀïÃæÈ¡³ö</span><span
-style='mso-fareast-language:ZH-CN'> </span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÊäÈë×Ö·û´®µÄ»ýÄ¾¿é¡£ÍùÓï·¨½á¹¹ÀïÃæµþ·Å£¬×îºóµþ³öÀ´ÁË´øÊäÈë×Ö·û´®µÄÓï·¨½á¹¹£¬Õâ¸ö¾Í½Ð×Ô¶¥ÏòÏÂ¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>Èç¹ûÄÇ¸öÈË×óÊÖÄÃ×ÅÒ»¶ÎÊäÈë×Ö·û´®£¬ÓÒÊÖ´ÓÒ»¶Ñ</span><span
-style='mso-fareast-language:ZH-CN'> </span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÁãÉ¢µÄÓï·¨½á¹¹»ýÄ¾¿éÀïÃæÈ¡³öºÏÊÊµÄ»ýÄ¾¿é£¬ÍùÊäÈë×Ö·û´®ÉÏµþ·Å£¬×îºóµÃµ½Ò»¸ö´øÊäÈë×Ö·û´®µÄÓï·¨½á¹¹£¬Õâ¸ö¾Í½Ð×Ôµ×ÏòÉÏ¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ÎÒÃÇÍæÒ»¸ö</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>A</span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>Ëµ</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>B</span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ËµµÃÓÎÏ·À´¾ßÌåËµÃ÷Õâ¸ö¹ý³Ì°É¡£</span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ÎÒÃÇ¶¨ÒåÕâÑùµÄÓï·¨½á¹¹</span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'>:<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>¾äÊ½</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>DEMO: </span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>Ö÷Óï</span><span style='mso-fareast-language:ZH-CN'> </span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Î½Óï</span><span
-style='mso-fareast-language:ZH-CN'> </span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>±öÓï</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>Ö÷Óï</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>: </span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ÈËÃû£¬¼òµ¥µÄÒÔ</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>&quot;A&quot; &quot;B&quot; ...&quot;Z&quot;</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>À´ÃüÃû¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>Î½Óï</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>: &quot;say&quot; </span><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ºÍ</span><span style='mso-fareast-language:ZH-CN'> <span
-lang=EN-US>&quot;is&quot; </span></span><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>Á½¸ö¶¯´Ê¡£</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>±öÓï</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>: that</span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>´Ó¾ä</span><span style='mso-fareast-language:ZH-CN'> </span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>»òÕß</span><span
-style='mso-fareast-language:ZH-CN'> <span lang=EN-US>&quot;over&quot;</span></span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Õâ¸ö´Ê¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN'>that</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>´Ó¾ä£º</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>&quot;that&quot; </span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Ö÷Óï</span><span
-style='mso-fareast-language:ZH-CN'> </span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Î½Óï</span><span
-style='mso-fareast-language:ZH-CN'> </span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>±öÓï¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ÏÖÔÚÎÒÃÇÀ´·ÖÎö</span><span style='mso-fareast-language:
-ZH-CN'> </span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ÕâÑùµÄÒ»¸ö¾ä×Ó</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>: <o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN'>A say
-that B say that C is over;<o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ÏÈÀ´¿´¿´×Ô¶¥ÏòÉÏÊÇÔõÑùµÄ¹ý³Ì£º</span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ÎÒÃÇÏÈÂÔÈ¥´Ê·¨·ÖÎö£¬¼ÙÉè</span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'>A B C say is that over</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÕâÐ©ÒÑ¾­±»Ê¶±ðÎªµ¥´Ê</span><span
-style='mso-fareast-language:ZH-CN'> </span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>×óÊÖÄÃ×ÅÓï·¨½á¹¹</span><span style='mso-fareast-language:
-ZH-CN'> </span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>¾äÊ½</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>demo<span style='mso-spacerun:yes'>&nbsp; </span></span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>£¬ÓÒÊÖ×¼±¸´Ó¹ÜµÀÀïÃæÈ¡³öµ¥´Ê¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>¾äÊ½</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>demo </span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ÒªÇóµÄµÚÒ»¸öÔªËØÊÇ</span><span style='mso-fareast-language:
-ZH-CN'> </span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>Ö÷Óï£ºÈËÃû¡£</span><span style='mso-fareast-language:
-ZH-CN'> </span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ÓÒÊÖ´Ó¹ÜµÀÀïÃæÈ¡³öµÄµÚÒ»¸öµ¥´ÊÊÇ</span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'>A </span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>£¬¸ÕºÃÊÇÈËÃû£¬Á½Õß·ûºÏ£¬ÓÚÊÇµ½ÏÂÒ»²½£¬</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US><v:shape id="_x0000_i1027" type="#_x0000_t75"
- style='width:102pt;height:87pt' o:ole="">
- <v:imagedata src="hand%20in%20hand%20with%20antlr.files/image037.emz" o:title=""/>
-</v:shape><!--[if gte mso 9]><xml>
- <o:OLEObject Type="Embed" ProgID="Visio.Drawing.11" ShapeID="_x0000_i1027"
-  DrawAspect="Content" ObjectID="_1435613671">
- </o:OLEObject>
-</xml><![endif]--></span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>¾äÊ½</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>demo </span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ÒªÇóµÚ¶þ¸öÔªËØÊÇ</span><span style='mso-fareast-language:
-ZH-CN'> </span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>Î½Óï</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'> say </span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>»òÕß</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'> is </span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>Á½¸öµ¥´Ê¡£</span><span style='mso-fareast-language:ZH-CN'>
-</span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-ZH-CN'>ÓÒÊÖ´Ó¹ÜµÀÈ¡³öµÄµÚ¶þ¸öµ¥´ÊÊÇ</span><span lang=EN-US style='mso-fareast-language:ZH-CN'>
-say</span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-ZH-CN'>£¬</span><span style='mso-fareast-language:ZH-CN'> </span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Ò²·ûºÏÒªÇó£¬ÓÚÊÇ¿ÉÒÔ¼ÌÐøÏÂÒ»²½¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US><v:shape id="_x0000_i1028" type="#_x0000_t75"
- style='width:102pt;height:88.5pt' o:ole="">
- <v:imagedata src="hand%20in%20hand%20with%20antlr.files/image038.emz" o:title=""/>
-</v:shape><!--[if gte mso 9]><xml>
- <o:OLEObject Type="Embed" ProgID="Visio.Drawing.11" ShapeID="_x0000_i1028"
-  DrawAspect="Content" ObjectID="_1435613673">
- </o:OLEObject>
-</xml><![endif]--></span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>¾äÊ½</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>demo </span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ÒªÇóµÄµÚÈý¸öÔªËØÊÇ</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'> over </span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>»òÕß</span><span style='mso-fareast-language:ZH-CN'> </span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÒÔ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>that</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¿ªÍ·µÄ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>that</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>´Ó¾ä¡£</span><span
-style='mso-fareast-language:ZH-CN'> </span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÓÒÊÖ´Ó¹ÜµÀÈ¡³öµÄÊÇ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>that.. </span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Âú×ãÊÇ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>that</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>µÄ´Ó¾äµÄÌØÕ÷£¬µ«ÊÇ´Ë¿Ì²»ÄÜÅÐ¶ÏÊÇ²»ÊÇÕýÈ·µÄ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>that</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>´Ó¾ä£¬¼Ù¶¨Îª</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>that</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>´Ó¾ä£¬Ìøµ½</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>that</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>´Ó¾äµÄÓï·¨¹æÔò£¬¼ÌÐøÏÂÒ»²½¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US><v:shape id="_x0000_i1029" type="#_x0000_t75"
- style='width:145.5pt;height:119.25pt' o:ole="">
- <v:imagedata src="hand%20in%20hand%20with%20antlr.files/image039.emz" o:title=""/>
-</v:shape><!--[if gte mso 9]><xml>
- <o:OLEObject Type="Embed" ProgID="Visio.Drawing.11" ShapeID="_x0000_i1029"
-  DrawAspect="Content" ObjectID="_1435613674">
- </o:OLEObject>
-</xml><![endif]--></span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN'>that</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>´Ó¾äÒªÇó</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>that</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Ö®ºóµÄÔªËØÊÇ</span><span
-style='mso-fareast-language:ZH-CN'> </span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Ö÷Óï</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>:</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÈËÃû¡£ÓÒÊÖ´Ó¹ÜµÀÀïÃæÈ¡³öµÄÊÇ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>B </span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>£¬·ûºÏÒªÇó£¬¼ÌÐøÏÂÒ»²½</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>...<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ÖØ¸´ÒÔÉÏ²½Öè£¬¸Õ¸ÕºÃ×óÊÖËùÓÐÓÃµ½µÄ¹æÔò¶¼µÃµ½Âú×ã£¬¶øÓÒÊÖ¹ÜµÀµÄÄÚÈÝÒ²¶¼¿ÕÁË¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ÓÚÊÇÎÒÃÇ¾ÍµÃµ½ÁËÕâÑùµÄÒ»¿ÃÓï·¨½á¹¹Ê÷</span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'>:<o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US><v:shape id="_x0000_i1030" type="#_x0000_t75"
- style='width:325.5pt;height:219.75pt' o:ole="">
- <v:imagedata src="hand%20in%20hand%20with%20antlr.files/image040.emz" o:title=""/>
-</v:shape><!--[if gte mso 9]><xml>
- <o:OLEObject Type="Embed" ProgID="Visio.Drawing.11" ShapeID="_x0000_i1030"
-  DrawAspect="Content" ObjectID="_1435613675">
- </o:OLEObject>
-</xml><![endif]--></span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ÎÒÃÇÔÙÀ´¿´¿´×Ôµ×ÏòÉÏµÄ¹ý³Ì</span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'>:<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>°ÑÉÏÃæ¹ý³ÌµÄ×óÓÒÊÖ»»¹ýÀ´</span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'>.</span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>×óÊÖ×Ö·û´®µÄ¹ÜµÀ£¬ÓÒÊÖÓï·¨¹æÔò¶Ñ¡£ÎÒÃÇ½èÖúÒ»ÖÖ½Ð¶ÑÕ»µÄ½á¹¹¹¤¾ß£¬Äã¿ÉÒÔ°Ñ¶ÑÕ»ÏëÏó³ÉÏñ</span><span
-style='mso-fareast-language:ZH-CN'> </span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>×Óµ¯¼ÐÕâÑùµÄ¶«Î÷£¬ºóÑ¹½øÈ¥µÄ×Óµ¯ÏÈ³öÀ´£¬Èç¹ûÓÐ×Óµ¯µÄ»°£¬ÓÀÔ¶ÓÐÒ»¿Å×Óµ¯±£³ÖÔÚ¶¥¶Ë£¬ÎÒÃÇ°ÑÄÇ¸ö¶¥¶ËÎ»ÖÃ½Ð×öÕ»¶¥¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>×Ôµ×ÏòÉÏµÄ´¦Àí¹ý³Ì×ÜÌåÊÇÕâÑùµÄ£¬°Ñ×óÊÖµÄ×Ö·û´®ÖÐµÄÔªËØ°´ÕÕË³Ðò£¬Ïñ×Óµ¯Ò»Ñù£¬Ò»¸öÒ»¸öµÄÑ¹Èë½øÈ¥£¬Ñ¹ÈëÒ»¸ö¾Í´ÓÕ»¶¥¿ªÊ¼ÒÀ´ÎÍùÕ»µ×¼ì²é£¬Èç¹û·ûºÏÓÒ±ßÓï·¨¹æÔò¶ÑÀïÃæµÄ¹æÔò£¬¾Í°Ñ·ûºÏ²¿·ÖµÄ¶ÑÕ»ÄÚÈÝµ¯³ö£¬°ÑÄÇ¸ö³éÏó¹æÔòÃû£¬Ñ¹Èë½øÈ¥£¬</span><span
-style='mso-fareast-language:ZH-CN'> </span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>°Ñ×Ö·û´®Ñ¹ÈëÕ»µÄ¹ý³Ì½Ð<b
-style='mso-bidi-font-weight:normal'>ÒÆ¶¯</b>£¬·¢ÏÖ·ûºÏÓï·¨¹æÔò£¬±ä³É³éÏóµÄÓï·¨Ãû³ÆÊµÀý</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>(</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>»òÕß</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>handle) ,</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>È»ºóÔÙÑ¹ÈëÕ»µÄ¹ý³Ì½Ð<b
-style='mso-bidi-font-weight:normal'>¹æÔ¼</b>¡£</span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>¾ßÌåÀý×Ó¹ý³ÌÈçÏÂ</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>:<o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US><v:shape id="_x0000_i1031" type="#_x0000_t75"
- style='width:414.75pt;height:667.5pt' o:ole="">
- <v:imagedata src="hand%20in%20hand%20with%20antlr.files/image041.emz" o:title=""/>
-</v:shape><!--[if gte mso 9]><xml>
- <o:OLEObject Type="Embed" ProgID="Visio.Drawing.11" ShapeID="_x0000_i1031"
-  DrawAspect="Content" ObjectID="_1435613676">
- </o:OLEObject>
-</xml><![endif]--></span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US><v:shape id="_x0000_i1032" type="#_x0000_t75"
- style='width:415.5pt;height:345pt' o:ole="">
- <v:imagedata src="hand%20in%20hand%20with%20antlr.files/image042.emz" o:title=""/>
-</v:shape><!--[if gte mso 9]><xml>
- <o:OLEObject Type="Embed" ProgID="Visio.Drawing.11" ShapeID="_x0000_i1032"
-  DrawAspect="Content" ObjectID="_1435613677">
- </o:OLEObject>
-</xml><![endif]--></span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<h2><a name="_Toc361871710"><![if !supportLists]><span lang=EN-US
-style='mso-bidi-font-family:ËÎÌå;mso-bidi-theme-font:major-fareast;mso-fareast-language:
-ZH-CN'><span style='mso-list:Ignore'>µÚÈý½Ú<span style='font:7.0pt "Times New Roman"'>
-</span></span></span><![endif]><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Cambria;mso-ascii-theme-font:major-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-major-fareast;mso-hansi-font-family:Cambria;mso-hansi-theme-font:major-latin;
-mso-fareast-language:ZH-CN'>¾­µäµÄ±í´ïÊ½½Ì³Ì½âÎö</span></a><span style='mso-bookmark:
-_Toc361871710'></span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></h2>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp; </span></span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¼¸ºõÃ¿Ò»±¾Óï·¨½âÎöµÄ½Ì³Ì¶¼»áÓÃÕûÊýËÄÔò±í´ïÊ½À´µ±×÷ÈëÃÅ¼¶±ðµÄÓï·¨½Ì³Ì£¬Õâ½Ú¾ÍÒÔÊµÓÃµÄÊÓ½ÇÈ¥ÆÊÎöÕâ¸ö½Ì³Ì£¬ÎÒÃÇ¾Íµ±ËüÊÇÒ»¸öÕæÊµµÄ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>case</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>°É¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<h3><a name="_Toc361871711"><![if !supportLists]><span lang=EN-US
-style='mso-bidi-font-family:ËÎÌå;mso-bidi-theme-font:major-fareast;mso-fareast-language:
-ZH-CN'><span style='mso-list:Ignore'>µÚ1Ð¡½Ú<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Cambria;mso-ascii-theme-font:major-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-major-fareast;mso-hansi-font-family:Cambria;mso-hansi-theme-font:major-latin;
-mso-fareast-language:ZH-CN'>½ç¶¨ÐèÇó</span></a><span style='mso-bookmark:_Toc361871711'></span><span
-style='mso-fareast-language:ZH-CN'> <span lang=EN-US><o:p></o:p></span></span></h3>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¼ÙÉèÄã¸øÄ³Ò»¸ö³ÌÐòÒ»´®³£ÓÃµÄÈýÔò»ìºÏÔËËãµÄ±í´ïÊ½£¬ÒªÇóÕâ¸ö³ÌÐò¸øÄã¼ÆËã³ö½á¹û£¬ÏÔÊ¾µÄÒªÇóÈçÏÂ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>:<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpFirst style='margin-left:26.5pt;mso-add-space:
-auto;text-indent:-21.0pt;mso-list:l3 level1 lfo13'><![if !supportLists]><span
-lang=EN-US style='mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;
-mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-fareast-language:
-ZH-CN'><span style='mso-list:Ignore'>1)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>Ê¹ÓÃÕß´«µÝÎÄ±¾´«µÝÎÄ±¾¸ø³ÌÐò£¬³ÌÐò½âÎöÍêºóÔÚ¿ØÖÆÌ¨Êä³ö½á¹û£¬»òÕß´íÎóÐÅÏ¢</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:26.5pt;mso-add-space:
-auto;text-indent:-21.0pt;mso-list:l3 level1 lfo13'><![if !supportLists]><span
-lang=EN-US style='mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;
-mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-fareast-language:
-ZH-CN'><span style='mso-list:Ignore'>2)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ÊäÈëºÍ½á¹ûÎªÕûÐÍ·¶Î§µÄÕûÊý¡£</span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:26.5pt;mso-add-space:
-auto;text-indent:-21.0pt;mso-list:l3 level1 lfo13'><![if !supportLists]><span
-lang=EN-US style='mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;
-mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-fareast-language:
-ZH-CN'><span style='mso-list:Ignore'>3)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>Ö§³ÖÃüÃûµÄ±í´ïÊ½¡£±í´ïÊ½½á¹û¿ÉÒÔ±»ÆäËû±í´ïÊ½°´ÃûÒýÓÃ¡£Ö§³Ö¶àÌõ±í´ïÊ½ÅúÁ¿¼ÆËã¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:26.5pt;mso-add-space:
-auto;text-indent:-21.0pt;mso-list:l3 level1 lfo13'><![if !supportLists]><span
-lang=EN-US style='mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;
-mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-fareast-language:
-ZH-CN'><span style='mso-list:Ignore'>4)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>Ö§³Ö¼Ó¼õ³ËÈýÖÖÔËËã·ûºÅ</span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'>,</span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>·ûºÅ²Ù×÷ÒâÒåÍ¬ÊýÑ§£¬×¢</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>:</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>³ËÓÅÏÈ¼¶±È¼Ó¼õ¸ß¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:26.5pt;mso-add-space:
-auto;text-indent:-21.0pt;mso-list:l3 level1 lfo13'><![if !supportLists]><span
-lang=EN-US style='mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;
-mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-fareast-language:
-ZH-CN'><span style='mso-list:Ignore'>5)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>Ö§³ÖÀ¨ºÅ£¬À¨ºÅ¸Ä±äÔ­ÓÐµÄÔËËã·ûºÅÓÅÏÈ¼¶¡£</span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpLast style='margin-left:26.5pt;mso-add-space:auto'><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Õâ¸ö</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>case</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>±È½ÏÌØÊâ£¬ËüµÄÐèÇóÊÇ¼òµ¥Ö±°×µÄ£¬¹ÊÃ»¾­¹ýÊ²Ã´³éÏó¹ý³Ì¡£È»¶ø£¬ÔÚÕæÊµµÄ»·¾³ÖÐ£¬ÒÔÓÃ»§ÓÃÀý½ç¶¨¹¦ÄÜ±ß½ç£¬´ÓÓÃÀýÖÐ³éÈ¡³öÐèÇó¡£ÕâÊÇÒ»¸öºÜÖØÒªÒ²ºÜ¸´ÔÓµÄ¹¤×÷£¬ÕâÒ²³¬³öÁË±¾ÊéµÄ·¶Î§Óë×÷ÕßµÄÄÜÁ¦£¬ÓÐÐËÈ¤µÄ¿ÉÒÔ¿´¿´¹ØÓÚ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>&lt;</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÐèÇóµÄÌ½Ë÷</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>&gt; &lt;<span class=SpellE>rup</span>&gt;&lt;</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>·ÖÎöÓëÉè¼Æ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>&gt;</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>µÈÈí¼þÐèÇó·ÖÎöÓëÉè¼ÆµÄÊé¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Ò»°ãÓÃ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>use case</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>À´²¶×½ÃèÊöÐèÇó£¬ÕâÀïÎÒÄâ×Ü½á³ö×Ô¼ºµÄÒ»Ð©¾­Ñé·¨Ôò£¬<span
-style='color:red'>µ«ÓÐ±ØÒªÌáÐÑÒ»ÏÂ£¬ÕâÖ»ÊÇ¸öÈË¾­Ñé·¨Ôò£¬Ã»ÓÐ¾­¹ýÑÏ¸ñµÄÖ¤Ã÷ÊÇ¶ÔµÄ</span></span><span
-lang=EN-US style='color:red;mso-fareast-language:ZH-CN'>.</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;color:red;mso-fareast-language:ZH-CN'>ÇëÅúÅÐÐÔµÄ½ÓÊÜ</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpFirst style='margin-left:21.0pt;mso-add-space:
-auto;text-indent:-21.0pt;mso-list:l6 level1 lfo21'><![if !supportLists]><span
-lang=EN-US style='font-family:Wingdings;mso-fareast-font-family:Wingdings;
-mso-bidi-font-family:Wingdings;mso-fareast-language:ZH-CN'><span
-style='mso-list:Ignore'>&Oslash;<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÒªÕÒ³ö²ÎÓëÕß£¬ÓïÑÔÊÇ¶à·½¹µÍ¨µÄÆõÔ¼¡£ËùÒÔÒªÕÒ³ö³¡¾°ÖÐµÄ²ÎÓëÕß¡£²¢¶Ô²ÎÓëÕß½øÐÐ¹éÀà¡£¼´Òª³éÏó³ö²ÎÓëÕßµÄ½ÇÉ«¡££¨¼ûÐèÇó</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>1</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>£©</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;text-indent:-21.0pt;mso-list:l6 level1 lfo21'><![if !supportLists]><span
-lang=EN-US style='font-family:Wingdings;mso-fareast-font-family:Wingdings;
-mso-bidi-font-family:Wingdings;mso-fareast-language:ZH-CN'><span
-style='mso-list:Ignore'>&Oslash;<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÕÒ³öÇ±ÔÚµÄÌõ¼þÔ¼Êø£¬ÒÔ¼°¹µÍ¨µÄÄ¿µÄ£¬Õâ¸ö¶ÔÓïÒåÊµÏÖºÜÖØÒª¡£±ÈÈçÔÚÊµÊ±½»Ò×µÄ³¡¾°ÏÂ£¬¶ÔÊ±¼äµÄÒªÇóºÜÑÏ¸ñ£¬ÕâÖÖ¾ÍÊÇÇ±ÔÚµÄÔ¼ÊøÌõ¼þ¡£</span><span
-style='mso-fareast-language:ZH-CN'> </span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¹µÍ¨µÄÄ¿µÄÓÖÊÇÊ²Ã´ÄØ£¿</span><span
-style='mso-fareast-language:ZH-CN'> </span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Ïñ±í´ïÊ½µÄÀý×ÓµÄÄ¿µÄ¾ÍÊÇ¼ÆËãÕâ¸ö±í´ïÊ½×îºóµÄ½á¹û¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>(</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¼ûÐèÇó</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>2)<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;text-indent:-21.0pt;mso-list:l6 level1 lfo21'><![if !supportLists]><span
-lang=EN-US style='font-family:Wingdings;mso-fareast-font-family:Wingdings;
-mso-bidi-font-family:Wingdings;mso-fareast-language:ZH-CN'><span
-style='mso-list:Ignore'>&Oslash;<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>³éÈ¡³ö×¨ÒµÊõÓï£¬Õâ¸ö¶Ô´Ê·¨·ÖÎöºÍÓïÒåÊµÏÖºÜÖØÒª¡£ÕâÆäÊµÊÇÒ»ÖÖÈ¡ÇÉµÄ×ö·¨£¬ÀûÓÃÈËµÄË¼Î¬´¸Á¶³öÀ´µÄ½á¹û¡£µ±Ò»¼þÊÂÇé±»´¸Á¶Ç§°Ù±éµÄÊ±ºò£¬ÈËÄÔÒ»°ã¶¼»á½øÐÐ³éÏó£¬ÓÃ×î¾«¼òµÄÐÅÏ¢À´ÃèÊöÕâ¸öÊÂ¼þ£¬Õâ¾ÍÊÇ³£ËµµÄÐÐ»°¡£¾«¼òµÄÐÅÏ¢°üº¬µÄ´óÁ¿µÄÄÚº­£¬ÄÚº­¾ö¶¨ÁËÓïÒåµÄÊµÏÖ¡£±ÈÈçÐÐ»°¡°µ÷ÊÔ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>(debug) </span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¡±¾ÍÊÇ°üº¬ÁËÉèÖÃ¶ÏµãÒ»²½Ò»²½×·×Ù¼ì²é³ÌÐò´úÂëÃ¿Ò»´¦×´Ì¬µÄÒ»ÏµÁÐ¹ý³Ì¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>(</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¼ûÐèÇó</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>3</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¡¢</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>4)<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;text-indent:-21.0pt;mso-list:l6 level1 lfo21'><![if !supportLists]><span
-lang=EN-US style='font-family:Wingdings;mso-fareast-font-family:Wingdings;
-mso-bidi-font-family:Wingdings;mso-fareast-language:ZH-CN'><span
-style='mso-list:Ignore'>&Oslash;<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Ã÷È·×¨ÒµÊõÓïÒªÇóµÄÉÏÏÂÎÄ¡£±ÈÈçÒþº¬Ä³Ð©²ÎÊý»òÕßÐèÒªÖ¸¶¨¾ßÌåµÄ²ÎÊý£¬ÄÇÐ©ÊõÓïÐèÒªºÍÄÇÐ©ÊõÓïÅäÌ×Ê¹ÓÃ¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>(</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¼ûÐèÇó</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>3</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¡¢</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>4</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¡¢</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>5)<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;text-indent:-21.0pt;mso-list:l6 level1 lfo21'><![if !supportLists]><span
-lang=EN-US style='font-family:Wingdings;mso-fareast-font-family:Wingdings;
-mso-bidi-font-family:Wingdings;mso-fareast-language:ZH-CN'><span
-style='mso-list:Ignore'>&Oslash;<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÅÐ¶ÏÃèÊöµÄÁ£¶È¡£ÓÐÒ»Ð©³¡¾°£¬ÓÃÒ»¸ö¾ä×Ó¾Í¿ÉÒÔÃèÊöÇå³þÁË£¬ÓÐÐ©³¡¾°ÐèÒªÓÃÒ»¶Î»°À´ÃèÊö£¬¶øÓÐÒ»Ð©³¡¾°£¬ÐèÒªÓÃÒ»ÆªÎÄÕÂÀ´ÃèÊö¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpLast style='margin-left:21.0pt;mso-add-space:auto'><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<h3><a name="_Toc361871712"><![if !supportLists]><span lang=EN-US
-style='mso-bidi-font-family:ËÎÌå;mso-bidi-theme-font:major-fareast;mso-fareast-language:
-ZH-CN'><span style='mso-list:Ignore'>µÚ2Ð¡½Ú<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Cambria;mso-ascii-theme-font:major-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-major-fareast;mso-hansi-font-family:Cambria;mso-hansi-theme-font:major-latin;
-mso-fareast-language:ZH-CN'>Éè¼ÆÓï·¨</span></a><span style='mso-bookmark:_Toc361871712'></span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></h3>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Éè¼ÆÓï·¨ÊÇÒ»¸öºÜÂé·³µÄ¹ý³Ì£¬µ«Ò²ÊÇÒ»¸ö×îÖØÒªµÄ¹ý³Ì¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraph style='margin-left:21.0pt;mso-add-space:auto;
-text-indent:-21.0pt;mso-list:l9 level1 lfo20'><![if !supportLists]><b
-style='mso-bidi-font-weight:normal'><span lang=EN-US style='mso-fareast-font-family:
-Calibri;mso-fareast-theme-font:minor-latin;mso-bidi-font-family:Calibri;
-mso-bidi-theme-font:minor-latin;mso-fareast-language:ZH-CN'><span
-style='mso-list:Ignore'>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span></b><![endif]><b style='mso-bidi-font-weight:normal'><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Ê×ÏÈÒªÁÐ³öËùÓÐµÄµ¥´ÊÏî£¬²¢Éè¼Æ³ö´Ê·¨¹æÔò¡£±í´ïÊ½Àý×ÓÖÐµ¥´ÊÏîÈçÏÂ</span></b><b
-style='mso-bidi-font-weight:normal'><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>: <o:p></o:p></span></b></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>±êÊ¶·û</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>: </span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>±í´ïÊ½Ãû£¬ÓÉ</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>A</span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>µ½</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>Z</span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>×é³É£¬Î»Êý²»ÏÞ¡£</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ÕûÊýÏî</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>: </span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ÓÉ</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>0</span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>µ½</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>9</span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>×é³É£¬Î»Êý²»ÏÞ£¬</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>(</span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>Êµ¼ÊÉÏ²»¿¼ÂÇ¶øÒÑ£¬±¾Àý²»Ö§³Ö´óÊý</span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'>).<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>¼ÓºÅ</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>:+<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>¼õºÅ</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>:-<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>³ËºÅ</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>:*<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>³ýºÅ</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>:/<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>×óÀ¨ºÅ</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>:(<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ÓÒÀ¨ºÅ</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>:)<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>´Ê·¨¹æÔò£¬Êµ¼Ê¾ÍÊÇÕýÔò±í´ïÊ½À´ÃèÊö£¬²»ÊìÏ¤µÄÈËµ½ÍøÂçÉÏËÑÒÔÏÂÕýÔò±í´ïÊ½µÄ¾­µä½Ì²Ä¿´¿´°É¡£ÕâÀï²»ÀÛÊöÁË¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpFirst style='margin-left:21.0pt;mso-add-space:
-auto;text-indent:-21.0pt;mso-list:l9 level1 lfo20'><![if !supportLists]><b
-style='mso-bidi-font-weight:normal'><span lang=EN-US style='mso-fareast-font-family:
-Calibri;mso-fareast-theme-font:minor-latin;mso-bidi-font-family:Calibri;
-mso-bidi-theme-font:minor-latin;mso-fareast-language:ZH-CN'><span
-style='mso-list:Ignore'>2.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span></b><![endif]><b style='mso-bidi-font-weight:normal'><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>·ÖÎöÊ¹ÓÃ³¡¾°£¬¸ù¾ÝÐèÇó£¬Öð²½·ÖÎö³öÓï·¨ÍÆµ¼µÄ²úÉúÊ½¹æÔò¼¯ºÏ¡£</span></b><b
-style='mso-bidi-font-weight:normal'><span lang=EN-US style='mso-fareast-language:
-ZH-CN'><o:p></o:p></span></b></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span lang=EN-US style='mso-fareast-language:ZH-CN'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>´ÓÒ»¶ÑÔÓÂÒµÄÐèÇóÖÐÈ¥¹¹Ôì³ö¾«ÇÉ×¼È·µÄÓï·¨½á¹¹£¬ÊÇÒ»¸öÓÉ¼òÈë·±µÄ²»¶Ï·´¸´µü´úµÄ¹ý³Ì£¬Èç³é¼ë°þË¿ºó²ÃÒÂÒ»Ñù£¬´ó·²´ËÀà¹¤×÷¶¼ÓÐÒ»¶¨µÄÒÕÊõ¼øÉÍÐÔ£¬µ«Ö»ÓÐÄã³Á½þÆäÖÐÊ±²ÅÄÜÌåÎ¶¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span lang=EN-US style='mso-fareast-language:ZH-CN'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÎÒÃÇ¹Û²ìÐèÇó£¬¶ÔÓï·¨ÔªËØ½øÐÐ·ÖÀà£¬°´ÕÕÆä×÷ÓÃ½«Éæ¼°ÔªËØ·Ö³ÉÈýÀà</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>{</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÕûÊýÏî£¬±êÊ¶·û</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>}</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>×÷Îª²Ù×÷Ïî£¬</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>{</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¼Ó¼õ³Ë</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>}</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>×÷ÎªÔËËã·û£¬</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>{</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>À¨ºÅ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>}</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>×÷Îª¸¨Öú·ûºÅ¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-ZH-CN'>ÎÒÃÇ´ÓÃ¿Ò»¸ö·ÖÀàÖÐÈ¡Ò»¸öÔªËØ³öÀ´·ÖÎö£¬¹¹Ôì³ö²úÉúÊ½ÃèÊöµÄÓï·¨¹æÔò×é¡£</span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-ZH-CN'>È»ºóÔÙÖð²½µÄ¼ÓÈëÍ¬ÀàµÄÔªËØ¡£</span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-ZH-CN'>ÏÈÈ¡</span><span style='mso-fareast-language:ZH-CN'> </span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÕûÊýÏî£¬¼Ó·¨£¬ºÍÀ¨ºÅ</span><span
-style='mso-fareast-language:ZH-CN'> </span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Èý¸öÔªËØ¡£ËüÃÇÖ»ÓÐÁ½ÖÖÐÎÊ½£¬</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span lang=EN-US style='mso-fareast-language:ZH-CN'><span
-style='mso-spacerun:yes'>&nbsp; </span></span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÕûÊýÏî</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>+</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÕûÊýÏî</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>+</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÕûÊýÏî</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>+....<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span lang=EN-US style='mso-fareast-language:ZH-CN'><span
-style='mso-spacerun:yes'>&nbsp; </span></span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÕûÊýÏî</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>+(</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÕûÊýÏî</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>+</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÕûÊýÏî</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>)+</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÕûÊýÏî</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>+....<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;color:red;
-mso-fareast-language:ZH-CN'>¼ÙÉè</span><span lang=EN-US style='color:red;
-mso-fareast-language:ZH-CN'>a</span><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-color:red;mso-fareast-language:ZH-CN'>´ú±íÒ»¸öÕûÊýÏî</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>£¬</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-ZH-CN'>ÓÃÕâ¸öÁ½Ìõ²úÉúÊ½</span><span lang=EN-US style='mso-fareast-language:ZH-CN'>{S-&gt;<span
-class=SpellE>S+a,S</span>-&gt;a} </span><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>¾Í¿ÉÒÔÃèÊöµÚÒ»ÌõÓï·¨¹æÔò£¬ÓÐÈË¿ÉÄÜ»áÎÊÕâÁ½Ìõ²úÉúÊ½ÊÇÈçºÎµÄ£¬ÆäÊµÎÒÒ²²»ÖªµÀ£¬Ã²ËÆ×ÔÈ»¶øÈ»µÄ¾Í³éÏó³öÀ´ÁË£¬ÔÙ×ÐÏ¸ÏëÁËÒ»Ïë£¬ÎÒ¾õµÃÓÃÊýÑ§¹éÄÉ·¨±È½ÏÊÊºÏ½âÊÍÕâ¸ö¹ý³Ì¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span class=SpellE><span lang=EN-US style='mso-fareast-language:ZH-CN'>a,a+a,a+a+a,a+a+a+a,a+a+a+a+a</span></span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>....<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span lang=EN-US style='mso-fareast-language:ZH-CN'>=&gt; a,{a}+a,{<span
-class=SpellE>a+a</span>}+a,{<span class=SpellE>a+a+a</span>}+a,{<span
-class=SpellE>a+a+a+a</span>}+a....(</span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÎÒÃÇ½èÖú»¨À¨ºÅÀ´°ïÖú½ç¶¨³É·Ö</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>)<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-ZH-CN'>À¨ºÅÀïÃæµÄ¾ÍÊÇÇ°ÃæµÄÊ½×Ó¡£È»ºó¾ÍÍÆ³öÁËÍ¨Ïî£º</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>A[0]=a<span style='mso-spacerun:yes'>&nbsp; </span>A[n] = A[n-1]+a</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>£»</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;color:red;
-mso-fareast-language:ZH-CN'>Çë×¢Òâ£ºÕâÀïµÄ</span><span lang=EN-US style='color:red;
-mso-fareast-language:ZH-CN'>+</span><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-color:red;mso-fareast-language:ZH-CN'>ÊÇÒ»¸ö×Ö·û´®·ûºÅ</span><span lang=EN-US
-style='color:red;mso-fareast-language:ZH-CN'>, <span class=SpellE>a+a</span></span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;color:red;mso-fareast-language:ZH-CN'>´ú±í</span><span
-lang=EN-US style='color:red;mso-fareast-language:ZH-CN'>a</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;color:red;mso-fareast-language:ZH-CN'>Á¬½Ó</span><span
-lang=EN-US style='color:red;mso-fareast-language:ZH-CN'>+</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;color:red;mso-fareast-language:ZH-CN'>ºÅÁ¬½Ó</span><span
-lang=EN-US style='color:red;mso-fareast-language:ZH-CN'>a</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span lang=EN-US style='mso-fareast-language:ZH-CN'>{S-&gt;<span
-class=SpellE>S+a,S</span>-&gt;a} </span><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ËäÈ»Ö±¹ÛÈ´²»ÊÊºÏ×î×óÍÆµ¼£¬°´ÕÕ¹«Ê½×ªÒ»ÏÂ</span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'>(</span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;color:red;mso-fareast-language:ZH-CN'>¼ûÉÏÃæµÄ×î×óÍÆµ¼</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>)</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span lang=EN-US style='mso-fareast-language:ZH-CN'>{S-&gt;<span
-class=SpellE>aR,R</span>-&gt;+<span class=SpellE>aR,R</span>-&gt;</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¿Õ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>}<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-ZH-CN'>ÔÙ¿´µÚ¶þÖÖÐÎÊ½£»</span><span style='mso-fareast-language:ZH-CN'> </span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Í¨¹ý¹Û²â¿ÉÒÔ¿´³öÀ´£¬À¨ºÅÀïÃæµÄÊÇÒ»¸ö×Ó±í´ïÊ½¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-ZH-CN'>ÓÚÊÇ</span><span lang=EN-US style='mso-fareast-language:ZH-CN'>{S-&gt;<span
-class=SpellE>S+a,S</span>-&gt;<span class=SpellE>a,S</span>-&gt;(S) } <span
-style='mso-spacerun:yes'>&nbsp;&nbsp;</span><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-ZH-CN'>×ª³É·ûºÏ×î×óÍÆµ¼µÄÐÎÊ½</span><span lang=EN-US style='mso-fareast-language:ZH-CN'>:
-{ S-&gt;<span class=SpellE>aR,R</span>-&gt;+<span class=SpellE>aR,R</span>-&gt;</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¿Õ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>,S-&gt;(S)}<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-ZH-CN'>ÖØÐÂÑ¡È¡</span><span style='mso-fareast-language:ZH-CN'> </span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÕûÊýÏî£¬¼õºÅ£¬À¨ºÅ£¬½øÐÐÍ¬ÑùµÄ·ÖÎöºÍ¹¹Ôì£¬</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-ZH-CN'>¿ÉÒÔµÃµ½</span><span lang=EN-US style='mso-fareast-language:ZH-CN'>
-{S-&gt;S-<span class=SpellE>a,S</span>-&gt;<span class=SpellE>a,S</span>-&gt;(S)
-}<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-ZH-CN'>ÓÉÓÚ¼Ó¼õ·¨¶ÔµÈ£¬ºÏ²¢ºó¿ÉÒÔµÃµ½</span><span lang=EN-US style='mso-fareast-language:ZH-CN'>{S-&gt;S-<span
-class=SpellE>a,S</span>-&gt;<span class=SpellE>S+a,S</span>-&gt;<span
-class=SpellE>a,S</span>-&gt;(S) }<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-ZH-CN'>Õâ¾ÍÊÇÃèÊö¼Ó¼õ»ìºÏÔËËãµÄÊ½×Ó£¬ºÜÈÝÒ×Í¨¹ýÊµÀýÀ´ÑéÖ¤µÄ¡£</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-ZH-CN'>Í¬ÀíµÄ£¬ÎÒÃÇ¿ÉÒÔ°Ñ³Ë·¨Ò²¼ÓÈë½øÀ´</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>,</span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>¿ÉÒÔµÃµ½ÕâÑùµÄÒ»¸ö</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span lang=EN-US style='mso-fareast-language:ZH-CN'>{S-&gt;S-<span
-class=SpellE>a,S</span>-&gt;<span class=SpellE>S+a,S</span>-&gt;S*<span
-class=SpellE>a,S</span>-&gt;<span class=SpellE>a,S</span>-&gt;(S) } <o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-ZH-CN'>×ª³É·ûºÏ×î×óÍÆµ¼µÄÐÎÊ½</span><span lang=EN-US style='mso-fareast-language:ZH-CN'>:
-{ S-&gt;<span class=SpellE>aR,R</span>-&gt;+<span class=SpellE>aR</span>, R-&gt;-<span
-class=SpellE>aR</span>, R-&gt;*<span class=SpellE>aR</span> ,R-&gt;</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¿Õ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>,S-&gt;(S)}<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-ZH-CN'>Èç¹û£¬ÎÒÖ»ÊÇËµ£¬Èç¹û</span><span lang=EN-US style='mso-fareast-language:ZH-CN'>...</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Õâ¸öÊÀ½çÉÏÖ»Óï·¨ÊµÏÖÓï·¨¶ø²»ÊµÏÖÓïÒåµÄ»°</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>... </span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÄÇ¾ÍÌ«ÍêÃÀÁË¡£µ«Í¨³£ÉÏµÛ¶¼»á¸øÄãÁôµãÒÅº¶µÄ¡£ÕâÐ©¹æÔòÍêÈ«¿ÉÒÔºÏ·¨µÄ½âÎöº¬¼Ó¼õ³ËµÄ±í´ïÊ½£¬µ«ÊÇËüÃÇÎÞ·¨Çø·Ö³öÐèÇóÖÐ±È½ÏÖØÒªµÄÒ»Ìõ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>:</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>³Ë·¨ÓÅÏÈ¼¶±È¼Ó¼õµÄÓÅÏÈ¼¶Òª¸ß¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-ZH-CN'>ÇÇ</span><span lang=EN-US style='mso-fareast-language:ZH-CN'>boss</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Ëµ¹ýÒ»¾ä¾­µäÃûÑÔ£ºÐÎÊ½Ó¦¸Ã×·Ëæ¹¦ÄÜ¡£ºÜÏÔÈ»µÄ£¬ÎÒÃÇÖ®Ç°³éÏó¹éÄÉ³öÀ´µÄÓï·¨¹æÔòµÄÐÎÊ½²¢²»ÊÇ×·Ëæ¹¦ÄÜµÄ£¬ÄÇ¾Í±ä»»Ò»ÏÂ°É¡£ÎÒÃÇÖªµÀ³Ë·¨µÄÓÅÏÈ¼¶±È¼Ó¼õ·¨¸ß£¬¹ÊÉæ¼°³Ë·¨µÄ±í´ïÊ½²¿·ÖÓ¦¸ÃÏÈ½áºÏ³ÉÏî£¬È»ºóÔÙ×÷Îª¼Ó¼õËãÊõ·ûºÅµÄÁ½±ßµÄ²Ù×÷ÏîÔÙÐÎ³É¼Ó¼õ±í´ïÊ½£¬¹ÊÎÒÃÇÔÚ³Ë·¨µÄ»ù´¡</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>{M-&gt;M*a, M-&gt;<span
-class=SpellE>a,M</span>-&gt;(M)}</span><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ÉÏ£¬ÀÝÉÏÒ»²ã¼Ó¼õ·¨¿´¿´£¬ÈçÏÂ</span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'>:<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;tab-stops:193.5pt'><span lang=EN-US style='mso-fareast-language:ZH-CN'>{M-&gt;M*a,
-M-&gt;<span class=SpellE>a,M</span>-&gt;(M), S-&gt;M+M,S-&gt;M-M}<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;tab-stops:193.5pt'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>àÅ£¬Í¦½Ó½üÁË£¬µ«Õâ×éÓï·¨¹æÔòÎÞ·¨½â¾öÁ½¸öÎÊÌâ</span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'>:<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;tab-stops:193.5pt'><span lang=EN-US style='mso-fareast-language:ZH-CN'>1</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¡¢ÎÞ·¨´¦Àí¶à¸öÁ¬ÐøµÄ¼Ó¼õºÅ¡£</span><span
-style='mso-fareast-language:ZH-CN'> </span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÐÎÈç</span><span
-class=SpellE><span lang=EN-US style='mso-fareast-language:ZH-CN'>a+a</span></span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>-a-<span class=SpellE>a+a</span><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;tab-stops:193.5pt'><span lang=EN-US style='mso-fareast-language:ZH-CN'>2</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¡¢´Ó¿ªÊ¼·ûºÅÎÞ·¨ÍÆµ¼´¿µÄÁ¬Ðø³Ë±í´ïÊ½¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;tab-stops:193.5pt'><span lang=EN-US style='mso-fareast-language:ZH-CN'>3</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¡¢ÎÞ·¨´¦Àí×Ó±í´ïÊ½ÖÐ³¬¹ýÒ»¸ö¼Ó¼õºÅµÄ¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;tab-stops:193.5pt'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>Õë¶ÔÎÊÌâ</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>1</span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>£¬·ÖÎöÒ»ÏÂÌØµã£¬µÚÒ»Ïî±ØÐëÎª</span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'>a </span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>£¬µÚ¶þÏîÎªµÚÒ»ÏîÁ¬½Ó</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>+a </span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>»òÕßµÚÒ»ÏîÁ¬½Ó</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>-a,</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Òò´ËÍÆ³öÍ¨ÏòÏîÎªÇ°Ò»ÏîÁ¬½ÓÉÏ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>+a</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>»òÕßÁ¬½ÓÉÏ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>-a</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>£¬ÓÚÊÇÎÒÃÇ¾Í´óÖÂ¿ÉÒÔÍÆ¶Ï³ö¹æÔò</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>:</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÒýÈëÒ»¸ö</span><span
-class=SpellE><span lang=EN-US style='mso-fareast-language:ZH-CN'>Expr</span></span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'> </span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¼òÐ´Îª</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>E {E-&gt;M,E-&gt;E+M,E-&gt;E-M}</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>À´´úÌæ¼Ó¼õÏî£¬</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;tab-stops:193.5pt'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ÓÚÊÇµÃµ½¹æÔò×é</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>: {M-&gt;M*a, M-&gt;<span class=SpellE>a,M</span>-&gt;(M), E-&gt;M,E-&gt;E+M,
-E-&gt;E-M,S-&gt;E }<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;tab-stops:193.5pt'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>Í¬Ê±ÒòÎª¼ÓÈëÒ»¸ö</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>E-&gt;M</span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>£¬Ò²½â¾öÁËÎÊÌâ</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>2</span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>£¬¼´´Ó¿ªÊ¼·ûºÅÍÆµ¼³öÁ¬Ðø³Ë¡£</span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;tab-stops:193.5pt'><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;tab-stops:193.5pt'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>Õë¶ÔÎÊÌâ</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>3</span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>£¬°Ñ</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>M-&gt;(M) </span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>¸Ä³É</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'> M-&gt;(E)</span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>¡£Ò²¼´³Ë·¨ÖÐÒªÓÐ±È³Ë·¨·¶Î§¸ü¹ãµÄ°üº¬ÁË¼Ó¼õ·¨µÄ×Ó±í´ïÊ½×öÎªÒò×ÓÏî£¬</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;tab-stops:193.5pt'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ÓÚÊÇµÃµ½Óï·¨¹æÔò×é</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>{M-&gt;M*a, M-&gt;<span class=SpellE>a,M</span>-&gt;(E), E-&gt;M, E-&gt;E+M,
-E-&gt;E-M,S-&gt;E }<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;tab-stops:193.5pt'><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;tab-stops:193.5pt'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>×ª»¯³É·ûºÏ×î×óÍÆµ¼µÄÓï·¨¹æÔò×éÊÇ</span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;tab-stops:193.5pt'><span lang=EN-US style='mso-fareast-language:ZH-CN'>{ M-&gt;
-<span class=SpellE>aR,R</span>-&gt;*<span class=SpellE>aR,R</span>-&gt;</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¿Õ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>,M-&gt;(E), E-&gt;MN, N-&gt;+MN, N-&gt;-MN,N-&gt;</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¿Õ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>,S-&gt;E }<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;tab-stops:193.5pt'><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;tab-stops:193.5pt'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ÖÁ´Ë£¬ÕûÊýÏî£¬¼Ó¼õ³Ë·û£¬À¨ºÅÒÑ¾­±»¼ÓÈë½øÀ´ÁË¡£</span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;tab-stops:193.5pt'><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;tab-stops:193.5pt'><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;tab-stops:193.5pt'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ÏÖÔÚ¼ÓÈë±êÊ¶·ûºÅ¡£</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;tab-stops:193.5pt'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ÒýÈë±êÊ¶·û</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>id </span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>¼òÐ´Îª</span><span class=SpellE><span lang=EN-US
-style='mso-fareast-language:ZH-CN'>i</span></span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>£¬</span><span
-style='mso-fareast-language:ZH-CN'> <span lang=EN-US><o:p></o:p></span></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;tab-stops:193.5pt'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>¼ÓÈë±êÊ¶·ûºó£¬</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'> a </span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ºÍ</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'> <span class=SpellE>i</span> </span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¾Í³ÉÁËÍ¬µÈÒâÒåµÄ·ûºÅ£¬¿ÉÒÔ³éÏó³öÒ»²ã£¬ÎÒÃÇÊ¹ÓÃ´óÐ´</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>A</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>À´´ú±í¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;tab-stops:193.5pt'><span lang=EN-US style='mso-fareast-language:ZH-CN'>{A-&gt;<span
-class=SpellE>a,A</span>-&gt;<span class=SpellE>i</span>}<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;tab-stops:193.5pt'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>Í¬Ê±£¬ÄäÃû±í´ïÊ½ÈÔÈ»±£³ÖÖ®Ç°Í¬ÑùµÄÓï·¨½á¹¹£¬ÐÂÔöÁËÒ»¸öÃüÃû±í´ïÊ½£¬</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;tab-stops:193.5pt'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ËùÒÔ£¬ÓÃÒ»¸öÐÂµÄÔªËØ</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>P{P-&gt;E,P-&gt;<span class=SpellE>i</span>=E}</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>À´´úÌæ£¬</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;tab-stops:193.5pt'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ÓÚÊÇ¹æÔò±ä³É</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;tab-stops:193.5pt'><span lang=EN-US style='mso-fareast-language:ZH-CN'>{ A-&gt;<span
-class=SpellE>a,A</span>-&gt;<span class=SpellE>i,M</span>-&gt;M*a, M-&gt;<span
-class=SpellE>a,M</span>-&gt;(E), E-&gt;M, E-&gt;E+M, E-&gt;E-M, P-&gt;E,P-&gt;<span
-class=SpellE>i</span>=E, S-&gt;P }<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;tab-stops:193.5pt'><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;tab-stops:193.5pt'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>×ª»¯³É·ûºÏ×î×óÍÆµ¼µÄÓï·¨¹æÔò×éÊÇ</span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'>:<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;tab-stops:193.5pt'><span lang=EN-US style='mso-fareast-language:ZH-CN'>{ A-&gt;<span
-class=SpellE>a,A</span>-&gt;<span class=SpellE>i,M</span>-&gt;AR,R-&gt;*AR,R-&gt;</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¿Õ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>, M-&gt;(E), E-&gt;MN, N-&gt;+MN,
-N-&gt;-MN,N-&gt;</span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>¿Õ</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>, P-&gt;E,P-&gt;<span class=SpellE>i</span>=E,S-&gt;P}<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;tab-stops:193.5pt'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ÖÁ´ËËùÓÐµÄÖØÒª·ûºÅ¶¼ÒÑ¾­¼ÓÈëÍê³É¡£</span><span style='mso-fareast-language:
-ZH-CN'> <span lang=EN-US><o:p></o:p></span></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;tab-stops:193.5pt'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>µ«¶ÔÕÕÐèÇó</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>3</span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>£¬»¹ÓÐÅúÁ¿±í´ïÊ½µÄÖ§³Ö£¬Ö»ÐèÒª¶Ô</span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'>P</span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>µÄÖØ¸´¼´¿ÉÒ²¼´</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>{S-&gt;P,S-&gt;SP} </span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;tab-stops:193.5pt'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>×îºóºÏ²¢ÔÚÒ»Æð±ãÊÇ</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;tab-stops:193.5pt'><span lang=EN-US style='mso-fareast-language:ZH-CN'>{ A-&gt;<span
-class=SpellE>a,A</span>-&gt;<span class=SpellE>i,M</span>-&gt;M*a, M-&gt;<span
-class=SpellE>a,M</span>-&gt;(E), E-&gt;M, E-&gt;E+M, E-&gt;E-M, P-&gt;E,P-&gt;<span
-class=SpellE>i</span>=E, S-&gt;P,S-&gt;SP }<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;tab-stops:193.5pt'><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;tab-stops:193.5pt'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>×ª»¯³É·ûºÏ×îÓÅÍÆµ¼µÄÓï·¨¹æÔò×é</span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'>:<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;tab-stops:193.5pt'><span lang=EN-US style='mso-fareast-language:ZH-CN'>{ A-&gt;<span
-class=SpellE>a,A</span>-&gt;<span class=SpellE>i,M</span>-&gt;AR,R-&gt;*AR,R-&gt;</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¿Õ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>, M-&gt;(E), E-&gt;MN, N-&gt;+MN,
-N-&gt;-MN,N-&gt;</span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>¿Õ</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>, P-&gt;E,P-&gt;<span class=SpellE>i</span>=E,S-&gt;PQ,Q-&gt;PQ,Q-&gt;</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¿Õ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>}<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;tab-stops:193.5pt'><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;tab-stops:193.5pt'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ÖÁ´Ë£¬ÎÒÃÇ¾Í´ÓÐèÇó¿ªÊ¼½øÐÐÒ»²½²½µØÍÆµ¼µÃµ½ÁË×îºóµÄÓï·¨¹æÔò×é¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;tab-stops:193.5pt'><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;tab-stops:193.5pt'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ÈçÍ¼±í</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>:</span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ÎÒ¼òµ¥µÄ×Ü½áÁËÒ»Ð©ÍÆµ¼¼¼ÇÉÒÔ¼°Ó³ÉäµÄ¼¼ÇÉ</span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
- style='margin-left:21.0pt;border-collapse:collapse;border:none;mso-border-alt:
- solid black .5pt;mso-border-themecolor:text1;mso-yfti-tbllook:1184;mso-padding-alt:
- 0cm 5.4pt 0cm 5.4pt'>
- <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
-  <td width=136 valign=top style='width:102.1pt;border:solid black 1.0pt;
-  mso-border-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
-  text1;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoListParagraphCxSpMiddle style='margin:0cm;margin-bottom:.0001pt;
-  mso-add-space:auto;line-height:normal;tab-stops:193.5pt'><span
-  style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-  minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-  ZH-CN'>ÐèÇó</span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-  </td>
-  <td width=132 valign=top style='width:98.7pt;border:solid black 1.0pt;
-  mso-border-themecolor:text1;border-left:none;mso-border-left-alt:solid black .5pt;
-  mso-border-left-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
-  text1;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoListParagraphCxSpMiddle style='margin:0cm;margin-bottom:.0001pt;
-  mso-add-space:auto;line-height:normal;tab-stops:193.5pt'><span
-  style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-  minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-  ZH-CN'>ÕýÔò</span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-  </td>
-  <td width=136 valign=top style='width:102.15pt;border:solid black 1.0pt;
-  mso-border-themecolor:text1;border-left:none;mso-border-left-alt:solid black .5pt;
-  mso-border-left-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
-  text1;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoListParagraphCxSpMiddle style='margin:0cm;margin-bottom:.0001pt;
-  mso-add-space:auto;line-height:normal;tab-stops:193.5pt'><span
-  style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-  minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-  ZH-CN'>×îÓÒÍÆµ¼¹æÔò×é</span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-  </td>
-  <td width=136 valign=top style='width:102.15pt;border:solid black 1.0pt;
-  mso-border-themecolor:text1;border-left:none;mso-border-left-alt:solid black .5pt;
-  mso-border-left-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
-  text1;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoListParagraphCxSpLast style='margin:0cm;margin-bottom:.0001pt;
-  mso-add-space:auto;line-height:normal;tab-stops:193.5pt'><span
-  style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-  minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-  ZH-CN'>×î×óÍÆµ¼¹æÔò×é</span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:1'>
-  <td width=136 valign=top style='width:102.1pt;border:solid black 1.0pt;
-  mso-border-themecolor:text1;border-top:none;mso-border-top-alt:solid black .5pt;
-  mso-border-top-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
-  text1;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoListParagraphCxSpFirst style='margin:0cm;margin-bottom:.0001pt;
-  mso-add-space:auto;line-height:normal;tab-stops:193.5pt'><span
-  style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-  minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-  ZH-CN'>Á¬½ÓÏî»òÕßÓë¹ØÏµÏî</span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-  </td>
-  <td width=132 valign=top style='width:98.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
-  border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
-  solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
-  mso-border-left-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
-  text1;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoListParagraphCxSpMiddle style='margin:0cm;margin-bottom:.0001pt;
-  mso-add-space:auto;line-height:normal;tab-stops:193.5pt'><span class=SpellE><span
-  lang=EN-US style='mso-fareast-language:ZH-CN'>ab</span></span><span
-  lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-  </td>
-  <td width=136 valign=top style='width:102.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
-  border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
-  solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
-  mso-border-left-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
-  text1;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoListParagraphCxSpMiddle style='margin:0cm;margin-bottom:.0001pt;
-  mso-add-space:auto;line-height:normal;tab-stops:193.5pt'><span lang=EN-US
-  style='mso-fareast-language:ZH-CN'>S-&gt;<span class=SpellE>ab</span><o:p></o:p></span></p>
-  </td>
-  <td width=136 valign=top style='width:102.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
-  border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
-  solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
-  mso-border-left-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
-  text1;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoListParagraphCxSpLast style='margin:0cm;margin-bottom:.0001pt;
-  mso-add-space:auto;line-height:normal;tab-stops:193.5pt'><span lang=EN-US
-  style='mso-fareast-language:ZH-CN'>S-&gt;<span class=SpellE>ab</span><o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:2'>
-  <td width=136 valign=top style='width:102.1pt;border:solid black 1.0pt;
-  mso-border-themecolor:text1;border-top:none;mso-border-top-alt:solid black .5pt;
-  mso-border-top-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
-  text1;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoListParagraphCxSpFirst style='margin:0cm;margin-bottom:.0001pt;
-  mso-add-space:auto;line-height:normal;tab-stops:193.5pt'><span
-  style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-  minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-  ZH-CN'>»ò¹ØÏµÏî</span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-  </td>
-  <td width=132 valign=top style='width:98.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
-  border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
-  solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
-  mso-border-left-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
-  text1;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoListParagraphCxSpMiddle style='margin:0cm;margin-bottom:.0001pt;
-  mso-add-space:auto;line-height:normal;tab-stops:193.5pt'><span class=SpellE><span
-  lang=EN-US style='mso-fareast-language:ZH-CN'>a|b</span></span><span
-  lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-  </td>
-  <td width=136 valign=top style='width:102.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
-  border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
-  solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
-  mso-border-left-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
-  text1;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoListParagraphCxSpMiddle style='margin:0cm;margin-bottom:.0001pt;
-  mso-add-space:auto;line-height:normal;tab-stops:193.5pt'><span lang=EN-US
-  style='mso-fareast-language:ZH-CN'>S-&gt;<span class=SpellE>a,S</span>-&gt;b<o:p></o:p></span></p>
-  </td>
-  <td width=136 valign=top style='width:102.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
-  border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
-  solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
-  mso-border-left-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
-  text1;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoListParagraphCxSpLast style='margin:0cm;margin-bottom:.0001pt;
-  mso-add-space:auto;line-height:normal;tab-stops:193.5pt'><span lang=EN-US
-  style='mso-fareast-language:ZH-CN'>S-&gt;<span class=SpellE>a,S</span>-&gt;b<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:3'>
-  <td width=136 valign=top style='width:102.1pt;border:solid black 1.0pt;
-  mso-border-themecolor:text1;border-top:none;mso-border-top-alt:solid black .5pt;
-  mso-border-top-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
-  text1;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoListParagraphCxSpFirst style='margin:0cm;margin-bottom:.0001pt;
-  mso-add-space:auto;line-height:normal;tab-stops:193.5pt'><span
-  style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-  minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-  ZH-CN'>¿ÉÑ¡Ïî</span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-  </td>
-  <td width=132 valign=top style='width:98.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
-  border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
-  solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
-  mso-border-left-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
-  text1;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoListParagraphCxSpMiddle style='margin:0cm;margin-bottom:.0001pt;
-  mso-add-space:auto;line-height:normal;tab-stops:193.5pt'><span class=SpellE><span
-  lang=EN-US style='mso-fareast-language:ZH-CN'>a</span></span><span
-  lang=EN-US style='mso-fareast-language:ZH-CN'>?<o:p></o:p></span></p>
-  </td>
-  <td width=136 valign=top style='width:102.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
-  border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
-  solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
-  mso-border-left-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
-  text1;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoListParagraphCxSpMiddle style='margin:0cm;margin-bottom:.0001pt;
-  mso-add-space:auto;line-height:normal;tab-stops:193.5pt'><span lang=EN-US
-  style='mso-fareast-language:ZH-CN'>S-&gt;<span class=SpellE>a,S</span>-&gt;</span><span
-  style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-  minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-  ZH-CN'>¿Õ</span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-  </td>
-  <td width=136 valign=top style='width:102.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
-  border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
-  solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
-  mso-border-left-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
-  text1;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoListParagraphCxSpLast style='margin:0cm;margin-bottom:.0001pt;
-  mso-add-space:auto;line-height:normal;tab-stops:193.5pt'><span lang=EN-US
-  style='mso-fareast-language:ZH-CN'>S-&gt;<span class=SpellE>a,S</span>-&gt;</span><span
-  style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-  minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-  ZH-CN'>¿Õ</span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:4'>
-  <td width=136 valign=top style='width:102.1pt;border:solid black 1.0pt;
-  mso-border-themecolor:text1;border-top:none;mso-border-top-alt:solid black .5pt;
-  mso-border-top-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
-  text1;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoListParagraphCxSpFirst style='margin:0cm;margin-bottom:.0001pt;
-  mso-add-space:auto;line-height:normal;tab-stops:193.5pt'><span
-  style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-  minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-  ZH-CN'>ÖÁÉÙÖØ¸´Ò»´Î</span><span lang=EN-US style='mso-fareast-language:ZH-CN'>(</span><span
-  style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-  minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-  ZH-CN'>Õý±Õ°ü</span><span lang=EN-US style='mso-fareast-language:ZH-CN'>)<o:p></o:p></span></p>
-  </td>
-  <td width=132 valign=top style='width:98.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
-  border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
-  solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
-  mso-border-left-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
-  text1;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoListParagraphCxSpMiddle style='margin:0cm;margin-bottom:.0001pt;
-  mso-add-space:auto;line-height:normal;tab-stops:193.5pt'><span lang=EN-US
-  style='mso-fareast-language:ZH-CN'>a+<o:p></o:p></span></p>
-  </td>
-  <td width=136 valign=top style='width:102.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
-  border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
-  solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
-  mso-border-left-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
-  text1;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoListParagraphCxSpMiddle style='margin:0cm;margin-bottom:.0001pt;
-  mso-add-space:auto;line-height:normal;tab-stops:193.5pt'><span lang=EN-US
-  style='mso-fareast-language:ZH-CN'>S-&gt;<span class=SpellE>Sa,S</span>-&gt;a<o:p></o:p></span></p>
-  </td>
-  <td width=136 valign=top style='width:102.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
-  border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
-  solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
-  mso-border-left-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
-  text1;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoListParagraphCxSpLast style='margin:0cm;margin-bottom:.0001pt;
-  mso-add-space:auto;line-height:normal;tab-stops:193.5pt'><span lang=EN-US
-  style='mso-fareast-language:ZH-CN'>S-&gt;<span class=SpellE>aR,R</span>-&gt;<span
-  class=SpellE>aR,R</span>-&gt;</span><span style='font-family:ËÎÌå;mso-ascii-font-family:
-  Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;
-  mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-  mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¿Õ</span><span
-  lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:5;mso-yfti-lastrow:yes'>
-  <td width=136 valign=top style='width:102.1pt;border:solid black 1.0pt;
-  mso-border-themecolor:text1;border-top:none;mso-border-top-alt:solid black .5pt;
-  mso-border-top-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
-  text1;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoListParagraphCxSpFirst style='margin:0cm;margin-bottom:.0001pt;
-  mso-add-space:auto;line-height:normal;tab-stops:193.5pt'><span
-  style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-  minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-  ZH-CN'>ÖØ¸´</span><span lang=EN-US style='mso-fareast-language:ZH-CN'>0</span><span
-  style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-  minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-  ZH-CN'>´Î»òÕß¶à´Î</span><span lang=EN-US style='mso-fareast-language:ZH-CN'>(</span><span
-  style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-  minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-  ZH-CN'>¿ËÁÖ±Õ°ü</span><span lang=EN-US style='mso-fareast-language:ZH-CN'>)<o:p></o:p></span></p>
-  </td>
-  <td width=132 valign=top style='width:98.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
-  border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
-  solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
-  mso-border-left-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
-  text1;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoListParagraphCxSpMiddle style='margin:0cm;margin-bottom:.0001pt;
-  mso-add-space:auto;line-height:normal;tab-stops:193.5pt'><span lang=EN-US
-  style='mso-fareast-language:ZH-CN'>a* <o:p></o:p></span></p>
-  <p class=MsoListParagraphCxSpMiddle style='margin:0cm;margin-bottom:.0001pt;
-  mso-add-space:auto;line-height:normal;tab-stops:193.5pt'><span
-  style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-  minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-  ZH-CN'>×¢</span><span lang=EN-US style='mso-fareast-language:ZH-CN'>: a*=a+|</span><span
-  style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-  minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-  ZH-CN'>¿Õ</span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-  </td>
-  <td width=136 valign=top style='width:102.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
-  border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
-  solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
-  mso-border-left-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
-  text1;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoListParagraphCxSpMiddle style='margin:0cm;margin-bottom:.0001pt;
-  mso-add-space:auto;line-height:normal;tab-stops:193.5pt'><span lang=EN-US
-  style='mso-fareast-language:ZH-CN'>S-&gt;<span class=SpellE>Sa,S</span>-&gt;<span
-  class=SpellE>a,S</span>-&gt;</span><span style='font-family:ËÎÌå;mso-ascii-font-family:
-  Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;
-  mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-  mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¿Õ</span><span
-  lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-  </td>
-  <td width=136 valign=top style='width:102.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
-  border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
-  solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
-  mso-border-left-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
-  text1;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoListParagraphCxSpMiddle style='margin:0cm;margin-bottom:.0001pt;
-  mso-add-space:auto;line-height:normal;tab-stops:193.5pt'><span lang=EN-US
-  style='mso-fareast-language:ZH-CN'>S-&gt;<span class=SpellE>aR,R</span>-&gt;<span
-  class=SpellE>aR,R</span>-&gt;</span><span style='font-family:ËÎÌå;mso-ascii-font-family:
-  Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;
-  mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-  mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¿Õ</span><span
-  lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-  <p class=MsoListParagraphCxSpLast style='margin:0cm;margin-bottom:.0001pt;
-  mso-add-space:auto;line-height:normal;tab-stops:193.5pt'><span lang=EN-US
-  style='mso-fareast-language:ZH-CN'>S-&gt;</span><span style='font-family:
-  ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-  ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-  mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¿Õ</span><span
-  lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-  </td>
- </tr>
-</table>
-
-<p class=MsoListParagraphCxSpFirst style='margin-left:21.0pt;mso-add-space:
-auto;tab-stops:193.5pt'><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;text-indent:-21.0pt;mso-list:l9 level1 lfo20'><![if !supportLists]><b
-style='mso-bidi-font-weight:normal'><span lang=EN-US style='mso-fareast-font-family:
-Calibri;mso-fareast-theme-font:minor-latin;mso-bidi-font-family:Calibri;
-mso-bidi-theme-font:minor-latin;mso-fareast-language:ZH-CN'><span
-style='mso-list:Ignore'>3.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span></b><![endif]><b style='mso-bidi-font-weight:normal'><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>°ÑÓï·¨¹æÔò²úÉúÊ½¼¯ºÏ×ª»¯³É</span></b><span
-class=SpellE><b style='mso-bidi-font-weight:normal'><span lang=EN-US
-style='mso-fareast-language:ZH-CN'>antlr</span></b></span><b style='mso-bidi-font-weight:
-normal'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-ZH-CN'>µÄÓï·¨ÃèÊö</span></b><b style='mso-bidi-font-weight:normal'><span lang=EN-US
-style='mso-fareast-language:ZH-CN'><o:p></o:p></span></b></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;tab-stops:193.5pt'><span lang=EN-US style='mso-fareast-language:ZH-CN'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>½ÓÏÂÀ´µÄ¹¤×÷ÊÇ°ÑÖ®Ç°ËùµÃµ½µÄÓï·¨¹æÔò×é£¬×ª»»³É</span><span
-class=SpellE><span lang=EN-US style='mso-fareast-language:ZH-CN'>antlr</span></span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>µÄÓï·¨±íÊ¾¡£¹ØÓÚ</span><span
-class=SpellE><span lang=EN-US style='mso-fareast-language:ZH-CN'>antlr</span></span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'> v3</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Óï·¨¹æÔòµÄ¹æ·¶Çë²ÎÕÕ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>(http://www.antlr.org/wiki/display/ANTLR3/ANTLR+v3+printable+documentation),</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;color:red;mso-fareast-language:ZH-CN'>ºÜ±§Ç¸£¬ÈÎºÎ³õÑ§Õß¶¼ÐèÒª¾«ÐÄÈ¥¶ÁÒ»±é¸ÃÎÄµµ£¬Ã»ÓÐÈÎºÎµÄÇÏÃÅ¿ÉÒÔ×ßµÄ</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¡£ÎÒÒ²×ÅÊÖ·­ÒëºÍÅú×¢ÁËÒ»µã£¬µ«ÓÉÓÚÈ¥ÄêÒ»Ð©Í»·¢ÊÂÇéµ¢¸éÁËºÜ¾Ã£¬</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>v3</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>»¹Ã»·­ÒëÍê£¬</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>v4</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¾Í³öÀ´ÁË£¬ÎÒÒ²ÔÚ¿¼ÂÇÊÇ·ñ¼ÌÐø·­Òë</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>v3</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>»¹ÊÇÐÂ·­Òë</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>v4.</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÎÞÂÛ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;tab-stops:193.5pt'><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;tab-stops:193.5pt'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>¸ù¾ÝÉÏÒ»¸ö²½ÖèµÄ×Ü½á±í£¬¶Ô</span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;tab-stops:193.5pt'><span lang=EN-US style='mso-fareast-language:ZH-CN'>{ A-&gt;<span
-class=SpellE>a,A</span>-&gt;<span class=SpellE>i,M</span>-&gt;AR,R-&gt;*AR,R-&gt;</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¿Õ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>, M-&gt;(E), E-&gt;MN, N-&gt;+MN,
-N-&gt;-MN,N-&gt;</span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>¿Õ</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>, P-&gt;E,P-&gt;<span class=SpellE>i</span>=E,S-&gt;PQ,Q-&gt;PQ,Q-&gt;</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¿Õ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>}<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;tab-stops:193.5pt'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>½øÐÐ·­Òë£¬Ò»ÏÂ·­Òë²ÉÓÃ±í´ïÊ½Àý×ÓÖÐµÄÃüÃû¡£</span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;tab-stops:193.5pt'><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;tab-stops:193.5pt'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ÏÈ·­Òë´Ê·¨°É</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>,</span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>±Ï¾¹ÕâÊÇ»ù´¡¡£<span style='color:red'>ÓÐÒ»µãÐèÒª¼Ç×¡µÄÊÇ£¬´Ê·¨Ê××ÖÄ¸±ØÐë´óÐ´£¬Ò»°ãÇé¿öÏÂ£¬¶¼ÓÃÈ«²¿´óÐ´À´±êÊ¶´Ê·¨µ¥Ôª¡£</span></span><span
-lang=EN-US style='color:red;mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;tab-stops:193.5pt'><span lang=EN-US style='mso-fareast-language:ZH-CN'>ID<span
-style='mso-spacerun:yes'>&nbsp; </span>:<span
-style='mso-spacerun:yes'>&nbsp;&nbsp; </span>('<span class=SpellE>a'..'z'|'A</span>'..'Z')+
-;//</span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-ZH-CN'>±êÊ¶·ûÊÇÈÎÒâµÄ´óÐ¡Ð´»ìºÏ</span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;tab-stops:193.5pt'><span lang=EN-US style='mso-fareast-language:ZH-CN'>INT
-:<span style='mso-spacerun:yes'>&nbsp;&nbsp; </span>'0'..'9'+ ;<span
-style='mso-spacerun:yes'>&nbsp; </span>//</span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÕûÊýÏîÊÇÈÎÒâµÄÊý×Ö</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;tab-stops:193.5pt'><span lang=EN-US style='mso-fareast-language:ZH-CN'>NEWLINE:'\r'?
-'\n' ;<span style='mso-spacerun:yes'>&nbsp; </span>//</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>»»ÐÐ·ûºÅ£¬</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'> \r</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¿ÉÑ¡ÊÇÎªÁËÓ¦¶Ô</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>window</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ºÍ</span><span
-class=SpellE><span lang=EN-US style='mso-fareast-language:ZH-CN'>unix</span></span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>µÄÇø±ð¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;tab-stops:193.5pt'><span lang=EN-US style='mso-fareast-language:ZH-CN'>WS<span
-style='mso-spacerun:yes'>&nbsp; </span>:<span
-style='mso-spacerun:yes'>&nbsp;&nbsp; </span>(' '|'\t')+ {skip();} ; //</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¿Õ°×·ûºÅ£¬Ä¬ÈÏ¶¯×÷ºöÂÔ¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;tab-stops:193.5pt'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>»¹ÓÐ¼¸¸ö·ûºÅ</span><span style='mso-fareast-language:
-ZH-CN'> </span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>¼Ó¼õ³ËºÍÀ¨ºÅ£¬Õâ¼¸¸öÄ¬ÈÏÒÔ×Ö·û´®µÄÐÎÊ½³öÏÖÔÚÓï·¨½âÎöÖÐ£¬ÆäÊµÒ²¿ÉÒÔ¶¨ÒåÔÚÕâÀïµÄ¡£ÎÒÃÇ¾Í×ñÕÕ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>demo</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÐÐÊÂ°É¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;tab-stops:193.5pt'><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;tab-stops:193.5pt'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ÏÖÔÚ¿ªÊ¼·­ÒëÓï·¨£¬Óï·¨ÖÐÓÐÒ»µãÐèÒª×¢ÒâµÄÊÇÓï·¨ÊÇÒÔÐ¡Ð´¿ªÊ¼µÄ¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;tab-stops:193.5pt'><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;tab-stops:193.5pt'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ÓëÕûÊýÏî£¬±êÊ¶·ûÏà¹ØµÄ</span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'>:<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;tab-stops:193.5pt'><span lang=EN-US style='mso-fareast-language:ZH-CN'>{A-&gt;<span
-class=SpellE>a,A</span>-&gt;<span class=SpellE>i</span>} <o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;tab-stops:193.5pt'><span lang=EN-US style='mso-fareast-language:ZH-CN'>atom<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;tab-stops:193.5pt'><span lang=EN-US style='mso-fareast-language:ZH-CN'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>:<span
-style='mso-spacerun:yes'>&nbsp;&nbsp; </span>INT <o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;tab-stops:193.5pt'><span lang=EN-US style='mso-fareast-language:ZH-CN'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>|<span
-style='mso-spacerun:yes'>&nbsp;&nbsp; </span>ID<span
-style='mso-spacerun:yes'>&nbsp;&nbsp; </span><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;tab-stops:193.5pt'><span lang=EN-US style='mso-fareast-language:ZH-CN'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>;<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;tab-stops:193.5pt'><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;tab-stops:193.5pt'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>³Ë·¨Ïà¹ØµÄ£º</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;tab-stops:193.5pt'><span lang=EN-US style='mso-fareast-language:ZH-CN'>M-&gt;AR,R-&gt;*AR,R-&gt;</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¿Õ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>, M-&gt;(E) <o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;tab-stops:193.5pt'><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;tab-stops:193.5pt'><span class=SpellE><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>multExpr</span></span><span lang=EN-US style='mso-fareast-language:ZH-CN'>
-<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;tab-stops:193.5pt'><span lang=EN-US style='mso-fareast-language:ZH-CN'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>:<span
-style='mso-spacerun:yes'>&nbsp;&nbsp; </span>atom<span
-style='mso-spacerun:yes'>&nbsp; </span>('*' atom )*<span
-style='mso-spacerun:yes'>&nbsp; </span>//</span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;color:red;mso-fareast-language:ZH-CN'>×¢</span><span
-lang=EN-US style='color:red;mso-fareast-language:ZH-CN'>:</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;color:red;mso-fareast-language:ZH-CN'>´¦µÚÒ»¸ö</span><span
-lang=EN-US style='color:red;mso-fareast-language:ZH-CN'>'*'</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;color:red;mso-fareast-language:ZH-CN'>ÊÇ</span><span
-lang=EN-US style='color:red;mso-fareast-language:ZH-CN'>token</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;color:red;mso-fareast-language:ZH-CN'>µÚ¶þ¸ö</span><span
-lang=EN-US style='color:red;mso-fareast-language:ZH-CN'>*</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;color:red;mso-fareast-language:ZH-CN'>ÊÇ¿ËÁÖ±Õ°ü</span><span
-lang=EN-US style='color:red;mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;tab-stops:193.5pt'><span lang=EN-US style='mso-fareast-language:ZH-CN'>|<span
-style='color:red'>'(' <span class=SpellE>expr</span> ')'</span><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;tab-stops:193.5pt'><span lang=EN-US style='mso-fareast-language:ZH-CN'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>;<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto;tab-stops:193.5pt'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>´Ë´¦£¬ºÍ</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>demo</span><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>²»Ì«Ò»Ñù¡£¹ØÓÚ×Ó±í´ïÊ½</span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'>(E)</span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>µÄ°²ÖÃ¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>demo</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÖÐ°ÑÕûÊýÏîÒÔ¼°±êÊ¶·ûµ±³É¿´×÷ÊÇ²ÎÓëÔËËãµÄÔ­×ÓÏî</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>atom</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>£¬²¢°Ñ×Ó±í´ïÊ½Ò²¿´×÷ÊÇÔ­×ÓÏî£¬ÎÒÃÇµÄÍÆµ¼¹ý³ÌÖÐ£¬Ò²°Ñ²ÎÓë³Ë·¨µÄÒò×ÓÖÐµÄÒ»¸öÀ©Õ¹Îª×Ö±í´ïÊ½£¬<span
-style='color:red'>ÕâÁ½ÕßÔÚ±ä»»ÐÎÊ½ÉÏÊÇµÈ¼ÛµÄ£¬Ö»ÊÇº¬Òå½âÊÍ²»Ò»Ñù</span>¡£</span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-ZH-CN'>¼Ó¼õ·¨Ïà¹ØµÄ</span><span lang=EN-US style='mso-fareast-language:ZH-CN'>:<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span lang=EN-US style='mso-fareast-language:ZH-CN'>E-&gt;MN, N-&gt;+MN, N-&gt;-MN,N-&gt;</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¿Õ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>, <span
-style='mso-spacerun:yes'>&nbsp;</span><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-ZH-CN'>Õâ¸ö·­Òë¹ý³ÌÓÐµãÈÆ£¬²»ÊÇÖ±¹Û£¬Äã¿ÉÒÔ°Ñ</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'> N-&gt;+MN, N-&gt;-MN </span><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ºÏ²¢³É</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'> N-&gt;((+M)|(-M))N <span style='mso-spacerun:yes'>&nbsp;</span></span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>£¬Áî</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'> T-&gt;((+M)|(-M)) ,</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¼´ÓÐ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><span
-style='mso-spacerun:yes'>&nbsp; </span>{E-&gt;MN,N-&gt;TN,N-&gt;</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¿Õ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>} </span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¼´¿ÉÀûÓÃ×Ü½á±íÖÐ¸ñÊ½×ª»¯³É</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>demo</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÁË¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span class=SpellE><span lang=EN-US style='mso-fareast-language:ZH-CN'>expr</span></span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'> <o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span lang=EN-US style='mso-fareast-language:ZH-CN'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>:<span
-style='mso-spacerun:yes'>&nbsp;&nbsp; </span><span class=SpellE>multExpr</span>
-<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span lang=EN-US style='mso-fareast-language:ZH-CN'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span>(<span style='mso-spacerun:yes'>&nbsp;&nbsp; </span>'+' <span
-class=SpellE>multExpr</span> <o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span lang=EN-US style='mso-fareast-language:ZH-CN'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span>|<span style='mso-spacerun:yes'>&nbsp;&nbsp; </span>'-' <span
-class=SpellE>multExpr</span> <o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span lang=EN-US style='mso-fareast-language:ZH-CN'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>)*<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span lang=EN-US style='mso-fareast-language:ZH-CN'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>;<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-ZH-CN'>Êµ¼ÊÉÏÒ²ÓÐÁíÍâÒ»ÖÖÓï·¨ÐÎÊ½£¬</span><span lang=EN-US style='mso-fareast-language:ZH-CN'><span
-style='mso-spacerun:yes'>&nbsp; </span></span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>°Ñ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'> N-&gt;+MN, N-&gt;-MN </span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ºÏ²¢³É</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'> N-&gt;(+|-)MN<span
-style='mso-spacerun:yes'>&nbsp; </span></span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>£¬Áî</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'> T-&gt;(+|-)M ,</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¼´ÓÐ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><span
-style='mso-spacerun:yes'>&nbsp; </span>{E-&gt;MN,N-&gt;TN,N-&gt;</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¿Õ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>}<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span class=SpellE><span lang=EN-US style='mso-fareast-language:ZH-CN'>expr</span></span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'> <o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span lang=EN-US style='mso-fareast-language:ZH-CN'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>:<span
-style='mso-spacerun:yes'>&nbsp;&nbsp; </span><span class=SpellE>multExpr</span>
-<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span lang=EN-US style='mso-fareast-language:ZH-CN'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>(( '+'
-| '-' ) <span class=SpellE>multExpr</span> )*<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span lang=EN-US style='mso-fareast-language:ZH-CN'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>;<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-ZH-CN'>ÕâÁ½ÖÖÐÎÊ½¶¼¿ÉÒÔµÄ£¬</span><span lang=EN-US style='mso-fareast-language:ZH-CN'>demo</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>µÄ×÷ÕßÆ«ÏòÓÚÇ°Õß£¬Ò²ÐíÄÇÑù±È½ÏºÃÀí½âÐ©°É¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-ZH-CN'>¹ØÓÚÃüÃûºÍÄäÃû±í´ïÊ½µÄ</span><span lang=EN-US style='mso-fareast-language:ZH-CN'>:<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span lang=EN-US style='mso-fareast-language:ZH-CN'>P-&gt;E,P-&gt;<span
-class=SpellE>i</span>=E<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-ZH-CN'>Õâ¸öÃ»É¶ÐüÄîµÄ£¬Ö±½Ó·­ÒëºÃÁË£¬</span><span lang=EN-US style='mso-fareast-language:ZH-CN'>demo</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¶àÁËÒ»Ð©</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>newline </span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>£¬ÎÞÉË´óÑÅ¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span lang=EN-US style='mso-fareast-language:ZH-CN'>stat:<span
-style='mso-spacerun:yes'>&nbsp;&nbsp; </span><span class=SpellE>expr</span>
-NEWLINE <o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span lang=EN-US style='mso-fareast-language:ZH-CN'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>|<span
-style='mso-spacerun:yes'>&nbsp;&nbsp; </span>ID '=' <span class=SpellE>expr</span>
-NEWLINE<span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span lang=EN-US style='mso-fareast-language:ZH-CN'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>|<span
-style='mso-spacerun:yes'>&nbsp;&nbsp; </span>NEWLINE<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span lang=EN-US style='mso-fareast-language:ZH-CN'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>;<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:
-ZH-CN'>¹ØÓÚÅúÁ¿±í´ïÊ½µÄ£º</span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span lang=EN-US style='mso-fareast-language:ZH-CN'>S-&gt;PQ,Q-&gt;PQ,Q-&gt;</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¿Õ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span class=SpellE><span lang=EN-US style='mso-fareast-language:ZH-CN'>prog</span></span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>:<span
-style='mso-spacerun:yes'>&nbsp;&nbsp; </span>stat+ ;<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:21.0pt;mso-add-space:
-auto'><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoListParagraphCxSpLast style='margin-left:21.0pt;mso-add-space:auto'><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÖÁ´Ë×îÖØÒªµÄÓï·¨Éè¼ÆÍê³ÉÁË£¬¶ÔÕÕÐèÇó£¬Ò»²½Ò»²½µØ½øÐÐÍÆµ¼³ö²úÉúÊ½¹æÔò£¬×îºó·­Òë³É</span><span
-class=SpellE><span lang=EN-US style='mso-fareast-language:ZH-CN'>antlr</span></span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ËùÖ§³ÖµÄ</span><span
-class=SpellE><span lang=EN-US style='mso-fareast-language:ZH-CN'>ebnf</span></span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>·¶Ê½¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<h3><a name="_Toc361871713"><![if !supportLists]><span lang=EN-US
-style='mso-bidi-font-family:ËÎÌå;mso-bidi-theme-font:major-fareast;mso-fareast-language:
-ZH-CN'><span style='mso-list:Ignore'>µÚ3Ð¡½Ú<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Cambria;mso-ascii-theme-font:major-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-major-fareast;mso-hansi-font-family:Cambria;mso-hansi-theme-font:major-latin;
-mso-fareast-language:ZH-CN'>ÊµÏÖÓïÒå</span></a><span style='mso-bookmark:_Toc361871713'></span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></h3>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp; </span></span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÔÚºÜ¶àµÄ³¡¾°ÀïÃæ£¬¾ßÌåÓï·¨Ò»°ãÒª×ª³É³éÏóÓï·¨Ê÷£¬È»ºóÔÙÔÚ³éÏóÓï·¨Ê÷ÉÏÊµÏÖÓïÒå¶¯×÷£¬ÕâÑù×öµÄºÃ´¦¿ÉÒÔ±ÜÃâÈßÓàµÄ´¦Àí£¬²»Í¬µÄÓï·¨ÔªËØµ«¾ßÓÐÏàÍ¬µÄÓïÒåº¬ÒåµÄ£¬¿ÉÒÔ×ª»¯³ÉÍ³Ò»¸ñÊ½ºÏ²¢´¦Àí¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp; </span></span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>µ«Ò»°ã¼òµ¥µÄÓï·¨¿ÉÒÔÖ±½ÓÇ¶ÈëÓïÒå¶¯×÷´¦Àí¾Í</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>ok</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÁË£¬±ÈÈçÕâ¸ö</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>demo</span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>¡£</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ÓïÒå¶¯×÷Ò»°ãÊÇÒÔ°üº¬ÔÚ</span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'>{}</span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>µÄÄ¿±êÓïÑÔµÄ´úÂë¡£¾ßÌåµÄ¹æ·¶²ÎÕÕ</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>: (http://www.antlr.org/wiki/display/ANTLR3/Grammars)<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>±¾½Ú¾ÍÕë¶ÔÖØµãµØµØ·½½øÐÐ´úÂë×¢ÊÍ¡£</span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-class=SpellE><span lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:
-ËÎÌå;mso-bidi-font-family:ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:
-AR-SA'>prog</span></span><span lang=EN-US style='mso-bidi-font-size:12.0pt;
-font-family:ËÎÌå;mso-bidi-font-family:ËÎÌå;color:black;mso-fareast-language:ZH-CN;
-mso-bidi-language:AR-SA'>:<span style='mso-spacerun:yes'>&nbsp;&nbsp;
-</span>stat+ ;<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span><o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'>stat:<span
-style='mso-spacerun:yes'>&nbsp;&nbsp; </span><span class=SpellE>expr</span>
-NEWLINE {<span class=SpellE>System.out.println</span>($<span class=SpellE>expr.value</span>);}
-//</span><span style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'>´òÓ¡ÄäÃû±í´ïÊ½Öµ£¬<span
-lang=EN-US>$<span class=SpellE>expr</span></span>ÊÇÒýÓÃÕâ¸ö<span class=SpellE><span
-lang=EN-US>expr</span></span>Õâ¸öÓï·¨ÔªËØ£¬</span><span style='mso-bidi-font-size:
-12.0pt;font-family:ËÎÌå;mso-bidi-font-family:ËÎÌå;color:red;mso-fareast-language:
-ZH-CN;mso-bidi-language:AR-SA'>ÐèÒª×¢ÒâµÄÊÇ<span lang=EN-US> value</span>²¢²»ÊÇ<span
-class=SpellE><span lang=EN-US>expr</span></span>µÄÄÚ½¨µÄÊôÐÔ£¬¶øÊÇ×Ô¶¨ÒåµÄ<span lang=EN-US>return</span>µÄÖµ</span><span
-style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:ËÎÌå;
-color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'>£¬²Î¼û<span
-class=SpellE><span lang=EN-US>expr</span></span>µÄÓï·¨±í´ïÊ½¡£<span lang=EN-US><o:p></o:p></span></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>|<span
-style='mso-spacerun:yes'>&nbsp;&nbsp; </span>ID '=' <span class=SpellE>expr</span>
-NEWLINE<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>{<span
-class=SpellE>memory.put</span>($<span class=SpellE>ID.text</span>, new
-Integer($<span class=SpellE>expr.value</span>));} //</span><span
-style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:ËÎÌå;
-color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'>ÃüÃû±í´ïÊ½µÄÖµ´æÈëÒ»¸ö<span
-class=SpellE><span lang=EN-US>hashmap</span></span>¶ÔÏó¡£<span lang=EN-US><o:p></o:p></span></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>|<span
-style='mso-spacerun:yes'>&nbsp;&nbsp; </span>NEWLINE<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>;<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-class=SpellE><span lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:
-ËÎÌå;mso-bidi-font-family:ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:
-AR-SA'>expr</span></span><span lang=EN-US style='mso-bidi-font-size:12.0pt;
-font-family:ËÎÌå;mso-bidi-font-family:ËÎÌå;color:black;mso-fareast-language:ZH-CN;
-mso-bidi-language:AR-SA'> returns [<span class=SpellE>int</span> value] //</span><span
-style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:ËÎÌå;
-color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'>ÔÚ´Ë¶¨ÒåÁËÕâ¸ö<span
-class=SpellE><span lang=EN-US>expr</span></span>¶Ôµ÷ÓÃÕßÌá¹©Ò»¸ö<span lang=EN-US>value</span>µÄ·µ»ØÖµ¡£<span
-lang=EN-US><o:p></o:p></span></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>:<span
-style='mso-spacerun:yes'>&nbsp;&nbsp; </span>e=<span class=SpellE>multExpr</span>
-{$value = $<span class=SpellE>e.value</span>;} //</span><span style='mso-bidi-font-size:
-12.0pt;font-family:ËÎÌå;mso-bidi-font-family:ËÎÌå;color:black;mso-fareast-language:
-ZH-CN;mso-bidi-language:AR-SA'>ÒÔ<span lang=EN-US>e</span>µÄ·½Ê½ÒýÓÃµÚÒ»¸ö<span
-class=SpellE><span lang=EN-US>multExpr</span></span><span lang=EN-US>,</span>ÓïÒå¶¯×÷ÔÚ´Ë°Ñ×ó±ßµÄ±í´ïÊ½µÄÖµ¸³¸ø·µ»ØÖµ±äÁ¿¡£×¢Òâ<span
-lang=EN-US>:$<span class=SpellE>e.value</span></span>Ò²²»ÊÇÄÚ½¨µÄ£¬ÊÇ<span
-class=SpellE><span lang=EN-US>multExpr</span></span>¶¨ÒåµÄ·µ»ØÖµ¡£<span lang=EN-US><o:p></o:p></span></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span>(<span style='mso-spacerun:yes'>&nbsp;&nbsp; </span>'+' e=<span
-class=SpellE>multExpr</span> {$value += $<span class=SpellE>e.value</span>;}//</span><span
-style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:ËÎÌå;
-color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'>ÒÔ<span
-lang=EN-US>e</span>µÄ·½Ê½µÚ¶þ¸ö<span class=SpellE><span lang=EN-US>multExpr</span></span>£¬ÓÉÓÚ×÷ÓÃÓò²»Í¬£¬¹ÊÎÞ³åÍ»£¬Õâ¸öÓïÒå¶¯×÷Ö»ÓÐÓöµ½<span
-lang=EN-US>+</span>²Å»áÖ´ÐÐ¡£ÓïÒå¶¯×÷Ê½·µ»ØÖµÀÛ¼Ó<span lang=EN-US>e</span>Õâ¸öÏî¡£<span
-lang=EN-US><o:p></o:p></span></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span>|<span style='mso-spacerun:yes'>&nbsp;&nbsp; </span>'-' e=<span
-class=SpellE>multExpr</span> {$value -= $<span class=SpellE>e.value</span>;}//</span><span
-style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:ËÎÌå;
-color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'>Í¬Àí£¬²»¹ýÊÇÀÛ¼õ¡£<span
-lang=EN-US><o:p></o:p></span></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>)*<span
-style='mso-spacerun:yes'>&nbsp; </span>//</span><span style='mso-bidi-font-size:
-12.0pt;font-family:ËÎÌå;mso-bidi-font-family:ËÎÌå;color:black;mso-fareast-language:
-ZH-CN;mso-bidi-language:AR-SA'>ÐèÒªÌØ±ð×¢ÒâµÄÊÇ£¬Õâ¸ö¿ËÁÖ±Õ°ü£¬»áÈÃÉÏÃæµÄÁ½¸öÓïÒå¶¯×÷£¬²»¶ÏµÄÖØ¸´¡£<span
-lang=EN-US><o:p></o:p></span></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>;<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-class=SpellE><span lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:
-ËÎÌå;mso-bidi-font-family:ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:
-AR-SA'>multExpr</span></span><span lang=EN-US style='mso-bidi-font-size:12.0pt;
-font-family:ËÎÌå;mso-bidi-font-family:ËÎÌå;color:black;mso-fareast-language:ZH-CN;
-mso-bidi-language:AR-SA'> returns [<span class=SpellE>int</span> value]<span
-style='mso-spacerun:yes'>&nbsp; </span>//</span><span style='mso-bidi-font-size:
-12.0pt;font-family:ËÎÌå;mso-bidi-font-family:ËÎÌå;color:black;mso-fareast-language:
-ZH-CN;mso-bidi-language:AR-SA'>Õâ¸ö±í´ïÊ½ºÍ<span class=SpellE><span lang=EN-US>expr</span></span><span
-lang=EN-US> </span>ÎÞÉ¶±¾ÖÊ²î±ð<span lang=EN-US><o:p></o:p></span></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>:<span
-style='mso-spacerun:yes'>&nbsp;&nbsp; </span>e=atom {$value = $<span
-class=SpellE>e.value</span>;} ('*' e=atom {$value *= $<span class=SpellE>e.value</span>;})*<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>; <o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'>atom returns
-[<span class=SpellE>int</span> value]<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>:<span
-style='mso-spacerun:yes'>&nbsp;&nbsp; </span>INT {$value = <span class=SpellE>Integer.parseInt</span>($<span
-class=SpellE>INT.text</span>);}//</span><span style='mso-bidi-font-size:12.0pt;
-font-family:ËÎÌå;mso-bidi-font-family:ËÎÌå;color:black;mso-fareast-language:ZH-CN;
-mso-bidi-language:AR-SA'>½«´Ê·¨µÄ×Ö·û´®Öµ×ª»»³ÉÕûÐÍ£¬È»ºó¸³Öµ¸ø·µ»ØÖµ£¬<span lang=EN-US>text</span>ÊÇÄÚ½¨±äÁ¿¡£<span
-lang=EN-US><o:p></o:p></span></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>|<span
-style='mso-spacerun:yes'>&nbsp;&nbsp; </span>ID<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>{<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span>Integer v = (Integer)<span class=SpellE>memory.get</span>($<span
-class=SpellE>ID.text</span>);<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>if (
-v!=null ) $value = <span class=SpellE>v.intValue</span>();<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>else
-<span class=SpellE>System.err.println</span>(&quot;undefined variable &quot;+$<span
-class=SpellE>ID.text</span>);<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>}//</span><span
-style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:ËÎÌå;
-color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'>Èç¹ûÊÇ±êÊ¶·û£¬Ôò´Ó<span
-class=SpellE><span lang=EN-US>hashmap</span></span>ÖÐ°´ÃûÈ¡³öÀ´¡£<span lang=EN-US><o:p></o:p></span></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>|<span
-style='mso-spacerun:yes'>&nbsp;&nbsp; </span>'(' e=<span class=SpellE>expr</span>
-')' {$value = $<span class=SpellE>e.value</span>;}<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-lang=EN-US style='mso-bidi-font-size:12.0pt;font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>;<o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<h2><a name="_Toc361871714"><![if !supportLists]><span lang=EN-US
-style='mso-bidi-font-family:ËÎÌå;mso-bidi-theme-font:major-fareast;mso-fareast-language:
-ZH-CN'><span style='mso-list:Ignore'>µÚËÄ½Ú<span style='font:7.0pt "Times New Roman"'>
-</span></span></span><![endif]><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Cambria;mso-ascii-theme-font:major-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-major-fareast;mso-hansi-font-family:Cambria;mso-hansi-theme-font:major-latin;
-mso-fareast-language:ZH-CN'>×´Ì¬»ú´úÂëÉú³É¿ò¼ÜÊµÀý·ÖÎö</span></a><span style='mso-bookmark:
-_Toc361871714'></span><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></h2>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>´ýÐ´</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>.....<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ÓÐÐËÈ¤µÄ¿ÉÒÔ·ÃÎÊ£º</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN'>http://www.github.com/alan2lin/makefsm<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>ÈôÓÐÐËÈ¤²ÎÓë¿ª·¢»òÕßÌÖÂÛµÄÇë¼Ó</span><span class=SpellE><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>qq</span></span><span
-style='font-family:ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>Èº</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>: 281827854<o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
-
-<h1><a name="_Toc361871715"><![if !supportLists]><span lang=EN-US
-style='mso-bidi-font-family:ËÎÌå;mso-bidi-theme-font:major-fareast;mso-fareast-language:
-ZH-CN'><span style='mso-list:Ignore'>µÚÎåÕÂ <span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Cambria;mso-ascii-theme-font:major-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-major-fareast;mso-hansi-font-family:Cambria;mso-hansi-theme-font:major-latin;
-mso-fareast-language:ZH-CN'>ÒýÓÃ</span></a><span style='mso-bookmark:_Toc361871715'></span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></h1>
-
-<p class=MsoListParagraphCxSpFirst style='margin-left:18.0pt;mso-add-space:
-auto;text-indent:-18.0pt;mso-list:l10 level1 lfo5'><![if !supportLists]><span
-lang=EN-US style='mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;
-mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-fareast-language:
-ZH-CN'><span style='mso-list:Ignore'>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>Antlrv3ide </span><span style='font-family:ËÎÌå;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:ËÎÌå;mso-fareast-theme-font:
-minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-mso-fareast-language:ZH-CN'>µÄÏÂÔØµØÖ·ºÍÎÄµµ</span><span lang=EN-US style='mso-fareast-language:
-ZH-CN'>:<span style='mso-spacerun:yes'>&nbsp; </span></span><span lang=EN-US><a
-href="http://antlrv3ide.sourceforge.net/"><span style='mso-fareast-language:
-ZH-CN'>http://ant</span>lrv3ide.sourceforge.net/</a></span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-left:18.0pt;mso-add-space:
-auto;text-indent:-18.0pt;mso-list:l10 level1 lfo5'><![if !supportLists]><span
-lang=EN-US style='mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;
-mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-fareast-language:
-ZH-CN'><span style='mso-list:Ignore'>2.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span class=SpellE><span lang=EN-US
-style='mso-fareast-language:ZH-CN'>Antlr</span></span><span lang=EN-US
-style='mso-fareast-language:ZH-CN'> </span><span style='font-family:ËÎÌå;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>µÄÏÂÔØµØÖ·</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>:<span
-style='mso-spacerun:yes'>&nbsp; </span></span><span lang=EN-US><a
-href="http://www.antlr.org"><span style='mso-fareast-language:ZH-CN'>http://www.antlr.org</span></a></span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'> <o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpLast style='margin-left:18.0pt;mso-add-space:auto;
-text-indent:-18.0pt;mso-list:l10 level1 lfo5'><![if !supportLists]><span
-lang=EN-US style='mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;
-mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-fareast-language:
-ZH-CN'><span style='mso-list:Ignore'>3.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span class=SpellE><span lang=EN-US
-style='mso-fareast-language:ZH-CN'>Antlr</span></span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>ÊÓÆµ½Ì³ÌµÄµØÖ·</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>(</span><span style='font-family:
-ËÎÌå;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-ËÎÌå;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;mso-fareast-language:ZH-CN'>²»ÄÜ´ò¿ªÃ»ÓÐÑéÖ¤¹ý</span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'>): </span><span lang=EN-US><a
-href="http://javadude.com/articles/antlr3xtut/"><span style='mso-fareast-language:
-ZH-CN'>http://javadude.com/articles/antlr3xtut/</span></a></span><span
-lang=EN-US style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
-
-</div>
-
-</body>
-
-</html>
+æž—æ°ç‰©è¯­.æŠ€æœ¯ä¹±å¼¹ä¹‹hand in hand with antlr
+
+ç‰ˆæƒå£°æ˜Žï¼š
+
+Â  æœ¬æ–‡ç”±æž—æ°åŽŸåˆ›ï¼Œéµå¾ªGPLè®¸å¯ï¼Œä½ å¯ä»¥è‡ªç”±åœ°å¯¹æœ¬æ–‡è¿›è¡Œä»»ä½•ç›®çš„çš„ä¿®æ”¹ã€è½¬è½½ã€å¼•ç”¨å’Œå‘å¸ƒï¼Œä½†åŸºäºŽæ­¤æ–‡æ‰€ä½œçš„ä»»ä½•ä¿®æ”¹ã€è½¬è½½ã€å¼•ç”¨å’Œå‘å¸ƒå“ä¹Ÿéœ€è¦éµå¾ªGPLè®¸å¯ï¼Œå¹¶è¦æ±‚åœ¨å¼€å¤´ä¿ç•™æœ¬å£°æ˜Žã€‚
+
+è”ç³»ä½œè€…ï¼šå¦‚æžœæ‚¨æœ‰ä»€ä¹ˆæ ·çš„æ‰¹è¯„ä¸ŽæŒ‡æ•™ï¼Œæ¬¢è¿Žå‘emailåˆ° workspace.public@gmail.com;
+
+å¦‚éœ€èŽ·å–æœ€æ–°çš„æ›´æ–°ï¼Œè¯·åœ¨emailçš„subjectå¡«å†™get 010402001å‘é€è‡³Â  workspace.public@gmail.com;
+
+å¦‚éœ€èŽ·å–æž—æ°ç‰©è¯­ç³»åˆ—æ–‡ç« çš„åˆ—è¡¨ï¼Œè¯·åœ¨emailçš„subjectå¡«å†™get listå‘é€è‡³:workspace.public@gmail.com;
+
+å¦‚éœ€èŽ·å–æž—æ°ç‰©è¯­ç³»åˆ—æ–‡ç« ï¼Œè¯·åœ¨emailçš„subjectå¡«å†™get allå‘é€è‡³:workspace.public@gmail.com;
+
+Â  ç”±äºŽæ²¡æœ‰è‡ªå·±çš„é‚®ä»¶æœåŠ¡å™¨ï¼Œæ²¡æœ‰æ‰¾åˆ°å¸¦é™„ä»¶è‡ªåŠ¨å›žå¤çš„å…è´¹é‚®ä»¶æœåŠ¡å™¨ï¼Œé‡‡ç”¨å®¢æˆ·ç«¯å¸¦é™„ä»¶è‡ªåŠ¨å›žå¤ï¼Œæ‰€ä»¥æ˜¯éžå³æ—¶æ€§å›žå¤ï¼Œæœ€è¿Ÿå›žå¤æ—¶é—´å°½é‡ä¸è¶…è¿‡ä¸€å‘¨ï¼Œè¯·å‹¿å‘é€å¤šæ¬¡ã€‚
+
+l æœ¬æ–‡ç¼–å·:010402001
+
+l æ‰€å±žæ–‡é›†:æž—æ°ç‰©è¯­
+
+l æ‰€å±žç±»åˆ«:æŠ€æœ¯ä¹±å¼¹
+
+l æ‰€å±žç»†ç±»:ç¼–è¯‘åŽŸç†
+
+Â 
+
+[ç¬¬ä¸€ç« Â Â Â Â Â Â  å‰è¨€... 3](#_Toc361871682)
+
+[ç¬¬äºŒç« Â Â Â Â Â Â  å®‰è£…ç¯‡: 4](#_Toc361871683)
+
+[ç¬¬ä¸€èŠ‚Â Â Â Â Â  å®‰è£…å‰çš„æ£€æŸ¥: 4](#_Toc361871684)
+
+[ç¬¬1å°èŠ‚Â  æ˜¯å¦å·²ç»å®‰è£…äº†java 1.5 æˆ–è€…æ›´é«˜çš„ç‰ˆæœ¬ã€‚... 4](#_Toc361871685)
+
+[ç¬¬2å°èŠ‚Â  æ˜¯å¦å·²ç»ä¸‹è½½äº†eclipse 3.x. 4](#_Toc361871686)
+
+[ç¬¬3å°èŠ‚Â  å»ºç«‹æœ¬æ•™ç¨‹æ¼”ç¤ºç›®å½•ã€‚... 5](#_Toc361871687)
+
+[ç¬¬äºŒèŠ‚Â Â Â Â Â  å®‰è£…è¿‡ç¨‹... 6](#_Toc361871688)
+
+[ç¬¬1å°èŠ‚Â  ä¸‹è½½antworksï¼š... 6](#_Toc361871689)
+
+[ç¬¬2å°èŠ‚Â  ä¸‹è½½antlrçš„jaråŒ… å½“å‰çš„ç‰ˆæœ¬æ˜¯ v3.3. 7](#_Toc361871690)
+
+[ç¬¬3å°èŠ‚Â  å®‰è£…eclipseæ’ä»¶ã€‚... 8](#_Toc361871691)
+
+[ç¬¬4å°èŠ‚Â  ç¡®è®¤ä½ çš„å®‰è£…æ˜¯å¦æ­£ç¡®ã€‚... 11](#_Toc361871692)
+
+[ç¬¬ä¸‰ç« Â Â Â Â Â Â  å·¥å…·çŽ¯å¢ƒä»‹ç»ç¯‡ï¼š... 12](#_Toc361871693)
+
+[ç¬¬ä¸€èŠ‚Â Â Â Â Â  å…ˆä»Žantlrworkså¼€å§‹ä½“éªŒantlr. 13](#_Toc361871694)
+
+[ç¬¬1å°èŠ‚Â  åˆ›å»ºè¯­æ³•æ–‡ä»¶... 13](#_Toc361871695)
+
+[ç¬¬2å°èŠ‚Â  è¿è¡Œè°ƒè¯•è¯­æ³•æ–‡ä»¶... 15](#_Toc361871696)
+
+[ç¬¬äºŒèŠ‚Â Â Â Â Â  å†å¼€å§‹å“å°anltrv3ide. 18](#_Toc361871697)
+
+[ç¬¬1å°èŠ‚Â  æ–°å»ºä¸€ä¸ªantlré¡¹ç›®. 18](#_Toc361871698)
+
+[ç¬¬2å°èŠ‚Â  åˆ›å»ºè¯­æ³•æ–‡ä»¶... 19](#_Toc361871699)
+
+[ç¬¬3å°èŠ‚Â  è¿›è¡Œæˆ–è€…æ£€æŸ¥æ’ä»¶çš„è®¾ç½®.. 23](#_Toc361871700)
+
+[ç¬¬4å°èŠ‚Â  ç¼–å†™æµ‹è¯•çš„ç¨‹åº... 26](#_Toc361871701)
+
+[ç¬¬ä¸‰èŠ‚Â Â Â Â Â  Antlrworkså·¥å…·çš„å„éƒ¨åˆ†ä½¿ç”¨è¯´æ˜Ž... 30](#_Toc361871702)
+
+[ç¬¬å››èŠ‚Â Â Â Â Â  Antlrv3ideæ’ä»¶çš„å„éƒ¨åˆ†ä½¿ç”¨è¯´æ˜Ž... 31](#_Toc361871703)
+
+[ç¬¬å››ç« Â Â Â Â Â Â  ä½¿ç”¨ç¯‡... 33](#_Toc361871704)
+
+[ç¬¬ä¸€èŠ‚Â Â Â Â Â  æ— è´£ä»»ä¹±å¼¹... 33](#_Toc361871705)
+
+[ç¬¬äºŒèŠ‚Â Â Â Â Â  å…³äºŽè¯­æ³•è§£æžçš„ä¸€äº›åŸºæœ¬æ¦‚å¿µ... 35](#_Toc361871706)
+
+[ç¬¬1å°èŠ‚Â  ä»€ä¹ˆæ˜¯è¯æ³•åˆ†æžï¼Œä»€ä¹ˆæ˜¯è¯­æ³•åˆ†æžï¼Œè¿™ä¸¤è€…æœ‰ä»€ä¹ˆä¸åŒï¼Ÿ... 36](#_Toc361871707)
+
+[ç¬¬2å°èŠ‚Â  å·´å…‹æ–¯-è¯ºå°”èŒƒå¼,äº§ç”Ÿå¼,æœ€å·¦æŽ¨å¯¼,æœ€å³æŽ¨å¯¼,å·¦é€’å½’,å³é€’å½’... 38](#_Toc361871708)
+
+[ç¬¬3å°èŠ‚Â  è¯­æ³•è§£æžçš„è‡ªé¡¶å‘ä¸‹å’Œè‡ªåº•å‘ä¸Šçš„ç­–ç•¥... 39](#_Toc361871709)
+
+[ç¬¬ä¸‰èŠ‚Â Â Â Â Â  ç»å…¸çš„è¡¨è¾¾å¼æ•™ç¨‹è§£æž... 44](#_Toc361871710)
+
+[ç¬¬1å°èŠ‚Â  ç•Œå®šéœ€æ±‚... 44](#_Toc361871711)
+
+[ç¬¬2å°èŠ‚Â  è®¾è®¡è¯­æ³•... 45](#_Toc361871712)
+
+[ç¬¬3å°èŠ‚Â  å®žçŽ°è¯­ä¹‰... 51](#_Toc361871713)
+
+[ç¬¬å››èŠ‚Â Â Â Â Â  çŠ¶æ€æœºä»£ç ç”Ÿæˆæ¡†æž¶å®žä¾‹åˆ†æž... 52](#_Toc361871714)
+
+[ç¬¬äº”ç« Â Â Â Â Â Â  å¼•ç”¨... 52](#_Toc361871715)
+
+Â 
+
+ç¬¬ä¸€ç«  Â Â Â Â Â Â Â Â Â  å‰è¨€
+=====================
+
+è®¨è®ºç»„åœ°å€: Â [http://groups.google.com/group/antlr\_chinese/](http://groups.google.com/group/antlr_chinese/)
+
+Â 
+
+ä»”ç»†æ•°èµ·æ¥,codingç”Ÿæ¶¯ä¹Ÿæœ‰ä¸å°‘å¹´å¤´äº†,ä»Ž99å¹´åˆ°çŽ°åœ¨,è™½ç„¶ä¸­é€”ç¦»å¼€è¿‡å‡ å¹´,ä½†å§‹ç»ˆæ²¡æœ‰åœç•™è¿‡å…³æ³¨.
+
+åœ¨è¿™ä¸é•¿ä¸çŸ­çš„å²æœˆé‡Œ,åœ¨æŒ‡å°–æµè¿‡çš„è¯­è¨€ä¹Ÿæœ‰ä¸å°‘äº†,ä»Žå­¦ç”Ÿå¹´ä»£çš„c/cpp,object pascal,asm,sqlç­‰åˆ°å·¥ä½œä¸­ç”¨è¿‡çš„vbs/js,java,html,xml, schema,R,erlangå’Œä¸€äº›å³å…´å­¦çš„shell scriptç­‰ï¼Œå¹´è½»æ—¶åæ‰§äºŽè¯­è¨€çš„è¡¨å±‚ï¼Œç•¥æ˜¾è½»ç‹‚,å¹¶ä»¥ä¹‹ä¸ºå‚²ã€‚åŽæ¥ä¿®ä¹ å›¾çµæœºï¼Œlambdaç®—å­,ç»„åˆå­ä¹‹ç±»çš„è®¡ç®—æ¨¡åž‹ï¼Œå°è¯•ç€å¯¹è¯­è¨€çš„æœ¬è´¨åšäº†ä¸€äº›æ·±å…¥çš„æ€è€ƒ,æ‰å‘è§‰å…¶å®žè‡ªå·±ä¸€ç›´éƒ½æ˜¯äº•åº•ä¹‹è›™ã€‚åœ¨æŽ¥è§¦äº†å¤è€çš„lex +yaccåŽ,ä¸ºå…¶é«˜åº¦æŠ½è±¡çš„ç®€æ´ä¸Žä¼˜ç¾Žæ‰€æŠ˜æœ.é‚ä¸èƒ½è‡ªæ‹”ã€‚
+
+ä¸€ç›´éƒ½æ¯”è¾ƒå–œæ¬¢ç±»ä¼¼lex+yaccä¹‹ç±»äº§ç”Ÿå¼å·¥å…·ï¼Œç”±äºŽå·¥ä½œä¸»è¦æ˜¯javaç›¸å…³çš„,ä¹ŸæŽ¥è§¦äº†antlr.å¹¶å¯¹å…¶ä¿æŒæ¯”è¾ƒæµ“åŽšçš„å…´è¶£,æ—¶éš”å‡ å¹´åŽé‡å›žitæ—¶,å› ä¸ºä¸€ä¸ªå°äº§å“çš„å¼€å‘éœ€è¦ï¼Œå¯¹è¯æ³•è¯­æ³•è§£æžå·¥å…·é€‰åž‹ï¼Œé€‰äº†å‡ ä¸ªå·¥å…·ï¼Œjavacc ï¼Œantlr ï¼Œjflex+CUPï¼Œæœ€ç»ˆè¿˜æ˜¯é€‰æ‹©äº†antlrã€‚
+
+å…³äºŽå·¥å…·çš„é€‰æ‹©æ–¹é¢. ä¸€ç›´è®¤ä¸º,å·¥æ¬²å–„å…¶äº‹ï¼Œå¿…å…ˆåˆ©å…¶å™¨ï¼Œä½†ä½•ä¸ºåˆ©å™¨ï¼Œå¦‚ä½•è¯„ä»·ï¼Œä¸€ç›´æ²¡æœ‰æ¸…æ™°çš„å®šä¹‰ï¼Œæœ‰äº›ä¸œè¥¿ï¼Œæ˜Žæ˜Žå¾ˆå¥½å¾ˆå¼ºå¤§ï¼Œä½†æ˜¯å°±æ˜¯æ— æ³•æŽ¨å¹¿ï¼Œæ¯”å¦‚åŸºäºŽå¼ºå¤§lambdaç®—å­çš„å‡½æ•°å¼è¯­è¨€åŠå…¶å¹³å°å¦‚lisp ï¼Œschema ç­‰ã€‚å¾ˆå¤šå¹´åŽï¼Œæ‰æ˜Žç™½ï¼Œè¯„ä»·ä¸€ä¸ªä¸€ä¸ªä¸œè¥¿ï¼Œä¸ä»…ä»…çœ‹ç‚¹ä¸Šçš„è¡¨çŽ°ï¼Œè¿˜éœ€è¦çœ‹é¢ä¸Šçš„è¡¨çŽ°ï¼Œæ¯”å¦‚å‘¨è¾¹çš„çŽ¯å¢ƒæ”¯æ’‘ç­‰ ï¼Œå“ªæ€•ç‚¹ä¸Šçš„è¡¨çŽ°ç¨é€Šä¸€ç­¹ï¼Œåªè¦é¢ä¸Šçš„è¡¨çŽ°ä¼˜å¼‚ï¼Œä¹Ÿèƒ½å¼¥è¡¥å…¶ç¼ºé™·ã€‚
+
+ä¸€ä¸ªå·¥å…·ï¼Œè¢«é€‰æ‹©çš„é¦–å½“å…¶å†²çš„æ ‡å‡†å½“å±žäºŽå…¶ç”Ÿäº§èƒ½åŠ›ï¼Œè¯„ä»·é€‰æ‹©ä¸€ä¸ªå·¥å…·çš„ç”Ÿäº§èƒ½åŠ›ï¼Œé™¤äº†è¦çœ‹å®ƒçš„ä¸»è¦åŠŸèƒ½å¤–ï¼Œè¿˜è¦çœ‹å®ƒå¯¹ä½ çš„ç”Ÿäº§æµç¨‹çš„è¦†ç›–ç¨‹åº¦ã€‚è¦†ç›–çš„è¶Šå…¨ï¼Œä¹Ÿå°±è®¤ä¸ºå…¶äº§å‡ºæ•ˆçŽ‡è¶Šé«˜ã€‚å‡­å€Ÿeclipseè¿™ä¸ªå¼ºå¤§çš„å·¥å…·å¹³å°ã€‚Antlr åšåˆ°äº†ä»Žå‰ç«¯è¯­æ³•è®¾è®¡åˆ°è°ƒè¯•åˆ°é›†æˆæµ‹è¯•çš„æ— ç¼è¦†ç›–ï¼Œè¿™ç¡®å®žæ˜¯æˆ‘é€‰æ‹©å…¶çš„ä¸€ä¸ªå…³é”®å†³å®šå› ç´ ã€‚
+
+è´¸ç„¶çš„ä½¿ç”¨ä¸€ä¸ªä¸æˆç†Ÿçš„å·¥å…·ï¼Œæˆ–è€…æ²¡æœ‰å®žè·µè¿‡çš„æ–°è§£å†³æ–¹æ¡ˆï¼Œä¸ç®¡å®ƒåœ¨åˆ«äººé‚£é‡Œæ˜¯å¦‚ä½•æˆåŠŸçš„ï¼Œä½ éƒ½éœ€è¦æ”¯ä»˜ä¸€å®šé£Žé™©çš„ã€‚åˆ©å™¨ä»Žæ¥éƒ½æ˜¯åŒåˆƒçš„ï¼Œä¼¤äººäº¦èƒ½ä¼¤å·±ï¼Œç”¨çš„å¥½ï¼Œå¼ºè™ç°é£žçƒŸç­ï¼Œç”¨çš„ä¸å¥½ï¼Œä¼¤ç—•ç´¯ç´¯ï¼Œæ¬²ç½¢ä¸èƒ½ã€‚è¯šç„¶ï¼Œå½¢å¼åŒ–çš„äº§ç”Ÿå¼ç¼–ç¨‹æ–¹å¼å¦‚ antlrçš„ç¡®æœ‰å…¶å¼ºå¤§ä¸”ç®€æ´ä¼˜é›…çš„ä¸€é¢ï¼Œä½†å‡¡äº‹æœ‰åˆ©å¿…æœ‰å¼Šï¼Œä¸€æ—¦é‡åˆ°é—®é¢˜ï¼Œå…¶èƒŒåŽéšè—çš„æŠ½è±¡çš„å¤æ‚åº¦è¶³å¤Ÿè®©ä¸€ä¸ªé¡¹ç›®æˆ–äº§å“æ ½å€’åœ¨æ—¶é—´åŽ‹åŠ›é¢å‰ã€‚è¿™ä¹Ÿæ˜¯è¿™ä¸ªå·¥å…·é²œè¢«é‡‡ç”¨çš„åŽŸå› ã€‚
+
+å¼€å‘ç»“æŸåŽ,å¯¹ä½¿ç”¨è¿™ä¸ªå·¥å…·æ‰€é‡åˆ°çš„é—®é¢˜ä»¥åŠä¸€äº›è§£å†³æ–¹æ³•ï¼Œä½œäº†ä¸€äº›æ€»ç»“å’Œæ•´ç†ã€‚å‰è½¦ä¹‹é‰´ï¼ŒåŽäº‹ä¹‹å¸ˆï¼Œä¸ç®¡æ˜¯ä¸ºäººè¿˜æ˜¯ä¸ºå·±ã€‚äºŽæ˜¯èŒç”Ÿäº†å†™ä¸ªæ–‡æ¡£çš„æƒ³æ³•ï¼Œè¯´æ˜¯å†™ï¼Œå®žé™…ä¸Šæ˜¯ä¸è¿‡æ˜¯å°†æ‰€æ‰¾çš„é›¶ç¢Žèµ„æ–™æ‹¼è£…è€Œå·²ã€‚åœ¨æ‰¾èµ„æ–™çš„è¿‡ç¨‹ä¸­å‘çŽ°ï¼Œé²œæœ‰ä¸­æ–‡æ•™ç¨‹ï¼Œåªæœ‰ä¸€æœ¬v2.75çš„ä¸­æ–‡ç‰ˆè§„èŒƒã€‚ è™½ç„¶å®˜æ–¹çš„è‹±æ–‡æ–‡æ¡£ä¸ç®—å°‘ï¼Œä½†å¯¹äºŽåœ¨éžè‹±è¯­æ¯è¯­çš„æˆ‘ä»¬æ¥è¯´ï¼Œå¯¹è‹±æ–‡ä¿¡æ¯çš„æ•æ„Ÿåº¦è¾ƒä½Žï¼Œä»Žé‚£å †ä¿¡æ¯é‡Œï¼Œå¯»æ‰¾ä¸€æ¡åˆé€‚çš„å­¦ä¹ è·¯å¾„ç•¥æ˜¾è‰°éš¾ã€‚äºŽæ˜¯å°±å­¦ä¹ å¾å‹é™ˆæ°‘çš„åšæ³•ï¼Œå°½åŠ›å†™ä¸€äº›æ•™ç¨‹åƒä»–ä»¥å‰å¸®åŠ©æˆ‘ä¸€æ ·å¸®åŠ©å…¶ä»–äººã€‚å¦å¤–åœ¨è¿™é‡Œä¹Ÿç‰¹åˆ«æ„Ÿè°¢ç”˜è‰åŒå¿—(healer.kx.yu@gmail.com)ï¼ŒåŠ å…¥è¿™ä¸ªé˜µè¥â€¦
+
+è¿™ç¯‡æ•™ç¨‹å®šä½ä¸ºå¸®åŠ©é›¶åŸºç¡€çš„åˆå­¦è€…å…¥é—¨åˆ°æŽŒæ¡ç¼–è¯‘å‰ç«¯ï¼Œä¸ºç†Ÿæ‚‰antlrçš„äººï¼Œæä¾›ä¸€äº›é—®é¢˜å¤‡å¿˜å½•ï¼Œä»¥åŠå…±äº«ä¸€äº›å¯¹antlræœ¬èº«è®¾è®¡çš„çœ‹æ³•ã€‚å¸Œæœ›èƒ½å¯¹æ‚¨æœ‰æ‰€å¸®åŠ©ã€‚
+
+ç¬¬äºŒç«  Â Â Â Â Â Â Â Â Â  å®‰è£…ç¯‡:
+========================
+
+é€‰æ‹©antlrç¡®å®žæœ‰å¾ˆå¤§çš„ä¼˜åŠ¿ã€‚ æœ‰å®˜æ–¹è‡ªå¸¦çš„antlrworks ï¼Œæœ‰ æ°‘é—´çš„antlrv3ide ï¼Œå’Œ netbeansä»€ä¹ˆçš„æ’ä»¶ç­‰ç­‰ã€‚è¿˜æœ‰ä¸€äº›æ”¶è´¹çš„eclipseæ’ä»¶ç­‰ï¼Œå…·ä½“å°±ä¸åŽ»ç»†åˆ—äº†ï¼Œè¿™ä¸ªæ•™ç¨‹ä¸»è¦é›†ä¸­åœ¨antlrworks å’Œ antlrv3ide+eclipseç­‰ä¸¤ä¸ª ide ä¸Šé¢ã€‚
+
+é€šè¿‡æœ¬ç¯‡çš„å­¦ä¹ ï¼Œä½ åº”è¯¥èƒ½æ­å»ºå¥½ä¸€ä¸ªå¯ä»¥å®žæˆ˜çš„å¹³å°ã€‚
+
+ç¬¬ä¸€èŠ‚ å®‰è£…å‰çš„æ£€æŸ¥:
+--------------------
+
+### ç¬¬1å°èŠ‚Â Â Â Â Â Â Â Â Â Â  æ˜¯å¦å·²ç»å®‰è£…äº†java 1.5 æˆ–è€…æ›´é«˜çš„ç‰ˆæœ¬ã€‚
+
+ç¡®è®¤æ–¹æ³• java â€“version å’Œjavac â€“versionï¼Œå¦‚æžœä¸èƒ½å·¥ä½œï¼Œæˆ–è€…ç‰ˆæœ¬ä¸å¯¹ï¼Œè¯·æ£€æŸ¥çŽ¯å¢ƒå˜é‡çš„JAVA\_HOME
+
+### ç¬¬2å°èŠ‚Â Â Â Â Â Â Â Â Â Â  æ˜¯å¦å·²ç»ä¸‹è½½äº†eclipse 3.x.
+
+æ•™ç¨‹ä½¿ç”¨çš„æ˜¯ eclipse 3.6.2(helios)Â  Eclipse Modeling Tools é‚£ä¸ªç‰ˆæœ¬ï¼Œæœ€å¥½ä¿æŒå’Œæ•™ç¨‹ä¸€è‡´çš„ã€‚ä¸èƒ½ç¡®å®šantlrv3ideæ˜¯å¦é€‚ç”¨äº†gef æˆ–è€…gmfÂ  ä½†å»ºè®®å¦‚æžœä½ ä½¿ç”¨å…¶å®ƒçš„ç±»åž‹çš„eclipse ï¼Œå°†modeling æ¨¡å—å‡çº§åˆ°æœ€æ–°ç‰ˆæœ¬ã€‚åŒæ—¶è¿˜éœ€è¦å®‰è£…ä¸€ä¸ªdynamic languages toolkit core frameworks.è¿™ä¸ªæ˜¯antlrv3ideä¾èµ–çš„æ’ä»¶.æœ¬æ•™ç¨‹æ‰€ç”¨çš„æ’ä»¶å¦‚ä¸‹:ï¼ˆç”»åœˆåœˆçš„æ˜¯æ²¡æœ‰å®‰è£…æ’ä»¶å‰å°±è¦å­˜åœ¨çš„ã€‚å¦‚æžœæ²¡æœ‰ï¼Œä½ éœ€è¦åœ¨ help-\>install new software ä¸­é€‰æ‹© heliosè¿™ä¸ªæ›´æ–°æºè¿›è¡Œæ›´æ–°ï¼‰
+
+![](hand%20in%20hand%20with%20antlr.files/image001.jpg)
+
+Â 
+
+### ç¬¬3å°èŠ‚Â Â Â Â Â Â Â Â Â Â  å»ºç«‹æœ¬æ•™ç¨‹æ¼”ç¤ºç›®å½•ã€‚
+
+å»ºç«‹ä¸€ä¸ªç›®å½•(d:\\antlrdemo),ç”¨ä½œæœ¬æ•™ç¨‹çš„æ¼”ç¤ºç›®å½•ï¼Œè¿™ä¸ªç›®å½•å¯ä»¥æ›´æ¢åˆ°å…¶ä»–çš„åœ°æ–¹ï¼Œä½†æ˜¯è¯·æ³¨æ„ï¼Œè¯·ä¸è¦å¸¦æœ‰ä¸­æ–‡æˆ–è€…å…¶ä»–éžè‹±æ–‡å­—æ¯ã€‚
+
+åœ¨anltrdemoä¸‹é¢å»ºç«‹ä¸€ä¸ªantlrworks\_dataç›®å½•ã€‚
+
+å°†eclipseæ‹·è´è‡³ antlrdemoç›®å½•ä¸‹ã€‚
+
+å¹¶åœ¨eclipseç›®å½•ä¸‹å»ºç«‹ ä¸€ä¸ªworkspaceçš„ç›®å½•ï¼Œå¹¶åœ¨å¯åŠ¨eclipseçš„æ—¶å€™ï¼Œå°†å·¥ä½œç©ºé—´è®¾ç½®ä¸ºè¿™ä¸ªç›®å½•çš„å·¥ä½œç©ºé—´ã€‚è¿™æ ·åšçš„ç›®çš„ä¾¿äºŽç®¡ç†èµ„æ–™ã€‚
+
+![](hand%20in%20hand%20with%20antlr.files/image002.png)
+
+Â 
+
+Â 
+
+å°±ç»ªä¹‹åŽï¼Œæ¥å¼€å§‹æˆ‘ä»¬çš„å®‰è£…è¿‡ç¨‹ã€‚ã€‚ã€‚
+
+ç¬¬äºŒèŠ‚ å®‰è£…è¿‡ç¨‹
+---------------
+
+### ç¬¬1å°èŠ‚Â Â Â Â Â Â Â Â Â Â  ä¸‹è½½antworksï¼š
+
+ä¸‹è½½ antlrworks è¿™ä¸ªé›†æˆè°ƒè¯•å·¥å…·ï¼Œ
+
+åœ¨å®˜æ–¹çš„ç½‘å€ [http://www.antlr.org/download.html](http://www.antlr.org/download.html) ä¸Šé¢
+
+![](hand%20in%20hand%20with%20antlr.files/image003.jpg)
+
+Â 
+
+å…·ä½“çš„åŒ…åœ°å€: Â http://www.antlr.org/download/antlrworks-1.4.2.jar
+
+ä¸‹è½½ä¹‹åŽæ‰”åˆ° antlrdemoç›®å½•ä¸‹ã€‚
+
+### ç¬¬2å°èŠ‚Â Â Â Â Â Â Â Â Â Â  ä¸‹è½½antlrçš„jaråŒ… å½“å‰çš„ç‰ˆæœ¬æ˜¯ v3.3
+
+åœ¨å®˜æ–¹çš„ç½‘å€ [http://www.antlr.org/download.html](http://www.antlr.org/download.html) ä¸Šé¢
+
+![](hand%20in%20hand%20with%20antlr.files/image004.jpg)
+
+Â 
+
+å…·ä½“çš„jaråŒ…ä½ç½®:http://www.antlr.org/download/antlr-3.3-complete.jar
+
+ä¸‹è½½ä¹‹åŽæ‰”åˆ° antlrdemoç›®å½•ä¸‹ã€‚
+
+Â 
+
+### ç¬¬3å°èŠ‚Â Â Â Â Â Â Â Â Â Â  å®‰è£…eclipseæ’ä»¶ã€‚
+
+è¿è¡Œeclipse 3.6.2 ï¼Œå¦‚æžœæ˜¯ç¬¬ä¸€æ¬¡ï¼Œè¯·è®¾ç½® workspaceçš„ä½ç½®ä¸º antlrdemoä¸‹é¢çš„eclipseçš„workspace
+
+![](hand%20in%20hand%20with%20antlr.files/image005.jpg)
+
+Â 
+
+![](hand%20in%20hand%20with%20antlr.files/image006.jpg)
+
+Â 
+
+![](hand%20in%20hand%20with%20antlr.files/image007.jpg)
+
+Ps: antlrv3ide çš„æ’ä»¶updaesuite çš„åœ°å€: [http://antlrv3ide.sourceforge.net/updates](http://antlrv3ide.sourceforge.net/updates)
+
+Â 
+
+![](hand%20in%20hand%20with%20antlr.files/image008.jpg)
+
+æ¯«æ— æ‚¬å¿µåœ°å…¨é€‰ï¼ŒåŒæ„ä»€ä¹ˆçš„ï¼Œå°±å®‰è£…å®Œäº†ã€‚
+
+Â 
+
+### ç¬¬4å°èŠ‚Â Â Â Â Â Â Â Â Â Â  ç¡®è®¤ä½ çš„å®‰è£…æ˜¯å¦æ­£ç¡®ã€‚
+
+ç¡®è®¤antlrworks :åŒå‡»antlrworksÂ  ï¼Œå¦‚æžœçœ‹åˆ°å¯è§†ç•Œé¢ï¼Œå°±okäº†ã€‚
+
+ç¡®è®¤antlrv3ide:æ‰“å¼€eclipse ï¼Œå®‰è£…æ’ä»¶æˆåŠŸåŽï¼Œ æ‰“å¼€windowÃ perfermance å¯ä»¥çœ‹åˆ°
+
+![](hand%20in%20hand%20with%20antlr.files/image009.jpg)
+
+Â 
+
+çœ‹åˆ°è¿™ä¸ªï¼Œå·®ä¸å¤šå°±å®‰è£…æ­£ç¡®äº†. åˆ°ç›®å‰ä¸ºæ­¢ï¼Œantlrdemoç›®å½•æœ‰ä¸¤ä¸ªç›®å½•ï¼šeclipse å’Œantlrworks\_dataå’Œä¸¤ä¸ªjaræ–‡ä»¶: antlrworks-1.4.2.jar å’Œantlr-3.3-complete.jar;
+
+ç¬¬ä¸‰ç«  Â Â Â Â Â Â Â Â Â  å·¥å…·çŽ¯å¢ƒä»‹ç»ç¯‡ï¼š
+=================================
+
+Â Â Â  è™½ç„¶ä¸€èˆ¬çš„å¼€å‘é‡Œé¢ç”¨antlrv3ideå°±è¶³å¤Ÿäº†ï¼Œä½†æ˜¯ï¼Œä¸ªäººè§‰å¾—antlrworksåœ¨è°ƒè¯•è¯­æ³•çš„æ—¶å€™æ¯”è¾ƒæ¸…çˆ½ã€‚è€Œä¸”antlrv3ideä¸èƒ½æ˜¾ç¤ºæŠ½è±¡è¯­æ³•æ ‘ï¼Œä½†antlrworks å¯ä»¥ï¼Œæ‰€ä»¥ï¼Œä¸€èˆ¬éƒ½æ˜¯åŒç®¡é½ä¸‹ã€‚å‰æœŸçš„è¯­æ³•è§„åˆ™åˆ†æžå’Œè°ƒè¯•ä¹‹ç±»çš„ï¼Œå°±ç”¨antlrworks ï¼Œæ¶‰åŠåˆ°è¯­ä¹‰åŠ¨ä½œç›¸å…³ï¼Œéœ€è¦åµŒå…¥ä»£ç çš„æ—¶å€™ï¼Œå°±åˆ‡å…¥antlrv3ide ã€‚
+
+æ¯”è¾ƒåˆ—è¡¨
+
+å·®å¼‚ç‚¹
+
+Antlrworks
+
+Antlrv3ide
+
+è¿è¡Œå½¢å¼
+
+ç‹¬ç«‹è¿è¡Œçš„javaç¨‹åº
+
+éœ€è¦ä¾èµ–eclipse
+
+ä½¿ç”¨é…ç½®å¤æ‚æ€§
+
+å‚»ç“œå¼ï¼Œåœ¨ç•Œé¢å†…å…¨éƒ¨å±•çŽ°å‡ºæ¥
+
+åˆ†æ•£éšè”½ï¼Œå¯¹ä¸ç†Ÿæ‚‰çš„äººå¯»æ‰¾æœ‰ä¸€å®šçš„éš¾åº¦ã€‚
+
+å›¾å½¢åŒ–ç•Œé¢æ”¯æŒ
+
+å…¨å›¾å½¢åŒ–
+
+åŸºæœ¬å›¾å½¢åŒ–ï¼Œä½†å¯¹æŠ½è±¡è¯­æ³•æ ‘æ”¯æŒä¸å¥½.
+
+çŽ¯å¢ƒæ”¯æŒ
+
+å‡ ä¹Žä¸èƒ½èžå…¥å…¶å®ƒçŽ¯å¢ƒï¼Œç†è®ºä¸Šå¯ä»¥é€šè¿‡è®¾ç½®classpathç­‰æ¥è®¾ç½®å¼•ç”¨çš„jaræˆ–è€…classç­‰ï¼Œä½†å¾ˆéš¾ç”¨ï¼Œé ä½¿ç”¨è€…ä¸ªäººæ‰‹å·¥ç¼–è¯‘javaçš„èƒ½åŠ›æ¥ä¿è¯ã€‚
+
+å¯ä»¥å’Œåœ¨eclipseä¸Šé¢å¼€å‘çš„é¡¹ç›®æ— ç¼é›†æˆåœ¨ä¸€èµ·ã€‚
+
+Â 
+
+ä½œä¸ºåˆçº§é˜¶æ®µï¼Œè¿™é‡Œçš„ä½¿ç”¨ç¯‡å°±ä»¥ç»å…¸çš„è¡¨è¾¾å¼è§£æžæ¥å±•çŽ°ã€‚
+
+å°±ç»ªåŽï¼Œå°±å¼€å§‹æˆ‘ä»¬çš„ä½¿ç”¨ä¹‹æ—…å§â€¦
+
+Â Â Â  é€šè¿‡æœ¬ç¯‡çš„å­¦ä¹ ï¼Œä½ åº”è¯¥å¯ä»¥è¿è¡Œç¤ºä¾‹çš„demoæ–‡ä»¶ï¼Œå¹¶äº†è§£å·¥å…·çš„å„éƒ¨åˆ†çš„æž„æˆã€‚
+
+ç¬¬ä¸€èŠ‚ å…ˆä»Žantlrworkså¼€å§‹ä½“éªŒantlr.
+-----------------------------------
+
+### ç¬¬1å°èŠ‚Â Â Â Â Â Â Â Â Â Â  åˆ›å»ºè¯­æ³•æ–‡ä»¶
+
+#### ç¬¬1å°å°èŠ‚Â Â  å¯é€‰ä¸€:ä¸‹è½½è¯­æ³•æ–‡ä»¶.
+
+ä¸‹è½½ ( [http://www.antlr.org/works/help/tutorial/content/Expr.g](http://www.antlr.org/works/help/tutorial/content/Expr.g) )åˆ°antlrworks\_data
+
+(æ³¨æ„:æ–‡ä»¶åä¸è¦æ”¹å˜ï¼Œä»ç„¶ä¸ºExpr.g)
+
+ç„¶åŽç”¨antlrworks æ‰“å¼€è¿™ä¸ªExpr.gæ–‡ä»¶: file -\> open ,é€‰æ‹©antlrworks\_dataç›®å½•çš„Expr.g
+
+Â 
+
+#### ç¬¬2å°å°èŠ‚Â Â  å¯é€‰äºŒ:æ‰‹å·¥è¾“å…¥è¯­æ³•æ–‡ä»¶ã€‚
+
+![](hand%20in%20hand%20with%20antlr.files/image010.png)
+
+æ‰“å¼€antlrworksï¼Œ æ–°å»ºä¸€ä¸ª antlr\_3 GrammerÂ  \*.g æ–‡ä»¶
+
+![](hand%20in%20hand%20with%20antlr.files/image011.jpg)
+
+Â 
+
+è¯­æ³•åå­—å«Expr
+
+ç±»åž‹åå­—å«combined grammar
+
+ä¿å­˜åœ¨ antlrworks\_dataç›®å½•ä¸‹ã€‚
+
+åœ¨å°†ä¸‹é¢å†…å®¹æ‹·è´åˆ°ç¼–è¾‘å™¨ã€‚
+
+//æ‹·è´å¼€å§‹
+
+grammar Expr;
+
+Â 
+
+@header {
+
+package test;
+
+import java.util.HashMap;
+
+}
+
+Â 
+
+@lexer::header {package test;}
+
+Â 
+
+@members {
+
+/\*\* Map variable name to Integer object holding value \*/
+
+HashMap memory = new HashMap();
+
+}
+
+Â 
+
+prog:Â Â  stat+ ;
+
+Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
+
+stat:Â Â  expr NEWLINE {System.out.println(\$expr.value);}
+
+Â Â Â  |Â Â  ID '=' expr NEWLINE
+
+Â Â Â Â Â Â Â  {memory.put(\$ID.text, new Integer(\$expr.value));}
+
+Â Â Â  |Â Â  NEWLINE
+
+Â Â Â  ;
+
+Â 
+
+expr returns [int value]
+
+Â Â Â  :Â Â  e=multExpr {\$value = \$e.value;}
+
+Â Â Â Â Â Â Â  (Â Â  '+' e=multExpr {\$value += \$e.value;}
+
+Â Â Â Â Â Â Â  |Â Â  '-' e=multExpr {\$value -= \$e.value;}
+
+Â Â Â Â Â Â Â  )\*
+
+Â Â Â  ;
+
+Â 
+
+multExpr returns [int value]
+
+Â Â Â  :Â Â  e=atom {\$value = \$e.value;} ('\*' e=atom {\$value \*= \$e.value;})\*
+
+Â Â Â  ;
+
+Â 
+
+atom returns [int value]
+
+Â Â Â  :Â Â  INT {\$value = Integer.parseInt(\$INT.text);}
+
+Â Â Â  |Â Â  ID
+
+Â Â Â Â Â Â Â  {
+
+Â Â Â Â Â Â Â  Integer v = (Integer)memory.get(\$ID.text);
+
+Â Â Â Â Â Â Â  if ( v!=null ) \$value = v.intValue();
+
+Â Â Â Â Â Â Â  else System.err.println("undefined variable "+\$ID.text);
+
+Â Â Â Â Â Â Â  }
+
+Â Â Â  |Â Â  '(' e=expr ')' {\$value = \$e.value;}
+
+Â Â Â  ;
+
+Â 
+
+IDÂ  :Â Â  ('a'..'z'|'A'..'Z')+ ;
+
+INT :Â Â  '0'..'9'+ ;
+
+NEWLINE:'\\r'? '\\n' ;
+
+WSÂ  :Â Â  (' '|'\\t')+ {skip();} ;
+
+//æ‹·è´ç»“æŸ
+
+Â 
+
+### ç¬¬2å°èŠ‚Â Â Â Â Â Â Â Â Â Â  è¿è¡Œè°ƒè¯•è¯­æ³•æ–‡ä»¶
+
+ç‚¹å‡» å›¾æ ‡ä¸­çš„å°ç”²è™«ã€‚
+
+![](hand%20in%20hand%20with%20antlr.files/image012.jpg)
+
+Â 
+
+åœ¨å¼¹å‡ºæ¥çš„è°ƒè¯•ç•Œé¢ä¸­ï¼Œé€‰æ‹© text
+
+è¾“å…¥ 1+2+3\*5 ä¹‹åŽï¼Œè¿˜éœ€è¦è¾“å…¥ä¸€ä¸ªå›žè½¦æ¢è¡Œã€‚
+
+![](hand%20in%20hand%20with%20antlr.files/image013.jpg)
+
+Â 
+
+åœ¨å°±ç»ªçš„ç•Œé¢ä¸­ç‚¹å‡» â€œæ‰§è¡Œåˆ°åº•â€çš„é‚£ä¸ªæŒ‰é’®ï¼Œè‹±æ–‡æç¤º:â€go to endâ€
+
+![](hand%20in%20hand%20with%20antlr.files/image014.jpg)
+
+Â 
+
+ä¹‹åŽå°†ä¼šåœ¨outputçª—å£çœ‹åˆ°è¢«è¯†åˆ«å‡ºæ¥çš„tokenæµï¼Œå’Œå…·ä½“è¯­æ³•åˆ†æžæ ‘çš„ç»“æžœã€‚
+
+![](hand%20in%20hand%20with%20antlr.files/image015.jpg)
+
+Â 
+
+åˆ°æ­¤ï¼Œå°±æ˜¯ç®€å•ä½¿ç”¨anltrworksç”¨è¯­æ³•æ–‡ä»¶æ¥è§£æžè¾“å…¥æ•°æ®çš„è¿‡ç¨‹äº†ã€‚
+
+Â 
+
+çŽ°åœ¨åˆ°antlrv3ide ç™»åœºäº†ï¼Œè¿™ä¸ªä¼šç¨å¾®æœ‰ç‚¹å„¿éº»çƒ¦ã€‚
+
+ç¬¬äºŒèŠ‚ å†å¼€å§‹å“å°anltrv3ide
+---------------------------
+
+### ç¬¬1å°èŠ‚Â Â Â Â Â Â Â Â Â Â  æ–°å»ºä¸€ä¸ªantlré¡¹ç›®.
+
+æ–°å»ºä¸€ä¸ªåå«antlrdemoçš„javaé¡¹ç›®,å¢žåŠ ä¸¤ä¸ªç›®å½•å«grammar å’Œlibï¼Œå¹¶å°†antlr.3.3-complete.jaræ‹·è´åˆ°libï¼Œåœ¨jaråŒ…ä¸Šå³é”®ï¼Œbuild Path-\> add to build path
+
+![](hand%20in%20hand%20with%20antlr.files/image016.jpg)
+
+Â 
+
+![](hand%20in%20hand%20with%20antlr.files/image017.png)
+
+Â 
+
+### ç¬¬2å°èŠ‚Â Â Â Â Â Â Â Â Â Â  åˆ›å»ºè¯­æ³•æ–‡ä»¶
+
+Â 
+
+#### ç¬¬1å°å°èŠ‚Â Â  é€‰æ‹©ä¸€:å’Œantlrworksä¸­çš„ä¸‹è½½ä¸€æ ·.
+
+å¦‚æ³•ç‚®åˆ¶ï¼Œå°†åˆšæ‰åœ¨antlrworksä¸­çš„Expr.gæ–‡ä»¶æ‹·è´åˆ°grammaræ–‡ä»¶å¤¹ä¸­.
+
+#### ç¬¬2å°å°èŠ‚Â Â  é€‰æ‹©äºŒ:æ‰‹å·¥åˆ›å»º
+
+åœ¨grammarä¸Šé¢å³é”® ï¼Œ new -\> other,é€‰æ‹© antlrä¸­çš„ combined grammar
+
+![](hand%20in%20hand%20with%20antlr.files/image018.jpg)
+
+è¾“å…¥ è¯­æ³•æ–‡ä»¶åExpr
+
+![](hand%20in%20hand%20with%20antlr.files/image019.png)
+
+ç¡®å®šåŽä¼šæœ‰ä¸€ä¸ªæç¤ºæ¡†
+
+![](hand%20in%20hand%20with%20antlr.files/image020.png)
+
+é€‰æ‹©yes
+
+æ­¤ä¸¾æ˜¯é…ç½®antlrçš„jaråŒ…ä½ç½®çš„ï¼Œå¿…åšã€‚
+
+![](hand%20in%20hand%20with%20antlr.files/image021.jpg)
+
+Â 
+
+![](hand%20in%20hand%20with%20antlr.files/image022.png)
+
+![](hand%20in%20hand%20with%20antlr.files/image023.jpg)
+
+è®¾ç½®å¥½åŽï¼Œå°†ä¾‹å­ä¸­çš„Expr.gæ–‡ä»¶çš„å†…å®¹(å‚ç…§antlrworksä¸­å…³äºŽExpr.gå†…å®¹)è¾“å…¥åˆ°æ–‡ä»¶ä¸­ã€‚
+
+### ç¬¬3å°èŠ‚Â Â Â Â Â Â Â Â Â Â  è¿›è¡Œæˆ–è€…æ£€æŸ¥æ’ä»¶çš„è®¾ç½®..
+
+åœ¨antlrdemoä¸Šå³é”®ï¼Œé€‰æ‹©properties ï¼Œåœ¨å¼¹å‡ºæ¥çš„å¯¹è¯æ¡†ä¸­ï¼Œå·¦è¾¹é€‰æ‹© antlrï¼Œåœ¨å³è¾¹é’©ä¸Šenable xxxï¼Œ
+
+Â 
+
+![](hand%20in%20hand%20with%20antlr.files/image024.jpg)
+
+å­èŠ‚ç‚¹çš„å„ä¸ªé€‰é¡¹éƒ½é’©ä¸Šï¼Œenable
+
+![](hand%20in%20hand%20with%20antlr.files/image025.jpg)
+
+![](hand%20in%20hand%20with%20antlr.files/image026.jpg)
+
+Â 
+
+è¯·æ³¨æ„ï¼Œæ­¤æ—¶ä¸è¦é€‰æ‹© debug,(åŽŸå› å‘¢ï¼Œä»¥åŽå†å‘Šè¯‰ä½ â€¦)ã€‚
+
+Â 
+
+![](hand%20in%20hand%20with%20antlr.files/image027.jpg)
+
+Â 
+
+### ç¬¬4å°èŠ‚Â Â Â Â Â Â Â Â Â Â  ç¼–å†™æµ‹è¯•çš„ç¨‹åº
+
+å¦‚æžœè®¾ç½®æ­£ç¡®, åˆ™ä¼šåœ¨testç›®å½•ä¸‹é¡ºåˆ©ç”Ÿæˆä¸¤ä¸ªjavaçš„æºç æ–‡ä»¶ ExprLexer.java å’Œ ExprParser.javaã€‚Â 
+
+![](hand%20in%20hand%20with%20antlr.files/image028.png)
+
+å¦‚æžœçœ‹ä¸åˆ°è¿™ä¸¤ä¸ªæ–‡ä»¶ï¼Œé‚£ä¹ˆéšä¾¿æ”¹åŠ¨ä¸€ä¸‹Expr.gæ–‡ä»¶ ï¼Œå¦‚æžœé…ç½®å…¨éƒ½æ­£ç¡®çš„è¯ï¼Œä¿å­˜å³å¯è‡ªåŠ¨ç”Ÿæˆè¿™ä¸¤ä¸ªæºä»£ç æ–‡ä»¶ï¼Œå¦‚æžœé…ç½®ä¸æ­£ç¡®ï¼Œé‚£è¯·googleä¹‹ã€‚
+
+å»ºç«‹ä¸€ä¸ªTestRun.javaçš„æµ‹è¯•ç¨‹åº,(å¯ä»¥æ¯”å¯¹ä¸€ä¸‹è¿™ä¸ªæ–‡ä»¶å’ŒD:\\antlrdemo\\antlrworks\_data\\output\\ \_\_Test\_\_.javaçš„å¼‚åŒï¼Œè¿™ä»¥è®©ä½ ä¸€çª¥antlrçš„è°ƒè¯•åŠŸèƒ½çš„å®žçŽ°)ã€‚
+
+![](hand%20in%20hand%20with%20antlr.files/image029.png)
+
+TestRun.javaçš„æ–‡ä»¶å†…å®¹:
+
+**package** test;
+
+Â 
+
+**import** java.io.\*;
+
+**import** org.antlr.runtime.\*;
+
+Â 
+
+**public** **class** TestRun {
+
+Â 
+
+Â Â Â  **public** **static** **void** main(String[] args) {
+
+Â Â Â Â Â Â Â  ExprLexer lex = **new** ExprLexer(**new** ANTLRStringStream("1+2+3\\n"));
+
+Â Â Â Â Â Â Â  CommonTokenStream tokens = **new** CommonTokenStream(lex);
+
+Â 
+
+Â Â Â Â Â Â Â  ExprParser g = **new** ExprParser(tokens);
+
+Â Â Â Â Â Â Â  **try** {
+
+Â Â Â Â Â Â Â Â Â Â Â  g.prog();
+
+Â Â Â Â Â Â Â  } **catch** (Exception e) {
+
+Â Â Â Â Â Â Â Â Â Â Â  e.printStackTrace();
+
+Â Â Â Â Â Â Â  }
+
+Â Â Â  }
+
+}
+
+ä¿å­˜ï¼ŒåŽè¿è¡Œï¼Œä¼šè¾“å‡ºä»¥ä¸‹æ—¥å¿—
+
+enter INT 1 line=1:0
+
+exit INT + line=1:1
+
+enter prog [@0,0:0='1',\<6\>,1:0]
+
+enter stat [@0,0:0='1',\<6\>,1:0]
+
+enter expr [@0,0:0='1',\<6\>,1:0]
+
+enter multExpr [@0,0:0='1',\<6\>,1:0]
+
+enter atom [@0,0:0='1',\<6\>,1:0]
+
+enter T\_\_9 + line=1:1
+
+exit T\_\_9 2 line=1:2
+
+exit atom [@1,1:1='+',\<9\>,1:1]
+
+exit multExpr [@1,1:1='+',\<9\>,1:1]
+
+enter INT 2 line=1:2
+
+exit INT
+
+Â line=1:3
+
+enter multExpr [@2,2:2='2',\<6\>,1:2]
+
+enter atom [@2,2:2='2',\<6\>,1:2]
+
+enter NEWLINE
+
+Â line=1:3
+
+exit NEWLINE ? line=2:0
+
+exit atom [@3,3:3='\\n',\<4\>,1:3]
+
+exit multExpr [@3,3:3='\\n',\<4\>,1:3]
+
+exit expr [@3,3:3='\\n',\<4\>,1:3]
+
+3
+
+exit stat [@4,4:4='\<EOF\>',\<-1\>,2:0]
+
+exit prog [@4,4:4='\<EOF\>',\<-1\>,2:0]
+
+è¿™äº›æ—¥å¿—ä¿¡æ¯ä»£è¡¨çš„å«ä¹‰å°†ä¼šåœ¨ä½¿ç”¨è¿›é˜¶é‡Œé¢è§£é‡Šï¼Œéœ€è¦å…³æ³¨çš„æ˜¯å€’æ•°ç¬¬ä¸‰è¡Œ æ•°å­—3ï¼Œè¿™ä¸ªæ˜¯è¾“å‡ºçš„ç»“æž„ï¼Œä½ å¯ä»¥é€šè¿‡é…ç½®é€‰é¡¹å…³é—­å…¶ä»–ä¿¡æ¯çš„è¾“å‡ºï¼Œåªä¿ç•™ç»“æžœçš„è¾“å‡ºï¼Œè¿™äº›å°†ä¼šåœ¨antlrçš„é…ç½®é¡¹ä¸­ç»™ä»¥è§£é‡Šã€‚
+
+Â 
+
+Â 
+
+Â 
+
+Â 
+
+ç¬¬ä¸‰èŠ‚ Antlrworkså·¥å…·çš„å„éƒ¨åˆ†ä½¿ç”¨è¯´æ˜Ž
+-------------------------------------
+
+![](hand%20in%20hand%20with%20antlr.files/image030.jpg)
+
+**è¯­æ³•å…ƒç´ å¤§çº²å›¾****:** å°†è¯­æ³•æ–‡ä»¶çš„è¯­æ³•å…ƒç´ ä»¥å¤§çº²çš„æ–¹å¼åˆ—åœ¨å·¦è¾¹ã€‚ä¸Šé¢è¿˜æœ‰ä¸€ä¸ªå·¦å³ç®­å¤´æŒ‰é’®ï¼Œç”¨æ¥åœ¨è¯­æ³•å…ƒç´ é—´åˆ‡æ¢çš„ã€‚
+
+**è¯­æ³•æ–‡ä»¶ç¼–è¾‘å™¨ï¼š**ç¼–è¾‘è¯­æ³•æ–‡ä»¶ï¼Œä¸Žæ™®é€šçš„ç¼–è¾‘å™¨æ— å¼‚ï¼Œå¤šäº†ä¸€ä¸ªè¾“å…¥æ—¶ï¼Œä¼šè‡ªåŠ¨å¯¹é½çš„åŠŸèƒ½ã€‚
+
+**è¯­æ³•é«˜äº®æŒ‰é’®ï¼š**æŽ§åˆ¶è¯­æ³•ç¼–è¾‘å™¨æ˜¯å¦é«˜äº®æ˜¾ç¤ºè¯­æ³•å…³é”®å­—ã€‚
+
+**è°ƒè¯•å¿«é€ŸæŒ‰é’®****:**è¿™ä¸ªå¯ä»¥åœ¨èœå•ä¸­æ‰¾åˆ°ï¼Œä½†ç»å¸¸ç”¨ï¼Œå°±åˆ—åœ¨äº†ç•Œé¢ä¸Šã€‚
+
+**è°ƒè¯•æŒ‰é’®****:**è°ƒè¯•æ—¶å€™ï¼Œè¿›è¡Œå•æ­¥å‰è¿›ï¼Œå•æ­¥åŽé€€ï¼Œå›žåˆ°æœ€å¼€å§‹ä½ç½®ï¼Œæˆ–è€…æ‰§è¡Œåˆ°æœ€åŽä½ç½®ã€‚
+
+**ä¸­æ–­äº‹ä»¶æ¿€å‘ç‚¹ï¼š**è®¾ç½®ä»€ä¹ˆæ—¶å€™è¿›è¡Œå‘å‡ºè°ƒè¯•ä¸­æ–­é™·é˜±ä¿¡å·ç»™è°ƒè¯•å™¨ã€‚é»˜è®¤è®¾ç½®ä¸ºtokenæ¶ˆè€—æ—¶ï¼Œä¹Ÿå°±æ˜¯å½“ä¸€ä¸ªè¯æ³•è¢«è¯†åˆ«å‡ºæ¥çš„æ—¶å€™ï¼Œå½¢æˆä¸€ä¸ªtokenè¢«è¯­æ³•è°ƒç”¨æ¶ˆè€—æ—¶ï¼Œè§¦å‘è°ƒè¯•ä¸­æ–­é™·é˜±ã€‚
+
+**è¾“å…¥****/****è¾“å‡ºçª—å£****:**è¾“å…¥è¾“å‡ºçª—å£å…±ç”¨ä¸€å—æ˜¾ç¤ºåŒºåŸŸï¼Œä¸èƒ½åŒæ—¶æ˜¾ç¤ºï¼Œä»»æ„ä¸€ä¸ªæ—¶é—´ï¼Œæœ€å¤šåªèƒ½æ˜¾ç¤ºå…¶ä¸­çš„ä¸€ä¸ªã€‚è¾“å…¥è¾“å‡ºçª—å£çš„ä½œç”¨ä¸»è¦æ˜¯å…³äºŽè¾“å…¥æµçš„æ˜¾ç¤ºå’Œè¢«è¾¨è®¤å‡ºæ¥çš„tokenæµçš„è¾“å‡ºï¼Œç”±äºŽæ˜¯ll(k)ç®—æ³• ( ll(k) çš„æ„æ€æ˜¯Â scans input from left-to-right, produces a leftmost derivation top-down, k symbols of lookahead .è€Œlr(k)çš„æ„æ€æ˜¯a grammar in which purser scans the input from left to right and generate the reverse rightmost derivation, and it can take a decision about reduction by looking next k symbol only. That is why; it is called LR (k) grammar.),æ‰€ä»¥è¿™ä¸¤è€…å‡ ä¹Žéƒ½æ˜¯åŒæ­¥çš„ï¼Œä½†ç”±äºŽå¯èƒ½ä¼šå­˜åœ¨ä¸€äº›tokenè¢«skipæˆ–è€…hideäº†ï¼Œæ‰€ä»¥ï¼Œoutputçš„çª—å£å†…å®¹ä¼šå°‘äºŽinputçª—å£å†…å®¹ã€‚
+
+Â 
+
+**åˆ†æžæ ‘å’ŒæŠ½è±¡è¯­æ³•æ ‘çª—å£****:** ä»¥æ ‘çŠ¶çš„å½¢å¼æ¥å±•çŽ°è§£æžçš„ç»“æžœï¼Œåˆ†æžæ ‘è´´è¿‘æºè¯­æ³•ï¼Œæ˜¯æºè¯­æ³•çš„ä¸€ä¸ªç›´æŽ¥æ˜ å°„ï¼ŒæŠ½è±¡è¯­æ³•è¯­æ³•æ ‘æ˜¯å¯¹æºè¯­æ³•è¿›è¡ŒæŠ½è±¡åŽçš„ä¸€ä¸ªä½“çŽ°ã€‚æ¯”å¦‚ï¼Œä¸€èˆ¬æ•´æ•°å’Œå®žæ•°ï¼Œåœ¨åˆ†æžæ ‘ä¸­ä¼šå¯¹åº”ä¸åŒçš„ç±»åž‹ï¼Œä½†æ˜¯åœ¨æŠ½è±¡è¯­æ³•æ ‘ä¸­ï¼Œå¯èƒ½ä¼šè¢«æŠ½è±¡æˆæ“ä½œæ•°è¿™æ ·çš„ç»Ÿä¸€ç±»åž‹ã€‚
+
+**å †æ ˆå’Œäº‹ä»¶çª—å£****:**å †æ ˆçª—å£å±•çŽ°è¯­æ³•è§„åˆ™è¢«è®¿é—®çš„æ·±åº¦å…³ç³»ã€‚å°±åƒå‡½æ•°çš„è°ƒç”¨å †æ ˆä¸€æ ·ã€‚äº‹ä»¶çª—å£å±•çŽ°æ¯ä¸€æ­¥å‘ç”Ÿçš„äº‹ä»¶ï¼Œæ¯”å¦‚è¿›å…¥é‚£ä¸€ä¸ªè§„åˆ™ï¼Œæ¶ˆè€—é‚£ä¸€äº›tokenç­‰ã€‚
+
+Â 
+
+è¯­æ³•å›¾çª—å£:é»˜è®¤ä»¥bnfå›¾æ–¹å¼å±•ç¤ºè¯­æ³•è§„åˆ™ã€‚Show nfaå¯ä»¥é€‰æ‹©æ˜¯å¦æ˜¾ç¤ºéžç¡®å®šåž‹çŠ¶æ€æœºã€‚
+
+![](hand%20in%20hand%20with%20antlr.files/image031.jpg)
+
+Â 
+
+è§£é‡Šå™¨çª—å£:å¯ä»¥å•ç‹¬è°ƒè¯•æŸä¸€æ¡è§„åˆ™ã€‚
+
+Â 
+
+ç¬¬å››èŠ‚ Antlrv3ideæ’ä»¶çš„å„éƒ¨åˆ†ä½¿ç”¨è¯´æ˜Ž
+-------------------------------------
+
+åŒå‡»Expr.gæ–‡ä»¶ï¼Œå³å¯è¿›å…¥antlrv3ideçš„æ’ä»¶å…³è”çš„è§†å›¾ã€‚ä¸‹é¢æ˜¯å„ç»„æˆéƒ¨åˆ†çš„è¯´æ˜Žã€‚
+
+è¯­æ³•ç¼–è¾‘å™¨åŒºï¼šè¿™éƒ¨åˆ†åªæ˜¯è¾…åŠ©ç¼–è¾‘.gçš„è¯­æ³•æ–‡ä»¶ã€‚
+
+![](hand%20in%20hand%20with%20antlr.files/image032.jpg)
+
+**è§£é‡Šè°ƒè¯•åŒº****:**è¿™éƒ¨åˆ†å¯ä»¥è§£é‡Šè°ƒè¯•å„ç§è§„åˆ™ã€‚é€‰æ‹©éœ€è¦è°ƒè¯•çš„çš„è§„åˆ™ï¼Œåœ¨è¾“å…¥åŒºè¾“å…¥å¾…è°ƒè¯•çš„å­—ç¬¦ä¸²ï¼Œ ç‚¹å‡»è¿è¡ŒæŒ‰é’®ï¼Œå°±å¯ä»¥åœ¨è¾“å‡ºåŒºçœ‹åˆ°å…·ä½“è¯­æ³•æ ‘æˆ–è€…é—®é¢˜äº†ã€‚
+
+å¦‚æžœæœ‰éœ€è¦ï¼Œè¿˜å¯ä»¥ä»¥æ–°å»ºç”¨ä¾‹çš„æ–¹å¼å°†è¯¥æ¬¡æµ‹è¯•ä¿å­˜ä¸ºgunitæµ‹è¯•ç”¨ä¾‹ã€‚ä»¥ä¾›å¤šæ¬¡æµ‹è¯•ç”¨ã€‚Gunitç”¨ä¾‹å¯ä»¥è½¬åŒ–æˆjunitç”¨ä¾‹â€¦.
+
+![](hand%20in%20hand%20with%20antlr.files/image033.jpg)
+
+![](hand%20in%20hand%20with%20antlr.files/image034.jpg)
+
+Â 
+
+ç¬¬å››ç«  Â Â Â Â Â Â Â Â Â  ä½¿ç”¨ç¯‡
+=======================
+
+åœ¨å®‰è£…å®ŒæˆåŽï¼Œå¹¶é€šè¿‡ç®€å•çš„ä½¿ç”¨ï¼Œç†Ÿæ‚‰äº†antlrå·¥å…·antlrworksä»¥åŠæ’ä»¶antlrv3ideçš„å„éƒ¨åˆ†ï¼Œå·²åˆ©å…¶å™¨äº†ï¼Œå‰©ä¸‹çš„å°±æ˜¯å¦‚ä½•æ¬²å–„å…¶äº‹äº†ã€‚
+
+æœ¬ç¯‡çš„å®‰æŽ’æ‹Ÿè¿™æ ·: å…ˆå¹å¹æ°´ï¼Œäº†è§£ä¸€ä¸‹ä¸€äº›åŽ†å²å…¸æ•…ï¼Œç„¶åŽå¯¹ä¸€äº›åŸºæœ¬æ¦‚å¿µä½œä¸€ä¸ªå¤§ä½“ä»‹ç»ï¼Œå¯¹ç»å…¸çš„è¡¨è¾¾å¼è¿›è¡Œå‰–æžï¼Œå†å®‰æŽ’ä¸€ä¸ªå…·ä½“çš„åœºæ™¯ã€ŠçŠ¶æ€æœºä»£ç ç”Ÿæˆæ¡†æž¶ã€‹ï¼Œä¸­é—´ä¼šç©¿æ’ä¸€äº›ç¼–è¯‘åŽŸç†çŸ¥è¯†ã€‚
+
+é€šè¿‡æœ¬ç¯‡çš„å­¦ä¹ åŽï¼Œä½ åº”è¯¥èƒ½å¤Ÿä½¿ç”¨antlræŠŠå·¥ä½œä¸­éœ€æ±‚è½¬åŒ–æˆè®¾è®¡ï¼Œå¦‚æžœä¸èƒ½ï¼Œå°±ç»™æˆ‘æ¥emailå§ï¼Œæˆ‘ä»¬ä¸€èµ·æŽ¢è®¨ä¸€ä¸‹å¦‚ä½•æ”¹è¿›è¿™ä¸ªæ•™ç¨‹ã€‚
+
+ç¬¬ä¸€èŠ‚ æ— è´£ä»»ä¹±å¼¹
+-----------------
+
+ä¸€èˆ¬å¤ä»£å‡ºå¾æ—¶æ€»ä¼šç¥­æ‹œå…ˆç¥–æˆ–è€…ä»€ä¹ˆå¤§ç¥žä¹‹ç±»çš„ï¼Œæ±‚ä¹žåº‡æŠ¤ã€‚è¿™é‡Œæˆ‘ä»¬ä¹Ÿçƒ§å‡ æŸ±é¦™æ¥æ‹œç¥­ä¸€ä¸‹ç›¸å…³çš„å…ˆç¥–ä»¬ã€‚
+
+ä¸Šä¸€ä¸ªä¸–çºªæ˜¯ä¸€ä¸ªä¼Ÿäººäº•å–·çš„ä¸–çºª.
+
+å¸Œå°”ä¼¯ç‰¹æå‡ºäº†è‘—åçš„23ä¸ªè‘—åçš„é—®é¢˜,åœ¨ç¬¬äºŒä¸ªé—®é¢˜ä¸­ï¼Œå¹¶ä¼å›¾å»ºç«‹ä¸€å¥—å®Œå¤‡çš„ç‹¬ç«‹çš„ç›¸å®¹çš„å…¬ç†ä½“ç³»,ä½¿å¾—ä¸€èµ·çš„æ•°å­¦å‘½é¢˜åœ¨è¿™å¥—å…¬ç†ä½“ç³»å†…ç»è¿‡æœ‰é™æ­¥éª¤åœ°æŽ¨å¯¼éƒ½èƒ½å¾—åˆ°çœŸä¼ªçš„åˆ¤æ–­ï¼Œè¿™ä¸ªä¸–ç•Œå¤§åŒå¼å¾—æ¢¦æƒ³è®©å½“æ—¶æ‰€æœ‰çš„æ•°å­¦å®¶éƒ½æŒ¯å¥‹ä¸å·²ã€‚ä½†åœ¨1931å¹´ï¼Œå“¥å¾·å°”ä¸å®Œå¤‡å®šç†çš„å‡ºçŽ°ï¼Œè®©è¿™ä¸€å…±äº§ä¸»ä¹‰å¼çš„æ¢¦æƒ³ç ´ç­ã€‚å“¥å¾·å°”ä»¤äººä¿¡æœçš„è¯æ˜Žäº†ï¼šä»»ä½•ç›¸å®¹(æ— çŸ›ç›¾)çš„å…¬ç†ç³»ç»Ÿï¼Œåªè¦åŒ…å«åˆç­‰ç®—æœ¯çš„é™ˆè¿°ï¼Œå¿…å®šå­˜åœ¨ä¸€ä¸ªä¸å¯åˆ¤å®šçš„é—®é¢˜ï¼Œç”¨è¿™ç»„å…¬ç†ä¸èƒ½åˆ¤æ–­å…¶çœŸå‡ã€‚ä¹Ÿå°±æ˜¯è¯´ï¼Œâ€œç›¸å®¹â€å’Œâ€œå®Œå¤‡â€çŠ¹å¦‚é±¼å’Œç†ŠæŽŒï¼Œä¸å¯å¾—è€Œå…¼ä¹‹ã€‚å¹å¼€è¿·é›¾åŽæ‰å‘çŽ°ç†æƒ³çš„å…¬ç†ç³»ç»Ÿå°±åƒä¸€ä»¶æ‰è¥Ÿè§è‚˜çš„åŽä¸½å¤–è¡£ã€‚
+
+1936å¹´ï¼Œå›¾çµå’Œé‚±å¥‡ä¸ºäº†ç¬¬10ä¸ªé—®é¢˜ï¼Œåˆ†åˆ«æž„é€ äº†ä¸¤ç§æ®Šé€”åŒå½’çš„è®¡ç®—æ¨¡åž‹ï¼Œå›¾çµæœºå’Œlambdaç®—å­(è²Œä¼¼è¿˜æœ‰ä¸€ä¸ªæ•°å­¦å®¶æå‡ºäº†é€’å½’å‡½æ•°)ã€‚å›¾çµæœºä»¥æ„Ÿæ€§ç›´è§‚çš„æ–¹å¼å±•çŽ°äº†é€»è¾‘çš„æœºæ¢°æ€§è´¨ï¼Œè€Œlambdaç®—å­åˆ™ä»¥ç†æ€§çš„æ–¹å¼æ­ç¤ºäº†é€»è¾‘çš„æŠ½è±¡å˜æ¢æœ¬è´¨ã€‚å›¾çµåœæœºé—®é¢˜å’Œlambdaç®—å­ä¸­çš„ä¸åŠ¨ç‚¹ç®—å­(Y combinator)ä¸ºå“¥å¾·å°”å¾·ä¸å®Œå¤‡å®šç†æä¾›äº†æœ‰åŠ›çš„ä½è¯ã€‚(å›¾çµæœºå’Œlambdaç®—å­ä¹‹äºŽè®¡ç®—ç†è®ºä¸Žæ³¢ç²’äºŒè±¡æ€§ä¹‹äºŽç‰©ç†æ¯”è¾ƒåƒ,åœ¨åŸºæœ¬ç²’å­èº«ä¸ŠåŒæ—¶ä½“çŽ°å‡ºäº†ä¸¤ç§ç‰¹æ€§)ã€‚
+
+å›¾çµçš„è®¡ç®—æ¨¡åž‹å°†æ€ç»´çš„è¿åŠ¨è½¬åŒ–æˆäº†æœºæ¢°çš„è¿åŠ¨æ–¹å¼ï¼Œä¸ºè®¡ç®—æœºçš„åˆ¶é€ æä¾›äº†å¯èƒ½ã€‚1944 ï¼Œå†¯è¯ºä¾æ›¼è¦è®¡ç®—åŽŸå­å¼¹çš„ååº”ä¼ æ’­é›‡ä½£äº†100å¤šåå¥³è®¡ç®—å‘˜ï¼Œæ—¥ä»¥ç»§å¤œçš„è®¡ç®—ä»ç„¶ä¸èƒ½æ»¡è¶³è®¡ç®—éœ€æ±‚ï¼Œå¶ç„¶æœºä¼šä»–äº†è§£åˆ°äº†ENIACè®¡ç®—æœºçš„ç ”åˆ¶è®¡åˆ’ï¼Œå¾ˆæ„Ÿå…´è¶£ï¼Œæ”¹é€ äº†ä¸€ä¸‹ï¼Œç”¨é€»è¾‘ç­‰ä»·çš„ç¨³å®šå¯é çš„åŸºäºŽäºŒè¿›åˆ¶è®¾è®¡çš„ç”µè·¯ ä»£æ›¿äº†å¤æ‚çš„å¤šè¿›åˆ¶é€»è¾‘ç”µè·¯ï¼Œæˆäº†ï¼Œç„¶åŽå†ç»™é‚£å°æœºå™¨åŠ äº†ä¸ªå†…å­˜æ¡ï¼Œå°±å˜æˆäº†ä¼ è¯´ä¸­çš„å†¯è¯ºä¾æ›¼æœºï¼ˆç¬‘ä¾ƒï¼ŒèŽ«å½“çœŸï¼Œå†¯è¯ºä¾æ›¼æœºæ˜¯æŒ‡ä¸€ç§ç»“æž„ï¼‰ã€‚
+
+æœ‰äº†è®¡ç®—æœºï¼Œè‡ªç„¶å°±å‚¬ç”Ÿäº†ç¨‹åºè®¾è®¡è¯­è¨€ï¼Œç”šè‡³åœ¨è¿˜æ²¡æœ‰è®¡ç®—æœºä¹‹å‰ï¼Œå°±å·²ç»æœ‰äº†ç¨‹åºå‘˜ï¼Œç¬¬ä¸€ä¸ªç¨‹åºå‘˜æ˜¯ä¸€ä¸ªéžå¸¸æœ‰æ‰åŽçš„ç¾Žå¥³:Adaï¼Œæ‹œä¼¦çš„å¥³å„¿ã€‚è¿™ä¸–ç•Œä¸Šï¼Œèªæ˜Žçš„å¥³äººæœ¬æ¥å°±å¾ˆå°‘ï¼Œç¾Žä¸½çš„èªæ˜Žå¥³äººæ›´æ˜¯å°‘ä¹‹åˆå°‘ã€‚å¯æƒœè‹±å¹´æ—©é€ï¼Œä¸‰åå…­å²å°±downæŽ‰äº†ï¼Œæ¯æ¯æƒ³èµ·æ­¤äº‹ï¼Œæœªå…é»¯ç„¶å¹æ¯ï¼Œå¤©å¦’çº¢é¢œé˜¿ã€‚ä½†å¥¹å¤©æ‰çš„é¢„è§ç•™å­˜æ¥ä¸‹æ¥ï¼Œå¹¶åœ¨ä¹‹åŽçš„ä¸€ç™¾å¤šå¹´åŽä¸€ä¸€å¾—åˆ°éªŒè¯ã€‚æ¯æ¬¡è¯»åˆ°è¿™ä¸ªadaè¿™ä¸ªå•è¯å°± ä»¿ä½›çœ‹åˆ°åœ¨çšŽæ´çš„æœˆå…‰ä¸‹ï¼Œæœ‰ä¸€åå©‰çº¦çš„å¥³å­ï¼Œç«™åœ¨ä¸–ç•Œä¹‹å·…çž»æœ›ï¼Œå¥¹ç«çƒ­çœ¼ç›é‡Œé¢æ˜ ç…§ç€å•è°ƒçš„01ä¸–ç•Œç²¾å½©çš„æœªæ¥ï¼Œåœ¨é‚£é‡Œä¸ä»…æœ‰å­ç¨‹åºï¼Œæµç¨‹å›¾ï¼Œè¿˜æœ‰éŸ³ä¹ï¼Œå›¾ç”»â€¦.
+
+åœ¨æè¿°ç¨‹åºè®¾è®¡è¯­è¨€çš„æœ¬èº«çš„æ—¶å€™ï¼Œä¸å¯é¿å…åœ°æ¶‰åŠåˆ°å·´å…‹æ–¯-è¯ºå°”èŒƒå¼.
+
+åŠè·¯å‡ºå®¶è²Œä¼¼æ˜¯å¾ˆå¤šå¤§æ‹¿çš„è·¯å­ã€‚æˆ–è®¸æ˜¯å› ä¸ºä»–ä»¬çš„èªæ˜Žæ‰æ™ºæ˜¯ç‰¹åœ°ä¸ºè®¡ç®—æœºè€Œç”Ÿçš„ï¼Œä¹‹å‰ï¼Œéƒ½æ˜¯åœ¨ä¸ºé‡è§çš„é‚£ä¸€åˆ»å‡†å¤‡ã€‚å·´å…‹æ–¯å’Œè¯ºå°”å°±æ˜¯è¿™æ ·çš„ä»å…„ã€‚
+
+æ®è¯´å·´å…‹æ–¯å¹´å°‘æ—¶ä¸çˆ±è¯»ä¹¦ï¼Œæ··äº†ä¸ªä¸­å­¦æ¯•ä¸šã€‚åœ¨å¤§å­¦æ—¶ç”±äºŽæ— çŸ¥é€‰æ‹©äº†åŒ–å­¦ï¼Œä½†ä¹Ÿæ²¡æ€Žä¹ˆå­¦å¥½...(æ„Ÿè°¢å½“å¹´åŒå­¦çš„ä¸æ€ä¹‹æ©å“ªã€‚è¦ä¸ç¼–ç¨‹è¯­è¨€åŽ†å²å¾—å€’é€€å¤šå°‘å¹´é˜¿)ï¼Œä¸è¿‡å´å¹´å°‘æ–¹åˆšæ¯”è¾ƒçƒ­è¡€ï¼ŒäºŒæˆ˜æ—¶å¤´è„‘ä¸€çƒ­è·‘åŽ»å½“é™†å†›åŒ»ç–—å…µäº†ï¼Œåœ¨è¿™ä¸­é—´æ£€æŸ¥å‡ºäº†è„‘ç˜¤ï¼ŒæŽ¥å—äº†æ‰‹æœ¯ã€‚å…µæ˜¯å½“ä¸æˆäº†ï¼Œé¬¼å­ä¹Ÿæ˜¯æ‰“ä¸äº†äº†ï¼Œä½†å…‰æ´»ç€ä¹Ÿä¸æ˜¯åŠžæ³•ï¼ŒäºŽæ˜¯ä»–æƒ³è½¬èŒåšä¸ªæ— çº¿ç”µå·¥äº†æ­¤æ®‹ç”Ÿç®—äº†ã€‚åœ¨ä¸Šå²—å‰çš„åŸ¹è®­ä¸­ï¼Œå¿½ç„¶ç€äº†é­”èˆ¬çš„å¯¹æ•°å­¦æ„Ÿå…´è¶£äº†ï¼Œ(é¬¼çŸ¥é“æ˜¯ä¸æ˜¯é‚£ä¸ªè„‘ç˜¤å½±å“äº†ä»–å¤§è„‘çš„ç»“æž„)ï¼ŒåŽæ¥å›žç‚‰è€ƒç ”é‡é€ ï¼Œå­¦æˆåŽè·‘åŽ»IBMï¼ŒåŽæ¥çš„äº‹ï¼Œå¤§å®¶éƒ½çŸ¥é“äº†....å°±è¿™æ ·ä¸€ä»£å¤©æ‰ç»ˆäºŽæ‰¾åˆ°äº†è‡ªå·±çš„å¤©èµ‹å’Œä½¿å‘½ï¼Œæ‰¾åˆ°äº†ä¸Šå¸äº¤ç»™ä»–çš„ä»»åŠ¡ï¼Œå¼€å‘äº†ç¬¬ä¸€ä¸ªé«˜çº§ç¼–ç¨‹è¯­è¨€ï¼Œå¹¶æŠ½è±¡å‡ºäº†ä¸€ä¸ªæè¿°é«˜çº§ç¨‹åºè®¾è®¡è¯­è¨€çš„è§„èŒƒ:å·´å…‹æ–¯èŒƒå¼ã€‚
+
+è¯ºå°”æ›´æ˜¯ä¸€ä¸ªæ„å¤–çš„å®¢ä¸².ä¸«å½“æ—¶æ ¹æœ¬å°±æ²¡æƒ³è¿‡è¦åœ¨è®¡ç®—æœºç•Œé—¯å‡ºä¸ªåå ‚æ¥ï¼Œè€Œé†‰å¿ƒäºŽå¤œè§‚å¤©è±¡ã€‚ä»–æœ¬èŒä¹Ÿæ˜¯ä¸€ä¸ªå¤©æ–‡å­¦å®¶ï¼Œç”±äºŽéœ€è¦å¤„ç†å¤§é‡çš„å¤©æ–‡æ•°æ®ï¼Œä¹Ÿå°±è¢«é€¼æˆäº†è®¡ç®—æœºä¸“å®¶ã€‚åœ¨å·´é»Žçš„è‘—åçš„algolå¤§ä¼šä¸Šï¼Œè¯ºå°”å¤§å¹…åº¦çš„ç®€åŒ–äº†å·´æ–¯å…‹èŒƒå¼ï¼Œå¹¶ä½œä¸ºå¤§ä¼šæ€»ç»“äººç”¨å®ƒä¼˜é›…ç®€æ´çš„æè¿°äº†algolçš„ç‰¹æ€§ï¼ŒäºŽæ˜¯å°±äº§ç”Ÿäº†é‚£ä»½åœ¨ç¼–ç¨‹è¯­è¨€å²ä¸Šæœ‰åˆ’æ—¶ä»£æ„ä¹‰çš„\<ç®—æ³•è¯­è¨€algol60æŠ¥å‘Š\>ï¼Œè¿™ä¸ªæŠ¥å‘Šå±•ç¤ºäº†ä»ŽæŽ¥è¿‘äººç±»è¯­è¨€çš„è§†è§’åŽ»å’Œæœºå™¨æ²Ÿé€šï¼Œè€Œä¸æ˜¯ç”¨æœºå™¨è¯­è¨€çš„è§†è§’åŽ»å’Œæœºå™¨æ²Ÿé€šçš„æ–¹å¼ã€‚æ¢å¥è¯è¯´ï¼Œä»–ä»¬æˆåŠŸçš„è®©æ‰€æœ‰çš„å¼€å‘æ´»åŠ¨ä»Žä»¥æœºå™¨ä¸ºä¸­å¿ƒè½¬ç§»åˆ°äº†ä»¥äººçš„é€»è¾‘æ€ç»´ä¸ºä¸­å¿ƒï¼Œä»Žæ­¤è§£æ”¾äº†æœºå™¨ç‰¹æ€§å¯¹äººçš„æ€ç»´é€»è¾‘çš„æŸç¼šï¼Œè¿™æ˜¯ä¸ªäº†ä¸èµ·çš„è´¨çš„é£žè·ƒï¼Œå°±åƒä»Žæ´»ç€æ˜¯ä¸ºäº†åƒé¥­è·ƒè¿åˆ°åƒé¥­æ˜¯ä¸ºäº†æ´»ç€çš„å¢ƒç•Œã€‚
+
+è¯ºå°”è¿˜æ˜¯ä¸€ä¸ªæ‰åŽæ¨ªæº¢çš„äººï¼Œè¶³è¿¹æ¶‰åŠäº†å¤©æ–‡å­¦ï¼Œå¿ƒç†å­¦ï¼Œç”Ÿç‰©å­¦ï¼Œå¤å…¸éŸ³ä¹ç­‰ï¼Œä½†åœ¨å…¶ä»–é¢†åŸŸéƒ½ä¸å¦‚ä»–åœ¨è®¡ç®—æœºä¸Šçš„åå£°å¤§ï¼ŒåŽæ¥ä¹Ÿå°±æ…¢æ…¢çš„ä¸“ä¸šæžè®¡ç®—æœºäº†ã€‚è¿˜æœ‰ä¸€ç‚¹æœ‰æ„æ€çš„æ˜¯ï¼Œè¯ºå°”è™½ç„¶å¾—äº†å›¾çµå¥–ï¼Œä½†å´å§‹ç»ˆä¸æ‰¿è®¤å›¾çµå…³äºŽäººå·¥æ™ºèƒ½çš„æƒ³æ³•ã€‚ä¸–ç•Œä¸Šçš„äº‹å¾€å¾€éƒ½æ˜¯è¿™ä¹ˆèµ¶å·§ï¼Œæ— å¿ƒæ’æŸ³çš„ï¼Œå´è«äº†ä¸€å¤§ç‰‡ã€‚å®¿å‘½é˜¿ã€‚
+
+æŽ¥ç€è¯¥åˆ°ä¹”å§†æ–¯åŸºå‡ºåœºäº†ã€‚æˆ‘çœ¼ä¸­çš„ä¹”å¤§å”å ªæ¯”é‡‘åº¸ç¬”ä¸‹çš„é£Žæ¸…æ‰¬ã€‚ä»–è™½ç„¶ä¸æ˜¯è®¡ç®—æœºç§‘å­¦å®¶ï¼Œåªæ˜¯å“²å­¦å®¶å’Œè¯­è¨€å­¦å®¶ï¼Œä½†ä»–æˆåŠŸåœ°æŠŠè¯­æ³•ç»“æž„ç»Ÿä¸€åˆ°äº†çŠ¶æ€æœºçš„è®¡ç®—æ¨¡åž‹ä¸Šæ¥ï¼Œå‘ä¸–äººæ­ç¤ºäº†è¯­æ³•çš„æ•°å­¦æœ¬è´¨ã€‚åœ¨æ²¡æœ‰çœ‹åˆ°ä¹”å§†æ–¯åŸºçš„å½¢å¼æ–‡æ³•å‰ï¼Œæˆ‘ä»Žæœªæ„è¯†åˆ°æ„Ÿæ€§çš„è¯­è¨€è¿˜æœ‰è¿™ä¹ˆç†æ€§çš„å†…æ¶µã€‚å½“ç„¶è¿™ä¸­é—´å¯èƒ½å¾ˆå¤šéƒ½æ˜¯æ¥è‡ªäºŽä»–çš„è€å¸ˆå“ˆé‡Œæ–¯å…³äºŽè¯­è¨€ç»“æž„[çº¿æ€§ç®—å­](http://zh.wikipedia.org/wiki/%E7%BA%BF%E6%80%A7%E7%AE%97%E5%AD%90 "çº¿æ€§ç®—å­")æ–¹é¢çš„å‘çŽ°ã€‚
+
+å¥½äº†ï¼Œç¥­ç¥€å¤§å…¸ç»“æŸ...æŽ¥ä¸‹æ¥æˆ‘ä»¬è¯¥åˆ†çŒªè‚‰äº†ã€‚
+
+ç¬¬äºŒèŠ‚ å…³äºŽè¯­æ³•è§£æžçš„ä¸€äº›åŸºæœ¬æ¦‚å¿µ
+---------------------------------
+
+Â Â Â  è™½ç„¶çŽ°ä»£è¯­æ–‡åˆ°å¤„éƒ½æ˜¯ä¸»è°“å®¾ä»€ä¹ˆçš„ï¼Œä½†æ˜¯å¾ˆå¥‡æ€ªï¼Œåœ¨å¤ä»£å´é²œæœ‰åˆ†æžè¯­æ³•çš„ï¼Œè¯´æ–‡è§£å­—çš„å¾ˆå¤šï¼Œè°‹ç¯‡å¸ƒå±€çš„ä¹Ÿå¾ˆå¤šï¼Œå¯æ˜¯ç ”ç©¶è¯­æ³•çš„å´å¾ˆå°‘ï¼Œè²Œä¼¼è¿™æ˜¯ä¸€ä¸ªå¾ˆè‡ªç„¶çš„äº‹æƒ…ï¼Œè¿™ä»¶äº‹ç¡®å®žå¥½çŽ©ï¼Œå¤äººçš„æ–‡ç« éƒ½æ˜¯æ²¡æœ‰æ ‡ç‚¹çš„ï¼Œå…¨é è¯­ä¹‰æ–­å¥ï¼Œå’ŒçŽ°ä»£çš„å…ˆåˆ¤æ–­è¯­æ³•å†åˆ¤æ–­è¯­ä¹‰å‡ ä¹Žæ˜¯è¿èƒŒçš„ã€‚åŽæ¥é©¬å»ºå¿ ç…§ç€è¥¿æ–¹çš„è¯­æ³•ç ”ç©¶ä½“ç³»æ¡†æž¶ï¼Œå¯¹ä¸­æ–‡åšäº†ä¸€ä¸ªå…¨é¢çš„å®¡è§†ï¼Œæ¨ªç©ºå‡ºäº†ä¸€æœ¬\<é©¬æ°æ–‡é€š\>ï¼Œå¥ å®šäº†çŽ°ä»£æ±‰è¯­ç ”ç©¶çš„åŸºç¡€ã€‚ä½†æ˜¯è¿™ç§è¯æœ¬ä½çš„ç ”ç©¶æ–¹æ³•ï¼Œç»ˆç©¶ä¸æ˜¯å¤ªåˆé€‚ï¼Œä»¥è‡³äºŽåˆ°äº†çŽ°åœ¨ï¼Œéƒ½è¿˜æ²¡æœ‰ä¸€ç§é è°±çš„åˆ†è¯æ–¹æ³•ï¼Œé‚£äº›å·ç§°å‡†ç¡®åˆ°95%ä»¥ä¸Šçš„å¤šæ•°éƒ½æ˜¯åŸºäºŽç»Ÿè®¡çš„æ–¹æ³•ï¼Œä¹Ÿå°±æ˜¯è¯´ï¼Œå®ƒä»¬çš„æœ¬è´¨åŸºæœ¬éƒ½æ˜¯åŸºäºŽçŽ°æœ‰ä½¿ç”¨é¢‘çŽ‡è€Œå®šï¼Œä¸å…·å¤‡æŽ¨å¯¼æ€§ã€‚æˆ‘éšéšçº¦çº¦çš„æ„Ÿè§‰åˆ°(ps:åªæ˜¯éšéšçº¦çº¦çš„æ„Ÿè§‰åˆ°)ï¼Œä¸­æ–‡ä½“ç³»çš„æœºåˆ¶æœ‰ç‚¹ç±»ä¼¼lambdaç®—å­ï¼Œè‹±æ–‡ä½“ç³»çš„æœºåˆ¶æœ‰ç‚¹è±¡å›¾çµæœºä½“ç³»ã€‚
+
+Â Â  :) æ‰¯äº†é‚£ä¹ˆå¤šï¼Œæ˜¯æƒ³å‘Šè¯‰ä½ ... æœ¬æ•™ç¨‹ä¸æ‰“ç®—ç ”ç©¶ä¸­æ–‡ï¼Œå“ˆå“ˆã€‚å¦‚æžœä½ æ‰“ç®—åšä¸­æ–‡è¯­æ³•è§£æžï¼Œä¸‹é¢çš„å†…å®¹ï¼Œä½ å¯ä»¥ä¸ç”¨çœ‹äº†ã€‚
+
+Â Â  æœ¬ç¯‡å¹¶ä¸æ‰“ç®—ä»¥ä¸¥æ ¼çš„å½¢å¼ä»‹ç»ç¼–è¯‘åŽŸç†çš„å‰ç«¯çš„å†…å®¹ï¼Œå› ä¸ºï¼Œä¸¥æ ¼çš„è¯ä¹Ÿæ˜¯æŠ„é¾™è™Žé²¸ä¹¦ç­‰,è€Œä¸”ï¼Œæ„¿æ„å•ƒå“ªå‡ æœ¬ä¹¦çš„ï¼ŒåŸºæœ¬ä¹Ÿç”¨ä¸ç€æœ¬æ•™ç¨‹äº†ã€‚ä¹Ÿå°±ä»Žéœ€æ±‚çš„è§’åº¦ä¿¡æ‰‹å³ä¹±å¼¹äº†ã€‚
+
+Â Â  é€šå¸¸ï¼Œæˆ‘ä»¬è¦è¡¨è¾¾ä¸€ä¸ªç³»ç»Ÿçš„è§‚ç‚¹ï¼Œéƒ½ä¼šç”¨æ–‡ç« æ¥è¡¨è¾¾ï¼Œä¸€ç¯‡æ–‡ç« ï¼Œæ˜¯ç”±è‹¥å¹²ä¸ªæ®µè½ç»„æˆï¼Œ æ®µè½æ˜¯æœ‰è‹¥å¹²æœ‰é€»è¾‘è”ç³»çš„å¥å­ç»„æˆã€‚å¥å­æ˜¯æœ‰è‹¥å¹²è¯è¯­æž„æˆçš„ï¼Œå°±åƒä¸€å±‚ä¸€å±‚çš„æ´‹è‘±ã€‚ è¯è¯­æˆ–è€…å«å•è¯å°±æ˜¯é‚£äº›æ— æ³•å†æ‹†åˆ†çš„æœ€å°çš„å…·æœ‰æ¦‚å¿µæ„ä¹‰çš„å•ä½ã€‚è¯è¯­æ˜¯ç”±å­—æ¯æœ‰åºç»„æˆçš„ï¼Œä½†å­—æ¯ä¸å…·å¤‡æ¦‚å¿µæ„ä¹‰ã€‚åˆ°äº†è¿™é‡Œï¼Œå°±æœ‰äº†ä¸€æ¡ä¸¥æ ¼çš„åˆ†æ°´çº¿äº†.... ä»¥å•è¯ä¸ºåˆ†ç•Œçº¿ï¼Œå•è¯ä¹‹ä¸Šçš„ï¼Œç»„æˆç»“æž„çš„å…ƒç´ éƒ½æ˜¯å…·æœ‰æ¦‚å¿µæ„ä¹‰çš„ã€‚å•è¯ä»¥ä¸‹ï¼Œç»„æˆç»“æž„çš„å…ƒç´ éƒ½æ˜¯æ²¡æœ‰æ¦‚å¿µæ„ä¹‰çš„ã€‚ï¼ˆè¯·å†ä¸€æ¬¡æ³¨æ„ï¼Œæˆ‘è¯´çš„æ˜¯è‹±æ–‡ä½“ç³»çš„...ä¸æ˜¯ä¸­æ–‡ä½“ç³») äºŽæ˜¯è¿™é‡Œå°±å¼•å‡ºäº†ä¸¤ä¸ªæ¦‚å¿µï¼Œè¯æ³•åˆ†æžå’Œè¯­æ³•åˆ†æžã€‚
+
+### ç¬¬1å°èŠ‚Â Â Â Â Â Â Â Â Â Â  ä»€ä¹ˆæ˜¯è¯æ³•åˆ†æžï¼Œä»€ä¹ˆæ˜¯è¯­æ³•åˆ†æžï¼Œè¿™ä¸¤è€…æœ‰ä»€ä¹ˆä¸åŒï¼Ÿ
+
+**è¯æ³•åˆ†æž****:**ä¸€é—¨ç ”ç©¶æ— æ„ä¹‰çš„å­—æ¯å¦‚ä½•ç»„æˆæœ‰æ„ä¹‰çš„å•è¯çš„æŠ€æœ¯ã€‚
+
+**è¯­æ³•åˆ†æž****:**ä¸€é—¨ç ”ç©¶æœ‰æ„ä¹‰çš„å•è¯å¦‚ä½•ç»„æˆæ›´å¤æ‚æ„ä¹‰çš„å¥å­ï¼Œæ–‡ç« çš„æŠ€æœ¯ã€‚
+
+ä¾‹å­:
+
+Â Â Â  hello,my name is alan, i come from china.
+
+ä»¥ä¸Šæ˜¯ä¸€ä¸ªè‡ªæˆ‘ä»‹ç»çš„ç‰‡æ®µã€‚
+
+è¯æ³•åˆ†æžæ˜¯è¯†åˆ«å‡ºä¸€ä¸ªä¸€ä¸ªçš„å•è¯ æ¯”å¦‚helloï¼Œ myç­‰ã€‚ å•ä¸ªçš„ hï¼Œe ,l,l,o æ˜¯ä¸å…·å¤‡æ¦‚å¿µæ„ä¹‰çš„ï¼Œ åªæœ‰æœ‰åºç»„æˆhelloçš„æ—¶å€™æ‰å…·å¤‡ä¸€ä¸ªæ¦‚å¿µæ„ä¹‰ã€‚
+
+é‚£è¯­æ³•åˆ†æžåˆæ˜¯ä»€ä¹ˆå‘¢ï¼Ÿ æˆ‘ä»¬å‡å®šè¿™æ˜¯ä¸€ä¸ªæ ‡å‡†çš„è‡ªæˆ‘ä»‹ç»çš„æ–‡ç« ã€‚è¿™ä¸ªæ–‡ç« ç”±ä¸‰æ®µç»„æˆï¼šé—®å€™è¯­ï¼Œåå­—ä»‹ç»ï¼Œå½’å±žåœ°ä»‹ç» :) .
+
+é—®å€™è¯­é‡‡ç”¨ hello æˆ–è€… hello xxx çš„å½¢å¼ã€‚
+
+åå­—ä»‹ç»é‡‡ç”¨Â  my name is xxx çš„å½¢å¼ã€‚
+
+å½’å±žåœ°ä»‹ç»é‡‡ç”¨ i come from xxxçš„å½¢å¼ã€‚
+
+é‚£æˆ‘ä»¬è§„å®šçš„è¿™ç§æ ‡å‡†ä»‹ç»çš„æ ¼å¼ï¼Œå°±æ˜¯æ‰€è°“çš„è¯­æ³•ï¼Œæ¯ä¸€æ¡å«è¯­æ³•è§„åˆ™ã€‚ æˆ‘ä»¬é€šå¸¸æ„ä¹‰ä¸Šçš„è‹±æ–‡è¯­æ³•ï¼Œæœ¬è´¨ä¸Šä¹Ÿæ˜¯è¿™æ ·çš„ï¼Œä½†ä»–ä»¬çš„è¯­æ³•ç»“æž„å±‚æ¬¡å¤šç‚¹ï¼Œå„ç»„æˆéƒ¨åˆ†çš„åˆ’åˆ†å¤šäº›å’Œæ ‡å‡†äº›ã€‚æˆ‘ä»¬å¸¸è¯´çš„è‹±è¯­å¥å¼ï¼Œå°±æ˜¯æ‰€è°“çš„è¯­æ³•ï¼Œä½†æ˜¯è¯­æ³•ä¸ä»…ä»…åŒ…æ‹¬å¥å¼ï¼Œè¿˜åŒ…æ‹¬ç¯‡ç« æ®µè½ç»“æž„ç­‰ã€‚
+
+Â Â  æ¯”å¦‚ä¸€ä¸ªæœ€ç®€å•çš„è‹±è¯­å¥å¼:ä¸»è¯­è°“è¯­å®¾è¯­ã€‚
+
+Â  ä¸»è¯­ç”±åè¯æˆ–è€…ä»£è¯ç»„æˆã€‚
+
+Â  è°“è¯­ç”±åŠ¨è¯ç»„æˆã€‚
+
+Â  å®¾è¯­ç”±åè¯æˆ–è€…ä»£è¯ç»„æˆã€‚
+
+Â 
+
+ä»¥ä¸‹ä¸ºç®€å•èµ·è§å°±å‡è®¾å„ä¸ªç»“æž„ç»„æˆæˆåˆ†æœ€å¤šåªæœ‰ä¸¤ä¸ªå§ã€‚
+
+**åè¯ï¼š**ä¸“æœ‰åè¯æˆ–è€…æ™®é€šåè¯ã€‚(å‚è§http://baike.baidu.com/view/26580.htm)
+
+ä¸“æœ‰åè¯ï¼šå¸¸è§çš„äººåæˆ–è€…åœ°å:ä¹Ÿè§å­—å…¸çš„ä¸“æœ‰åè¯åˆ—è¡¨ã€‚å¦‚**China**ï¼ˆ[ä¸­å›½](http://baike.baidu.com/view/61891.htm)ï¼‰ã€**Asia**ï¼ˆ[äºšæ´²](http://baike.baidu.com/view/2918.htm)ï¼‰**Beijing**ï¼ˆ[åŒ—äº¬](http://baike.baidu.com/view/2621.htm)ï¼‰
+
+**æ™®é€šåè¯****:**ä¸ªä½“åè¯æˆ–è€…ç‰©è´¨åè¯ã€‚
+
+**ä¸ªä½“åè¯****:**å•ä¸ªäººæˆ–è€…ç‰©çš„åè¯ï¼Œå¦‚car æ±½è½¦ room æˆ¿é—´ fan é£Žæ‰‡photo ç…§ç‰‡ç­‰ã€‚
+
+**ç‰©è´¨åè¯****:**è¡¨ç¤ºç‰©è´¨æˆ–ä¸å…·å¤‡ç¡®å®šå½¢çŠ¶å’Œå¤§å°çš„ä¸ªä½“çš„ç‰©è´¨ã€‚fire ç« steel é’¢ air ç©ºæ°” water æ°´ milkç‰›å¥¶ã€‚
+
+**åŠ¨è¯****:**è¡¨ç¤ºåŠ¨ä½œçš„è¯è¯­ã€‚ ä¸€èˆ¬è§å­—å…¸çš„åŠ¨è¯è¡¨ï¼Œæ¯”å¦‚is ï¼Œdoï¼Œ make ç­‰ç­‰ã€‚
+
+ä»£è¯: itï¼Œiï¼Œ sheï¼Œheç­‰è¯è¯­ã€‚
+
+Â 
+
+ä¹Ÿå°±æ˜¯è¯´ï¼Œè¿™ä¸ªç»è¿‡é˜‰å‰²çš„ç®€å•çš„ä¸»è°“å®¾çš„å¥å¼ï¼Œè¯­æ³•ç»“æž„æ˜¯è¿™æ ·çš„:
+
+![](hand%20in%20hand%20with%20antlr.files/image035.png)
+
+Â 
+
+æ¤­åœ†æ¡†å†…çš„æ˜¯å­—æ¯åºåˆ—ï¼Œæ˜¯å…·ä½“çš„å•è¯ä¾‹å­ã€‚
+
+æ–¹æ¡†æ˜¯ä½œä¸ºè¯­æ³•åˆ†æžçš„åŸºæœ¬å•ä½ï¼Œæ˜¯è¯æ³•åˆ†æžå‡ºæ¥çš„æœ€åŽç»ˆç»“æžœã€‚
+
+åœ†è§’æ¡†æ˜¯ç¬¦åˆçš„è¯­æ³•ç»“æž„ã€‚
+
+åƒ it is tree ï¼Œå°±æ˜¯è¿™æ ·çš„ç»“æž„ã€‚
+
+![](hand%20in%20hand%20with%20antlr.files/image036.png)
+
+Â 
+
+é‚£å¦‚ä½•æ¥æè¿°è¯æ³•è¯­æ³•è§„åˆ™å‘¢ï¼Ÿ è¿™å°±æ¶‰åŠåˆ°äº†é¼Žé¼Žæœ‰åçš„å·´å…‹æ–¯-è¯ºå°”èŒƒå¼ã€‚
+
+### ç¬¬2å°èŠ‚Â Â Â Â Â Â Â Â Â Â  å·´å…‹æ–¯-è¯ºå°”èŒƒå¼,äº§ç”Ÿå¼,æœ€å·¦æŽ¨å¯¼,æœ€å³æŽ¨å¯¼,å·¦é€’å½’,å³é€’å½’
+
+å·´å…‹æ–¯å‘æ˜Žäº†ä¸€ç§å«å·´å…‹æ–¯èŒƒå¼(Backus Normal Form)çš„æ ¼å¼æ¥æ ‡ç¤ºè¯­æ³•è¯æ³•ï¼Œè¯­æ³•è¯æ³•æœ¬è´¨ä¸Šå…¶å®žæ˜¯ä¸€æ ·çš„ï¼Œä¸è¿‡æ˜¯ç»„æˆå•ä½æ˜¯å¦æœ‰é€»è¾‘æ¦‚å¿µæ„ä¹‰è€Œå·²ã€‚
+
+å·´å…‹æ–¯èŒƒå¼åŽç»è¯ºå°”æ”¹è¿›ï¼ŒåŽäººä¾¿åˆæˆå·´å…‹æ–¯-è¯ºå°”èŒƒå¼ (Backus-Naur Form)ç®€ç§°éƒ½æ˜¯å«BNFã€‚
+
+è¿™ä¸ªèŒƒå¼å¾ˆç®€å•(è§http://zh.wikipedia.org/zh-cn/%E5%B7%B4%E7%A7%91%E6%96%AF%E8%8C%83%E5%BC%8F)ï¼Œ
+
+è§„å®šäº†ä¸€ä¸ªè¯­æ³•ç»“æž„çš„æè¿°æ˜¯ç”±ä¸€å †è¯­æ³•è§„åˆ™ç»„æˆï¼Œ
+
+æ¯ä¸€ä¸ªè§„åˆ™ç¬¦åˆè¿™æ ·çš„æ ¼å¼:
+
+\<ç¬¦å·\> ::= \<ä½¿ç”¨ç¬¦å·çš„è¡¨è¾¾å¼\>
+
+è¿™é‡Œçš„ \<ç¬¦å·\> æ˜¯éžç»ˆç»“ç¬¦ï¼Œè€Œè¡¨è¾¾å¼ç”±ä¸€ä¸ªç¬¦å·åºåˆ—ï¼Œæˆ–ç”¨æŒ‡ç¤ºé€‰æ‹©çš„ç«–æ  '|' åˆ†éš”çš„å¤šä¸ªç¬¦å·åºåˆ—æž„æˆï¼Œæ¯ä¸ªç¬¦å·åºåˆ—æ•´ä½“éƒ½æ˜¯å·¦ç«¯çš„ç¬¦å·çš„ä¸€ç§å¯èƒ½çš„æ›¿ä»£ã€‚ä»Žæœªåœ¨å·¦ç«¯å‡ºçŽ°çš„ç¬¦å·å«åšç»ˆç»“ç¬¦ã€‚
+
+Â 
+
+å…·ä½“å¯ä»¥è§£è¯»æˆ:
+
+\<éžç»ˆç»“ç¬¦\> ::= \<å¯èƒ½é€‰æ‹©è¡¨è¾¾å¼1\> | \<å¯èƒ½é€‰æ‹©è¡¨è¾¾å¼2\>...
+
+Â 
+
+BNFåœ¨æè¿°ä¸Šæ˜¯å­˜åœ¨ç€ä¸€äº›ç¼ºé™·çš„ï¼Œ å®ƒæ— åŠ›æè¿°å®ƒæ‰€å ç”¨çš„\<\> ::= | ç­‰å­—ç¬¦ï¼Œç”¨çŽ°åœ¨çš„è¯è¯´æ˜¯æ²¡æœ‰è½¬ä¹‰åŠŸèƒ½ã€‚å¦å¤–ï¼Œå®ƒå¯¹å¯é€‰ç»“æž„(å¯æœ‰å¯æ— çš„é€‰é¡¹)ä»¥åŠé‡å¤é¡¹çš„æè¿°å¾ˆç½—å—¦ã€‚äºŽæ˜¯å°±æœ‰äº†EBNF(æ‰©å±•å·´å…‹æ–¯èŒƒå¼)çš„å‡ºçŽ°ã€‚
+
+å…·ä½“çœ‹(http://zh.wikipedia.org/wiki/%E6%89%A9%E5%B1%95%E5%B7%B4%E7%A7%91%E6%96%AF%E8%8C%83%E5%BC%8F).
+
+çŽ°åœ¨å¸¸ç”¨çš„ï¼ŒåŸºæœ¬éƒ½EBNFçš„æ ¼å¼ï¼Œä½†BNFå’ŒEBNF ä¸¤è€…èƒ½åŠ›ç­‰ä»·ã€‚
+
+Â Â Â  ä¸€èˆ¬é‡‡ç”¨äº§ç”Ÿå¼æ¥åšè¯­æ³•æŽ¨å¯¼ï¼Œå¯ä»¥è®¤ä¸ºäº§ç”Ÿå¼å…¶å®žå°±æ˜¯BNFçš„ä¸€æ¡è§„åˆ™çš„å¦ä¸€ç§è¡¨è¾¾æ–¹å¼ã€‚äº§ç”Ÿå¼é‡‡ç”¨Â  å‰ææ¡ä»¶-\>ç»“è®ºåŠ¨ä½œ è¿™æ ·çš„è¡¨è¾¾æ–¹å¼ã€‚
+
+Â Â Â  é‡‡ç”¨è¿™ç§äº§ç”Ÿå¼çš„è§„åˆ™ï¼Œå¯ä»¥å¾ˆå¥½çš„è¯ é‡Šè¯­æ³•çš„æŽ¨å¯¼è¿‡ç¨‹ã€‚
+
+æ¯”å¦‚æœ‰ä¸€ä¸ªè¿™æ ·çš„è§„åˆ™é›†åˆ:Â  {S-\>AB,A-\>a, B-\>b } è¦åˆ†æžçš„å­—ç¬¦ä¸² SB
+
+Â Â Â  æœ€å·¦æŽ¨å¯¼æ˜¯:Â  SB-\>ABB-\>aBB-\>abB-\>abb;
+
+Â Â Â  æœ€å³æŽ¨å¯¼æ˜¯:Â  SB-\>Sb-\>ABb-\>Abb-\>abb;
+
+ä»–ä»¬çš„åŒºåˆ«æ˜¯å¾ˆç®€å•çš„ ä»Žå·¦è¾¹è¿˜æ˜¯ä»Žå³è¾¹å¼€å§‹æŒ‰ç…§è§„åˆ™æ›¿æ¢ã€‚
+
+Â Â Â  åœ¨æ›¿æ¢çš„è¿‡ç¨‹ä¸­ï¼Œå¯èƒ½ä¼šé­é‡å·¦é€’å½’æˆ–è€…å³é€’å½’çš„æƒ…å†µï¼Œå·¦é€’å½’æ˜¯ç›¸å¯¹æœ€å·¦æŽ¨å¯¼è€Œäº§ç”Ÿçš„ï¼Œå³é€’å½’æ˜¯ç›¸å¯¹æœ€å³æŽ¨å¯¼è€Œäº§ç”Ÿçš„ã€‚
+
+Â Â Â  ä¸¾ä¾‹è¯´æ˜Ž,{A-\>Aa,A-\>b}Â  å½“ä½¿ç”¨æœ€å·¦æŽ¨å¯¼æ—¶ï¼ŒA-\>Aa,å°±ä¼šé™·å…¥æ— é™çš„åˆ†è£‚ä¸­ A-\>AAA...aã€‚ç»å…¸çš„å¤„ç†æ–¹æ³•æ˜¯å°†è¿™ä¸¤ä¸ªäº§ç”Ÿå¼è½¬æ¢æˆ3ä¸ªç­‰ä»·çš„äº§ç”Ÿå¼{A-\>bR,R-\>aR,R-\>ç©º}; å…·ä½“å¯ä»¥è‡ªè¡ŒéªŒè¯ä¸€ä¸‹ï¼Œç¼–è¯‘åŽŸç†çš„ä¹¦ä¹Ÿæœ‰è¯¦ç»†å™è¿°ã€‚
+
+Â Â Â  å³é€’å½’ä¹Ÿç±»ä¼¼è¿™æ ·ã€‚ä¸è¿‡æ˜¯å½¢å¦‚(A-\>aA,A-\>b)çš„äº§ç”Ÿå¼è§„åˆ™ åœ¨è¿ç”¨æœ€å³æŽ¨å¯¼çš„æ—¶å€™æ‰ä¼šäº§ç”Ÿï¼Œè§£å†³æ–¹æ³•ä¹Ÿé›·åŒã€‚
+
+Â 
+
+### ç¬¬3å°èŠ‚Â Â Â Â Â Â Â Â Â Â  è¯­æ³•è§£æžçš„è‡ªé¡¶å‘ä¸‹å’Œè‡ªåº•å‘ä¸Šçš„ç­–ç•¥
+
+Â Â  è¯­æ³•è§£æžçš„è¿‡ç¨‹ï¼Œå°±ç®—æ˜¯æ‹¿è¿™ä¸ªçº¸å¸¦ä¼¼çš„å­—ç¬¦ä¸²åºåˆ—æŒ‰ç…§ä¸€å®šè§„åˆ™æ‰­æˆç›®æ ‡çš„è¯­æ³•ç»“æž„ï¼Œå¦‚æžœèƒ½æ‰­æˆï¼Œå°±è¯´æ˜Žè¿™ä¸ªæ˜¯å­—ç¬¦ä¸²åºåˆ—æ˜¯ç¬¦åˆè¿™ä¸ªè¯­æ³•çš„ï¼Œå¦åˆ™å°±æ˜¯ä¸ç¬¦åˆè¿™ä¸ªè¯­æ³•çš„ã€‚
+
+é‚£çŽ°åœ¨æˆ‘ä»¬å…³æ³¨ä¸€ä¸‹è¿™ä¸ªæ‰­çš„è¿‡ç¨‹ã€‚ä¸€èˆ¬è€Œè¨€ï¼Œæœ‰ä»¥ä¸‹ä¸¤ç§ç­–ç•¥ã€‚
+
+è‡ªé¡¶å‘ä¸‹çš„ç­–ç•¥ï¼šåœ¨æž„é€ è¯­æ³•æ ‘(å°±æ˜¯é‚£ä¸ªåƒä¸€é¢—å€’ç€çš„æ ‘çš„è¯­æ³•ç»“æž„)çš„æ—¶å€™ï¼Œä»Žè¯­æ³•æ ‘çš„æ ¹èŠ‚ç‚¹å¼€å§‹ï¼ŒæŒ‰ç…§å…ˆæ ¹é¡ºåºæž„é€ å„ä¸ªèŠ‚ç‚¹ï¼Œä¹Ÿå°±æ˜¯è¯´ï¼Œå¶ç»“ç‚¹æ€»æ˜¯åŽäºŽæ ¹èŠ‚ç‚¹åˆ›å»ºï¼Œ è¿‡ç¨‹å°±åƒä»Žä¸Šé¢(æ ¹èŠ‚ç‚¹)åˆ°ä¸‹é¢(å¶ç»“ç‚¹)å»ºé€ ï¼Œå› æ­¤å¾—åã€‚
+
+è‡ªåº•å‘ä¸Šï¼Œåˆšå¥½ç›¸åã€‚
+
+å¦‚ä½•ç†è§£è¿™ä¸¤è€…çš„åŒºåˆ«å‘¢ï¼Ÿ
+
+ä¸€ä¸ªäººï¼Œå·¦æ‰‹æ‹¿ç€ä¸€ä¸ªè¯­æ³•ç»“æž„ï¼Œå³æ‰‹ä»Žä¸€ä¸ªç®¡é“é‡Œé¢å–å‡º è¾“å…¥å­—ç¬¦ä¸²çš„ç§¯æœ¨å—ã€‚å¾€è¯­æ³•ç»“æž„é‡Œé¢å æ”¾ï¼Œæœ€åŽå å‡ºæ¥äº†å¸¦è¾“å…¥å­—ç¬¦ä¸²çš„è¯­æ³•ç»“æž„ï¼Œè¿™ä¸ªå°±å«è‡ªé¡¶å‘ä¸‹ã€‚
+
+å¦‚æžœé‚£ä¸ªäººå·¦æ‰‹æ‹¿ç€ä¸€æ®µè¾“å…¥å­—ç¬¦ä¸²ï¼Œå³æ‰‹ä»Žä¸€å † é›¶æ•£çš„è¯­æ³•ç»“æž„ç§¯æœ¨å—é‡Œé¢å–å‡ºåˆé€‚çš„ç§¯æœ¨å—ï¼Œå¾€è¾“å…¥å­—ç¬¦ä¸²ä¸Šå æ”¾ï¼Œæœ€åŽå¾—åˆ°ä¸€ä¸ªå¸¦è¾“å…¥å­—ç¬¦ä¸²çš„è¯­æ³•ç»“æž„ï¼Œè¿™ä¸ªå°±å«è‡ªåº•å‘ä¸Šã€‚
+
+æˆ‘ä»¬çŽ©ä¸€ä¸ªAè¯´Bè¯´å¾—æ¸¸æˆæ¥å…·ä½“è¯´æ˜Žè¿™ä¸ªè¿‡ç¨‹å§ã€‚
+
+æˆ‘ä»¬å®šä¹‰è¿™æ ·çš„è¯­æ³•ç»“æž„:
+
+å¥å¼DEMO: ä¸»è¯­ è°“è¯­ å®¾è¯­
+
+ä¸»è¯­: äººåï¼Œç®€å•çš„ä»¥"A" "B" ..."Z"æ¥å‘½åã€‚
+
+è°“è¯­: "say" å’Œ "is" ä¸¤ä¸ªåŠ¨è¯ã€‚
+
+å®¾è¯­: thatä»Žå¥ æˆ–è€… "over"è¿™ä¸ªè¯ã€‚
+
+thatä»Žå¥ï¼š"that" ä¸»è¯­ è°“è¯­ å®¾è¯­ã€‚
+
+çŽ°åœ¨æˆ‘ä»¬æ¥åˆ†æž è¿™æ ·çš„ä¸€ä¸ªå¥å­:
+
+A say that B say that C is over;
+
+Â 
+
+å…ˆæ¥çœ‹çœ‹è‡ªé¡¶å‘ä¸Šæ˜¯æ€Žæ ·çš„è¿‡ç¨‹ï¼š
+
+æˆ‘ä»¬å…ˆç•¥åŽ»è¯æ³•åˆ†æžï¼Œå‡è®¾A B C say is that overè¿™äº›å·²ç»è¢«è¯†åˆ«ä¸ºå•è¯ ã€‚
+
+å·¦æ‰‹æ‹¿ç€è¯­æ³•ç»“æž„ å¥å¼demoÂ  ï¼Œå³æ‰‹å‡†å¤‡ä»Žç®¡é“é‡Œé¢å–å‡ºå•è¯ã€‚
+
+å¥å¼demo è¦æ±‚çš„ç¬¬ä¸€ä¸ªå…ƒç´ æ˜¯ ä¸»è¯­ï¼šäººåã€‚ å³æ‰‹ä»Žç®¡é“é‡Œé¢å–å‡ºçš„ç¬¬ä¸€ä¸ªå•è¯æ˜¯A ï¼Œåˆšå¥½æ˜¯äººåï¼Œä¸¤è€…ç¬¦åˆï¼ŒäºŽæ˜¯åˆ°ä¸‹ä¸€æ­¥ï¼Œ
+
+![](hand%20in%20hand%20with%20antlr.files/image037.png)
+
+å¥å¼demo è¦æ±‚ç¬¬äºŒä¸ªå…ƒç´ æ˜¯ è°“è¯­ say æˆ–è€… is ä¸¤ä¸ªå•è¯ã€‚ å³æ‰‹ä»Žç®¡é“å–å‡ºçš„ç¬¬äºŒä¸ªå•è¯æ˜¯ sayï¼Œ ä¹Ÿç¬¦åˆè¦æ±‚ï¼ŒäºŽæ˜¯å¯ä»¥ç»§ç»­ä¸‹ä¸€æ­¥ã€‚
+
+![](hand%20in%20hand%20with%20antlr.files/image038.png)
+
+å¥å¼demo è¦æ±‚çš„ç¬¬ä¸‰ä¸ªå…ƒç´ æ˜¯ over æˆ–è€… ä»¥thatå¼€å¤´çš„thatä»Žå¥ã€‚ å³æ‰‹ä»Žç®¡é“å–å‡ºçš„æ˜¯that.. æ»¡è¶³æ˜¯thatçš„ä»Žå¥çš„ç‰¹å¾ï¼Œä½†æ˜¯æ­¤åˆ»ä¸èƒ½åˆ¤æ–­æ˜¯ä¸æ˜¯æ­£ç¡®çš„thatä»Žå¥ï¼Œå‡å®šä¸ºthatä»Žå¥ï¼Œè·³åˆ°thatä»Žå¥çš„è¯­æ³•è§„åˆ™ï¼Œç»§ç»­ä¸‹ä¸€æ­¥ã€‚
+
+![](hand%20in%20hand%20with%20antlr.files/image039.png)
+
+thatä»Žå¥è¦æ±‚thatä¹‹åŽçš„å…ƒç´ æ˜¯ ä¸»è¯­:äººåã€‚å³æ‰‹ä»Žç®¡é“é‡Œé¢å–å‡ºçš„æ˜¯B ï¼Œç¬¦åˆè¦æ±‚ï¼Œç»§ç»­ä¸‹ä¸€æ­¥...
+
+é‡å¤ä»¥ä¸Šæ­¥éª¤ï¼Œåˆšåˆšå¥½å·¦æ‰‹æ‰€æœ‰ç”¨åˆ°çš„è§„åˆ™éƒ½å¾—åˆ°æ»¡è¶³ï¼Œè€Œå³æ‰‹ç®¡é“çš„å†…å®¹ä¹Ÿéƒ½ç©ºäº†ã€‚
+
+äºŽæ˜¯æˆ‘ä»¬å°±å¾—åˆ°äº†è¿™æ ·çš„ä¸€æ£µè¯­æ³•ç»“æž„æ ‘:
+
+![](hand%20in%20hand%20with%20antlr.files/image040.png)
+
+Â 
+
+æˆ‘ä»¬å†æ¥çœ‹çœ‹è‡ªåº•å‘ä¸Šçš„è¿‡ç¨‹:
+
+æŠŠä¸Šé¢è¿‡ç¨‹çš„å·¦å³æ‰‹æ¢è¿‡æ¥.å·¦æ‰‹å­—ç¬¦ä¸²çš„ç®¡é“ï¼Œå³æ‰‹è¯­æ³•è§„åˆ™å †ã€‚æˆ‘ä»¬å€ŸåŠ©ä¸€ç§å«å †æ ˆçš„ç»“æž„å·¥å…·ï¼Œä½ å¯ä»¥æŠŠå †æ ˆæƒ³è±¡æˆåƒ å­å¼¹å¤¹è¿™æ ·çš„ä¸œè¥¿ï¼ŒåŽåŽ‹è¿›åŽ»çš„å­å¼¹å…ˆå‡ºæ¥ï¼Œå¦‚æžœæœ‰å­å¼¹çš„è¯ï¼Œæ°¸è¿œæœ‰ä¸€é¢—å­å¼¹ä¿æŒåœ¨é¡¶ç«¯ï¼Œæˆ‘ä»¬æŠŠé‚£ä¸ªé¡¶ç«¯ä½ç½®å«åšæ ˆé¡¶ã€‚
+
+è‡ªåº•å‘ä¸Šçš„å¤„ç†è¿‡ç¨‹æ€»ä½“æ˜¯è¿™æ ·çš„ï¼ŒæŠŠå·¦æ‰‹çš„å­—ç¬¦ä¸²ä¸­çš„å…ƒç´ æŒ‰ç…§é¡ºåºï¼Œåƒå­å¼¹ä¸€æ ·ï¼Œä¸€ä¸ªä¸€ä¸ªçš„åŽ‹å…¥è¿›åŽ»ï¼ŒåŽ‹å…¥ä¸€ä¸ªå°±ä»Žæ ˆé¡¶å¼€å§‹ä¾æ¬¡å¾€æ ˆåº•æ£€æŸ¥ï¼Œå¦‚æžœç¬¦åˆå³è¾¹è¯­æ³•è§„åˆ™å †é‡Œé¢çš„è§„åˆ™ï¼Œå°±æŠŠç¬¦åˆéƒ¨åˆ†çš„å †æ ˆå†…å®¹å¼¹å‡ºï¼ŒæŠŠé‚£ä¸ªæŠ½è±¡è§„åˆ™åï¼ŒåŽ‹å…¥è¿›åŽ»ï¼Œ æŠŠå­—ç¬¦ä¸²åŽ‹å…¥æ ˆçš„è¿‡ç¨‹å«**ç§»åŠ¨**ï¼Œå‘çŽ°ç¬¦åˆè¯­æ³•è§„åˆ™ï¼Œå˜æˆæŠ½è±¡çš„è¯­æ³•åç§°å®žä¾‹(æˆ–è€…handle) ,ç„¶åŽå†åŽ‹å…¥æ ˆçš„è¿‡ç¨‹å«**è§„çº¦**ã€‚
+
+å…·ä½“ä¾‹å­è¿‡ç¨‹å¦‚ä¸‹:
+
+![](hand%20in%20hand%20with%20antlr.files/image041.png)
+
+![](hand%20in%20hand%20with%20antlr.files/image042.png)
+
+Â 
+
+ç¬¬ä¸‰èŠ‚ ç»å…¸çš„è¡¨è¾¾å¼æ•™ç¨‹è§£æž
+---------------------------
+
+Â Â  å‡ ä¹Žæ¯ä¸€æœ¬è¯­æ³•è§£æžçš„æ•™ç¨‹éƒ½ä¼šç”¨æ•´æ•°å››åˆ™è¡¨è¾¾å¼æ¥å½“ä½œå…¥é—¨çº§åˆ«çš„è¯­æ³•æ•™ç¨‹ï¼Œè¿™èŠ‚å°±ä»¥å®žç”¨çš„è§†è§’åŽ»å‰–æžè¿™ä¸ªæ•™ç¨‹ï¼Œæˆ‘ä»¬å°±å½“å®ƒæ˜¯ä¸€ä¸ªçœŸå®žçš„caseå§ã€‚
+
+### ç¬¬1å°èŠ‚Â Â Â Â Â Â Â Â Â Â  ç•Œå®šéœ€æ±‚
+
+Â Â Â  å‡è®¾ä½ ç»™æŸä¸€ä¸ªç¨‹åºä¸€ä¸²å¸¸ç”¨çš„ä¸‰åˆ™æ··åˆè¿ç®—çš„è¡¨è¾¾å¼ï¼Œè¦æ±‚è¿™ä¸ªç¨‹åºç»™ä½ è®¡ç®—å‡ºç»“æžœï¼Œæ˜¾ç¤ºçš„è¦æ±‚å¦‚ä¸‹:
+
+1)Â Â Â Â Â Â Â  ä½¿ç”¨è€…ä¼ é€’æ–‡æœ¬ä¼ é€’æ–‡æœ¬ç»™ç¨‹åºï¼Œç¨‹åºè§£æžå®ŒåŽåœ¨æŽ§åˆ¶å°è¾“å‡ºç»“æžœï¼Œæˆ–è€…é”™è¯¯ä¿¡æ¯
+
+2)Â Â Â Â Â Â Â  è¾“å…¥å’Œç»“æžœä¸ºæ•´åž‹èŒƒå›´çš„æ•´æ•°ã€‚
+
+3)Â Â Â Â Â Â Â  æ”¯æŒå‘½åçš„è¡¨è¾¾å¼ã€‚è¡¨è¾¾å¼ç»“æžœå¯ä»¥è¢«å…¶ä»–è¡¨è¾¾å¼æŒ‰åå¼•ç”¨ã€‚æ”¯æŒå¤šæ¡è¡¨è¾¾å¼æ‰¹é‡è®¡ç®—ã€‚
+
+4)Â Â Â Â Â Â Â  æ”¯æŒåŠ å‡ä¹˜ä¸‰ç§è¿ç®—ç¬¦å·,ç¬¦å·æ“ä½œæ„ä¹‰åŒæ•°å­¦ï¼Œæ³¨:ä¹˜ä¼˜å…ˆçº§æ¯”åŠ å‡é«˜ã€‚
+
+5)Â Â Â Â Â Â Â  æ”¯æŒæ‹¬å·ï¼Œæ‹¬å·æ”¹å˜åŽŸæœ‰çš„è¿ç®—ç¬¦å·ä¼˜å…ˆçº§ã€‚
+
+Â 
+
+Â Â Â  è¿™ä¸ªcaseæ¯”è¾ƒç‰¹æ®Šï¼Œå®ƒçš„éœ€æ±‚æ˜¯ç®€å•ç›´ç™½çš„ï¼Œæ•…æ²¡ç»è¿‡ä»€ä¹ˆæŠ½è±¡è¿‡ç¨‹ã€‚ç„¶è€Œï¼Œåœ¨çœŸå®žçš„çŽ¯å¢ƒä¸­ï¼Œä»¥ç”¨æˆ·ç”¨ä¾‹ç•Œå®šåŠŸèƒ½è¾¹ç•Œï¼Œä»Žç”¨ä¾‹ä¸­æŠ½å–å‡ºéœ€æ±‚ã€‚è¿™æ˜¯ä¸€ä¸ªå¾ˆé‡è¦ä¹Ÿå¾ˆå¤æ‚çš„å·¥ä½œï¼Œè¿™ä¹Ÿè¶…å‡ºäº†æœ¬ä¹¦çš„èŒƒå›´ä¸Žä½œè€…çš„èƒ½åŠ›ï¼Œæœ‰å…´è¶£çš„å¯ä»¥çœ‹çœ‹å…³äºŽ\<éœ€æ±‚çš„æŽ¢ç´¢\> \<rup\>\<åˆ†æžä¸Žè®¾è®¡\>ç­‰è½¯ä»¶éœ€æ±‚åˆ†æžä¸Žè®¾è®¡çš„ä¹¦ã€‚
+
+Â Â Â  ä¸€èˆ¬ç”¨use caseæ¥æ•æ‰æè¿°éœ€æ±‚ï¼Œè¿™é‡Œæˆ‘æ‹Ÿæ€»ç»“å‡ºè‡ªå·±çš„ä¸€äº›ç»éªŒæ³•åˆ™ï¼Œä½†æœ‰å¿…è¦æé†’ä¸€ä¸‹ï¼Œè¿™åªæ˜¯ä¸ªäººç»éªŒæ³•åˆ™ï¼Œæ²¡æœ‰ç»è¿‡ä¸¥æ ¼çš„è¯æ˜Žæ˜¯å¯¹çš„.è¯·æ‰¹åˆ¤æ€§çš„æŽ¥å—ã€‚
+
+Ã˜Â  è¦æ‰¾å‡ºå‚ä¸Žè€…ï¼Œè¯­è¨€æ˜¯å¤šæ–¹æ²Ÿé€šçš„å¥‘çº¦ã€‚æ‰€ä»¥è¦æ‰¾å‡ºåœºæ™¯ä¸­çš„å‚ä¸Žè€…ã€‚å¹¶å¯¹å‚ä¸Žè€…è¿›è¡Œå½’ç±»ã€‚å³è¦æŠ½è±¡å‡ºå‚ä¸Žè€…çš„è§’è‰²ã€‚ï¼ˆè§éœ€æ±‚1ï¼‰
+
+Ã˜Â  æ‰¾å‡ºæ½œåœ¨çš„æ¡ä»¶çº¦æŸï¼Œä»¥åŠæ²Ÿé€šçš„ç›®çš„ï¼Œè¿™ä¸ªå¯¹è¯­ä¹‰å®žçŽ°å¾ˆé‡è¦ã€‚æ¯”å¦‚åœ¨å®žæ—¶äº¤æ˜“çš„åœºæ™¯ä¸‹ï¼Œå¯¹æ—¶é—´çš„è¦æ±‚å¾ˆä¸¥æ ¼ï¼Œè¿™ç§å°±æ˜¯æ½œåœ¨çš„çº¦æŸæ¡ä»¶ã€‚ æ²Ÿé€šçš„ç›®çš„åˆæ˜¯ä»€ä¹ˆå‘¢ï¼Ÿ åƒè¡¨è¾¾å¼çš„ä¾‹å­çš„ç›®çš„å°±æ˜¯è®¡ç®—è¿™ä¸ªè¡¨è¾¾å¼æœ€åŽçš„ç»“æžœã€‚(è§éœ€æ±‚2)
+
+Ã˜Â  æŠ½å–å‡ºä¸“ä¸šæœ¯è¯­ï¼Œè¿™ä¸ªå¯¹è¯æ³•åˆ†æžå’Œè¯­ä¹‰å®žçŽ°å¾ˆé‡è¦ã€‚è¿™å…¶å®žæ˜¯ä¸€ç§å–å·§çš„åšæ³•ï¼Œåˆ©ç”¨äººçš„æ€ç»´é”¤ç‚¼å‡ºæ¥çš„ç»“æžœã€‚å½“ä¸€ä»¶äº‹æƒ…è¢«é”¤ç‚¼åƒç™¾éçš„æ—¶å€™ï¼Œäººè„‘ä¸€èˆ¬éƒ½ä¼šè¿›è¡ŒæŠ½è±¡ï¼Œç”¨æœ€ç²¾ç®€çš„ä¿¡æ¯æ¥æè¿°è¿™ä¸ªäº‹ä»¶ï¼Œè¿™å°±æ˜¯å¸¸è¯´çš„è¡Œè¯ã€‚ç²¾ç®€çš„ä¿¡æ¯åŒ…å«çš„å¤§é‡çš„å†…æ¶µï¼Œå†…æ¶µå†³å®šäº†è¯­ä¹‰çš„å®žçŽ°ã€‚æ¯”å¦‚è¡Œè¯â€œè°ƒè¯•(debug) â€å°±æ˜¯åŒ…å«äº†è®¾ç½®æ–­ç‚¹ä¸€æ­¥ä¸€æ­¥è¿½è¸ªæ£€æŸ¥ç¨‹åºä»£ç æ¯ä¸€å¤„çŠ¶æ€çš„ä¸€ç³»åˆ—è¿‡ç¨‹ã€‚(è§éœ€æ±‚3ã€4)
+
+Ã˜Â  æ˜Žç¡®ä¸“ä¸šæœ¯è¯­è¦æ±‚çš„ä¸Šä¸‹æ–‡ã€‚æ¯”å¦‚éšå«æŸäº›å‚æ•°æˆ–è€…éœ€è¦æŒ‡å®šå…·ä½“çš„å‚æ•°ï¼Œé‚£äº›æœ¯è¯­éœ€è¦å’Œé‚£äº›æœ¯è¯­é…å¥—ä½¿ç”¨ã€‚(è§éœ€æ±‚3ã€4ã€5)
+
+Ã˜Â  åˆ¤æ–­æè¿°çš„ç²’åº¦ã€‚æœ‰ä¸€äº›åœºæ™¯ï¼Œç”¨ä¸€ä¸ªå¥å­å°±å¯ä»¥æè¿°æ¸…æ¥šäº†ï¼Œæœ‰äº›åœºæ™¯éœ€è¦ç”¨ä¸€æ®µè¯æ¥æè¿°ï¼Œè€Œæœ‰ä¸€äº›åœºæ™¯ï¼Œéœ€è¦ç”¨ä¸€ç¯‡æ–‡ç« æ¥æè¿°ã€‚
+
+Â 
+
+### ç¬¬2å°èŠ‚Â Â Â Â Â Â Â Â Â Â  è®¾è®¡è¯­æ³•
+
+Â Â Â  è®¾è®¡è¯­æ³•æ˜¯ä¸€ä¸ªå¾ˆéº»çƒ¦çš„è¿‡ç¨‹ï¼Œä½†ä¹Ÿæ˜¯ä¸€ä¸ªæœ€é‡è¦çš„è¿‡ç¨‹ã€‚
+
+**1.Â Â Â Â Â Â Â ****é¦–å…ˆè¦åˆ—å‡ºæ‰€æœ‰çš„å•è¯é¡¹ï¼Œå¹¶è®¾è®¡å‡ºè¯æ³•è§„åˆ™ã€‚è¡¨è¾¾å¼ä¾‹å­ä¸­å•è¯é¡¹å¦‚ä¸‹****:**
+
+æ ‡è¯†ç¬¦: è¡¨è¾¾å¼åï¼Œç”±Aåˆ°Zç»„æˆï¼Œä½æ•°ä¸é™ã€‚
+
+æ•´æ•°é¡¹: ç”±0åˆ°9ç»„æˆï¼Œä½æ•°ä¸é™ï¼Œ(å®žé™…ä¸Šä¸è€ƒè™‘è€Œå·²ï¼Œæœ¬ä¾‹ä¸æ”¯æŒå¤§æ•°).
+
+åŠ å·:+
+
+å‡å·:-
+
+ä¹˜å·:\*
+
+é™¤å·:/
+
+å·¦æ‹¬å·:(
+
+å³æ‹¬å·:)
+
+è¯æ³•è§„åˆ™ï¼Œå®žé™…å°±æ˜¯æ­£åˆ™è¡¨è¾¾å¼æ¥æè¿°ï¼Œä¸ç†Ÿæ‚‰çš„äººåˆ°ç½‘ç»œä¸Šæœä»¥ä¸‹æ­£åˆ™è¡¨è¾¾å¼çš„ç»å…¸æ•™æçœ‹çœ‹å§ã€‚è¿™é‡Œä¸ç´¯è¿°äº†ã€‚
+
+**2.Â Â Â Â Â Â Â ****åˆ†æžä½¿ç”¨åœºæ™¯ï¼Œæ ¹æ®éœ€æ±‚ï¼Œé€æ­¥åˆ†æžå‡ºè¯­æ³•æŽ¨å¯¼çš„äº§ç”Ÿå¼è§„åˆ™é›†åˆã€‚**
+
+Â Â Â  ä»Žä¸€å †æ‚ä¹±çš„éœ€æ±‚ä¸­åŽ»æž„é€ å‡ºç²¾å·§å‡†ç¡®çš„è¯­æ³•ç»“æž„ï¼Œæ˜¯ä¸€ä¸ªç”±ç®€å…¥ç¹çš„ä¸æ–­åå¤è¿­ä»£çš„è¿‡ç¨‹ï¼Œå¦‚æŠ½èŒ§å‰¥ä¸åŽè£è¡£ä¸€æ ·ï¼Œå¤§å‡¡æ­¤ç±»å·¥ä½œéƒ½æœ‰ä¸€å®šçš„è‰ºæœ¯é‰´èµæ€§ï¼Œä½†åªæœ‰ä½ æ²‰æµ¸å…¶ä¸­æ—¶æ‰èƒ½ä½“å‘³ã€‚
+
+Â Â Â  æˆ‘ä»¬è§‚å¯Ÿéœ€æ±‚ï¼Œå¯¹è¯­æ³•å…ƒç´ è¿›è¡Œåˆ†ç±»ï¼ŒæŒ‰ç…§å…¶ä½œç”¨å°†æ¶‰åŠå…ƒç´ åˆ†æˆä¸‰ç±»{æ•´æ•°é¡¹ï¼Œæ ‡è¯†ç¬¦}ä½œä¸ºæ“ä½œé¡¹ï¼Œ{åŠ å‡ä¹˜}ä½œä¸ºè¿ç®—ç¬¦ï¼Œ{æ‹¬å·}ä½œä¸ºè¾…åŠ©ç¬¦å·ã€‚
+
+æˆ‘ä»¬ä»Žæ¯ä¸€ä¸ªåˆ†ç±»ä¸­å–ä¸€ä¸ªå…ƒç´ å‡ºæ¥åˆ†æžï¼Œæž„é€ å‡ºäº§ç”Ÿå¼æè¿°çš„è¯­æ³•è§„åˆ™ç»„ã€‚
+
+ç„¶åŽå†é€æ­¥çš„åŠ å…¥åŒç±»çš„å…ƒç´ ã€‚
+
+å…ˆå– æ•´æ•°é¡¹ï¼ŒåŠ æ³•ï¼Œå’Œæ‹¬å· ä¸‰ä¸ªå…ƒç´ ã€‚å®ƒä»¬åªæœ‰ä¸¤ç§å½¢å¼ï¼Œ
+
+Â  æ•´æ•°é¡¹+æ•´æ•°é¡¹+æ•´æ•°é¡¹+....
+
+Â  æ•´æ•°é¡¹+(æ•´æ•°é¡¹+æ•´æ•°é¡¹)+æ•´æ•°é¡¹+....
+
+å‡è®¾aä»£è¡¨ä¸€ä¸ªæ•´æ•°é¡¹ï¼Œ
+
+ç”¨è¿™ä¸ªä¸¤æ¡äº§ç”Ÿå¼{S-\>S+a,S-\>a} å°±å¯ä»¥æè¿°ç¬¬ä¸€æ¡è¯­æ³•è§„åˆ™ï¼Œæœ‰äººå¯èƒ½ä¼šé—®è¿™ä¸¤æ¡äº§ç”Ÿå¼æ˜¯å¦‚ä½•çš„ï¼Œå…¶å®žæˆ‘ä¹Ÿä¸çŸ¥é“ï¼Œè²Œä¼¼è‡ªç„¶è€Œç„¶çš„å°±æŠ½è±¡å‡ºæ¥äº†ï¼Œå†ä»”ç»†æƒ³äº†ä¸€æƒ³ï¼Œæˆ‘è§‰å¾—ç”¨æ•°å­¦å½’çº³æ³•æ¯”è¾ƒé€‚åˆè§£é‡Šè¿™ä¸ªè¿‡ç¨‹ã€‚
+
+a,a+a,a+a+a,a+a+a+a,a+a+a+a+a....
+
+=\> a,{a}+a,{a+a}+a,{a+a+a}+a,{a+a+a+a}+a....(æˆ‘ä»¬å€ŸåŠ©èŠ±æ‹¬å·æ¥å¸®åŠ©ç•Œå®šæˆåˆ†)
+
+æ‹¬å·é‡Œé¢çš„å°±æ˜¯å‰é¢çš„å¼å­ã€‚ç„¶åŽå°±æŽ¨å‡ºäº†é€šé¡¹ï¼šA[0]=aÂ  A[n] = A[n-1]+aï¼›
+
+è¯·æ³¨æ„ï¼šè¿™é‡Œçš„+æ˜¯ä¸€ä¸ªå­—ç¬¦ä¸²ç¬¦å·, a+aä»£è¡¨aè¿žæŽ¥+å·è¿žæŽ¥aã€‚
+
+{S-\>S+a,S-\>a} è™½ç„¶ç›´è§‚å´ä¸é€‚åˆæœ€å·¦æŽ¨å¯¼ï¼ŒæŒ‰ç…§å…¬å¼è½¬ä¸€ä¸‹(è§ä¸Šé¢çš„æœ€å·¦æŽ¨å¯¼)ã€‚
+
+{S-\>aR,R-\>+aR,R-\>ç©º}
+
+Â 
+
+å†çœ‹ç¬¬äºŒç§å½¢å¼ï¼› é€šè¿‡è§‚æµ‹å¯ä»¥çœ‹å‡ºæ¥ï¼Œæ‹¬å·é‡Œé¢çš„æ˜¯ä¸€ä¸ªå­è¡¨è¾¾å¼ã€‚
+
+äºŽæ˜¯{S-\>S+a,S-\>a,S-\>(S) } Â Â 
+
+è½¬æˆç¬¦åˆæœ€å·¦æŽ¨å¯¼çš„å½¢å¼: { S-\>aR,R-\>+aR,R-\>ç©º,S-\>(S)}
+
+Â 
+
+é‡æ–°é€‰å– æ•´æ•°é¡¹ï¼Œå‡å·ï¼Œæ‹¬å·ï¼Œè¿›è¡ŒåŒæ ·çš„åˆ†æžå’Œæž„é€ ï¼Œ
+
+å¯ä»¥å¾—åˆ° {S-\>S-a,S-\>a,S-\>(S) }
+
+Â 
+
+ç”±äºŽåŠ å‡æ³•å¯¹ç­‰ï¼Œåˆå¹¶åŽå¯ä»¥å¾—åˆ°{S-\>S-a,S-\>S+a,S-\>a,S-\>(S) }
+
+è¿™å°±æ˜¯æè¿°åŠ å‡æ··åˆè¿ç®—çš„å¼å­ï¼Œå¾ˆå®¹æ˜“é€šè¿‡å®žä¾‹æ¥éªŒè¯çš„ã€‚
+
+Â 
+
+åŒç†çš„ï¼Œæˆ‘ä»¬å¯ä»¥æŠŠä¹˜æ³•ä¹ŸåŠ å…¥è¿›æ¥,å¯ä»¥å¾—åˆ°è¿™æ ·çš„ä¸€ä¸ª
+
+{S-\>S-a,S-\>S+a,S-\>S\*a,S-\>a,S-\>(S) }
+
+è½¬æˆç¬¦åˆæœ€å·¦æŽ¨å¯¼çš„å½¢å¼: { S-\>aR,R-\>+aR, R-\>-aR, R-\>\*aR ,R-\>ç©º,S-\>(S)}
+
+Â 
+
+å¦‚æžœï¼Œæˆ‘åªæ˜¯è¯´ï¼Œå¦‚æžœ...è¿™ä¸ªä¸–ç•Œä¸Šåªè¯­æ³•å®žçŽ°è¯­æ³•è€Œä¸å®žçŽ°è¯­ä¹‰çš„è¯... é‚£å°±å¤ªå®Œç¾Žäº†ã€‚ä½†é€šå¸¸ä¸Šå¸éƒ½ä¼šç»™ä½ ç•™ç‚¹é—æ†¾çš„ã€‚è¿™äº›è§„åˆ™å®Œå…¨å¯ä»¥åˆæ³•çš„è§£æžå«åŠ å‡ä¹˜çš„è¡¨è¾¾å¼ï¼Œä½†æ˜¯å®ƒä»¬æ— æ³•åŒºåˆ†å‡ºéœ€æ±‚ä¸­æ¯”è¾ƒé‡è¦çš„ä¸€æ¡:ä¹˜æ³•ä¼˜å…ˆçº§æ¯”åŠ å‡çš„ä¼˜å…ˆçº§è¦é«˜ã€‚
+
+ä¹”bossè¯´è¿‡ä¸€å¥ç»å…¸åè¨€ï¼šå½¢å¼åº”è¯¥è¿½éšåŠŸèƒ½ã€‚å¾ˆæ˜¾ç„¶çš„ï¼Œæˆ‘ä»¬ä¹‹å‰æŠ½è±¡å½’çº³å‡ºæ¥çš„è¯­æ³•è§„åˆ™çš„å½¢å¼å¹¶ä¸æ˜¯è¿½éšåŠŸèƒ½çš„ï¼Œé‚£å°±å˜æ¢ä¸€ä¸‹å§ã€‚æˆ‘ä»¬çŸ¥é“ä¹˜æ³•çš„ä¼˜å…ˆçº§æ¯”åŠ å‡æ³•é«˜ï¼Œæ•…æ¶‰åŠä¹˜æ³•çš„è¡¨è¾¾å¼éƒ¨åˆ†åº”è¯¥å…ˆç»“åˆæˆé¡¹ï¼Œç„¶åŽå†ä½œä¸ºåŠ å‡ç®—æœ¯ç¬¦å·çš„ä¸¤è¾¹çš„æ“ä½œé¡¹å†å½¢æˆåŠ å‡è¡¨è¾¾å¼ï¼Œæ•…æˆ‘ä»¬åœ¨ä¹˜æ³•çš„åŸºç¡€{M-\>M\*a, M-\>a,M-\>(M)}ä¸Šï¼Œåž’ä¸Šä¸€å±‚åŠ å‡æ³•çœ‹çœ‹ï¼Œå¦‚ä¸‹:
+
+{M-\>M\*a, M-\>a,M-\>(M), S-\>M+M,S-\>M-M}
+
+å—¯ï¼ŒæŒºæŽ¥è¿‘äº†ï¼Œä½†è¿™ç»„è¯­æ³•è§„åˆ™æ— æ³•è§£å†³ä¸¤ä¸ªé—®é¢˜:
+
+1ã€æ— æ³•å¤„ç†å¤šä¸ªè¿žç»­çš„åŠ å‡å·ã€‚ å½¢å¦‚a+a-a-a+a
+
+2ã€ä»Žå¼€å§‹ç¬¦å·æ— æ³•æŽ¨å¯¼çº¯çš„è¿žç»­ä¹˜è¡¨è¾¾å¼ã€‚
+
+3ã€æ— æ³•å¤„ç†å­è¡¨è¾¾å¼ä¸­è¶…è¿‡ä¸€ä¸ªåŠ å‡å·çš„ã€‚
+
+é’ˆå¯¹é—®é¢˜1ï¼Œåˆ†æžä¸€ä¸‹ç‰¹ç‚¹ï¼Œç¬¬ä¸€é¡¹å¿…é¡»ä¸ºa ï¼Œç¬¬äºŒé¡¹ä¸ºç¬¬ä¸€é¡¹è¿žæŽ¥+a æˆ–è€…ç¬¬ä¸€é¡¹è¿žæŽ¥-a,å› æ­¤æŽ¨å‡ºé€šå‘é¡¹ä¸ºå‰ä¸€é¡¹è¿žæŽ¥ä¸Š+aæˆ–è€…è¿žæŽ¥ä¸Š-aï¼ŒäºŽæ˜¯æˆ‘ä»¬å°±å¤§è‡´å¯ä»¥æŽ¨æ–­å‡ºè§„åˆ™:å¼•å…¥ä¸€ä¸ªExpr ç®€å†™ä¸ºE {E-\>M,E-\>E+M,E-\>E-M}æ¥ä»£æ›¿åŠ å‡é¡¹ï¼Œ
+
+äºŽæ˜¯å¾—åˆ°è§„åˆ™ç»„: {M-\>M\*a, M-\>a,M-\>(M), E-\>M,E-\>E+M, E-\>E-M,S-\>E }
+
+åŒæ—¶å› ä¸ºåŠ å…¥ä¸€ä¸ªE-\>Mï¼Œä¹Ÿè§£å†³äº†é—®é¢˜2ï¼Œå³ä»Žå¼€å§‹ç¬¦å·æŽ¨å¯¼å‡ºè¿žç»­ä¹˜ã€‚
+
+Â 
+
+é’ˆå¯¹é—®é¢˜3ï¼ŒæŠŠM-\>(M) æ”¹æˆ M-\>(E)ã€‚ä¹Ÿå³ä¹˜æ³•ä¸­è¦æœ‰æ¯”ä¹˜æ³•èŒƒå›´æ›´å¹¿çš„åŒ…å«äº†åŠ å‡æ³•çš„å­è¡¨è¾¾å¼åšä¸ºå› å­é¡¹ï¼Œ
+
+äºŽæ˜¯å¾—åˆ°è¯­æ³•è§„åˆ™ç»„{M-\>M\*a, M-\>a,M-\>(E), E-\>M, E-\>E+M, E-\>E-M,S-\>E }
+
+Â 
+
+è½¬åŒ–æˆç¬¦åˆæœ€å·¦æŽ¨å¯¼çš„è¯­æ³•è§„åˆ™ç»„æ˜¯
+
+{ M-\> aR,R-\>\*aR,R-\>ç©º,M-\>(E), E-\>MN, N-\>+MN, N-\>-MN,N-\>ç©º,S-\>E }
+
+Â 
+
+è‡³æ­¤ï¼Œæ•´æ•°é¡¹ï¼ŒåŠ å‡ä¹˜ç¬¦ï¼Œæ‹¬å·å·²ç»è¢«åŠ å…¥è¿›æ¥äº†ã€‚
+
+Â 
+
+Â 
+
+çŽ°åœ¨åŠ å…¥æ ‡è¯†ç¬¦å·ã€‚
+
+å¼•å…¥æ ‡è¯†ç¬¦id ç®€å†™ä¸ºiï¼Œ
+
+åŠ å…¥æ ‡è¯†ç¬¦åŽï¼Œ a å’Œ i å°±æˆäº†åŒç­‰æ„ä¹‰çš„ç¬¦å·ï¼Œå¯ä»¥æŠ½è±¡å‡ºä¸€å±‚ï¼Œæˆ‘ä»¬ä½¿ç”¨å¤§å†™Aæ¥ä»£è¡¨ã€‚
+
+{A-\>a,A-\>i}
+
+åŒæ—¶ï¼ŒåŒ¿åè¡¨è¾¾å¼ä»ç„¶ä¿æŒä¹‹å‰åŒæ ·çš„è¯­æ³•ç»“æž„ï¼Œæ–°å¢žäº†ä¸€ä¸ªå‘½åè¡¨è¾¾å¼ï¼Œ
+
+æ‰€ä»¥ï¼Œç”¨ä¸€ä¸ªæ–°çš„å…ƒç´ P{P-\>E,P-\>i=E}æ¥ä»£æ›¿ï¼Œ
+
+äºŽæ˜¯è§„åˆ™å˜æˆ
+
+{ A-\>a,A-\>i,M-\>M\*a, M-\>a,M-\>(E), E-\>M, E-\>E+M, E-\>E-M, P-\>E,P-\>i=E, S-\>P }
+
+Â 
+
+è½¬åŒ–æˆç¬¦åˆæœ€å·¦æŽ¨å¯¼çš„è¯­æ³•è§„åˆ™ç»„æ˜¯:
+
+{ A-\>a,A-\>i,M-\>AR,R-\>\*AR,R-\>ç©º, M-\>(E), E-\>MN, N-\>+MN, N-\>-MN,N-\>ç©º, P-\>E,P-\>i=E,S-\>P}
+
+è‡³æ­¤æ‰€æœ‰çš„é‡è¦ç¬¦å·éƒ½å·²ç»åŠ å…¥å®Œæˆã€‚
+
+ä½†å¯¹ç…§éœ€æ±‚3ï¼Œè¿˜æœ‰æ‰¹é‡è¡¨è¾¾å¼çš„æ”¯æŒï¼Œåªéœ€è¦å¯¹Pçš„é‡å¤å³å¯ä¹Ÿå³{S-\>P,S-\>SP} ã€‚
+
+æœ€åŽåˆå¹¶åœ¨ä¸€èµ·ä¾¿æ˜¯
+
+{ A-\>a,A-\>i,M-\>M\*a, M-\>a,M-\>(E), E-\>M, E-\>E+M, E-\>E-M, P-\>E,P-\>i=E, S-\>P,S-\>SP }
+
+Â 
+
+è½¬åŒ–æˆç¬¦åˆæœ€ä¼˜æŽ¨å¯¼çš„è¯­æ³•è§„åˆ™ç»„:
+
+{ A-\>a,A-\>i,M-\>AR,R-\>\*AR,R-\>ç©º, M-\>(E), E-\>MN, N-\>+MN, N-\>-MN,N-\>ç©º, P-\>E,P-\>i=E,S-\>PQ,Q-\>PQ,Q-\>ç©º}
+
+Â 
+
+è‡³æ­¤ï¼Œæˆ‘ä»¬å°±ä»Žéœ€æ±‚å¼€å§‹è¿›è¡Œä¸€æ­¥æ­¥åœ°æŽ¨å¯¼å¾—åˆ°äº†æœ€åŽçš„è¯­æ³•è§„åˆ™ç»„ã€‚
+
+Â 
+
+å¦‚å›¾è¡¨:æˆ‘ç®€å•çš„æ€»ç»“äº†ä¸€äº›æŽ¨å¯¼æŠ€å·§ä»¥åŠæ˜ å°„çš„æŠ€å·§
+
+éœ€æ±‚
+
+æ­£åˆ™
+
+æœ€å³æŽ¨å¯¼è§„åˆ™ç»„
+
+æœ€å·¦æŽ¨å¯¼è§„åˆ™ç»„
+
+è¿žæŽ¥é¡¹æˆ–è€…ä¸Žå…³ç³»é¡¹
+
+ab
+
+S-\>ab
+
+S-\>ab
+
+æˆ–å…³ç³»é¡¹
+
+a|b
+
+S-\>a,S-\>b
+
+S-\>a,S-\>b
+
+å¯é€‰é¡¹
+
+a?
+
+S-\>a,S-\>ç©º
+
+S-\>a,S-\>ç©º
+
+è‡³å°‘é‡å¤ä¸€æ¬¡(æ­£é—­åŒ…)
+
+a+
+
+S-\>Sa,S-\>a
+
+S-\>aR,R-\>aR,R-\>ç©º
+
+é‡å¤0æ¬¡æˆ–è€…å¤šæ¬¡(å…‹æž—é—­åŒ…)
+
+a\*
+
+æ³¨: a\*=a+|ç©º
+
+S-\>Sa,S-\>a,S-\>ç©º
+
+S-\>aR,R-\>aR,R-\>ç©º
+
+S-\>ç©º
+
+Â 
+
+**3.Â Â Â Â Â Â Â ****æŠŠè¯­æ³•è§„åˆ™äº§ç”Ÿå¼é›†åˆè½¬åŒ–æˆ****antlr****çš„è¯­æ³•æè¿°**
+
+Â Â Â  æŽ¥ä¸‹æ¥çš„å·¥ä½œæ˜¯æŠŠä¹‹å‰æ‰€å¾—åˆ°çš„è¯­æ³•è§„åˆ™ç»„ï¼Œè½¬æ¢æˆantlrçš„è¯­æ³•è¡¨ç¤ºã€‚å…³äºŽantlr v3è¯­æ³•è§„åˆ™çš„è§„èŒƒè¯·å‚ç…§(http://www.antlr.org/wiki/display/ANTLR3/ANTLR+v3+printable+documentation),å¾ˆæŠ±æ­‰ï¼Œä»»ä½•åˆå­¦è€…éƒ½éœ€è¦ç²¾å¿ƒåŽ»è¯»ä¸€éè¯¥æ–‡æ¡£ï¼Œæ²¡æœ‰ä»»ä½•çš„çªé—¨å¯ä»¥èµ°çš„ã€‚æˆ‘ä¹Ÿç€æ‰‹ç¿»è¯‘å’Œæ‰¹æ³¨äº†ä¸€ç‚¹ï¼Œä½†ç”±äºŽåŽ»å¹´ä¸€äº›çªå‘äº‹æƒ…è€½æäº†å¾ˆä¹…ï¼Œv3è¿˜æ²¡ç¿»è¯‘å®Œï¼Œv4å°±å‡ºæ¥äº†ï¼Œæˆ‘ä¹Ÿåœ¨è€ƒè™‘æ˜¯å¦ç»§ç»­ç¿»è¯‘v3è¿˜æ˜¯æ–°ç¿»è¯‘v4.æ— è®º
+
+Â 
+
+æ ¹æ®ä¸Šä¸€ä¸ªæ­¥éª¤çš„æ€»ç»“è¡¨ï¼Œå¯¹
+
+{ A-\>a,A-\>i,M-\>AR,R-\>\*AR,R-\>ç©º, M-\>(E), E-\>MN, N-\>+MN, N-\>-MN,N-\>ç©º, P-\>E,P-\>i=E,S-\>PQ,Q-\>PQ,Q-\>ç©º}
+
+è¿›è¡Œç¿»è¯‘ï¼Œä¸€ä¸‹ç¿»è¯‘é‡‡ç”¨è¡¨è¾¾å¼ä¾‹å­ä¸­çš„å‘½åã€‚
+
+Â 
+
+å…ˆç¿»è¯‘è¯æ³•å§,æ¯•ç«Ÿè¿™æ˜¯åŸºç¡€ã€‚æœ‰ä¸€ç‚¹éœ€è¦è®°ä½çš„æ˜¯ï¼Œè¯æ³•é¦–å­—æ¯å¿…é¡»å¤§å†™ï¼Œä¸€èˆ¬æƒ…å†µä¸‹ï¼Œéƒ½ç”¨å…¨éƒ¨å¤§å†™æ¥æ ‡è¯†è¯æ³•å•å…ƒã€‚
+
+IDÂ  :Â Â  ('a'..'z'|'A'..'Z')+ ;//æ ‡è¯†ç¬¦æ˜¯ä»»æ„çš„å¤§å°å†™æ··åˆ
+
+INT :Â Â  '0'..'9'+ ;Â  //æ•´æ•°é¡¹æ˜¯ä»»æ„çš„æ•°å­—
+
+NEWLINE:'\\r'? '\\n' ;Â  //æ¢è¡Œç¬¦å·ï¼Œ \\rå¯é€‰æ˜¯ä¸ºäº†åº”å¯¹windowå’Œunixçš„åŒºåˆ«ã€‚
+
+WSÂ  :Â Â  (' '|'\\t')+ {skip();} ; //ç©ºç™½ç¬¦å·ï¼Œé»˜è®¤åŠ¨ä½œå¿½ç•¥ã€‚
+
+è¿˜æœ‰å‡ ä¸ªç¬¦å· åŠ å‡ä¹˜å’Œæ‹¬å·ï¼Œè¿™å‡ ä¸ªé»˜è®¤ä»¥å­—ç¬¦ä¸²çš„å½¢å¼å‡ºçŽ°åœ¨è¯­æ³•è§£æžä¸­ï¼Œå…¶å®žä¹Ÿå¯ä»¥å®šä¹‰åœ¨è¿™é‡Œçš„ã€‚æˆ‘ä»¬å°±éµç…§demoè¡Œäº‹å§ã€‚
+
+Â 
+
+çŽ°åœ¨å¼€å§‹ç¿»è¯‘è¯­æ³•ï¼Œè¯­æ³•ä¸­æœ‰ä¸€ç‚¹éœ€è¦æ³¨æ„çš„æ˜¯è¯­æ³•æ˜¯ä»¥å°å†™å¼€å§‹çš„ã€‚
+
+Â 
+
+ä¸Žæ•´æ•°é¡¹ï¼Œæ ‡è¯†ç¬¦ç›¸å…³çš„:
+
+{A-\>a,A-\>i}
+
+atom
+
+Â Â Â  :Â Â  INT
+
+Â Â Â  |Â Â  IDÂ Â 
+
+Â Â Â  ;
+
+Â 
+
+ä¹˜æ³•ç›¸å…³çš„ï¼š
+
+M-\>AR,R-\>\*AR,R-\>ç©º, M-\>(E)
+
+Â 
+
+multExpr
+
+Â Â Â  :Â Â  atomÂ  ('\*' atom )\*Â  //æ³¨:å¤„ç¬¬ä¸€ä¸ª'\*'æ˜¯tokenç¬¬äºŒä¸ª\*æ˜¯å…‹æž—é—­åŒ…
+
+|'(' expr ')'
+
+Â Â Â  ;
+
+æ­¤å¤„ï¼Œå’Œdemoä¸å¤ªä¸€æ ·ã€‚å…³äºŽå­è¡¨è¾¾å¼(E)çš„å®‰ç½®ã€‚demoä¸­æŠŠæ•´æ•°é¡¹ä»¥åŠæ ‡è¯†ç¬¦å½“æˆçœ‹ä½œæ˜¯å‚ä¸Žè¿ç®—çš„åŽŸå­é¡¹atomï¼Œå¹¶æŠŠå­è¡¨è¾¾å¼ä¹Ÿçœ‹ä½œæ˜¯åŽŸå­é¡¹ï¼Œæˆ‘ä»¬çš„æŽ¨å¯¼è¿‡ç¨‹ä¸­ï¼Œä¹ŸæŠŠå‚ä¸Žä¹˜æ³•çš„å› å­ä¸­çš„ä¸€ä¸ªæ‰©å±•ä¸ºå­—è¡¨è¾¾å¼ï¼Œè¿™ä¸¤è€…åœ¨å˜æ¢å½¢å¼ä¸Šæ˜¯ç­‰ä»·çš„ï¼Œåªæ˜¯å«ä¹‰è§£é‡Šä¸ä¸€æ ·ã€‚
+
+Â 
+
+åŠ å‡æ³•ç›¸å…³çš„:
+
+E-\>MN, N-\>+MN, N-\>-MN,N-\>ç©º, Â 
+
+è¿™ä¸ªç¿»è¯‘è¿‡ç¨‹æœ‰ç‚¹ç»•ï¼Œä¸æ˜¯ç›´è§‚ï¼Œä½ å¯ä»¥æŠŠ N-\>+MN, N-\>-MN åˆå¹¶æˆ N-\>((+M)|(-M))N Â ï¼Œä»¤ T-\>((+M)|(-M)) ,å³æœ‰Â  {E-\>MN,N-\>TN,N-\>ç©º} å³å¯åˆ©ç”¨æ€»ç»“è¡¨ä¸­æ ¼å¼è½¬åŒ–æˆdemoäº†ã€‚
+
+Â 
+
+expr
+
+Â Â Â  :Â Â  multExpr
+
+Â Â Â Â Â Â Â  (Â Â  '+' multExpr
+
+Â Â Â Â Â Â Â  |Â Â  '-' multExpr
+
+Â Â Â Â Â Â Â  )\*
+
+Â Â Â  ;
+
+å®žé™…ä¸Šä¹Ÿæœ‰å¦å¤–ä¸€ç§è¯­æ³•å½¢å¼ï¼ŒÂ  æŠŠ N-\>+MN, N-\>-MN åˆå¹¶æˆ N-\>(+|-)MNÂ  ï¼Œä»¤ T-\>(+|-)M ,å³æœ‰Â  {E-\>MN,N-\>TN,N-\>ç©º}
+
+expr
+
+Â Â Â  :Â Â  multExpr
+
+Â Â Â Â Â Â Â  (( '+' | '-' ) multExpr )\*
+
+Â Â Â  ;
+
+è¿™ä¸¤ç§å½¢å¼éƒ½å¯ä»¥çš„ï¼Œdemoçš„ä½œè€…åå‘äºŽå‰è€…ï¼Œä¹Ÿè®¸é‚£æ ·æ¯”è¾ƒå¥½ç†è§£äº›å§ã€‚
+
+Â 
+
+å…³äºŽå‘½åå’ŒåŒ¿åè¡¨è¾¾å¼çš„:
+
+P-\>E,P-\>i=E
+
+è¿™ä¸ªæ²¡å•¥æ‚¬å¿µçš„ï¼Œç›´æŽ¥ç¿»è¯‘å¥½äº†ï¼Œdemoå¤šäº†ä¸€äº›newline ï¼Œæ— ä¼¤å¤§é›…ã€‚
+
+stat:Â Â  expr NEWLINE
+
+Â Â Â  |Â Â  ID '=' expr NEWLINEÂ Â Â Â Â Â Â 
+
+Â Â Â  |Â Â  NEWLINE
+
+Â Â Â  ;
+
+Â 
+
+å…³äºŽæ‰¹é‡è¡¨è¾¾å¼çš„ï¼š
+
+S-\>PQ,Q-\>PQ,Q-\>ç©º
+
+prog:Â Â  stat+ ;
+
+Â 
+
+è‡³æ­¤æœ€é‡è¦çš„è¯­æ³•è®¾è®¡å®Œæˆäº†ï¼Œå¯¹ç…§éœ€æ±‚ï¼Œä¸€æ­¥ä¸€æ­¥åœ°è¿›è¡ŒæŽ¨å¯¼å‡ºäº§ç”Ÿå¼è§„åˆ™ï¼Œæœ€åŽç¿»è¯‘æˆantlræ‰€æ”¯æŒçš„ebnfèŒƒå¼ã€‚
+
+### ç¬¬3å°èŠ‚Â Â Â Â Â Â Â Â Â Â  å®žçŽ°è¯­ä¹‰
+
+Â Â  åœ¨å¾ˆå¤šçš„åœºæ™¯é‡Œé¢ï¼Œå…·ä½“è¯­æ³•ä¸€èˆ¬è¦è½¬æˆæŠ½è±¡è¯­æ³•æ ‘ï¼Œç„¶åŽå†åœ¨æŠ½è±¡è¯­æ³•æ ‘ä¸Šå®žçŽ°è¯­ä¹‰åŠ¨ä½œï¼Œè¿™æ ·åšçš„å¥½å¤„å¯ä»¥é¿å…å†—ä½™çš„å¤„ç†ï¼Œä¸åŒçš„è¯­æ³•å…ƒç´ ä½†å…·æœ‰ç›¸åŒçš„è¯­ä¹‰å«ä¹‰çš„ï¼Œå¯ä»¥è½¬åŒ–æˆç»Ÿä¸€æ ¼å¼åˆå¹¶å¤„ç†ã€‚
+
+Â Â  ä½†ä¸€èˆ¬ç®€å•çš„è¯­æ³•å¯ä»¥ç›´æŽ¥åµŒå…¥è¯­ä¹‰åŠ¨ä½œå¤„ç†å°±okäº†ï¼Œæ¯”å¦‚è¿™ä¸ªdemoã€‚
+
+è¯­ä¹‰åŠ¨ä½œä¸€èˆ¬æ˜¯ä»¥åŒ…å«åœ¨{}çš„ç›®æ ‡è¯­è¨€çš„ä»£ç ã€‚å…·ä½“çš„è§„èŒƒå‚ç…§: (http://www.antlr.org/wiki/display/ANTLR3/Grammars)
+
+æœ¬èŠ‚å°±é’ˆå¯¹é‡ç‚¹åœ°åœ°æ–¹è¿›è¡Œä»£ç æ³¨é‡Šã€‚
+
+prog:Â Â  stat+ ;
+
+Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
+
+stat:Â Â  expr NEWLINE {System.out.println(\$expr.value);} //æ‰“å°åŒ¿åè¡¨è¾¾å¼å€¼ï¼Œ\$expræ˜¯å¼•ç”¨è¿™ä¸ªexprè¿™ä¸ªè¯­æ³•å…ƒç´ ï¼Œéœ€è¦æ³¨æ„çš„æ˜¯ valueå¹¶ä¸æ˜¯exprçš„å†…å»ºçš„å±žæ€§ï¼Œè€Œæ˜¯è‡ªå®šä¹‰çš„returnçš„å€¼ï¼Œå‚è§exprçš„è¯­æ³•è¡¨è¾¾å¼ã€‚
+
+Â Â Â  |Â Â  ID '=' expr NEWLINE
+
+Â Â Â Â Â Â Â  {memory.put(\$ID.text, new Integer(\$expr.value));} //å‘½åè¡¨è¾¾å¼çš„å€¼å­˜å…¥ä¸€ä¸ªhashmapå¯¹è±¡ã€‚
+
+Â Â Â  |Â Â  NEWLINE
+
+Â Â Â  ;
+
+Â 
+
+expr returns [int value] //åœ¨æ­¤å®šä¹‰äº†è¿™ä¸ªexprå¯¹è°ƒç”¨è€…æä¾›ä¸€ä¸ªvalueçš„è¿”å›žå€¼ã€‚
+
+Â Â Â  :Â Â  e=multExpr {\$value = \$e.value;} //ä»¥eçš„æ–¹å¼å¼•ç”¨ç¬¬ä¸€ä¸ªmultExpr,è¯­ä¹‰åŠ¨ä½œåœ¨æ­¤æŠŠå·¦è¾¹çš„è¡¨è¾¾å¼çš„å€¼èµ‹ç»™è¿”å›žå€¼å˜é‡ã€‚æ³¨æ„:\$e.valueä¹Ÿä¸æ˜¯å†…å»ºçš„ï¼Œæ˜¯multExprå®šä¹‰çš„è¿”å›žå€¼ã€‚
+
+Â Â Â Â Â Â Â  (Â Â  '+' e=multExpr {\$value += \$e.value;}//ä»¥eçš„æ–¹å¼ç¬¬äºŒä¸ªmultExprï¼Œç”±äºŽä½œç”¨åŸŸä¸åŒï¼Œæ•…æ— å†²çªï¼Œè¿™ä¸ªè¯­ä¹‰åŠ¨ä½œåªæœ‰é‡åˆ°+æ‰ä¼šæ‰§è¡Œã€‚è¯­ä¹‰åŠ¨ä½œå¼è¿”å›žå€¼ç´¯åŠ eè¿™ä¸ªé¡¹ã€‚
+
+Â Â Â Â Â Â Â  |Â Â  '-' e=multExpr {\$value -= \$e.value;}//åŒç†ï¼Œä¸è¿‡æ˜¯ç´¯å‡ã€‚
+
+Â Â Â Â Â Â Â  )\*Â  //éœ€è¦ç‰¹åˆ«æ³¨æ„çš„æ˜¯ï¼Œè¿™ä¸ªå…‹æž—é—­åŒ…ï¼Œä¼šè®©ä¸Šé¢çš„ä¸¤ä¸ªè¯­ä¹‰åŠ¨ä½œï¼Œä¸æ–­çš„é‡å¤ã€‚
+
+Â Â Â  ;
+
+Â 
+
+multExpr returns [int value]Â  //è¿™ä¸ªè¡¨è¾¾å¼å’Œexpr æ— å•¥æœ¬è´¨å·®åˆ«
+
+Â Â Â  :Â Â  e=atom {\$value = \$e.value;} ('\*' e=atom {\$value \*= \$e.value;})\*
+
+Â Â Â  ;
+
+Â 
+
+atom returns [int value]
+
+Â Â Â  :Â Â  INT {\$value = Integer.parseInt(\$INT.text);}//å°†è¯æ³•çš„å­—ç¬¦ä¸²å€¼è½¬æ¢æˆæ•´åž‹ï¼Œç„¶åŽèµ‹å€¼ç»™è¿”å›žå€¼ï¼Œtextæ˜¯å†…å»ºå˜é‡ã€‚
+
+Â Â Â  |Â Â  ID
+
+Â Â Â Â Â Â Â  {
+
+Â Â Â Â Â Â Â  Integer v = (Integer)memory.get(\$ID.text);
+
+Â Â Â Â Â Â Â  if ( v!=null ) \$value = v.intValue();
+
+Â Â Â Â Â Â Â  else System.err.println("undefined variable "+\$ID.text);
+
+Â Â Â Â Â Â Â  }//å¦‚æžœæ˜¯æ ‡è¯†ç¬¦ï¼Œåˆ™ä»Žhashmapä¸­æŒ‰åå–å‡ºæ¥ã€‚
+
+Â Â Â  |Â Â  '(' e=expr ')' {\$value = \$e.value;}
+
+Â Â Â  ;
+
+Â 
+
+ç¬¬å››èŠ‚ çŠ¶æ€æœºä»£ç ç”Ÿæˆæ¡†æž¶å®žä¾‹åˆ†æž
+---------------------------------
+
+å¾…å†™.....
+
+æœ‰å…´è¶£çš„å¯ä»¥è®¿é—®ï¼š
+
+http://www.github.com/alan2lin/makefsm
+
+è‹¥æœ‰å…´è¶£å‚ä¸Žå¼€å‘æˆ–è€…è®¨è®ºçš„è¯·åŠ qqç¾¤: 281827854
+
+Â 
+
+ç¬¬äº”ç«  Â Â Â Â Â Â Â Â Â  å¼•ç”¨
+=====================
+
+1.Â Â Â Â Â  Antlrv3ide çš„ä¸‹è½½åœ°å€å’Œæ–‡æ¡£:Â  [http://antlrv3ide.sourceforge.net/](http://antlrv3ide.sourceforge.net/)
+
+2.Â Â Â Â Â  Antlr çš„ä¸‹è½½åœ°å€:Â  [http://www.antlr.org](http://www.antlr.org)
+
+3.Â Â Â Â Â  Antlrè§†é¢‘æ•™ç¨‹çš„åœ°å€(ä¸èƒ½æ‰“å¼€æ²¡æœ‰éªŒè¯è¿‡): [http://javadude.com/articles/antlr3xtut/](http://javadude.com/articles/antlr3xtut/)
