@@ -1,41 +1,26 @@
-Antlr v3规范翻译以及批注(未校验，未排版,md格式已乱，请下载docx格式)
-========================
+ANTRL V3规范翻译以及批注(md格式已乱请看列表中的dox版)
 
-这不仅仅是一个翻译...但它还是什么，取决于你对它的认识。
+这不仅仅是一个翻译...但它还是什么，取决于你对它的认识。                                                     --林氏按语
 
-                                                        --林氏按语
-
- 
-
-本文采用BSD授权，涉及英文部分版权归属于Terence Parr\<parrt@cs.usfca.edu\>，中文部分归属于alan\<[workspace.public@gmail.com](mailto:workspace.public@gmail.com)\>。
+本文采用BSD授权，涉及英文部分版权归属于Terence Parr\<parrt@cs.usfca.edu\>，中文部分归属alan\<[workspace.public@gmail.com](mailto:workspace.public@gmail.com)\>。
 
 你可以随意引用，修改，转载，再发布本文的任何部分，只需保留上行BSD版权申明即可。
 
- 
-
 促译而成，工糙技浅，琢玉有瑕，恐误阅者，敬请行家，不吝指教，拨冗斧正，感激涕零。
 
- 
+主要贡献者列表：
+
+翻译&批注：流氓九段(alan2lin)    校对：甘草, icy    排版： 娜达莎
+
+其他贡献者列表：
 
  
 
-主要贡献者列表:
+以下是原文的网址：
 
-  翻译&批注:流氓九段(alan2lin)    校对:甘草, icy    排版: 娜达莎
+http：//www.antlr.org/wiki/display/ANTLR3/ANTLR+v3+printable+documentation
 
-其他贡献者列表:
-
- 
-
- 
-
-这是原文的网址:
-
-http://www.antlr.org/wiki/display/ANTLR3/ANTLR+v3+printable+documentation
-
- 
-
-这是Terence Parr的回信，确定了版权没有问题。
+以下是Terence Parr的回信，确保了本文翻译没有版权纠纷的问题。
 
 On Aug 17, 2011, at 11:24 PM, [workspace.public@gmail.com](mailto:workspace.public@gmail.com) wrote:
  \> alan.lin wrote:
@@ -51,40 +36,194 @@ On Aug 17, 2011, at 11:24 PM, [workspace.public@gmail.com](mailto:workspace.publ
  \>
  \> Best Regards!
  \>
- \>                            Your sincerely Alan lin
- \>                           2011-08-18
+ \>                                                                Your sincerely Alan lin
+ \>                                                                     2011-08-18
+
+**
+**
+
+目   录
+
+[ANTRL V3规范翻译以及批注.... 1](#_Toc364145914)
+
+[1.1.      ANTLR V3  printable documentation. 7](#_Toc364145915)
+
+[Antlr V3 可印刷的文档... 7](#_Toc364145916)
+
+[1.2.      ANTLR3 Code Generation Targets. 8](#_Toc364145919)
+
+[Antlr3 目标语言代码生成... 8](#_Toc364145920)
+
+[1.3.      Command line options. 11](#_Toc364145921)
+
+[命令行选项... 11](#_Toc364145922)
+
+[1.4.      Attribute and Dynamic Scopes. 19](#_Toc364145924)
+
+[属性与动态域... 19](#_Toc364145925)
+
+[1.4.1.     Token attributes. 19](#_Toc364145926)
+
+[Token 属性... 19](#_Toc364145927)
+
+[1.4.2.Rule attributes. 19](#_Toc364145928)
+
+[规则属性    19](#_Toc364145930)
+
+[1.4.3Parsers. 20](#_Toc364145931)
+
+[语法解析器... 20](#_Toc364145934)
+
+[1.4.4](#_Toc364145936)[Tree parsers. 20](#_Toc364145935)
+
+[树语法解析器... 20](#_Toc364145937)
+
+[1.4.5.Lexers. 21](#_Toc364145938)
+
+[词法解析器... 21](#_Toc364145940)
+
+[                                                                    1.5The Rule text Attribute in Tree Grammars. 22](#_Toc364145941)
+
+[在树语法中规则的text属性... 22](#_Toc364145943)
+
+[                                                                                                           1.6.Rule scopes. 27](#_Toc364145944)
+
+[规则的作用域... 27](#_Toc364145946)
+
+[                                                                                              1.7Global shared scopes. 27](#_Toc364145947)
+
+[全局共享的作用域... 27](#_Toc364145949)
+
+[                                                                                                         1.8Lexical filters. 27](#_Toc364145950)
+
+[词法分析过滤器... 27](#_Toc364145952)
+
+[                                                                                                              1.9Grammars. 29](#_Toc364145953)
+
+[语法... 29](#_Toc364145955)
+
+[1.9.1Grammar syntax. 29](#_Toc364145956)
+
+[语法的句法... 29](#_Toc364145958)
+
+[1.9.2.     Rule syntax. 30](#_Toc364145959)
+
+[1.9.3Lexer rules. 31](#_Toc364145960)
+
+[词法规则    31](#_Toc364145962)
+
+[1.9.4Tree grammar rules. 32](#_Toc364145963)
+
+[树语法规则... 32](#_Toc364145965)
+
+[                                                                                           1.10.Attribute scope syntax. 33](#_Toc364145966)
+
+[属性作用域句法... 33](#_Toc364145968)
+
+[1.10.1.Grammar action syntax. 33](#_Toc364145969)
+
+[文法动作句法... 33](#_Toc364145971)
+
+[                                                                                                       1.11Rule elements. 35](#_Toc364145974)
+
+[规则元素... 35](#_Toc364145977)
+
+[1.11.1Grammar options. 38](#_Toc364145978)
+
+[语法选项    38](#_Toc364145980)
+
+[1.11.2.   Rule and subrule options. 41](#_Toc364145981)
+
+[规则和子规则选项... 41](#_Toc364145982)
+
+[1.11.3.   Special symbols in actions. 42](#_Toc364145983)
+
+[动作中的特定的符号... 42](#_Toc364145984)
+
+[1.12.  Template construction. 47](#_Toc364145985)
+
+[模板构造... 47](#_Toc364145986)
+
+[1.13.  Tree construction. 51](#_Toc364145987)
+
+[树构造... 51](#_Toc364145988)
+
+[1.13.1.   Operators. 51](#_Toc364145989)
+
+[运算符    51](#_Toc364145990)
+
+[1.13.2.   Rewrite rules. 52](#_Toc364145991)
+
+[重写规则    52](#_Toc364145992)
+
+[1.13.3.   Imaginary nodes. 56](#_Toc364145993)
+
+[虚构节点    56](#_Toc364145994)
+
+[1.13.4.   Tree construction during tree parsing. 57](#_Toc364145995)
+
+[在树解析时的树构造... 57](#_Toc364145996)
+
+[1.13.5.   Polynomial differentiation example. 59](#_Toc364145997)
+
+[多项式微分的例子... 59](#_Toc364145998)
+
+[1.13.6.   Rewriting an existing AST.. 66](#_Toc364145999)
+
+[重写一个存在的抽象语法树... 66](#_Toc364146000)
+
+[1.13.7.   Heterogeneous tree nodes. 67](#_Toc364146001)
+
+[异构的树节点... 67](#_Toc364146002)
+
+[1.13.8.   Using custom AST node types. 72](#_Toc364146003)
+
+[使用自定义的抽象语法树节点类型... 72](#_Toc364146004)
+
+[1.13.9.   Error Node Insertion Upon Syntax Error 74](#_Toc364146005)
+
+[根据语法错误插入Error Node. 74](#_Toc364146006)
+
+[1.13.10.  Making custom error nodes. 79](#_Toc364146007)
+
+[自定义错误节点... 79](#_Toc364146008)
+
+[1.13.11.  Turning off error node construction. 79](#_Toc364146009)
+
+[关闭错误节点的构建... 79](#_Toc364146010)
+
+[1.14.    What makes a language problem hard?. 81](#_Toc364146011)
+
+[是什么让一个语言问题变得很难?. 81](#_Toc364146012)
 
  
 
- 
+[ANTLR V3  printable documentation](http://www.antlr.org/wiki/display/ANTLR3/ANTLR+v3+printable+documentation)
+--------------------------------------------------------------------------------------------------------------
 
-[**ANTLR v3 printable documentation**](http://www.antlr.org/wiki/display/ANTLR3/ANTLR+v3+printable+documentation)
+Antlr V3 可印刷的文档
+---------------------
 
-·          
-
-·         Added by [Thomas Aigner](http://www.antlr.org/wiki/display/~tomia), last edited by [Terence Parr](http://www.antlr.org/wiki/display/~admin) on Jan 16, 2007
+Added by [Thomas Aigner](http://www.antlr.org/wiki/display/~tomia), last edited by [Terence Parr](http://www.antlr.org/wiki/display/~admin) on Jan 16, 2007
 
 An inline version of [ANTLR v3 documentation](http://www.antlr.org/wiki/display/ANTLR3/ANTLR+v3+documentation "ANTLR v3 documentation").
 
- 
+Thomas aigner 添加，Terence Parr 在 2007年1月16日最后修改。
 
-Antlr V3 可印刷的文档
-
-Thomas aigner 添加, Terence Parr 在 2007年1月16日最后修改.
-
-一份在线版的ANTLR v3 文档。
+一份在线版的ANTLR V3 文档。
 
  
 
  
 
- 
+**
+**
 
-**ANTLR3 Code Generation Targets**
+ANTLR3 Code Generation Targets
+------------------------------
 
-**Antlr3 ****目标语言代码生成**
-
-** **
+Antlr3 目标语言代码生成
+-----------------------
 
 Code generation for the following target languages is currently in development, testing or is complete. Visit the page for each target language for more information - hopefully the persons dealing with each target language will update their respective rows in this table with their current status.
 
@@ -93,8 +232,6 @@ See also [Target API documentation](http://www.antlr.org/api) and [How to bui
 下面目标语言的代码生成(功能) 正在开发、测试或者已经完成。每一个目标语言的详情请访问相关页面-希望每一个目标语言维护者用他们当前状态更新这个表格中的各自的行。
 
 另请参阅 [Target API documentation](http://www.antlr.org/api)  与  [How to build an ANTLR code generation target](http://www.antlr.org/wiki/display/ANTLR3/How+to+build+an+ANTLR+code+generation+target "How to build an ANTLR code generation target").
-
- 
 
  
 
@@ -242,9 +379,13 @@ Matthew Lloyd
 
  
 
-**Command line options**
+ 
 
-**命令行选项**
+Command line options
+--------------------
+
+命令行选项
+----------
 
 Usage:
 
@@ -340,8 +481,6 @@ generate a parser with trace output - if the default output is not enough, you c
 
 产生一个带追踪输出的解析器-如果默认的输出不合心意，你可以重写traceIn 和 traceOut方法。
 
- 
-
 注: 这里的trace 是anltr为了追踪词法语法解析过程在进入/退出一个语法过程时，往外输出一些便于辅助分析观察的信息，可以认为是一种独特的日志。
 
 -debug
@@ -416,7 +555,9 @@ number of syntax errors 0  //语法错误数
 
  
 
-location位置  n 个数  avgk 平均k值   maxk最大k值   synpred语法断言    sempred语义断言  canbacktrack可回溯
+location位置  n 个数  avgk 平均k值  maxk最大k值   synpred语法断言    sempred语义断言   canbacktrack可回溯
+
+ 
 
 -nfa
 
@@ -439,6 +580,8 @@ generate a DFA for each decision point
 specify output style for messages
 
 为信息指定输出的样式。
+
+ 
 
 -X
 
@@ -556,91 +699,72 @@ for nondeterminisms, list NFA states for each path
 
  
 
-Attribute and Dynamic Scopes
+**
+**
+
+ Attribute and Dynamic Scopes
+-----------------------------
 
 属性与动态域
-============
-
-Token attributes
-================
-
-Token 属性
-----------
-
-**attribute****
-****属性**
-
-**description**
-
-**描述**
-
-text
-
-文本
+------------
 
  
 
-type
+### Token attributes
 
-类型
+### Token 属性
 
- 
+**attribute****(****属性)**
 
-line
+**description(****描述****)**
 
-行号
-
- 
-
-index
-
-索引
+text(文本)
 
  
 
-pos
-
-位置
+type(类型)
 
  
 
-channel
-
-通道
+line(行号)
 
  
 
-tree
-
-树
+index(索引)
 
  
 
-int
+Pos(位置)
 
-整数值
+ 
+
+channel(通道)
+
+ 
+
+tree(树)
+
+ 
+
+int(整数值)
 
  
 
  
 
-Rule attributes
----------------
+### Rule attributes
 
-规则属性
---------
+### 规则属性
 
-语法解析器
+ 
 
-Parsers
+### Parsers
 
-**attribute**
+### 语法解析器
 
-**属性**
+**attribute(****属性****)**
 
-**description**
-
-**描述**
+**description****(****描述)**
 
 text
 
@@ -672,17 +796,13 @@ st
 
  
 
-Tree parsers
+### Tree parsers
 
-树语法解析器
+### 树语法解析器
 
-**attribute**
+**attribute(****属性****)**
 
-**属性**
-
-**description**
-
-**描述**
+**description(****描述****)**
 
 text
 
@@ -708,69 +828,47 @@ st
 
  
 
-Lexers
+### Lexers
 
-词法解析器
+### 词法解析器
 
-**attribute**
+**attribute****(****属性)**
 
-**属性**
+**description(****描述****)**
 
-**description**
-
-**描述**
-
-text
-
-文本
+text(文本)
 
  
 
-type
-
-类型
+type(类型)
 
  
 
-line
-
-行数
+line(行数)
 
  
 
-index
-
-索引
+index(索引)
 
  
 
-pos
-
-位置
+pos(位置)
 
  
 
-channel
-
-通道
+channel(通道)
 
  
 
-start
-
-开始
+Start(开始)
 
  
 
-stop
-
-停止
+stop(停止\_
 
  
 
-int
-
-整型值
+int(整型值)
 
  
 
@@ -778,9 +876,14 @@ int
 
  
 
-### The Rule `text` Attribute in Tree Grammars
+**
+**
 
-### 在树语法中规则的text属性
+The Rule text Attribute in Tree Grammars
+----------------------------------------
+
+在树语法中规则的text属性
+------------------------
 
 In a parser grammar, the relationship between the elements matched by a rule and the associated input text is very clear. A rule begins parsing at a particular token and stops parsing at a particular token. The text attribute for a rule, `$text`, is simply the concatenated text from all tokens in that range, including hidden channel tokens. What does `$text` mean in a tree grammar, though?
 
@@ -792,118 +895,59 @@ Tree grammar rules match nodes and trees not tokens. Fortunately, each node has 
 
  
 
-~~~~ {style="background:white"}
-/** match tree created from, e.g., "int x;"
-~~~~
+/\*\* match tree created from, e.g., "int x;"
 
-~~~~ {style="background:white"}
- *  $text would, therefore, be "int x;"
-~~~~
+ \*  \$text would, therefore, be "int x;"
 
-~~~~ {style="background:white"}
- *  $start node is VAR node.
-~~~~
+ \*  \$start node is VAR node.
 
-~~~~ {style="background:white"}
- */
-~~~~
+\*/
 
-~~~~ {style="background:white"}
- 
-~~~~
+/\*\* 匹配由例子"int x"创建的树
 
-~~~~ {style="background:white"}
-/** 匹配由例子"int x"创建的树
-~~~~
+ \*  \$text 将无疑是"int x"
 
-~~~~ {style="background:white"}
- *  $text 将无疑是"int x"
-~~~~
+ \*  \$start节点是 VAR节点
 
-~~~~ {style="background:white"}
- *  $start节点是 VAR节点
-~~~~
+ \*/
 
-~~~~ {style="background:white"}
- */
-~~~~
-
-~~~~ {style="background:white"}
- 
-~~~~
-
-~~~~ {style="background:white"}
 variable
-~~~~
 
-~~~~ {style="background:white"}
-    :   ^(VAR type ID) // $text derived from indexes in VAR node 
-~~~~
+    :   \^(VAR type ID) // \$text derived from indexes in VAR node
 
-~~~~ {style="background:white"}
-                          //$text 从VAR节点下的索引获得
-~~~~
+                          //\$text 从VAR节点下的索引获得
 
-~~~~ {style="background:white"}
     ;
-~~~~
 
-~~~~ {style="background:white"}
-/** match tree node created from, e.g., "int"
-~~~~
-
-~~~~ {style="background:white"}
- *  $text would, therefore, be "int"
-~~~~
-
-~~~~ {style="background:white"}
- *  $start node is 'int' node.
-~~~~
-
-~~~~ {style="background:white"}
- */
-~~~~
-
-~~~~ {style="background:white"}
-/** 匹配由例子"int"创建的树节点
-~~~~
-
-~~~~ {style="background:
-white"}
- *  $text将无疑是 "int"
-~~~~
-
-~~~~ {style="background:white"}
- *  $start节点是 'int'节点.
-~~~~
-
-~~~~ {style="background:white"}
- */
-~~~~
-
-~~~~ {style="background:white"}
  
-~~~~
 
-~~~~ {style="background:white"}
-type:   'int'          // $text derived from indexes in 'int' 
-~~~~
+/\*\* match tree node created from, e.g., "int"
 
-~~~~ {style="background:white"}
-                         // $text 从'int'节点的索引获得。
-~~~~
+ \*  \$text would, therefore, be "int"
 
-~~~~ {style="background:white"}
+ \*  \$start node is 'int' node.
+
+ \*/
+
+/\*\* 匹配由例子"int"创建的树节点
+
+ \*  \$text将无疑是 "int"
+
+ \*  \$start节点是 'int'节点.
+
+ \*/
+
+ 
+
+type:   'int'                // \$text derived from indexes in 'int'
+
+                         // \$text 从'int'节点的索引获得。
+
 node
-~~~~
 
-~~~~ {style="background:white"}
-    |   'void'
-~~~~
+       |   'void'
 
-~~~~ {style="background:white"}
     ;
-~~~~
 
 The following code embodies the `text` attribute definition. The token range from a rule's `start` node defines the range of text for the entire rule.
 
@@ -911,122 +955,69 @@ The following code embodies the `text` attribute definition. The token range f
 
  
 
-~~~~ {style="background:white"}
 // input is a TreeNodeStream implementation
-~~~~
 
-~~~~ {style="background:white"}
 // 输入是一个 treenodestream的实现
-~~~~
 
-~~~~ {style="background:white"}
-int start = input.getTreeAdaptor().getTokenStartIndex($start);
-~~~~
+int start = input.getTreeAdaptor().getTokenStartIndex(\$start);
 
-~~~~ {style="background:white"}
-int stop = input.getTreeAdaptor().getTokenStopIndex($start);
-~~~~
+int stop = input.getTreeAdaptor().getTokenStopIndex(\$start);
 
-~~~~ {style="background:white"}
 String text = input.getTokenStream().toString(start, stop);
-~~~~
 
 Be careful when referencing the text of a rule that happens to be the root of a tree. The text of a rule is the text of all tokens underneath the first rout matched by the rule. In the following example, rule @r op matches a single node, but `$op.text` will include the text associated with the two operands as well. The parser that build the plus and multiply operator nodes will set the token range to include all tokens for that expression.
 
-当引用一个树的根节点的规则的text时候需要小心些, text是匹配到的规则下面的所有的token。在下面的例子里，规则 @r op 匹配一个单节点，但是  `$op.text 将包含关联的两个操作数的text。构建加法和乘法运算符节点的语法解析器将根据那个表达式设置token范围到包含所有的token`
+当引用一个树的根节点的规则的text时候需要小心些, text是匹配到的规则下面的所有的token。在下面的例子里，规则 @r op 匹配一个单节点，但是  `$op.text ``将包含关联的两个操作数的text。构建加法和乘法运算符节点的语法解析器将根据那个表达式设置token范围到包含所有的token`
 
  
 
-~~~~ {style="background:white"}
-/** match subtrees for + and * created from input such as "1+4*2"
-~~~~
+/\*\* match subtrees for + and \* created from input such as "1+4\*2"
 
-~~~~ {style="background:white"}
- *  $text and $op.text is "1+4*2" for first alternative.
-~~~~
+ \*  \$text and \$op.text is "1+4\*2" for first alternative.
 
-~~~~ {style="background:white"}
- *  $text is just the INT node for second alternative.
-~~~~
+ \*  \$text is just the INT node for second alternative.
 
-~~~~ {style="background:white"}
- */
-~~~~
+ \*/
 
-~~~~ {style="background:white"}
-/** 在形如"1+4*2"的输入里面，为+和* 匹配子树
-~~~~
+/\*\* 在形如"1+4\*2"的输入里面，为+和\* 匹配子树
 
-~~~~ {style="background:white"}
- *  $text 和 $op.text 在第一个可选路径上都是 "1+4*2" 
-~~~~
+ \*  \$text 和 \$op.text 在第一个可选路径上都是 "1+4\*2"
 
-~~~~ {style="background:white"}
- *  $text 在第二个可选路径上仅仅是INT节点
-~~~~
+ \*  \$text 在第二个可选路径上仅仅是INT节点
 
-~~~~ {style="background:
-white"}
- */
-~~~~
+ \*/
 
-~~~~ {style="background:white"}
  
-~~~~
 
-~~~~ {style="background:white"}
-expr:   ^(op expr expr) ; // $op.text is same as $text!
-~~~~
+expr:   \^(op expr expr) ; // \$op.text is same as \$text!
 
-~~~~ {style="background:white"}
-                               // $op.text 同于 $text!
-~~~~
+                               // \$op.text 同于 \$text!
 
-~~~~ {style="background:white"}
     |   INT
-~~~~
 
-~~~~ {style="background:white"}
     ;
-~~~~
 
-~~~~ {style="background:white"}
-op  :   o='+' | o='*'     // $text includes text of operands
-~~~~
+op  :   o='+' | o='\*'     // \$text includes text of operands
 
-~~~~ {style="background:white"}
-                             // $text 包含操作数的text
-~~~~
+                             // \$text 包含操作数的text
 
-~~~~ {style="background:white"}
-    ;                     // $o.text is just node's text
-~~~~
+    ;                     // \$o.text is just node's text
 
-~~~~ {style="background:white"}
-                          // $o.text 仅只是节点的text
-~~~~
+                          // \$o.text 仅只是节点的text
 
 Note that the text for a node label is always just the string returned from getText() invoked on that node whereas the text for a rule reference is always the text for the tree rooted at that labeled node.
 
 请注意，一个节点标签的text通常只是在那个节点上调用getText()返回的字符串，一个规则的text 通常是涉及那个标签节点所在树根的所有text，这两者是有别的。
 
- 
-
 Finally, here is the case where the definition of the text attribute does not do what you expect. The text attribute is derived from the first node matched by a rule, but a rule such as rule slist that matches multiple subtrees has an ill-defined text attribute because it only gives you the text for the first statement subtree:
 
 最后，这是一个text属性定义不按预期工作的地例子。text属性内容源自规则匹配到的第一个节点，但形如slist这种匹配多个子树的规则有一个不合常规的text属性定义，因为它仅给你第一个语句的子树的text。
 
-~~~~ {style="background:white"}
-func:   'void' ID '()' slist ; // $slist.text is text from first tree only
-~~~~
+func:   'void' ID '()' slist ; // \$slist.text is text from first tree only
 
-~~~~ {style="background:white"}
-                                 //$slist.text仅是第一个树的text
-~~~~
+                                 //\$slist.text仅是第一个树的text
 
-~~~~ {style="background:white"}
 slist:  stat+ ;
-~~~~
 
 In general, you just need to keep this in mind--the text attribute is natural in most cases.
 
@@ -1034,17 +1025,26 @@ In general, you just need to keep this in mind--the text attribute is natural in
 
  
 
-**Rule scopes**
+**
+**
 
-**规则的作用域**
+Rule scopes
+-----------
 
-**Global shared scopes**
+规则的作用域
+------------
 
-**全局共享的作用域**
+Global shared scopes
+--------------------
 
-**Lexical filters**
+全局共享的作用域
+----------------
 
-**词法分析过滤器**
+Lexical filters
+---------------
+
+词法分析过滤器
+--------------
 
 ANTLR has a lexical filter mode that lets you sift through an input file looking for certain grammatical structures. The rules are prioritized in the order specified in case an input construct matches more than a single rule, with the first rule having the highest priority. The filter proceeds character-by-character looking for a match among the rules. If no match, consume that char and try again. The following example, prints found var foo for every field foo in the input:
 
@@ -1060,7 +1060,7 @@ options {filter=true;}
 
 FIELD
 
-    :   TYPE WS name=ID '[]'? WS? (';'|'=')
+    :   TYPE WS name=ID '[]'? WS? (';'|'=')
 
         {System.out.println("found var "+\$name.text);}
 
@@ -1100,15 +1100,24 @@ COMMENT
 
     ;
 
-**Grammars**
+**
+**
+
+Grammars
+--------
 
 语法
+----
+
+** **
 
  
 
-**Grammar syntax**
+ 
 
-**语法的句法**
+### Grammar syntax
+
+### 语法的句法
 
 All grammars are of the form:
 
@@ -1116,49 +1125,49 @@ All grammars are of the form:
 
 /\*\* This is a grammar doc comment \*/
  /\*\* 这是语法文档注释 \*/
- *grammar-type* grammar *name*;
- [options](http://www.antlr.org/wiki/display/ANTLR3/Grammar+options) { *name1* = *value*; *name2* = *value2*; ... }
- import *delegateName1*=*grammar1*, ..., *delegateNameN*=*grammarN*; // can omit delegateName
- tokens { *token-name1*; *token-name2* = *value*; ... }
- scope *global-scope-name-1* { «*attribute-definitions*» }
- scope *global-scope-name-2* { «*attribute-definitions*» }
+ grammar-type grammar name;
+ [options](http://www.antlr.org/wiki/display/ANTLR3/Grammar+options) { name1 = value; name2 = value2; ... }
+ import delegateName1=grammar1, ..., delegateNameN=grammarN; // can omit delegateName
+ tokens { token-name1; token-name2 = value; ... }
+ scope global-scope-name-1 { «attribute-definitions» }
+ scope global-scope-name-2 { «attribute-definitions» }
  ...
  @header { ... }
  @lexer::header { ... }
  @members { ... }
 
-«*rules*»
+«rules»
 
-The type of the grammar, specified via the *grammar-type* modifier above, can be one of: lexer, parser, tree, and combined (no modifier). To set the superclass of the generated parser class, use the superClass option. See [Grammar options](http://www.antlr.org/wiki/display/ANTLR3/Grammar+options) for a list of valid grammar options and their semantics.
+The type of the grammar, specified via the grammar-type modifier above, can be one of: lexer, parser, tree, and combined (no modifier). To set the superclass of the generated parser class, use the superClass option. See [Grammar options](http://www.antlr.org/wiki/display/ANTLR3/Grammar+options) for a list of valid grammar options and their semantics.
 
 语法类型通过上面的grammar-type修饰词指定，可以是lexer，parser，tree 和combined(没有修饰词)之一。要设置产生的语法解析类的超类，用superClass选项。有效的语法选项及其含义的清单请参阅 语法选项
 
-**Rule syntax**
+### Rule syntax
 
 /\*\* rule comment \*/
  /\*\* 规则注释 \*/
- *access-modifier* *rule-name*[«arguments»] returns [«return-values»] throws *name1*, *name2*, ...
+ access-modifier rule-name[«arguments»] returns [«return-values»] throws name1, name2, ...
  [options](http://www.antlr.org/wiki/display/ANTLR3/Rule+and+subrule+options) {...}
  scope {...}
- scope *global-scope-name*, ..., *global-scope-nameN*;
+ scope global-scope-name, ..., global-scope-nameN;
  @init {...}
  @after {...}
-     : «*alternative-1*» -\> «*rewrite-rule-1*»
-     | «*alternative-2*» -\> «*rewrite-rule-2*»
+     : «alternative-1» -\> «rewrite-rule-1»
+     | «alternative-2» -\> «rewrite-rule-2»
      ...
-     | «*alternative-n*» -\> «*rewrite-rule-n*»
+     | «alternative-n» -\> «rewrite-rule-n»
      ;
-     catch [«*exception-arg-1*»] {...}
-     catch [«*exception-arg-2*»] {...}
+     catch [«exception-arg-1»] {...}
+     catch [«exception-arg-2»] {...}
      finally {...}
 
 See [Rule and subrule options](http://www.antlr.org/wiki/display/ANTLR3/Rule+and+subrule+options) for a list of valid rule options and their semantics.
 
 有效的规则选项及其含义，参阅 规则与子规则选项
 
-**Lexer rules**
+### Lexer rules
 
-**词法规则**
+### 词法规则
 
 Rules in a lexical grammar are token names:
 
@@ -1172,7 +1181,7 @@ Here are some common lexical rules for programming languages:
 
 WS  : (' '|'\\r'|'\\t'|'\\u000C'|'\\n') {\$channel=HIDDEN;}
 
-    ;
+    ;
 
 COMMENT
 
@@ -1202,43 +1211,48 @@ In this case, HexDigit is not a token in its own right; it can only be called fr
 
 在这种情况下 右边的HexDigit 不是一个token，它只能被HexLiteral调用。
 
-**Tree grammar rules**
+### Tree grammar rules
 
-**树语法规则**
+### 树语法规则
 
-Rules in tree grammars are identical to parser grammars except that they can specify a tree element to match. The syntax is \^( *root child1 child2 ... childn* ). For example:
+Rules in tree grammars are identical to parser grammars except that they can specify a tree element to match. The syntax is \^( root child1 child2 ... childn ). For example:
 
-在树语法中的规则和语法解析器的语法规则是一样，除了它们能制定一个树的元素来匹配外。句法是\^( *root child1 child2 ... childn* ).例子:
+在树语法中的规则和语法解析器的语法规则是一样，除了它们能制定一个树的元素来匹配外。句法是\^( root child1 child2 ... childn ).例子:
 
 decl : \^(DECL type declarator) {System.out.println(\$type.text+" "+\$declarator.text);}
 
      ;
 
-**Attribute scope syntax**
+**
+**
 
-**属性作用域句法**
+Attribute scope syntax
+----------------------
+
+属性作用域句法
+--------------
 
 Attribute scopes are a set of attribute definitions of the form:
 
 属性的作用域是一个按以下格式定义的属性的集合:
 
-scope *name* {
-     *type1* *attribute-name1*;
-     *type2* *attribute-name2*;
+scope name {
+     type1 attribute-name1;
+     type2 attribute-name2;
  }
 
-**Grammar action syntax**
+### Grammar action syntax(
 
-**文法动作句法**
+### 文法动作句法
 
 Grammar actions are, in general, of the form:
 
 文法动作动作通常是这种格式:
 
-@*action-name* { ... }
- @*scope-name*::*action-name* { ... }
+@action-name { ... }
+ @scope-name::action-name { ... }
 
-The default *scope-name* is parser. For instance, @header is the same as @parser::header. Valid *scope-name* 's differ depending on the [target](http://www.antlr.org/wiki/display/ANTLR3/Code+Generation+Targets), but most targets should support parser and lexer. Two common *action-name* 's are header and members. The header action is placed at the top of a generated class definition and the members action is inserted within the body of a generated class definition. For example, the following grammar actions would ensure generated parser and lexer Java classes include a package declaration:
+The default scope-name is parser. For instance, @header is the same as @parser::header. Valid scope-name 's differ depending on the [target](http://www.antlr.org/wiki/display/ANTLR3/Code+Generation+Targets), but most targets should support parser and lexer. Two common action-name 's are header and members. The header action is placed at the top of a generated class definition and the members action is inserted within the body of a generated class definition. For example, the following grammar actions would ensure generated parser and lexer Java classes include a package declaration:
 
 默认的scope-name是语法解析器的名字，对于语法实例 @header 和 @parser::header是一样的，合法的scope-name因目标代码而不同，但大多数的目标代码应该支持语法解析器和词法解析器。两个公共的action-name是header和members。
  header语义动作放置在生成类定义的顶部，member语义动作插入生成类定义的类体。举个例子下面的语法动作将保证产生的语法解析器和词法解析器的java类包含一个包的申明。
@@ -1247,43 +1261,39 @@ The default *scope-name* is parser. For instance, @header is the same as @parser
 
 @lexer::header { package my.example.package; }
 
- 
+Rule elements
+-------------
 
- 
-
-**Rule elements**
-
-**规则元素**
+规则元素
+--------
 
 Rules may reference:
 
 规则可能涉及到:
 
-Element
- 元素
+Element(元素)
 
-Description
- 描述
+Description (描述)
 
-*T*
+T
 
 Token reference. An uppercase identifier; lexer grammars may use optional arguments for fragment token rules.
 
 Token的引用，一个大写的标识符;词法解析器语法可能会为fragment修饰的token规则使用可选的参数
 
-*T*\<node=*V*\> or *T*\<*V*\>
+T\<node=V\> or T\<V\>
 
 Token reference with the optional token option node to indicate tree construction note type; can be followed by arguments on right hand side of -\> rewrite rule
 
 带可选项的node 的token的引用。可选项node用来显示树构造的标注类型。在重写规则-\>的右边时可以跟随参数。
 
-*T*[«args»]
+T[«args»]
 
 Lexer rule (token rule) reference. Lexer grammars may use optional arguments for fragment token rules.
 
 词法解析器规则(token规则)的引用。对fragment修饰的token规则，词法解析器语法可能使用可选参数。
 
-*r* [«args»]
+r [«args»]
 
 Rule reference. A lowercase identifier with optional arguments.
 
@@ -1381,19 +1391,19 @@ One-or-more element.
 
 1个或者多个元素。
 
-**Grammar options**
+ 
 
-**语法选项**
+### Grammar options
+
+### 语法选项
 
 Taken from [/org/antlr/tool/Grammar.java](http://fisheye2.atlassian.com/browse/antlr/tool/src/main/java/org/antlr/tool/Grammar.java?r=head) all allowed options are
 
 从[/org/antlr/tool/Grammar.java](http://fisheye2.atlassian.com/browse/antlr/tool/src/main/java/org/antlr/tool/Grammar.java?r=head) 摘取的所有允许的选项是:
 
-Option
- 选项
+Option(选项)
 
-Description
- 描述
+Description (描述)
 
 language
  语言
@@ -1404,21 +1414,21 @@ The target language for code generation. Default is Java. See [Code Generation T
 tokenVocab
  词汇表
 
-Where ANTLR should get predefined tokens and token types. Tree grammars need it to get the token types from the parser that creates its trees. *TODO: Default value? Example?*
+Where ANTLR should get predefined tokens and token types. Tree grammars need it to get the token types from the parser that creates its trees. TODO: Default value? Example?
 
 Antlr可以找到预定义的token和token类型的地方。树语法需要它来取得那些语法解析器创建树时的token类型.待做:默认值？例子?
 
 output
  输出
 
-The type of output the generated parser should return. Valid values are AST and template. *TODO: Briefly, what are the interpretations of these values? Default value?*
+The type of output the generated parser should return. Valid values are AST and template. TODO: Briefly, what are the interpretations of these values? Default value?
  返回产生的解析器的输出的类型，有效地值是AST和template。待做:简短地说，这些值得解释是什么？默认值？
 
 ASTLabelType
 
-Set the type of all tree labels and tree-valued expressions. Without this option, trees are of type Object. *TODO: Cross-reference default impl (*[*org.antlr.runtime.tree.CommonTree*](http://www.antlr.org/api/Java/classorg_1_1antlr_1_1runtime_1_1tree_1_1_common_tree.html) *in Java)?*
+Set the type of all tree labels and tree-valued expressions. Without this option, trees are of type Object. TODO: Cross-reference default impl ([org.antlr.runtime.tree.CommonTree](http://www.antlr.org/api/Java/classorg_1_1antlr_1_1runtime_1_1tree_1_1_common_tree.html) in Java)?
 
-设置所有属的标签和树求值得表达式的类型。不设置这个选项，树的类型是object。待做:交叉引用默认实现*(**在**java**中*[*org.antlr.runtime.tree.CommonTree*](http://www.antlr.org/api/Java/classorg_1_1antlr_1_1runtime_1_1tree_1_1_common_tree.html)*)*?
+设置所有属的标签和树求值得表达式的类型。不设置这个选项，树的类型是object。待做:交叉引用默认实现(在java中[org.antlr.runtime.tree.CommonTree](http://www.antlr.org/api/Java/classorg_1_1antlr_1_1runtime_1_1tree_1_1_common_tree.html) )?
 
 TokenLabelType
 
@@ -1428,9 +1438,9 @@ Set the type of all token-valued expressions. Without this option, tokens are of
 
 superClass
 
-Set the superclass of the generated recognizer. *TODO: Default value (*[*org.antlr.runtime.Parser*](http://www.antlr.org/api/Java/classorg_1_1antlr_1_1runtime_1_1_parser.html) *in Java)?*
+Set the superclass of the generated recognizer. TODO: Default value ([org.antlr.runtime.Parser](http://www.antlr.org/api/Java/classorg_1_1antlr_1_1runtime_1_1_parser.html) in Java)?
 
-设置产生的识别器的超类。待做:缺省值(在java中[*org.antlr.runtime.Parser*](http://www.antlr.org/api/Java/classorg_1_1antlr_1_1runtime_1_1_parser.html))
+设置产生的识别器的超类。待做:缺省值(在java中[org.antlr.runtime.Parser](http://www.antlr.org/api/Java/classorg_1_1antlr_1_1runtime_1_1_parser.html))
 
 filter
 
@@ -1452,18 +1462,19 @@ Limit the lookahead depth for the recognizer to at most k symbols. This prevents
 
 backtrack
 
-Valid values are true and false. Default is false. Taken from [http://www.antlr.org:8080/pipermail/antlr-interest/2006-July/016818.html](http://www.antlr.org:8080/pipermail/antlr-interest/2006-July/016818.html) : The new feature (a big one) is the backtrack=true option for *grammar*, *rule*, and *block* that lets you type in any old crap and ANTLR will backtrack if it can't figure out what you meant. No errors are reported by antlr during analysis. It implicitly adds a syn pred in front of every production, using them only if static grammar LL\* analysis fails. Syn pred code is not generated if the pred is not used in a decision. This is essentially a rapid prototyping mode. It is what I have used on the java.g. Oh, it doesn't memoize partial parses (i.e. rule parsing results) during backtracking automatically now. You must also say memoize=true. Can make a HUGE difference to turn on.
+Valid values are true and false. Default is false. Taken from [http://www.antlr.org:8080/pipermail/antlr-interest/2006-July/016818.html](http://www.antlr.org:8080/pipermail/antlr-interest/2006-July/016818.html) : The new feature (a big one) is the backtrack=true option for grammar, rule, and block that lets you type in any old crap and ANTLR will backtrack if it can't figure out what you meant. No errors are reported by antlr during analysis. It implicitly adds a syn pred in front of every production, using them only if static grammar LL\* analysis fails. Syn pred code is not generated if the pred is not used in a decision. This is essentially a rapid prototyping mode. It is what I have used on the java.g. Oh, it doesn't memoize partial parses (i.e. rule parsing results) during backtracking automatically now. You must also say memoize=true. Can make a HUGE difference to turn on.
 
 合法值是true或者false。默认实false。选自[http://www.antlr.org:8080/pipermail/antlr-interest/2006-July/016818.html](http://www.antlr.org:8080/pipermail/antlr-interest/2006-July/016818.html) :一个新的大的特征是为语法，规则，和块设立的backtrack=true选项，它能让你输入任何老套的废话，如果antlr不能理解你的意思，它将会backtrack(回溯)。在antlr分析期间，不会报告错误。它隐式的增加一个语法断言在每一个产生式的前面，只有在静态语法LL\*分析失效的时候才会使用它们。如果决策中用不到断言，那么不会产生语法断言的代码。这本是一个快速原形模式，我曾在java.g中用的就是这玩意儿。噢，在自动回溯的过程中，它并不记住部分的分析(也即规则分析的结果)。你必须还要对语法解析器说memoize=true。打开这个选项能产生很大的差别。
 
 memoize
 
-Valid values are true and false. When backtracking, remember whether or not rule references succeed so that the same input position cannot be parsed more than once by the same rule. This effectively guarantees linear parsing when backtracking at the cost of more memory. *TODO: Default value (**false**)?*
+Valid values are true and false. When backtracking, remember whether or not rule references succeed so that the same input position cannot be parsed more than once by the same rule. This effectively guarantees linear parsing when backtracking at the cost of more memory. TODO: Default value (false)?
 
 合法值是true和false.当回溯时，记住规则引用是否成功，这样，同一规则对同样的输入位置就不用分析多次。事实上在回溯时这用更多的内存空间来保证线性分析。
 
-**Rule and subrule options
-****规则和子规则选项**
+### Rule and subrule options
+
+### 规则和子规则选项
 
 option
  选项
@@ -1493,8 +1504,11 @@ memoize
 Rule-specific version of the memoize grammar option. See [Grammar options](http://www.antlr.org/wiki/display/ANTLR3/Grammar+options) for details.
  特殊规则版本的memozie语法选项，详情请参阅[Grammar options](http://www.antlr.org/wiki/display/ANTLR3/Grammar+options)
 
-**Special symbols in actions
-****动作中的特定的符号**
+###  
+
+### Special symbols in actions
+
+### 动作中的特定的符号
 
 This table describes the complete set of special symbols you can use in actions within your grammar. These are translated by the codegen/action.g ANTLR v3 grammar (in filter mode). The rules mentioned below are found in action.g
 
@@ -1618,7 +1632,7 @@ returns the size of the current stack of the scope. Note: This particular syntax
 \$r
 
 r is a rule's dynamic scope or a global shared scope.
- Isolated \$rulename is not allowed unless it has a dynamic scope **and** there is no reference to rulename in the enclosing alternative, which would be ambiguous. Rule ISOLATED\_DYNAMIC\_SCOPE.
+ Isolated \$rulename is not allowed unless it has a dynamic scope and there is no reference to rulename in the enclosing alternative, which would be ambiguous. Rule ISOLATED\_DYNAMIC\_SCOPE.
 
 R是一个规则的动态作用域或者一个全局共享作用域。独立的\$rulename是不允许的，除非他有一个动态域，并且在封闭可选分支内没有对该规则名的能引起二义性的引用。
 
@@ -1660,8 +1674,11 @@ anonymous template from string expr. Rule TEMPLATE\_EXPR.
 
  
 
-**Template construction
-****模板构造**
+Template construction
+---------------------
+
+模板构造
+--------
 
 ANTLR v3 has built-in support for constructing StringTemplate templates. there are two forms: [Special symbols in actions](http://www.antlr.org/wiki/display/ANTLR3/Special+symbols+in+actions) and rewrite rules similar to AST construction. I am including a number of rules from the mantra example.
 
@@ -1730,7 +1747,7 @@ assignment
 
                 lhs={\$lvalue.st},
 
-                rhs={\$completeExpression.st})
+                rhs={\$completeExpression.st})
 
     |   \^(assign\_op lvalue completeExpression)
 
@@ -1776,14 +1793,18 @@ More on string templates can be found here: [String Template](http://www.antlr.o
 
  
 
-**Tree construction
-****树构造**
+Tree construction
+-----------------
+
+树构造
+------
 
 There are two mechanisms in v3 for building abstract syntax trees (ASTs): operators and rewrite rules.
  在v3中有两种机制用来构建抽象语法树：运算符和重写规则。
 
-**Operators
-****运算符**
+### Operators
+
+### 运算符
 
 Nodes created for unmodified tokens and trees for unmodified rule references are added to the current subtree as children.
  为不变的tokens创建节点和为不变的规则引用创建树，并做为子节点加入到当前子树。
@@ -1806,16 +1827,16 @@ make node root of subtree created for entire enclosing rule even if nested in a 
 
 additiveExpression
 
-        :       multiplicativeExpression ('+'\^ multiplicativeExpression)\*
+       :      multiplicativeExpression ('+'\^ multiplicativeExpression)\*
 
-        ;
+       ;
 
 That is the same as the following in rewrite notation from the following section:
  那(这？)和紧跟着的下一节的重写标记一样。
 
 additiveExpression
 
-        :       (a=multiplicativeExpression-\>\$a) // set result
+       :      (a=multiplicativeExpression-\>\$a) // set result
 
                                                 //设置结果
 
@@ -1829,14 +1850,15 @@ additiveExpression
 
                 )\*
 
-        ;
+       ;
 
 注:这一段颇有一点难以理解，它的语法功能是 连加，解析过程如下:只有一个multiplicativeExpression 的时候，结果\$additiveExpression 为 \$a, 有两个的时候，令第二个为\$b\_0 则结果为 \^('+' \$additiveExpression \$b\_0) 也即是\^('+' \$a \$b\_0)，有三个的时候,令第三个为 \$b\_0 ，则结果为  \^('+' \$additiveExpression \$b\_1) 也即是 \^('+' \^('+' \$a \$b\_0) \$b\_1)  如果把括号内第一个元素当做根节点，就可以构造出一个连加的抽象语法树,它是一个二叉树。
 
  
 
-**Rewrite rules
-****重写规则**
+### Rewrite rules
+
+### 重写规则
 
 The rewrite syntax is more powerful than the operators. It suffices for most common tree transformations.
  While the parser grammar specifies how to recognize input, the rewrites are generational grammars, specifying how to generate output. ANTLR figures out how to map input to output grammar. To create an imaginary node, just mention it like the following example (UNIT is a node created from an imaginary token and is used to group the compilation unit chunks):
@@ -1857,11 +1879,11 @@ ANTLR tracks all elements with the same name into a single implicit list:
 
 formalArgs
 
-        :       formalArg (',' formalArg)\* -\> formalArg+
+       :      formalArg (',' formalArg)\* -\> formalArg+
 
-        |
+       |
 
-        ;
+       ;
 
 If the same rule or token is mentioned twice you generally must label the elements to distinguish them. If you want to combine multiple elements into a single list, list labels are very handy (though in this case since they have the same name ANTLR will automatically combine them):
  如果 同样的规则或者token被提到两次，通常你必须打上标签以便于识别。如果你要组合多个元素城一个单个列表，列出标签是非常方便的(虽然在这个例子里面因为他们有相同的名字，antlr会自动的组合他们。)
@@ -1875,31 +1897,31 @@ Here is the entire rule:
 
 classDefinition[MantraAST mod]
 
-        :       'class' cname=ID
+       :      'class' cname=ID
 
-               ('extends' sup=typename)?
+              ('extends' sup=typename)?
 
-               ('implements' i+=typename (',' i+=typename)\*)?
+              ('implements' i+=typename (',' i+=typename)\*)?
 
-               '{'
+              '{'
 
-               (       variableDefinition
+              (      variableDefinition
 
-               |       methodDefinition
+              |      methodDefinition
 
-               |       ctorDefinition
+              |      ctorDefinition
 
-               )\*
+              )\*
 
-               '}'
+              '}'
 
-               -\> \^('class' ID {\$mod} \^('extends' \$sup)? \^('implements' \$i+)?
+              -\> \^('class' ID {\$mod} \^('extends' \$sup)? \^('implements' \$i+)?
 
-                    variableDefinition\* ctorDefinition\* methodDefinition\*
+                   variableDefinition\* ctorDefinition\* methodDefinition\*
 
-                   )
+                  )
 
-        ;
+       ;
 
 Note that using a simple action in a rewrite means evaluate the expression and use as a tree node or subtree. The mod argument is a set of modifiers passed in from an enclosing rule.
  请注意，在重写中使用单个语义动作意味着对表达式求值并把结果当做树节点或者子树。mod参数是从封闭规则传入的一个修饰符集合。
@@ -1909,22 +1931,22 @@ Deleting tokens or rules is easy: just don't mention them:
 
 packageDefinition
 
-        :       'package' classname ';' -\> \^('package' classname)
+       :      'package' classname ';' -\> \^('package' classname)
 
-        ;
+       ;
 
 If you need to build different trees based upon semantic information, use a semantic predicate:
  如果你需要根据语义信息构建不同的树，使用语义断言:
 
 variableDefinition
 
-        :       modifiers typename ID ('=' completeExpression)? ';'
+       :      modifiers typename ID ('=' completeExpression)? ';'
 
-               -\> {inMethod}? \^(VARIABLE ID modifiers? typename completeExpression?)
+              -\> {inMethod}? \^(VARIABLE ID modifiers? typename completeExpression?)
 
-               -\>             \^(FIELD ID modifiers? typename completeExpression?)
+              -\>             \^(FIELD ID modifiers? typename completeExpression?)
 
-        ;
+       ;
 
 where inMethod is set by the method rule.
  这里的inMethod在method规则中被设置了。
@@ -1934,9 +1956,9 @@ Often you will need to build a tree node from an input token but with the token 
 
 compoundStatement
 
-        :       lc='{' statement\* '}' -\> \^(SLIST[\$lc] statement\*)
+       :      lc='{' statement\* '}' -\> \^(SLIST[\$lc] statement\*)
 
-        ;
+       ;
 
 SLIST by itself is a new node based upon token type SLIST but it has no line/column information nor text. By using SLIST[\$lc], all information except the token type is copied to the new node.
 
@@ -1960,22 +1982,23 @@ You may reference the previous subtree for the enclosing rule using \$rulename s
 
 postfixExpression
 
-        :       (primary-\>primary) // set return tree
+       :      (primary-\>primary) // set return tree
 
-               (       lp='(' args=expressionList ')' -\> \^(CALL \$postfixExpression \$args)
+              (      lp='(' args=expressionList ')' -\> \^(CALL \$postfixExpression \$args)
 
-               |       lb='[' ie=expression ']'       -\> \^(INDEX \$postfixExpression \$ie)
+              |      lb='[' ie=expression ']'       -\> \^(INDEX \$postfixExpression \$ie)
 
-               |       dot='.' p=primary              -\> \^(FIELDACCESS \$postfixExpression \$p)
+              |      dot='.' p=primary              -\> \^(FIELDACCESS \$postfixExpression \$p)
 
-               |       c=':' cl=closure[false]        -\> \^(APPLY \^(EXPR \$postfixExpression) \$cl)
+              |      c=':' cl=closure[false]        -\> \^(APPLY \^(EXPR \$postfixExpression) \$cl)
 
-               )\*
+              )\*
 
-        ;
+       ;
 
-**Imaginary nodes
-****虚构节点**
+### Imaginary nodes
+
+### 虚构节点
 
 References to tokens with rewrite not found on left of -\> are imaginary tokens.
  重写规则中引用到的但在-\>左边没有找到的的token 就是虚构节点。
@@ -1994,29 +2017,30 @@ Even tokens referenced within alternative result in nodes disassociated with tok
 
 a : INT -\> INT["99"] ; // node created from adaptor.create(INT, "99")
 
-                       // 从adaptor.create(INT,"99") 创建节点。
+                       // 从adaptor.create(INT,"99") 创建节点。
 
-**Tree construction during tree parsing
-****在树解析时的树构造**
+### Tree construction during tree parsing
+
+### 在树解析时的树构造
 
 ANTLR 3.0.1 could not create trees during tree parsing. 3.1 introduces the ability to create a new AST from an incoming AST using rewrites rules:
  antlr 3.0.1在树分析期间不能创建树，3.1引入使用重写规则从源抽象语法树创建一个新的抽象语法树的能力。
 
-·         Each rule returns a new tree.
+Each rule returns a new tree.
 
-·         An alternative without a rewrite duplicates the incoming tree.
+An alternative without a rewrite duplicates the incoming tree.
 
-·         The tree returned from the start rule is the new tree.
+The tree returned from the start rule is the new tree.
 
-·         The new tree created with output=AST in a tree grammar is completely independent of the input tree as all nodes are duplicated (with and without rewrite -\> operator).
+The new tree created with output=AST in a tree grammar is completely independent of the input tree as all nodes are duplicated (with and without rewrite -\> operator).
 
-·         每一个规则返回一个树
+每一个规则返回一个树
 
-·         一个没有重写规则的可选分支原样复制源树
+一个没有重写规则的可选分支原样复制源树
 
-·         开始规则返回的树是一个新树
+开始规则返回的树是一个新树
 
-·         在树语法中使用 output=AST 创建的新树 完全独立于输入的树，所有都是拷贝的（不管有没有重写-\>运算符）
+在树语法中使用 output=AST 创建的新树 完全独立于输入的树，所有都是拷贝的（不管有没有重写-\>运算符）
 
 The rewrites work just like they do for normal parsing:
  在正常的解析中，重写规则一般像下面这样工作:
@@ -2043,7 +2067,7 @@ a : INT -\> INT["99"] + // make new INT node
 
 a : (\^(ID INT))+ -\> INT+ ID+ ; // break apart trees into sequences
 
-                               //把一棵树分解成序列
+                               //把一棵树分解成序列
 
 Predicates can be used to choose between rewrites as well:
  断言可以用来在重写规则中选择，像下面这样:
@@ -2062,21 +2086,22 @@ s : \^(ID c=.) -\> \$c ;
 // new tree is whatever matched wildcard
  //新树由通配符匹配的任意的东西。
 
-**Polynomial differentiation example
-****多项式微分的例子**
+### Polynomial differentiation example
+
+### 多项式微分的例子
 
 For translations whose input and output languages are the same, it often makes sense to build a tree and them morph it towards the final output tree, which can then be converted to text. Polynomial differentiation is a great example of this. Recall that:
  对输入和输出语言都是一样的翻译来说，它的意义通常是构建一棵树然后变形成可以变换成文本的最终输出树。多项式微分是这方面一个很好地例子。记得那些变换公式:
 
-·         d/dx(n) = 0
+d/dx(n) = 0
 
-·         d/dx(x) = 1
+d/dx(x) = 1
 
-·         d/dx(nx) = n
+d/dx(nx) = n
 
-·         d/dx(nx\^m) = nmx\^m-1
+d/dx(nx\^m) = nmx\^m-1
 
-·         d/dx(foo + bar) = d/dx(foo) + d/dx(bar)
+d/dx(foo + bar) = d/dx(foo) + d/dx(bar)
 
 Ok, here's a parser that builds nice trees.
  好了，这是一个构建新树的规则解析器。
@@ -2130,7 +2155,7 @@ options {
 
     tokenVocab=Poly;
 
-    ASTLabelType=CommonTree;
+    ASTLabelType=CommonTree;
 
     output=AST;
 
@@ -2237,7 +2262,7 @@ poly:   \^('+' a=INT b=INT)  -\> INT[String.valueOf(\$a.int+\$b.int)]
 
     |   \^(MULT INT poly)    -\> {\$INT.int==1}? poly
 
-                            -\> \^(MULT INT poly)
+                            -\> \^(MULT INT poly)
 
     |   \^('\^' ID e=INT)     -\> {\$e.int==1}? ID
 
@@ -2245,7 +2270,7 @@ poly:   \^('+' a=INT b=INT)  -\> INT[String.valueOf(\$a.int+\$b.int)]
 
                             -\> \^('\^' ID INT)
 
-    |   INT
+    |   INT
 
     |   ID
 
@@ -2276,7 +2301,7 @@ poly:   \^('+'  a=poly b=poly)   -\> template(a={\$a.st},b={\$b.st}) "\<a\>
 
     |   INT                     -\> {%{\$INT.text}}
 
-    |   ID                      -\> {%{\$ID.text}}
+    |   ID                      -\> {%{\$ID.text}}
 
     ;
 
@@ -2386,8 +2411,9 @@ simplified=(+ 2 (\* 15 (\^ x 4)))
 
 2+15x\^4
 
-**Rewriting an existing AST
-****重写一个存在的抽象语法树**
+### Rewriting an existing AST
+
+### 重写一个存在的抽象语法树
 
 For efficiency, option rewrite=true does an in-line replacement for rewrite rules so you can avoid making a copy of an entire tree just to tweak a few nodes. For example, if you have a huge expression tree but only want to rewrite \^('+' INT INT) to be a single INT node, it's better not to duplicate the entire huge tree. The rewrite mode behaves exactly the same as nonrewrite mode except that rewrites stitch changes into the incoming tree. Nodes are not duplicated for rules w/o rewrites.
 
@@ -2406,10 +2432,11 @@ a : b ;
 
 b : ID INT -\> INT ID ;
 
-**Heterogeneous tree nodes
-****异构的树节点**
+### Heterogeneous tree nodes
 
-By default, with output=AST, ANTLR creates trees of type CommonTree. To create different nodes depending on the incoming token type, you can override create(Token) and YourTreeClass.dupNode(Object) and errorNode() in a subclass of CommonTreeAdaptor or implement your own TreeAdaptor. Unfortunately, this only allows you to change the node type based upon the token type and not grammatical context. Sometimes you want to have ID become a VarNode and sometimes they MethodNode object. As of v3.1, you can use the node token option to indicate node type (in both parsers **and** tree parsers):
+### 异构的树节点
+
+By default, with output=AST, ANTLR creates trees of type CommonTree. To create different nodes depending on the incoming token type, you can override create(Token) and YourTreeClass.dupNode(Object) and errorNode() in a subclass of CommonTreeAdaptor or implement your own TreeAdaptor. Unfortunately, this only allows you to change the node type based upon the token type and not grammatical context. Sometimes you want to have ID become a VarNode and sometimes they MethodNode object. As of v3.1, you can use the node token option to indicate node type (in both parsers and tree parsers):
 
 在output=AST的默认情况下，antlr创建类型为CommonTree的树。要想创建不同的节点依赖于来源的token类型。你可以在CommonTreeAdaptor的子类中重写create(Token)和 YourTreeClass.dupNode(Object)和errorNode()，或者在你自己的TreeAdaptor中实现这些方法。不幸的是，这个只允许你在token类型上改变节点类型并且没有语法环境。有时候你有一个ID要变成VarNode对象，有时候要变成MethodNode对象。在v3.1中，你可以用节点token选项来指明类型(在语法解析器和树语法解析器中皆可)
 
@@ -2590,8 +2617,9 @@ public class Test {
 
 }
 
-**Using custom AST node types
-****使用自定义的抽象语法树节点类型**
+### Using custom AST node types
+
+### 使用自定义的抽象语法树节点类型
 
 [?](http://www.antlr.org/wiki/display/ANTLR3/ANTLR+v3+printable+documentation)
 
@@ -2675,8 +2703,9 @@ public class CymbolErrorNode extends CymbolAST {
 
 }
 
-**Error Node Insertion Upon Syntax Error
-****根据语法错误插入****Error Node**
+### Error Node Insertion Upon Syntax Error
+
+### 根据语法错误插入Error Node
 
 Prior to v3.1, ANTLR AST-building parsers did not alter the resulting AST upon syntax error. After v3.1 ANTLR adds an error node as created by TreeAdaptor.errorNode(...) to represent the missing nodes or confusing input sequences. The first token in the error sequence is the token at which the parser first detected an error. The last token in the sequence is the last token consumed during error recovery. ANTLR creates a CommonErrorNode by default, but you can obviously create your own tree adapter and override this.
  v3.1之前，ANTLR 构建抽象语法树的分析器在语法错误后不会修改结果的抽象语法树。
@@ -2815,8 +2844,9 @@ int foo() {
 
 }\>
 
-**Making custom error nodes
-****自定义错误节点**
+### Making custom error nodes
+
+### 自定义错误节点
 
 Just override errorNode() in TreeAdaptor. The default handling is as follows:
  仅重写treeAdaptor中的erroNode。默认处理如下:
@@ -2841,8 +2871,9 @@ Make sure that your error node type is a subclass of your node type so that you 
 See the next section for example of how to override.
  看下一节举例展示如何重写。
 
-**Turning off error node construction
-****关闭错误节点的构建。**
+### Turning off error node construction
+
+### 关闭错误节点的构建
 
 To turn this off, just override errorNode:
  想把这个关掉，只要重写errorNode
@@ -2872,75 +2903,81 @@ parser.setTreeAdaptor(new MyAdaptor());
 
  
 
-**What makes a language problem hard?
-****是什么让一个语言问题变得很难****?**
+**
+**
+
+What makes a language problem hard?
+-----------------------------------
+
+是什么让一个语言问题变得很难?
+-----------------------------
 
 Given a source to target mapping. How can you characterize the difficulty of the translation?
  给一个源语言与目标语言的映射.你如何能描述出这个翻译的难点？
 
-·         Is the set of all input fixed? If you have a fixed set of files to convert, your job is much easier because the set of language construct combinations is fixed. For example, building a general Pascal to Java translator is much harder than building a translator for a set of 50 existing Pascal files.
+l  Is the set of all input fixed? If you have a fixed set of files to convert, your job is much easier because the set of language construct combinations is fixed. For example, building a general Pascal to Java translator is much harder than building a translator for a set of 50 existing Pascal files.
 
-·         所有的输入集合是固定的么？如果你有一个固定的文件集合要转换，你的工作是比较简单的，因为因为语言构造组合的集合是固定的。例如，构建一个通用的pascal到java的翻译器比构建一个翻译50个存在pascal文件集合的的翻译器难的多。
+l  所有的输入集合是固定的么？如果你有一个固定的文件集合要转换，你的工作是比较简单的，因为因为语言构造组合的集合是固定的。例如，构建一个通用的pascal到java的翻译器比构建一个翻译50个存在pascal文件集合的的翻译器难的多。
 
-·         Forward or external references? I.e., multiple passes needed? Pascal has a "forward" reference to handle intra-file procedure references, but references to procedures in other files via the USES clauses etc... require special handling.
+l  Forward or external references? I.e., multiple passes needed? Pascal has a "forward" reference to handle intra-file procedure references, but references to procedures in other files via the USES clauses etc... require special handling.
 
-·         超前引用或者外部引用？也即，多种途径都需要？ pascal有一个超前引用来处理内部文件的过程引用，但过程引用在别的文件里通过USES从句等...需要特殊的处理。
+l  超前引用或者外部引用？也即，多种途径都需要？ pascal有一个超前引用来处理内部文件的过程引用，但过程引用在别的文件里通过USES从句等...需要特殊的处理。
 
-·         Is input order of sentences close to output order? Are there multiple files to generate from a single input file or vice versa?
+l  Is input order of sentences close to output order? Are there multiple files to generate from a single input file or vice versa?
 
-·         句子输入的顺序是否和输出的顺序接近? 是一个输入文件产生多个输出文件还是反过来?
+l  句子输入的顺序是否和输出的顺序接近? 是一个输入文件产生多个输出文件还是反过来?
 
-·         Context sensitive lexer? You can't decide what vocabulay symbol to match unless you know what kind of sentence you are parsing.
+l  Context sensitive lexer? You can't decide what vocabulay symbol to match unless you know what kind of sentence you are parsing.
 
-·         上下文敏感的词法分析器？你不能决定那个词汇表的符号去匹配，除非你知道你在分析的是那种类型的句子。
+l  上下文敏感的词法分析器？你不能决定那个词汇表的符号去匹配，除非你知道你在分析的是那种类型的句子。
 
-·         Are delimiters non-fixed for things like strings and comments? That makes it tough to build an efficient lexer.
+l  Are delimiters non-fixed for things like strings and comments? That makes it tough to build an efficient lexer.
 
-·         分隔符是像字符串或者注释那样非固定的吗？那样会使构建一个高效的词法器比较艰难。
+l  分隔符是像字符串或者注释那样非固定的吗？那样会使构建一个高效的词法器比较艰难。
 
-·         Is language big; like lots of statements?
+l  Is language big; like lots of statements?
 
-·         语言大吗? 比如有很多语句？
+l  语言大吗? 比如有很多语句？
 
-·         Are the source statements really similar; declarations vs expressions in C++?
+l  Are the source statements really similar; declarations vs expressions in C++?
 
-·         源文件语句是不是很相近; 如c++中的声明之于表达式？
+l  源文件语句是不是很相近; 如c++中的声明之于表达式？
 
-·         Column sensitive input? E.g., are newlines significant like lines in a log file and does the position of an item change its meaning?
+l  Column sensitive input? E.g., are newlines significant like lines in a log file and does the position of an item change its meaning?
 
-·         输入中的列位置敏感吗？比如，新行是否像行在日志文件那样重要？一项的位置改变会改变它的含义吗？
+l  输入中的列位置敏感吗？比如，新行是否像行在日志文件那样重要？一项的位置改变会改变它的含义吗？
 
-·         Case sensitivity problems like fortran?
+l  Case sensitivity problems like fortran?
 
-·         像fortran的大小写敏感问题？
+l  像fortran的大小写敏感问题？
 
-·         Do you need good error recovery? Good reporting?
+l  Do you need good error recovery? Good reporting?
 
-·         你需要一个好的错误恢复嘛？好的报告呢？
+l  你需要一个好的错误恢复嘛？好的报告呢？
 
-·         Well defined language or no manual; hacked for ages like gnucc by non-language designers? Is your language VisualBasic-like?
+l  Well defined language or no manual; hacked for ages like gnucc by non-language designers? Is your language VisualBasic-like?
 
-·         定义良好的语言或者不用手册的语言？为非语言设计者给一些古老的东西如gnucc提供包装？你的语言是否像vb？
+l  定义良好的语言或者不用手册的语言？为非语言设计者给一些古老的东西如gnucc提供包装？你的语言是否像vb？
 
-·         How fast does your translator have to be? It is often the case that building lots of translator phases simplifies your problem, but it can slow down the translation.
+l  How fast does your translator have to be? It is often the case that building lots of translator phases simplifies your problem, but it can slow down the translation.
 
-·         你的翻译器必须要多快？是否经常处于这样的情况：要构建许多翻译语法来简化你的问题但这拖慢了翻译。
+l  你的翻译器必须要多快？是否经常处于这样的情况：要构建许多翻译语法来简化你的问题但这拖慢了翻译。
 
-·         Does your input have comments as you do in programming languages that can occur anywhere in the input and need to go into the output in a sane location?
+l  Does your input have comments as you do in programming languages that can occur anywhere in the input and need to go into the output in a sane location?
 
-·         你的输入有像你在编程语言中的可以随处放但是输出时必须要放到一个合理的位置的注释？
+l  你的输入有像你在编程语言中的可以随处放但是输出时必须要放到一个合理的位置的注释？
 
-·         How much semantic information do you need to do the translation? For example, do you need to simply know that something is a type name or do you need to know that it is, say, an array whose indices are a set like (day,week,month) and contains records? Sometimes syntax alone is enough to do translation.
+l  How much semantic information do you need to do the translation? For example, do you need to simply know that something is a type name or do you need to know that it is, say, an array whose indices are a set like (day,week,month) and contains records? Sometimes syntax alone is enough to do translation.
 
-·         有多少语义信息你需要翻译的？例如，你需要只需要简单地知道某些东西是类型名还是你需要知道比如说，一个用来展现集合(天,星期,月份)的数组，和是否包含记录？有时候，只需要句法就足够翻译了。
+l  有多少语义信息你需要翻译的？例如，你需要只需要简单地知道某些东西是类型名还是你需要知道比如说，一个用来展现集合(天,星期,月份)的数组，和是否包含记录？有时候，只需要句法就足够翻译了。
 
-·         Equivalent syntaxes?  In C there are many different ways to dereference pointers.  You can normalize the language to a standard representation, but you might loose the original representation. The choice usually hinges on whether the output will be human-edited or not.  Designing the right tree structure has to incorporate decisions like this.
+l  Equivalent syntaxes?  In C there are many different ways to dereference pointers.  You can normalize the language to a standard representation, but you might loose the original representation. The choice usually hinges on whether the output will be human-edited or not.  Designing the right tree structure has to incorporate decisions like this.
 
-·         等价语法？在c中，有很多放方法去解引用指针。你能规范化语言成标准的表示，但你可能对原来的表示失去控制。选择的关键点是这些输出是否人易编辑的。设计正确的树结构不得不像这样合并决策。
+l  等价语法？在c中，有很多放方法去解引用指针。你能规范化语言成标准的表示，但你可能对原来的表示失去控制。选择的关键点是这些输出是否人易编辑的。设计正确的树结构不得不像这样合并决策。
 
-·         Jurgen Pfundt points out: The considered language might be small, but mapping is targeted for the conversion of huge files and this is really a challenge. An input file with a size of several megabytes restricts the usage of tree parsers or any other kind of memory consuming features. The transformation should be done in one single pass due to performance requirements and an extremly good and comfortable error reporting and error recovery is a must.
+l  Jurgen Pfundt points out: The considered language might be small, but mapping is targeted for the conversion of huge files and this is really a challenge. An input file with a size of several megabytes restricts the usage of tree parsers or any other kind of memory consuming features. The transformation should be done in one single pass due to performance requirements and an extremly good and comfortable error reporting and error recovery is a must.
 
-·         Jurgen Pfundt指出:一个深思熟虑的语言应该是小的，但是是针对巨大文件转换的映射，这实在是一个挑战。一个几m输入文件约束树解析器的使用或者任何其他的消耗内存的特征。因为性能要求和必须有极其良好的错误输出和错误恢复，转换应该在一遍扫描中完成。
+l  Jurgen Pfundt指出:一个深思熟虑的语言应该是小的，但是是针对巨大文件转换的映射，这实在是一个挑战。一个几m输入文件约束树解析器的使用或者任何其他的消耗内存的特征。因为性能要求和必须有极其良好的错误输出和错误恢复，转换应该在一遍扫描中完成。
 
  
 
@@ -2955,3 +2992,5 @@ Given a source to target mapping. How can you characterize the difficulty of the
 Now, remove the first '(' of the or loop:
 
 or-\> for
+
+ 
